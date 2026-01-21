@@ -29158,5 +29158,91 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt30444418"
+    },
+    {
+        "id": 1241592,
+        "title": "Kimin Eli Kimin Cebinde (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/32P0oQf41HXbENRGtu2h0rqBF2k.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Akshay Kumar",
+            "Taapsee Pannu",
+            "Vaani Kapoor",
+            "Fardeen Khan",
+            "Ammy Virk"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt27056012"
+    },
+    {
+        "id": 1072693,
+        "title": "Tutsak Kalpler 2 (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/lIBjLUAAw2bzeOHBJIKiZI4QDL0.jpg",
+        "year": "2024",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Romantik"
+        ],
+        "cast": [
+            "Taapsee Pannu",
+            "Vikrant Massey",
+            "Sunny Kaushal",
+            "Jimmy Shergill",
+            "Aditya Srivastava"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt26225118"
+    },
+    {
+        "id": 1245700,
+        "title": "Yeni Delhi Cinayetleri (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/oCejMgaSJjxS3LLZVvFqAG4dykt.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Vikrant Massey",
+            "Deepak Dobriyal",
+            "आकाश खुराना",
+            "दर्शन जरीवाला",
+            "Baharul Islam"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt21626774"
+    },
+    {
+        "id": 1112426,
+        "title": "Stree 2 (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/2NC7sj8rheKxWqLYAbHnCa4mYBH.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Rajkummar Rao",
+            "Shraddha Kapoor",
+            "Aparshakti Khurana",
+            "Abhishek Banerjee",
+            "Pankaj Tripathi"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt27510174"
     }
 ]
