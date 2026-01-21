@@ -17590,5 +17590,134 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt30841644"
+    },
+    {
+        "id": 840889,
+        "title": "Stopmotion (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku",
+            "Animasyon"
+        ],
+        "cast": [
+            "Aisling Franciosi",
+            "Stella Gonet",
+            "Tom York",
+            "Therica Wilson-Read",
+            "Bridgitta Roy"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt14852624"
+    },
+    {
+        "id": 1238358,
+        "title": "The Bad Shepherd (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/lb8D9uTxV1hoY6AFkkrxhwzGHsm.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Christos Kalabogias",
+            "Scotty Tovar",
+            "Geo Santini",
+            "Brett Zimmerman",
+            "Justin Taite"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt27714915"
+    },
+    {
+        "id": 598387,
+        "title": "Kaplanın Çırağı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/64ZktFMmTzsm47wdsaMOID0DzcY.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Brandon Soo Hoo",
+            "Henry Golding",
+            "Lucy Liu",
+            "Sandra Oh",
+            "Michelle Yeoh"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5834410"
+    },
+    {
+        "id": 1217343,
+        "title": "This Is Me…Now: Bir Aşk Hikâyesi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/nEMSjYpT0B7uxNwu1kEU8fTycs4.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Müzik",
+            "Belgesel"
+        ],
+        "cast": [
+            "Jennifer Lopez",
+            "Ben Affleck",
+            "Idaliz Christian",
+            "Fat Joe",
+            "Matthew Law"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt30215084"
+    },
+    {
+        "id": 1014590,
+        "title": "Yükseliş (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/y29oqNT59psUBAXsZn9M5XdQDPA.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Camila Mendes",
+            "Archie Renaux",
+            "Marisa Tomei",
+            "Lena Olin",
+            "Anthony Stewart Head"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21830902"
+    },
+    {
+        "id": 975773,
+        "title": "Wicked Little Letters (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/scAU7YudKNVeZlOfgSEWntAUSJ.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Olivia Colman",
+            "Jessie Buckley",
+            "Anjana Vasan",
+            "Timothy Spall",
+            "Gemma Jones"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt20234774"
     }
 ]
