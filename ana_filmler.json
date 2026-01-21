@@ -46520,5 +46520,107 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt28635355"
+    },
+    {
+        "id": 991708,
+        "title": "Kont (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/piG2K4yaa1CO6flhWQPSVkgPvhH.jpg",
+        "year": "2023",
+        "genres": [
+            "Fantastik",
+            "Komedi",
+            "Korku"
+        ],
+        "cast": [
+            "Jaime Vadell",
+            "Gloria Münchmeyer",
+            "Alfredo Castro",
+            "Paula Luchsinger",
+            "Stella Gonet"
+        ],
+        "country": [
+            "CL"
+        ],
+        "link": "https://vidmody.com/vs/tt21113540"
+    },
+    {
+        "id": 1064801,
+        "title": "The Cuckoo's Curse (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wQCNCMKVIhNqfRVxvHxz60x42mv.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Belén Cuesta",
+            "Jorge Suquet",
+            "Hildegard Schroedter",
+            "Rainer Reiners",
+            "Chacha Huang"
+        ],
+        "country": [
+            "ES",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12748562"
+    },
+    {
+        "id": 1168814,
+        "title": "La Luz del Mundo: Bir Kilisenin Karanlık Yüzü (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/rTrIExYH2JB6BBcrutW1XWq5VEi.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [
+            "Elias Argentiere",
+            "Nassón Joaquín García"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt28657881"
+    },
+    {
+        "id": 1167520,
+        "title": "Rosa Peral's Tapes (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/c4tcx9YHdYrEbl4WHChAkefgRg6.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Rosa Peral",
+            "Mayka Navarro",
+            "Olga Arderiu",
+            "Toni Muñoz"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt28687398"
+    },
+    {
+        "id": 1151534,
+        "title": "Nowhere (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/8uvCXfpaU1VveV5w9h05OxN0zdN.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Anna Castillo",
+            "Tamar Novas",
+            "Irina Bravo",
+            "Victoria Teijeiro",
+            "Lucía Soria"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt15789472"
     }
 ]
