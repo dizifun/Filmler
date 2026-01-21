@@ -82963,5 +82963,87 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt12444426"
+    },
+    {
+        "id": 742391,
+        "title": "Final Seti (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/edKIyuDiFdqev1TfKUsiHEzh8Ii.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alex Lutz",
+            "Ana Girardot",
+            "Kristin Scott Thomas",
+            "Jürgen Briand",
+            "Leny Mitjana"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11032810"
+    },
+    {
+        "id": 716920,
+        "title": "Gül Ustası (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/q1t2rzWx3CzlXcsXMZRo6VK3Q2E.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Catherine Frot",
+            "Melan Omerta",
+            "Fatsah Bouyahmed",
+            "Olivia Côte",
+            "Marie Petiot"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11190652"
+    },
+    {
+        "id": 606236,
+        "title": "Aileme Ne Oldu? (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/mSuC5WOKovS75XJvvo1iSqZMdCB.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Franck Dubosc",
+            "Alexandra Lamy",
+            "Christiane Millet",
+            "Rose de Kervenoaël",
+            "Mathilde Roehrich"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10366428"
+    },
+    {
+        "id": 712345,
+        "title": "Lübnan Semaları (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/1lS66lWKe32bHIjfwGvNSn0FEWM.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Alba Rohrwacher",
+            "Wajdi Mouawad",
+            "Isabelle Zighondi",
+            "Mariah Tannoury",
+            "Jade Breidi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11952238"
     }
 ]
