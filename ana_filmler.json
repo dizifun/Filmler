@@ -27059,5 +27059,50 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt27218960"
+    },
+    {
+        "id": 914206,
+        "title": "Yaratık (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/aNLGMfyhz1ZRSHMkrUvJDTkW9Oe.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim-Kurgu",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Léa Seydoux",
+            "George MacKay",
+            "Guslagie Malanda",
+            "Dasha Nekrasova",
+            "Martin Scali"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14407336"
+    },
+    {
+        "id": 959098,
+        "title": "Autumn and the Black Jaguar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/x5z1J5P7MugMtpPLSBa9SBJMMZV.jpg",
+        "year": "2024",
+        "genres": [
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Lumi Pollack",
+            "Emily Bett Rickards",
+            "Wayne Charles Baker",
+            "Paul Greene",
+            "Kelly Hope Taylor"
+        ],
+        "country": [
+            "IT",
+            "CA",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt16740144"
     }
 ]
