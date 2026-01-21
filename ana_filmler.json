@@ -29945,5 +29945,68 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt32475217"
+    },
+    {
+        "id": 1089223,
+        "title": "Revolver (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/h724xKiHCAavryVmTeW85TXZNLl.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "전도연",
+            "Ji Chang-wook",
+            "임지연",
+            "김준한",
+            "김종수"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt28284984"
+    },
+    {
+        "id": 1091051,
+        "title": "Victory (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/ueQzmqk1zkG6xrgzPDKiviabUZW.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "이혜리",
+            "박세완",
+            "이정하",
+            "조아람",
+            "최지수"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt29419864"
+    },
+    {
+        "id": 1002088,
+        "title": "Ev Ajanı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/ocKc9X86iyC475nMNxgqrnZUjNa.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "황정민",
+            "염정아",
+            "전혜진",
+            "정만식",
+            "김찬형"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt30515931"
     }
 ]
