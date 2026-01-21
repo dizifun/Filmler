@@ -88156,5 +88156,64 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt11992106"
+    },
+    {
+        "id": 777612,
+        "title": "Cin Bebek 2 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/7uKBHn1nLyKsfdIzrj3HWX4NYSw.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Onur Çimen",
+            "Esra Kocabas",
+            "Ömer Polat",
+            "Buse Sevindik"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12478514"
+    },
+    {
+        "id": 718792,
+        "title": "Cin Baskını (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mX4UBcrSxyOF9G8216ypmAOcJPy.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Ugur Elaldi",
+            "Neslişah Ertürk",
+            "Göknil Gök",
+            "Yağmur Çapal"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12581902"
+    },
+    {
+        "id": 792845,
+        "title": "Maskeler De Düşer (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/v9PwHoA495rsExRjz6Yt1loGq4O.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Müfit Can Saçıntı",
+            "Fulden Akyürek",
+            "Sami Aksu",
+            "Umut Oğuz",
+            "Ömer Duran"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13841826"
     }
 ]
