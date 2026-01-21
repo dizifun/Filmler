@@ -52760,5 +52760,815 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt21268790"
+    },
+    {
+        "id": 766907,
+        "title": "Amerikan Kuşatması (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Bruce Willis",
+            "Rob Gough",
+            "Anna Louise Morse",
+            "Trevor Gretzky",
+            "Cullen G. Chambers"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13496236"
+    },
+    {
+        "id": 892835,
+        "title": "Book of Love (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/eLrXzWWGlCQ9V2iNGyhVz7nMTTU.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Sam Claflin",
+            "Verónica Echegui",
+            "Antonia Clarke",
+            "Horacio García Rojas",
+            "Melissa Pino"
+        ],
+        "country": [
+            "MX",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt14014068"
+    },
+    {
+        "id": 728366,
+        "title": "Borrego (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/kPzQtr5LTheO0mBodIeAXHgthYX.jpg",
+        "year": "2022",
+        "genres": [
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Lucy Hale",
+            "Nicholas Gonzalez",
+            "Leynar Gomez",
+            "Jorge A. Jimenez",
+            "Olivia Trujillo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12676006"
+    },
+    {
+        "id": 916740,
+        "title": "Pervasız (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/q0somVWlRBcmARbBi6NJY2XMFWX.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Alyssa Milano",
+            "Sam Page",
+            "Malachi Weir",
+            "Emilie Ullerup",
+            "Matthew Finlan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13978306"
+    },
+    {
+        "id": 876079,
+        "title": "Breath (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/6ulGhOy34ecIa6tVrc8EroNHMin.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Rachel Daigh",
+            "James Cosmo",
+            "Neb Chupin",
+            "Alba Di Mauro",
+            "Isabelle Sanza"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8347960"
+    },
+    {
+        "id": 947612,
+        "title": "Exploited (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/47N1c16ABhc5NAE5OW01BKQxjHD.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Jordan Ver Hoeve",
+            "Andrew Matthew Welch",
+            "Makenzie Vega",
+            "Hannah Rose May",
+            "Will Peltz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10503988"
+    },
+    {
+        "id": 778810,
+        "title": "Cesur İtfaiyeci (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/7U1BrIfdvTnsQ2QeWq8bvYybuCs.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Olivia Cooke",
+            "Kenneth Branagh",
+            "William Shatner",
+            "Laurie Holden",
+            "Kevin Dennis"
+        ],
+        "country": [
+            "CA",
+            "US",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8354218"
+    },
+    {
+        "id": 760926,
+        "title": "Altın (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/jzdaEN9yiczW0hQzwDz6KTLFnpf.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Zac Efron",
+            "Anthony Hayes",
+            "Susie Porter",
+            "Andreas Sobik",
+            "Akuol Ngot"
+        ],
+        "country": [
+            "AU"
+        ],
+        "link": "https://vidmody.com/vs/tt6020800"
+    },
+    {
+        "id": 899082,
+        "title": "Harry Potter 20. Yıldönümü: Hogwarts'a Dönüş (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+        "year": "2022",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "Bonnie Wright",
+            "Matthew Lewis"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16116174"
+    },
+    {
+        "id": 928270,
+        "title": "Sıcak Hava Dalgası (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/pRI1vITVnJyZdSwqxasMUu6UJHC.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Kat Graham",
+            "Merritt Patterson",
+            "Sebastian Roché",
+            "Cardi Wong",
+            "Roger Cross"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt17291716"
+    },
+    {
+        "id": 817648,
+        "title": "Home Team (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg",
+        "year": "2022",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Kevin James",
+            "Taylor Lautner",
+            "Rob Schneider",
+            "Jackie Sandler",
+            "Gary Valentine"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14592064"
+    },
+    {
+        "id": 585083,
+        "title": "Otel Transilvanya: Transformanya (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/oyuCoAWKK4ihnWcCWa0G2fjOmTx.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Andy Samberg",
+            "Selena Gomez",
+            "Kathryn Hahn",
+            "Jim Gaffigan",
+            "Steve Buscemi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9848626"
+    },
+    {
+        "id": 662399,
+        "title": "İtalyanca Dersleri (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/qCyTok1FUiU1EMrrldg2lht1KWD.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Vanessa Kirby",
+            "Simon Brickner",
+            "Annabel Hoffman",
+            "Annika Wahlsten",
+            "Chris Arias"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9893084"
+    },
+    {
+        "id": 557946,
+        "title": "Last Looks (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/ud0XdA2xAghDR66j3I84DnNlC2g.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Charlie Hunnam",
+            "Mel Gibson",
+            "Morena Baccarin",
+            "Clancy Brown",
+            "Rupert Friend"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9244554"
+    },
+    {
+        "id": 928296,
+        "title": "Mighty Express: Train Trouble (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8afntC3tL5wrysrjAZBwMhdnhPS.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Johnathan Couillard"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16539862"
+    },
+    {
+        "id": 698508,
+        "title": "Redeeming Love (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/pDc2HxQtC0MlKD4QfRvmKREEyhc.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Dram",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Abigail Cowen",
+            "Tom Lewis",
+            "Eric Dane",
+            "Famke Janssen",
+            "Logan Marshall-Green"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11365186"
+    },
+    {
+        "id": 910596,
+        "title": "Vur Kaç (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/wbVP3p7aMKzn29M3jpohRfJ4QaN.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ben Milliken",
+            "Brad William Henke",
+            "Janel Parrish",
+            "Mark Dacascos",
+            "Celestino Cornielle"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14039086"
+    },
+    {
+        "id": 790386,
+        "title": "Sinemayı Kurtar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/pRYbrkvHV2TCt2dT0G8aGoFK2hR.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Samantha Morton",
+            "Tom Felton",
+            "Jonathan Pryce",
+            "Owain Yeoman",
+            "Susan Wokoma"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt12048234"
+    },
+    {
+        "id": 646385,
+        "title": "Çığlık (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/g81ja9FsXrye5ZvUaJSxrXpmpOy.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Melissa Barrera",
+            "Jenna Ortega",
+            "Mason Gooding",
+            "Jasmin Savoy Brown",
+            "Jack Quaid"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11245972"
+    },
+    {
+        "id": 825808,
+        "title": "Benim için Gör (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/qk1ZERG6yhwAJqTobmDgw8jRL2C.jpg",
+        "year": "2022",
+        "genres": [
+            "Suç",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Skyler Davenport",
+            "Jessica Parker Kennedy",
+            "Laura Vandervoort",
+            "Pascal Langdale",
+            "George Tchortov"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt11209212"
+    },
+    {
+        "id": 803104,
+        "title": "Sex Appeal (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/oWrkq9tDK8CIO47X76esH4yuay.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Mika Abdalla",
+            "Jake Short",
+            "Paris Jackson",
+            "Fortune Feimster",
+            "Rebecca Henderson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11203022"
+    },
+    {
+        "id": 844398,
+        "title": "Shattered (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/h6buNalHVFyBRQFLQKqzkvshQWc.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Suç",
+            "Gizem"
+        ],
+        "cast": [
+            "Cameron Monaghan",
+            "Lilly Krug",
+            "Frank Grillo",
+            "Sasha Luss",
+            "John Malkovich"
+        ],
+        "country": [
+            "DE",
+            "US",
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt14923008"
+    },
+    {
+        "id": 854359,
+        "title": "Gün Batımı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/svr8o8EFZ7rnTu5fNw06zFJxVmP.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Tim Roth",
+            "Charlotte Gainsbourg",
+            "Iazua Larios",
+            "Henry Goodman",
+            "Albertine Kotting McMillan"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt15115280"
+    },
+    {
+        "id": 682075,
+        "title": "Robot Dostum: ARI'nın Maceraları (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/txcjXiyhBvsSFyZtgCHWW7CyIeN.jpg",
+        "year": "2022",
+        "genres": [
+            "Aile",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Greg Lutz",
+            "J.R. Brown",
+            "Sophia Alongi",
+            "Jude Manley",
+            "Cait Brasel"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9578746"
+    },
+    {
+        "id": 522016,
+        "title": "Kod 355 (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/nOCQDyScOAXDN7PPfhIx2Kun6yB.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jessica Chastain",
+            "Lupita Nyong'o",
+            "Penélope Cruz",
+            "Diane Kruger",
+            "范冰冰"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8356942"
+    },
+    {
+        "id": 860135,
+        "title": "Serbest Düşüş (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/exjf5UDJTrOHALugoBAxFUfEPwe.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Andrea Londo",
+            "Shawn Ashmore",
+            "Jane Badler",
+            "Michael Berry Jr.",
+            "Elizabeth Cappuccino"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10703978"
+    },
+    {
+        "id": 774825,
+        "title": "Buz Devri: Buck Wild'ın Maceraları (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/lXoQcnuQeQdZ6H0Fex0Ru0fVXPJ.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile",
+            "Macera"
+        ],
+        "cast": [
+            "Simon Pegg",
+            "Vincent Tong",
+            "Aaron Harris",
+            "Utkarsh Ambudkar",
+            "Justina Machado"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13634480"
+    },
+    {
+        "id": 245842,
+        "title": "Kralın Kızı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/5VkSk8Y8cWZAksH3fznGl7Yu895.jpg",
+        "year": "2022",
+        "genres": [
+            "Fantastik",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Pierce Brosnan",
+            "Kaya Scodelario",
+            "Benjamin Walker",
+            "William Hurt",
+            "Julie Andrews"
+        ],
+        "country": [
+            "AU",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2328678"
+    },
+    {
+        "id": 631947,
+        "title": "The Legend of La Llorona (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/slx22eZsH9REVQs5IDWhAek7M2T.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Autumn Reeser",
+            "Antonio Cupo",
+            "Danny Trejo",
+            "Nicolas Madrazo",
+            "Angélica Lara"
+        ],
+        "country": [
+            "MX",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7267498"
+    },
+    {
+        "id": 914268,
+        "title": "Martha Mitchell Etkisi (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/gbv5THLM8FbvnPXUiRZQHdEiW6n.jpg",
+        "year": "2022",
+        "genres": [
+            "Belgesel",
+            "Suç",
+            "Tarih"
+        ],
+        "cast": [
+            "Martha Mitchell",
+            "Richard Nixon",
+            "Connie Chung",
+            "Dwight L. Chapin",
+            "Piper Dankworth"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16379454"
+    },
+    {
+        "id": 790142,
+        "title": "Prensin Düğünü (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/mYAv0YUoXJzLxIdEirOken8Quwf.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Laura Marano",
+            "Mena Massoud",
+            "Chelsie Preston Crayford",
+            "Grace Bentley-Tsibuah",
+            "Cameron Rhodes"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13989030"
+    },
+    {
+        "id": 803114,
+        "title": "Dipten Gelen (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Alicia Silverstone",
+            "James Tupper",
+            "Deirdre O'Connell",
+            "Danny Chung",
+            "Jennifer Mudge"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11348232"
+    },
+    {
+        "id": 793269,
+        "title": "Kaplanın Çıkışı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/mEukzqPoCpbrXLGslT8qdTuyRKZ.jpg",
+        "year": "2022",
+        "genres": [
+            "Macera",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Dennis Quaid",
+            "Katharine McPhee",
+            "Queen Latifah",
+            "Sam Trammell",
+            "Christian Convery"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1596557"
+    },
+    {
+        "id": 910759,
+        "title": "The Wedding Veil (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/zOaYiZyNZQotd1ye5Zw3WctDhy5.jpg",
+        "year": "2022",
+        "genres": [
+            "TV film",
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Lacey Chabert",
+            "Kevin McGarry",
+            "Autumn Reeser",
+            "Alison Sweeney",
+            "Fiona Vroom"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16287754"
+    },
+    {
+        "id": 892153,
+        "title": "Tom ve Jerry: Cesaretini Topla! (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "George Ackles",
+            "Sean Burgos",
+            "Trevor Devall",
+            "Chris Edgerly",
+            "Georgie Kidder"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15831226"
+    },
+    {
+        "id": 697799,
+        "title": "WarHunt (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Korku",
+            "Gerilim",
+            "Savaş",
+            "Fantastik"
+        ],
+        "cast": [
+            "Robert Knepper",
+            "Jackson Rathbone",
+            "Mickey Rourke",
+            "Аглая Тарасова",
+            "Anna Paliga"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6442686"
+    },
+    {
+        "id": 575322,
+        "title": "Project Gemini (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Егор Корешков",
+            "Алёна Константинова",
+            "Константин Самоуков",
+            "Пётр Романов",
+            "Никита Дювбанов"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt5656994"
     }
 ]
