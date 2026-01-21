@@ -84325,5 +84325,41 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt10051088"
+    },
+    {
+        "id": 517815,
+        "title": "Örümcek ve Kız (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/6bQ7gFbqLykN30nhsK6UrUfauLZ.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Henriette Confurius",
+            "Liliane Amuat",
+            "Ursina Lardi",
+            "Flurin Giger",
+            "André Hennicke"
+        ],
+        "country": [
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt11967484"
+    },
+    {
+        "id": 728125,
+        "title": "Son Hesap (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/goEb22NOo1TuSFUPUxa5hbDAU1d.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel",
+            "Savaş"
+        ],
+        "cast": [],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt12789212"
     }
 ]
