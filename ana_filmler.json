@@ -38864,5 +38864,116 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt8400584"
+    },
+    {
+        "id": 736769,
+        "title": "Tyrone'u Klonlamışlar (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Bilim-Kurgu",
+            "Gizem"
+        ],
+        "cast": [
+            "John Boyega",
+            "Jamie Foxx",
+            "Teyonah Parris",
+            "Kiefer Sutherland",
+            "David Alan Grier"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9873892"
+    },
+    {
+        "id": 667538,
+        "title": "Transformers: Canavarların Yükselişi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dliDBovX7XM42YnK5bZXLu44Rrr.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Macera",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Anthony Ramos",
+            "Dominique Fishback",
+            "Peter Cullen",
+            "Ron Perlman",
+            "Peter Dinklage"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5090568"
+    },
+    {
+        "id": 1136487,
+        "title": "Violett (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/sTScCPrbcnxs0gXprt8XJB4eTTf.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Georgia Eyers",
+            "Angela Punch McGregor",
+            "Valentina Blagojevic",
+            "Sam Dudley",
+            "Simon Lockwood"
+        ],
+        "country": [
+            "AU"
+        ],
+        "link": "https://vidmody.com/vs/tt15417358"
+    },
+    {
+        "id": 929569,
+        "title": "Dünyanın En İyisi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bB17AQgUqUKoCAdr8kp6cur41yz.jpg",
+        "year": "2023",
+        "genres": [
+            "Müzik",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Manny Magnus",
+            "Punam Patel",
+            "Utkarsh Ambudkar",
+            "Max Malas",
+            "Jake Choi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16023442"
+    },
+    {
+        "id": 456483,
+        "title": "Wonderwell (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg",
+        "year": "2023",
+        "genres": [
+            "Fantastik",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Kiera Milward",
+            "Nell Tiger Free",
+            "Carrie Fisher",
+            "Rita Ora",
+            "Sebastian Croft"
+        ],
+        "country": [
+            "US",
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt6195756"
     }
 ]
