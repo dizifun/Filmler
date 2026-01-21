@@ -76523,5 +76523,893 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt5439812"
+    },
+    {
+        "id": 736074,
+        "title": "Batman: The Long Halloween, Part Two (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/5X1n5q08mZ7NpNpxehMFODxfNYq.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Gizem",
+            "Aksiyon",
+            "Suç"
+        ],
+        "cast": [
+            "Jensen Ackles",
+            "Josh Duhamel",
+            "Naya Rivera",
+            "Billy Burke",
+            "Titus Welliver"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14402926"
+    },
+    {
+        "id": 477044,
+        "title": "Bergman Adası (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/jgsYcUDVL4fHxrKANioiF8mlOCu.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Vicky Krieps",
+            "Tim Roth",
+            "Mia Wasikowska",
+            "Anders Danielsen Lie",
+            "Hampus Nordenson"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6910282"
+    },
+    {
+        "id": 497698,
+        "title": "Black Widow (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/iMEOdAaAm0ITMfH7nubY6ZQJC76.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Scarlett Johansson",
+            "Florence Pugh",
+            "Rachel Weisz",
+            "David Harbour",
+            "Ray Winstone"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3480822"
+    },
+    {
+        "id": 807196,
+        "title": "Patlama Noktası (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Stephen Graham",
+            "Vinette Robinson",
+            "Alice May Feetham",
+            "Jason Flemyng",
+            "Hannah Walters"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt11127680"
+    },
+    {
+        "id": 857837,
+        "title": "Deep in the Forest (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/2qnjwezj6xpsRmvcMHsJqZW0U0N.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Larry Cedar",
+            "Jedidia Dyer",
+            "Roger M. Mayer",
+            "Cela Scott",
+            "Keith Stevenson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11718696"
+    },
+    {
+        "id": 481879,
+        "title": "Bir Silahlı Çatışmada Ölmek (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/byXLJZq5vfveYdAWaC4uMtojsWj.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Diego Boneta",
+            "Alexandra Daddario",
+            "Travis Fimmel",
+            "Justin Chatwin",
+            "Wade Allain-Marcus"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1697800"
+    },
+    {
+        "id": 838889,
+        "title": "Kralın Sonu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/9rkGQSpsD4hPpOkhnr5tneJ8nV.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Freddie Gibbs",
+            "Bob Tarasuk",
+            "Jamie Neumann",
+            "David Krumholtz",
+            "Sharon Washington"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13834078"
+    },
+    {
+        "id": 585216,
+        "title": "Ölümcül Labirent: Şampiyonlar Turnuvası (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/727Is4mtDwhrlupR6rBP6DqhPUC.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Taylor Russell",
+            "Logan Miller",
+            "Indya Moore",
+            "Holland Roden",
+            "Thomas Cocquerel"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9844522"
+    },
+    {
+        "id": 591274,
+        "title": "Korku Sokağı 2. Kısım: 1978 (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/nvlLIr8Pk1SLT3jCOAt0LpDvCRC.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Sadie Sink",
+            "Emily Rudd",
+            "Ryan Simpkins",
+            "McCabe Slye",
+            "Gillian Jacobs"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9701940"
+    },
+    {
+        "id": 591275,
+        "title": "Korku Sokağı 3. Kısım: 1666 (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/jYRaQAif07OQqw9hqRjDxXcd50K.jpg",
+        "year": "2021",
+        "genres": [
+            "Gizem",
+            "Korku"
+        ],
+        "cast": [
+            "Kiana Madeira",
+            "Benjamin Flores Jr.",
+            "Olivia Scott Welch",
+            "Ashley Zukerman",
+            "Darrell Britt-Gibson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9701942"
+    },
+    {
+        "id": 574060,
+        "title": "Barut Kokteyli (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/b6j9lDcSXp5awy1puoUZJSHXaeT.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Karen Gillan",
+            "Lena Headey",
+            "Chloe Coleman",
+            "Carla Gugino",
+            "Michelle Yeoh"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8368408"
+    },
+    {
+        "id": 542890,
+        "title": "Hayal Ülkesi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/8XRy2wChGQyFfdejYIDptKdied4.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "William McNamara",
+            "KJ Schrock",
+            "Bobbi Maxwell",
+            "Ambyr Rose"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7575534"
+    },
+    {
+        "id": 849877,
+        "title": "Joey ve Ella (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/q3oSNxmn1yxPQpH37Ccwlijm3Ql.jpg",
+        "year": "2021",
+        "genres": [
+            "Aile",
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "Angela Tran",
+            "Ashton Leigh",
+            "Avalon Howard",
+            "Britt Allen",
+            "Brooks Ryan"
+        ],
+        "country": [
+            "AU",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11465676"
+    },
+    {
+        "id": 451048,
+        "title": "Jungle Cruise (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/vbuyLRCo9QF9ZGeKfcxLPuKPOTW.jpg",
+        "year": "2021",
+        "genres": [
+            "Fantastik",
+            "Macera",
+            "Aile",
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Dwayne Johnson",
+            "Emily Blunt",
+            "Edgar Ramírez",
+            "Jack Whitehall",
+            "Jesse Plemons"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt0870154"
+    },
+    {
+        "id": 852390,
+        "title": "Kipchoge: The Last Milestone (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/lMYPMCPVlGj2BVkN4nb1aNcQS08.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Eliud Kipchoge",
+            "Patrick Sang"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14247964"
+    },
+    {
+        "id": 693113,
+        "title": "Midnight in the Switchgrass (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg",
+        "year": "2021",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Megan Fox",
+            "Bruce Willis",
+            "Emile Hirsch",
+            "Lukas Haas",
+            "Caitlin Carmichael"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11656220"
+    },
+    {
+        "id": 489932,
+        "title": "Canavar Harmon (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/jds6n8dUaixg0diKYlCta5nS6BV.jpg",
+        "year": "2021",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Kelvin Harrison, Jr.",
+            "Jeffrey Wright",
+            "Jennifer Hudson",
+            "Jennifer Ehle",
+            "Tim Blake Nelson"
+        ],
+        "country": [
+            "US",
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt2850272"
+    },
+    {
+        "id": 607430,
+        "title": "Dokuz Gün (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/sMzqlHmh4wcfr5JkuoDuwWLklZB.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Winston Duke",
+            "Zazie Beetz",
+            "Benedict Wong",
+            "David Rysdahl",
+            "Arianna Ortiz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10451852"
+    },
+    {
+        "id": 631843,
+        "title": "Zamanda Tutsak (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/xhspdX7vMTzEAER0s2V59i6vTT4.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Korku"
+        ],
+        "cast": [
+            "Gael García Bernal",
+            "Vicky Krieps",
+            "Rufus Sewell",
+            "Alex Wolff",
+            "Thomasin McKenzie"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10954652"
+    },
+    {
+        "id": 774714,
+        "title": "Ölümün Kıyısında (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/A5DlYHJFZAJhlrg1BYby6rqMTX3.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Jaime King",
+            "Bruce Willis",
+            "Lala Kent",
+            "Tyler Jon Olson",
+            "Kelly Greyson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12528166"
+    },
+    {
+        "id": 635731,
+        "title": "Domuz (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/g7j4NI7NKluAIdfCqCXHxHAkFSv.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nicolas Cage",
+            "Alex Wolff",
+            "Adam Arkin",
+            "Nina Belforte",
+            "Gretchen Corbett"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11003218"
+    },
+    {
+        "id": 785539,
+        "title": "Tek Çare Aşk (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/2j0WurW2drzdhBsQZCNsHb4rFWx.jpg",
+        "year": "2021",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Christina Milian",
+            "Jay Pharoah",
+            "Sinqua Walls",
+            "Christiani Pitts",
+            "Karen Obilom"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12929990"
+    },
+    {
+        "id": 830991,
+        "title": "Kartalın Kanatlarında (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/iLQk1rKQ6dZOle3ElEFIIche6O4.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Jake Johnson",
+            "Susan Sarandon",
+            "D'Arcy Carden",
+            "J.K. Simmons",
+            "Luis Fernandez-Gil"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14673560"
+    },
+    {
+        "id": 642732,
+        "title": "Anthony Bourdain Üzerine Bir Film (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/ec9iSMX6k3YNmkIIsVBjdc3guCC.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Anthony Bourdain",
+            "Nancy Bourdain",
+            "Joel Rose",
+            "Karen Rinaldi",
+            "Kim Witherspoon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14512538"
+    },
+    {
+        "id": 837542,
+        "title": "Room 9 (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/wwoPy8Iin3u49Gu5aUJULua3cwK.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Kane Hodder",
+            "Michael Berryman",
+            "Scout Taylor-Compton",
+            "Brian Anthony Wilson",
+            "Tony Devon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8075402"
+    },
+    {
+        "id": 791568,
+        "title": "Settlers (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/tBUYDwiJVDcnjPneOitVetJk2Rt.jpg",
+        "year": "2021",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Sofia Boutella",
+            "Ismael Cruz Cordova",
+            "Brooklynn Prince",
+            "Nell Tiger Free",
+            "Jonny Lee Miller"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9373688"
+    },
+    {
+        "id": 568620,
+        "title": "Snake Eyes: G.I. Joe Origins (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Henry Golding",
+            "Andrew Koji",
+            "Haruka Abe",
+            "Úrsula Corberó",
+            "Samara Weaving"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8404256"
+    },
+    {
+        "id": 379686,
+        "title": "Space Jam: Yeni Efsane (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/241esQbr6MQVh0Ke041bJKYtxtx.jpg",
+        "year": "2021",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Macera",
+            "Animasyon",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "LeBron James",
+            "Don Cheadle",
+            "Cedric Joe",
+            "Jeff Bergman",
+            "Gabriel Iglesias"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3554046"
+    },
+    {
+        "id": 616651,
+        "title": "Durgun Su (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/78G6SxpTjXMW6ytimLxUShBPHPd.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Matt Damon",
+            "Camille Cottin",
+            "Abigail Breslin",
+            "Lilou Siauvaud",
+            "Deanna Dunagan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10696896"
+    },
+    {
+        "id": 459151,
+        "title": "Patron Bebek 2: Aile Şirketi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/hyVVmCnE4Vw1MVUTH4p93YpmLtz.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "James Marsden",
+            "Amy Sedaris",
+            "Ariana Greenblatt",
+            "Jeff Goldblum"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6932874"
+    },
+    {
+        "id": 630392,
+        "title": "Lanetli (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/8WOJNMFjEconufnNDHps3IHq9fG.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Boyd Holbrook",
+            "Kelly Reilly",
+            "Alistair Petrie",
+            "Roxane Duran",
+            "Nigel Betts"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9907782"
+    },
+    {
+        "id": 645689,
+        "title": "Wellington Dükü (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/bXW1B8ylySstc1rLSQDslpv6ZSm.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Jim Broadbent",
+            "Helen Mirren",
+            "Fionn Whitehead",
+            "Anna Maxwell Martin",
+            "Matthew Goode"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt11204094"
+    },
+    {
+        "id": 653024,
+        "title": "Tanrı Komitesi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/p1dXPdz5C1tPpPIy3kth3rTCOQe.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Kelsey Grammer",
+            "Julia Stiles",
+            "Janeane Garofalo",
+            "Dan Hedaya",
+            "Colman Domingo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6852526"
+    },
+    {
+        "id": 559907,
+        "title": "Yeşil Şövalye (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/mpYl30HZ1uEbdmQpKKKgcvQWsW4.jpg",
+        "year": "2021",
+        "genres": [
+            "Macera",
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Dev Patel",
+            "Alicia Vikander",
+            "Joel Edgerton",
+            "Sarita Choudhury",
+            "Sean Harris"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9243804"
+    },
+    {
+        "id": 638449,
+        "title": "Sevgilimden Son Mektup (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Shailene Woodley",
+            "Felicity Jones",
+            "Callum Turner",
+            "Joe Alwyn",
+            "Nabhaan Rizwan"
+        ],
+        "country": [
+            "CA",
+            "FR",
+            "ES",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt1893273"
+    },
+    {
+        "id": 840283,
+        "title": "The Match (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/uMMcBauzPqcMPKXUdoqB2O0dkAm.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Franco Nero",
+            "Caspar Phillipson",
+            "Filip Tallhamn",
+            "Andrej Dojkić",
+            "Viktor Kulhanek"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6639482"
+    },
+    {
+        "id": 547565,
+        "title": "The Night House (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Rebecca Hall",
+            "Sarah Goldberg",
+            "Vondie Curtis-Hall",
+            "Evan Jonigkeit",
+            "Stacy Martin"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9731534"
+    },
+    {
+        "id": 436969,
+        "title": "The Suicide Squad: İntihar Timi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/aNAPhYZejmkSkzXSdFdAifCOw0Z.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Margot Robbie",
+            "Idris Elba",
+            "John Cena",
+            "Joel Kinnaman",
+            "Sylvester Stallone"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6334354"
+    },
+    {
+        "id": 672741,
+        "title": "Ölene Kadar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/bvwMvrX2XqZVOz35YuYbFx3Iggr.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Megan Fox",
+            "Eoin Macken",
+            "Aml Ameen",
+            "Callan Mulvey",
+            "Jack Roth"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11804152"
+    },
+    {
+        "id": 730840,
+        "title": "Trol Avcıları: Titanlar Yükseliyor (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aile",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Emile Hirsch",
+            "Lexi Medrano",
+            "Charlie Saxton",
+            "Kelsey Grammer",
+            "Alfred Molina"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12851396"
+    },
+    {
+        "id": 1083755,
+        "title": "Upload (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/6CtmI2EcnDE9uTaeO0L2bv8HfRO.jpg",
+        "year": "2021",
+        "genres": [
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Katja Herbers",
+            "Ashley Zukerman",
+            "Esther Mugambi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt26669396"
     }
 ]
