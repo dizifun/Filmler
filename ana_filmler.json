@@ -51564,5 +51564,86 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt26349328"
+    },
+    {
+        "id": 1003162,
+        "title": "Ama (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/BoO7DLwDQm0c9QAcy5uzOiZ5Rl.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Öner Erkan",
+            "Esme Madra",
+            "İlda Özgürel",
+            "Nadir Sönmez",
+            "Büşra Albayrak"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt21352482"
+    },
+    {
+        "id": 963751,
+        "title": "Aşkın Ömrü (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/7TBC4vYnehqtedJ9GfSku7oqlbq.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Tuba Ünsal",
+            "İlker Aksum",
+            "Duygu Mercan",
+            "Kaan Songün",
+            "Hacer Togay"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt17310382"
+    },
+    {
+        "id": 1225330,
+        "title": "Altına Hücum (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/taaR7k4QVd69X7LI78JGfIcMAMc.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Toygan Avanoğlu",
+            "Ali Rıza Tanyeli",
+            "Serenay Aktaş",
+            "Tuğba Melis Türk",
+            "Kıvanç Baran Arslan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt23667558"
+    },
+    {
+        "id": 1483091,
+        "title": "Çirkin Şansı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/7MSKGc4lx4eHowF1k61loEdmF6S.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Eylül Öztürk",
+            "Soydan Soydaş",
+            "Halil İbrahim Göker",
+            "İlkin Tüfekçi",
+            "Doğa Konakoğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt19850940"
     }
 ]
