@@ -11086,5 +11086,47 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt32373054"
+    },
+    {
+        "id": 1307520,
+        "title": "En Büyük Hayran (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/wgUmsekYPOt9ZQ8ero91qRnmhQY.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Kate del Castillo",
+            "Diana Bovio",
+            "Daniel Raymont",
+            "Gabriel Nuncio",
+            "Hugo Catalán"
+        ],
+        "country": [
+            "FR",
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt31227132"
+    },
+    {
+        "id": 1446943,
+        "title": "Baba Arayışı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/eHbwA5eSmmZQH4wGdWwnU9exDA1.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Michel Brown",
+            "Martino Leonardi",
+            "Mayra Hermosillo",
+            "Fernanda Castillo",
+            "Julieta Egurrola"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt36150950"
     }
 ]
