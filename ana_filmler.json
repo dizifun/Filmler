@@ -30589,5 +30589,46 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt23853982"
+    },
+    {
+        "id": 586353,
+        "title": "The Master and Margarita (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/9ZubjDI5Z3om36eCI20OAUbaamn.jpg",
+        "year": "2024",
+        "genres": [
+            "Fantastik",
+            "Dram"
+        ],
+        "cast": [
+            "August Diehl",
+            "Юлия Снигирь",
+            "Евгений Цыганов",
+            "Claes Bang",
+            "Юрий Колокольников"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt14536120"
+    },
+    {
+        "id": 1004096,
+        "title": "Son of a Rich 2 (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/nB7nH8yIQkPD1Cxc46F4btVZTB1.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Милош Бикович",
+            "Александр Самойленко",
+            "Мария Миронова",
+            "Иван Охлобыстин",
+            "Ольга Дибцева"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt20721318"
     }
 ]
