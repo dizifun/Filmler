@@ -88295,5 +88295,211 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt13070178"
+    },
+    {
+        "id": 752603,
+        "title": "9,75 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/1EDXENkqAKJyBDgqbWqkYzN1IS7.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Nejat İşler",
+            "Funda Eryiğit",
+            "Yusuf Mirza Zarg",
+            "İsmail Mirhat Zarg",
+            "Menderes Samancılar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13275406"
+    },
+    {
+        "id": 745514,
+        "title": "Gelincik (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/xMDOTHLHRQT1MG0Db3akbgXW8xU.jpg",
+        "year": "2020",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Kaan Yıldırım",
+            "Ahmet Mümtaz Taylan",
+            "Hande Doğandemir",
+            "İnan Ulaş Torun",
+            "Bülent Emrah Parlak"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12510594"
+    },
+    {
+        "id": 728900,
+        "title": "Ah Gözel İstanbul (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/zPKTFtf7MK8yWiJr2KEM6EdeJZ8.jpg",
+        "year": "2020",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Sezgi Mengi",
+            "Umay Anadolu Kaboğlu",
+            "Hasan Aslangiray",
+            "Elif İlhan",
+            "Alen Keçecioğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13126938"
+    },
+    {
+        "id": 621737,
+        "title": "Bina (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3B1kLgdTZ3x1UdoVCkxuDUtIO7s.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Fantastik",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ihsan Önal",
+            "Gül Arıcı",
+            "Levent Ünsal",
+            "Enis Yıldız",
+            "Isil Zeynep"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8997180"
+    },
+    {
+        "id": 1501700,
+        "title": "Bizim Semtin Çocukları (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/fy8B0fxMUmWgtaSdq3QZEklnA7v.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Neslihan Acar",
+            "Suzan Aksoy",
+            "Hüseyin Elmalıpınar",
+            "Ümit Kantarcılar",
+            "Nergis Kumbasar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10278294"
+    },
+    {
+        "id": 832841,
+        "title": "Aile Hükümeti (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/pa06H3ry4BNiircG1tiesLhl7AL.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Alper Saldıran",
+            "Aslıhan Malbora",
+            "Mehmet Yıldırım",
+            "Nail Kırmızıgül",
+            "Gülhan Tekin"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12579868"
+    },
+    {
+        "id": 777923,
+        "title": "Hashtag (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/zir2S4LK1zSl6qsHdaXYU4GKcKx.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Burak Çoban",
+            "Ela Yörüklü",
+            "Elif ilkim katmerci",
+            "Eren Emingil",
+            "Ergülcan Akıncıoğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11849874"
+    },
+    {
+        "id": 745543,
+        "title": "Kumbara (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/dLf8N3SoTntsh8MnTXAzYXOJSxm.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Murat Kılıç",
+            "Gülçin Kültür Şahin",
+            "Mert Ates",
+            "Onur Gökçek",
+            "Baran Can Eraslan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7011600"
+    },
+    {
+        "id": 664348,
+        "title": "Nasipse Adayız (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/grxyxjCrpM8619A8gAOrbY8suyY.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Ercan Kesal",
+            "Selin Yeninci",
+            "İnanç Konukçu",
+            "Nazan Kesal",
+            "Muttalip Müjdeci"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11448936"
+    },
+    {
+        "id": 745518,
+        "title": "Çatlak (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/w4WOMIuCYZ1dFxRiUUaRbimnA88.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Hakan Salınmış",
+            "Süreyya Kilimci",
+            "Hakan Emre Ünal",
+            "Tuğçe Yolcu",
+            "Elif Ürse"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13238110"
     }
 ]
