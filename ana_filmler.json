@@ -11633,5 +11633,49 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt32543884"
+    },
+    {
+        "id": 1252037,
+        "title": "Tank (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/uP3Gup9tSqeDzc9pyMQb5PfLvxZ.jpg",
+        "year": "2025",
+        "genres": [
+            "Savaş",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Laurence Rupp",
+            "David Schütter",
+            "Sebastian Urzendowsky",
+            "Leonard Kunz",
+            "Yoran Leicher"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt31495504"
+    },
+    {
+        "id": 1509871,
+        "title": "Evet, Hayır, Belki (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/ujNDflVpoFsBqlbVt58pc7lT1WR.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Beritan Balcı",
+            "Sinan Güleç",
+            "Serkan Çayoğlu",
+            "Meral Perin",
+            "Caro Daur"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt36754289"
     }
 ]
