@@ -10886,5 +10886,67 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt34207924"
+    },
+    {
+        "id": 1289888,
+        "title": "French Lover (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/eMGi1vZiI0CeRsn8UMa147PaVCa.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Omar Sy",
+            "Sara Giraudeau",
+            "Pascale Arbillot",
+            "Alban Ivanov",
+            "Cindy Bruna"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt32360696"
+    },
+    {
+        "id": 1143440,
+        "title": "Buz Kulesi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/2e5jhmAf3gR3imWGaeIajECO6ES.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Marion Cotillard",
+            "Clara Pacini",
+            "August Diehl",
+            "Marine Gesbert",
+            "Lila-Rose Gilberti"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt28171985"
+    },
+    {
+        "id": 1001043,
+        "title": "The Rembrandt Syndrome (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/sdRh7duuTkn9Nygs96yfoT97rk0.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Camille Cottin",
+            "Romain Duris",
+            "Denis Podalydès",
+            "Céleste Brunnquell",
+            "Bruno Podalydès"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt31539698"
     }
 ]
