@@ -84873,5 +84873,70 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt13017204"
+    },
+    {
+        "id": 602063,
+        "title": "Rurouni Kenshin: Final (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/51RcNHA3QdoJox2ewtpzPSDyEVR.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "佐藤健",
+            "武井咲",
+            "新田真剣佑",
+            "Munetaka Aoki",
+            "蒼井優"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt11809034"
+    },
+    {
+        "id": 795811,
+        "title": "Çarkıfelek (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/j1BDCUyliBFztah5f6GBKPupqpi.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "古川琴音",
+            "中島歩",
+            "玄理",
+            "Kiyohiko Shibukawa",
+            "森郁月"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt14034966"
+    },
+    {
+        "id": 741434,
+        "title": "Homunculus (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/5MDakv6USBc8MWFt1qTFocN1n9P.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "綾野剛",
+            "成田凌",
+            "岸井ゆきの",
+            "石井杏奈",
+            "内野聖陽"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt14404280"
     }
 ]
