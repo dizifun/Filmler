@@ -86902,5 +86902,47 @@
             "SE"
         ],
         "link": "https://vidmody.com/vs/tt10400028"
+    },
+    {
+        "id": 680813,
+        "title": "Kaçış (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/xqKPgcDfEOhjuI3HbKXmTAyJhb6.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel",
+            "Animasyon"
+        ],
+        "cast": [
+            "Amin Nawabi",
+            "Daniel Karimyar",
+            "Fardin Mijdzadeh",
+            "Milad Eskandari",
+            "Belal Faiz"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt8430054"
+    },
+    {
+        "id": 766105,
+        "title": "Bir Tutam Açlık (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/efiTE7wcWb3XVcOF1drSMpGpyjK.jpg",
+        "year": "2021",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Nikolaj Coster-Waldau",
+            "Charlie Gustafsson",
+            "Katrine Greis-Rosenthal",
+            "Dag Malmberg",
+            "Nicolas Bro"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt11188560"
     }
 ]
