@@ -4372,5 +4372,133 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt32194932"
+    },
+    {
+        "id": 1128655,
+        "title": "Sörfçü (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/zB7KSbc5YfZsjkNTMwik71uwJ0V.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Nicolas Cage",
+            "Julian McMahon",
+            "Justin Rosniak",
+            "Alexander Bertrand",
+            "Rahel Romahn"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt27813235"
+    },
+    {
+        "id": 1278827,
+        "title": "Düğün Şöleni (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/oV6O4yUk86ghb2xiYeX2iYtCnDl.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Bowen Yang",
+            "Lily Gladstone",
+            "Kelly Marie Tran",
+            "한기찬",
+            "Joan Chen"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt32214413"
+    },
+    {
+        "id": 986056,
+        "title": "Thunderbolts* (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/rjubchd3QdoDOZ6zrghHjNB1Rqh.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Bilim-Kurgu",
+            "Macera"
+        ],
+        "cast": [
+            "Florence Pugh",
+            "Sebastian Stan",
+            "Julia Louis-Dreyfus",
+            "Lewis Pullman",
+            "David Harbour"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt20969586"
+    },
+    {
+        "id": 1457124,
+        "title": "Titanik: Dijital Diriliş (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/wkK7w1XufrVL7qd4UzKyv0X6Gur.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel",
+            "TV film"
+        ],
+        "cast": [
+            "Josh Goodman",
+            "Parks Stephenson",
+            "Jennifer Hooper",
+            "Chris Hearn",
+            "Yasmin Khan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt36462222"
+    },
+    {
+        "id": 1232546,
+        "title": "Şafağa Kadar (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/qgfLagTvJv4PkmK4sQoOzE53PRJ.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Ella Rubin",
+            "Michael Cimino",
+            "Belmont Cameli",
+            "Maia Mitchell",
+            "Peter Stormare"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt30955489"
+    },
+    {
+        "id": 1241436,
+        "title": "Çatışma (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/9MbQBPceSWvhxZzE1dmY5OD26mm.jpg",
+        "year": "2025",
+        "genres": [
+            "Savaş",
+            "Aksiyon"
+        ],
+        "cast": [
+            "D'Pharaoh Woon-A-Tai",
+            "Will Poulter",
+            "Cosmo Jarvis",
+            "Kit Connor",
+            "Finn Bennett"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt31434639"
     }
 ]
