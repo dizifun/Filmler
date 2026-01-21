@@ -101838,5 +101838,89 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt12792598"
+    },
+    {
+        "id": 746957,
+        "title": "You've Got This (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/v230KtHmd261EA4OSMMSC2TCiA8.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Mauricio Ochmann",
+            "Esmeralda Pimentel",
+            "Matteo Giannini",
+            "Regina Reynoso",
+            "Juan Martín Jáuregui"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt13118012"
+    },
+    {
+        "id": 672227,
+        "title": "Accidental Blessings (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/bzXMQ5M5ZcSpemqtmhAqci2w4te.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Luna Baxter",
+            "Laura García",
+            "Julian Orrego",
+            "Silvia Santamaría",
+            "Simon Elias"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt8080350"
+    },
+    {
+        "id": 613093,
+        "title": "Ölüler Vadisi (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/4z9fsQTypbwzaWa4kLERtJjjM83.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Korku",
+            "Savaş"
+        ],
+        "cast": [
+            "Miki Esparbé",
+            "Aura Garrido",
+            "Luis Callejo",
+            "Álvaro Cervantes",
+            "Jesús Carroza"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt10127708"
+    },
+    {
+        "id": 575446,
+        "title": "Yeni Düzen (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/iUM1aLY7TMrqroIcwhoF8JH5Udt.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Naian González Norvind",
+            "Fernando Cuautle",
+            "Diego Boneta",
+            "Dario Yazbek Bernal",
+            "Mónica del Carmen"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt12474056"
     }
 ]
