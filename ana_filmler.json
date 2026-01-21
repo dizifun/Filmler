@@ -47810,5 +47810,48 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt25010142"
+    },
+    {
+        "id": 1133602,
+        "title": "Bad Lands (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/AeF7NhtpTo2OCZ0o9a7wBRUfjaE.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Suç"
+        ],
+        "cast": [
+            "安藤サクラ",
+            "山田涼介",
+            "生瀬勝久",
+            "吉原光夫",
+            "大場泰正"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt29344984"
+    },
+    {
+        "id": 1122634,
+        "title": "Once Upon a Crime (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/9uGS0RVxxkVyckm1vVerlJdMvST.jpg",
+        "year": "2023",
+        "genres": [
+            "Fantastik",
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "橋本環奈",
+            "新木優子",
+            "岩田剛典",
+            "夏菜",
+            "若月佑美"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt15944018"
     }
 ]
