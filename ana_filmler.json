@@ -87074,5 +87074,49 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt4028464"
+    },
+    {
+        "id": 623511,
+        "title": "Kuzey Denizi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/lsDz2SJtSrBMSR1DpVYVAoCMTM5.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Kristine Kujath Thorp",
+            "Henrik Bjelland",
+            "Rolf Kristian Larsen",
+            "Anders Baasmo Christiansen",
+            "Bjørn Floberg"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt12753120"
+    },
+    {
+        "id": 660120,
+        "title": "Dünyanın En Kötü İnsanı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/eRE9n3ODkaF4Y5FqdyczYp7lEtf.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Renate Reinsve",
+            "Anders Danielsen Lie",
+            "Herbert Nordrum",
+            "Hans Olav Brenner",
+            "Helene Bjørnebye"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt10370710"
     }
 ]
