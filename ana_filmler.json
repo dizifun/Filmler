@@ -29727,5 +29727,72 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt27192829"
+    },
+    {
+        "id": 626412,
+        "title": "Evrenler Savaşı 2 (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/3l04H9ljNegDGG9gnKDhLExJvpz.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Fantastik",
+            "Macera",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "류준열",
+            "김태리",
+            "김우빈",
+            "이하늬",
+            "염정아"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt20201212"
+    },
+    {
+        "id": 973628,
+        "title": "A Normal Family (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/chuNOF8p6Y1mJ0McFKa17ojXAsL.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "설경구",
+            "장동건",
+            "김희애",
+            "수현",
+            "Hong Ye-ji"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt28488187"
+    },
+    {
+        "id": 933131,
+        "title": "Çöl Avcıları (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/aMelXG1OBTHvvIz1lpSp5m5cjv0.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "마동석",
+            "Lee Jun-young",
+            "이희준",
+            "노정의",
+            "안지혜"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt29722855"
     }
 ]
