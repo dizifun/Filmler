@@ -66004,5 +66004,154 @@
             "BE"
         ],
         "link": "https://vidmody.com/vs/tt18317064"
+    },
+    {
+        "id": 948276,
+        "title": "Lost Bullet 2 (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/A84Usw0jwhh5RPAKZV7gwP532Fl.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Alban Lenoir",
+            "Stéfi Celma",
+            "Pascale Arbillot",
+            "Sébastien Lalanne",
+            "Diego Martín"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14465706"
+    },
+    {
+        "id": 1006917,
+        "title": "Komanın Ardından (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/tL0xieVl5ms5EO6EuzxC6xFhPyg.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "TV film",
+            "Dram"
+        ],
+        "cast": [
+            "Txomin Vergez",
+            "Clotilde Hesme",
+            "Audrey Dana",
+            "Stéphane Rideau",
+            "Rebecca Williams"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt22938576"
+    },
+    {
+        "id": 848958,
+        "title": "Tiyatro Okulu (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8v9usg0XAmUpR8PGeYgK9XlFlaL.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Nadia Tereszkiewicz",
+            "Sofiane Bennacer",
+            "Louis Garrel",
+            "Micha Lescot",
+            "Clara Bretheau"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14976386"
+    },
+    {
+        "id": 892515,
+        "title": "Maskeli Balo (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8Cy4qchS3Npd8sMxcUREsF5lihJ.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Pierre Niney",
+            "Isabelle Adjani",
+            "François Cluzet",
+            "Marine Vacth",
+            "Emmanuelle Devos"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt14534796"
+    },
+    {
+        "id": 896485,
+        "title": "Overdose (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/jHh0hkCjIAEicS1vMaOu4fdHpuP.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Sofia Essaïdi",
+            "Assaad Bouab",
+            "Alberto Ammann",
+            "Nicolas Cazalé",
+            "Nassim Lyes"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15713012"
+    },
+    {
+        "id": 952701,
+        "title": "Seul'a Dönüş (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/66xRKycuKmVxe76strQCr7SxdWA.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Park Ji-Min",
+            "오광록",
+            "Guka Han",
+            "김선영",
+            "Yoann Zimmer"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt19719836"
+    },
+    {
+        "id": 925943,
+        "title": "Saint Omer (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/k3hxlw19XHsC4o0VfhUUOliJFFe.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Kayije Kagame",
+            "Guslagie Malanda",
+            "Aurélia Petit",
+            "Valérie Dréville",
+            "Xavier Maly"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15376894"
     }
 ]
