@@ -85002,5 +85002,49 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt14039582"
+    },
+    {
+        "id": 792678,
+        "title": "Cube (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/mOVUbGXOcybXCt0jaKK4tuoClIU.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "菅田将暉",
+            "杏",
+            "岡田将生",
+            "Hikaru Tashiro",
+            "斎藤工"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt13975458"
+    },
+    {
+        "id": 839100,
+        "title": "Bright: Samurai Soul (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/rZrWSMVg2sIsYFwc6iKtaE9y3LR.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Fantastik"
+        ],
+        "cast": [
+            "野村裕基",
+            "平川大輔",
+            "若山詩音",
+            "MIYAVI",
+            "坂本真綾"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt14837960"
     }
 ]
