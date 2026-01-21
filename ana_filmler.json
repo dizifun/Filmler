@@ -49121,5 +49121,50 @@
             "SA"
         ],
         "link": "https://vidmody.com/vs/tt22497824"
+    },
+    {
+        "id": 1069193,
+        "title": "Dört Kız Kardeş (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/n4ISMn54UfxLn4D7ykHS5BQDeZL.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel",
+            "Dram"
+        ],
+        "cast": [
+            "Olfa Hamrouni",
+            "Eya Chikahoui",
+            "Tayssir Chikhaoui",
+            "Nour Karoui",
+            "Ichraq Matar"
+        ],
+        "country": [
+            "DE",
+            "FR",
+            "TN"
+        ],
+        "link": "https://vidmody.com/vs/tt27502426"
+    },
+    {
+        "id": 1000172,
+        "title": "The Damned Don't Cry (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/AmC8yeRTQlSpeydf5bknURTSJ65.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Aïcha Tebbae",
+            "Abdellah El Hajjouji",
+            "Antoine Reinartz",
+            "Moustapha Mokafih",
+            "Walid Chaibi"
+        ],
+        "country": [
+            "MA",
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt21352686"
     }
 ]
