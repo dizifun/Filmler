@@ -11937,5 +11937,89 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt29471573"
+    },
+    {
+        "id": 1383072,
+        "title": "Mahavatar Narsimha (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Fantastik",
+            "Dram"
+        ],
+        "cast": [
+            "Harjeet Walia",
+            "Aditya Raj Sharma",
+            "Haripriya Matta",
+            "Sanket Jaiswal",
+            "Priyanka Bhandari"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt34365591"
+    },
+    {
+        "id": 1391013,
+        "title": "Aap Jaisa Koi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "R. Madhavan",
+            "Fatima Sana Shaikh",
+            "Namit Das",
+            "Manish Chaudhary",
+            "Ayesha Raza Mishra"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt33888131"
+    },
+    {
+        "id": 1241634,
+        "title": "Saiyaara (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Ahaan Panday",
+            "Aneet Padda",
+            "Alam Khan",
+            "Rajesh Kumar",
+            "गीता अग्रवाल शर्मा"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt28037987"
+    },
+    {
+        "id": 1065426,
+        "title": "Metro... In Dino (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/AlmzM8CNm2fRJQW2iA9Ittwv0ig.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Anupam Kher",
+            "Neena Gupta",
+            "Pankaj Tripathi",
+            "Konkona Sen Sharma",
+            "Aditya Roy Kapur"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt24225606"
     }
 ]
