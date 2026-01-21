@@ -48244,5 +48244,48 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt28106766"
+    },
+    {
+        "id": 729854,
+        "title": "Konkeuriteu yutopia (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/aKApVX9hc5otPxa3Jbf27sW6tsi.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "이병헌",
+            "박서준",
+            "Park Bo-young",
+            "김선영",
+            "김도윤"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt13086266"
+    },
+    {
+        "id": 813079,
+        "title": "Don't Buy the Seller (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/xSSAK4QZGyvjkef978bv1i1UQ07.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Suç"
+        ],
+        "cast": [
+            "신혜선",
+            "김성균",
+            "강태오",
+            "이주영",
+            "임철수"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt22507484"
     }
 ]
