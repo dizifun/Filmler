@@ -88541,5 +88541,100 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt11575312"
+    },
+    {
+        "id": 781696,
+        "title": "Ata Demirer Gazinosu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jsWrAyr7Hd8kNBmIEusNmqTOMrm.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Müzik"
+        ],
+        "cast": [
+            "Ata Demirer"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13663146"
+    },
+    {
+        "id": 668156,
+        "title": "9 Kere Leyla (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/k7SAgAdSVxBPD78ccY5VQMqVzEX.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Demet Akbağ",
+            "Haluk Bilginer",
+            "Elçin Sangu",
+            "Alican Yücesoy",
+            "Hakan Eke"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11792734"
+    },
+    {
+        "id": 819213,
+        "title": "Sardunya (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/bQTnFOiTQsh0SbGpgxzOOfAgwd4.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "İlayda Elhih",
+            "Ali Seçkiner Alıcı",
+            "Ahsen Eroğlu",
+            "Evren Duyal",
+            "Tansu Biçer"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12273972"
+    },
+    {
+        "id": 793904,
+        "title": "Keman Ağıtları (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3AmdcdueNQH3w1XBLWcd7EPTDQX.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Tarik Tanrisever",
+            "Asena Keskinci",
+            "Soydan Soydaş",
+            "Gülin Tokat",
+            "Mehmet Tanrısever"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10682112"
+    },
+    {
+        "id": 781692,
+        "title": "Şahane Hayaller (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/1bYcVeyxAj56zZw2FzNFbrnrrBG.jpg",
+        "year": "2020",
+        "genres": [],
+        "cast": [
+            "Ömer Başdoğan",
+            "Cemil Şahin",
+            "Suzan Aksoy",
+            "Çetin Altay",
+            "Berrak Güvem"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11534342"
     }
 ]
