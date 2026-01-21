@@ -86120,5 +86120,47 @@
             "BR"
         ],
         "link": "https://vidmody.com/vs/tt14371060"
+    },
+    {
+        "id": 818659,
+        "title": "Karnaval (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Giovana Cordeiro",
+            "Gessica Kayane",
+            "Bruna Inocencio",
+            "Samya Pascotto",
+            "Flavia Pavanelli"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt14074470"
+    },
+    {
+        "id": 829729,
+        "title": "Potter's Ground (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/5IxA535GPbLawAEyeBEgO9IWp1j.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Isaiah Stratton",
+            "Scott Crain",
+            "Todd Bush",
+            "Katharine Franco",
+            "James J. Fuertes"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11666128"
     }
 ]
