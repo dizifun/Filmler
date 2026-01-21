@@ -103251,5 +103251,27 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt8006374"
+    },
+    {
+        "id": 594718,
+        "title": "Sputnik (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/68WYQa66FWCrMSI4ZEE8wp1vEV4.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Dram",
+            "Korku"
+        ],
+        "cast": [
+            "Оксана Акиньшина",
+            "Фёдор Бондарчук",
+            "Пётр Фёдоров",
+            "Антон Васильев",
+            "Алексей Демидов"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt11905962"
     }
 ]
