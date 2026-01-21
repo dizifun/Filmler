@@ -69680,5 +69680,49 @@
             "NL"
         ],
         "link": "https://vidmody.com/vs/tt18082758"
+    },
+    {
+        "id": 1051959,
+        "title": "The Claus Family 3 (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/1Z7wlsvuY9PfzWzm31M8pssuG27.jpg",
+        "year": "2022",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Jan Decleir",
+            "Mo Bakker",
+            "Kürt Rogiers",
+            "Bracha van Doesburgh",
+            "Amber Metdepenningen"
+        ],
+        "country": [
+            "BE",
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt19072084"
+    },
+    {
+        "id": 1030613,
+        "title": "Sadakat Yalanı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/fuTy1vXNSmhDXtLclTvqaSO8L2E.jpg",
+        "year": "2022",
+        "genres": [
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Bracha van Doesburgh",
+            "Elise Schaap",
+            "Gijs Naber",
+            "Matteo Simoni",
+            "Nasrdin Dchar"
+        ],
+        "country": [
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt20119468"
     }
 ]
