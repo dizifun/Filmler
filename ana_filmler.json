@@ -27603,5 +27603,138 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt27737203"
+    },
+    {
+        "id": 1158996,
+        "title": "Süleyman’ın Hikayesi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/sTdWmwPBB5aPoNAYQ0hz8VeprHB.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Abou Sangare",
+            "Nina Meurisse",
+            "Alpha Oumar Sow",
+            "Emmanuel Yovanie",
+            "Younoussa Diallo"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt32086046"
+    },
+    {
+        "id": 959604,
+        "title": "Beating Hearts (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/6akNNv4KyrguZUiG4uemfV6toVq.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Adèle Exarchopoulos",
+            "François Civil",
+            "Mallory Wanecque",
+            "Malik Frikah",
+            "Alain Chabat"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27490099"
+    },
+    {
+        "id": 1168543,
+        "title": "The Art of Nothing (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/1e4f79KcxvjyKsQEHBunlHS2k5L.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Benoît Poelvoorde",
+            "Gustave Kervern",
+            "Camille Cottin",
+            "François Damiens",
+            "Laurence Bibot"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt30060943"
+    },
+    {
+        "id": 1091181,
+        "title": "Kurt Adamlar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/ahzWHYdRFqnlpsM5l5qHU4Fj3az.jpg",
+        "year": "2024",
+        "genres": [
+            "Macera",
+            "Komedi",
+            "Fantastik",
+            "Aksiyon",
+            "Aile"
+        ],
+        "cast": [
+            "Franck Dubosc",
+            "Jean Reno",
+            "Suzanne Clément",
+            "Lisa Do Couto Texeira",
+            "Raphael Romand"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt29195603"
+    },
+    {
+        "id": 1002155,
+        "title": "Aznavour (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/23FkaTaAosaTcTgyuJdTf7TvcJu.jpg",
+        "year": "2024",
+        "genres": [
+            "Tarih",
+            "Müzik",
+            "Dram"
+        ],
+        "cast": [
+            "Tahar Rahim",
+            "Bastien Bouillon",
+            "Marie-Julie Baup",
+            "Luc Antoni",
+            "Nicolas Chupin"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt26743414"
+    },
+    {
+        "id": 589018,
+        "title": "Savages (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/qfQbPOHyKi4nkyoOodZoL5bvIja.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Babette De Coster",
+            "Martin Verset",
+            "Laetitia Dosch",
+            "Benoît Poelvoorde",
+            "Pierre-Isaie Duc"
+        ],
+        "country": [
+            "BE",
+            "FR",
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt10695672"
     }
 ]
