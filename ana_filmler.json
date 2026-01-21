@@ -85926,5 +85926,48 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt10380900"
+    },
+    {
+        "id": 586380,
+        "title": "Büyülü Kahramanlar: Büyük Macera (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/1jPSODvsRGQD6YhqDkixuyCXsV5.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Никита Волков",
+            "Daniil Eldarov",
+            "Ирина Старшенбаум",
+            "Арсений Перель",
+            "Ирина Медведева"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt14974602"
+    },
+    {
+        "id": 598252,
+        "title": "The Ice Demon (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/sHIxMiFsG6RDUJeeI29jPS5tZwO.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Olga Lomonosova",
+            "Алина Бабак",
+            "Александра Черкасова",
+            "Алексей Розин",
+            "Глеб Калюжный"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt13470654"
     }
 ]
