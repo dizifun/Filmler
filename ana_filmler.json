@@ -84110,5 +84110,133 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt10366574"
+    },
+    {
+        "id": 595280,
+        "title": "Sayıklama (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/hWVgahEaREAl8yIll1zE9HHeeYo.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "María Valverde",
+            "Guillermo Pfening",
+            "Dolores Fonzi",
+            "Germán Palacios",
+            "Emilio Vodanovich"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt9471660"
+    },
+    {
+        "id": 820722,
+        "title": "İyi Patron (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/kfUBHRYmbzkIw7lQZ3ZcptbW3VI.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Javier Bardem",
+            "Manolo Solo",
+            "Almudena Amor",
+            "Óscar de la Fuente",
+            "Sonia Almarcha"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt13066182"
+    },
+    {
+        "id": 800410,
+        "title": "Issızlık (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/hdi08iM9ClmtCAcnZP04QLAV2zz.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Inma Cuesta",
+            "Asier Flores",
+            "Roberto Álamo",
+            "Alejandra Howard",
+            "Marià Llop"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt13323118"
+    },
+    {
+        "id": 776821,
+        "title": "Sınırın Yasaları (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/bMfjAg9ia8RIdlTvzit4R3ayajG.jpg",
+        "year": "2021",
+        "genres": [
+            "Suç"
+        ],
+        "cast": [
+            "Marcos Ruiz",
+            "Begoña Vargas",
+            "Chechu Salgado",
+            "Pep Tosar",
+            "Xavier Martín"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11892272"
+    },
+    {
+        "id": 766798,
+        "title": "Paralel Anneler (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/2461CvnKTJVZlcvMABgNlucr3N0.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Penélope Cruz",
+            "Milena Smit",
+            "Israel Elejalde",
+            "Aitana Sánchez-Gijón",
+            "Rossy de Palma"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt12618926"
+    },
+    {
+        "id": 833427,
+        "title": "Plaza Catedral (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/8Z6wvj4QLdkgHP9bPIWcry8eMFf.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ilse Salas",
+            "Fernando Xavier De Casta",
+            "Manolo Cardona",
+            "Marcos Bernal Lopez",
+            "Luan Sampo Valdés"
+        ],
+        "country": [
+            "CO",
+            "MX",
+            "PA"
+        ],
+        "link": "https://vidmody.com/vs/tt8657700"
     }
 ]
