@@ -11483,5 +11483,70 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt30292390"
+    },
+    {
+        "id": 1418522,
+        "title": "Leziz (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/8krercQRQIv7zcTAEi3kQMf4GmI.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Valerie Pachner",
+            "Fahri Yardım",
+            "Carla Díaz",
+            "Naila Schuberth",
+            "Caspar Hoffmann"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt32047217"
+    },
+    {
+        "id": 1176932,
+        "title": "A Girl Named Willow (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/91o854WcptbixlbqybQTzz5BeIv.jpg",
+        "year": "2025",
+        "genres": [
+            "Aile",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Ava Petsch",
+            "Cora Trube",
+            "Anna von Seld",
+            "Mary Tölle",
+            "Golo Euler"
+        ],
+        "country": [
+            "DE",
+            "AT"
+        ],
+        "link": "https://vidmody.com/vs/tt35300281"
+    },
+    {
+        "id": 1356670,
+        "title": "Geç Vardiya (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/yfzWIdiS10jb9GpeOXYuxHXGIAa.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Leonie Benesch",
+            "Alireza Bayram",
+            "Jürg Plüss",
+            "Jasmin Mattei",
+            "Lale Yavaş"
+        ],
+        "country": [
+            "DE",
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt32204858"
     }
 ]
