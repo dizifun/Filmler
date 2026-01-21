@@ -65438,5 +65438,67 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt13667548"
+    },
+    {
+        "id": 852438,
+        "title": "Kestik! (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/7ZVYvykwipSH3EulH5a8beMfLFK.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Romain Duris",
+            "Bérénice Bejo",
+            "Grégory Gadebois",
+            "Finnegan Oldfield",
+            "Matilda Lutz"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14317880"
+    },
+    {
+        "id": 838916,
+        "title": "Fanatik Hayran (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/1AZelt9VgdFFDxXu8JZYESptNYN.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Gérard Lanvin",
+            "Artus",
+            "Antoine Bertrand",
+            "Laura del Sol",
+            "Natasha Andrews"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13134894"
+    },
+    {
+        "id": 785985,
+        "title": "Zoraki İkili (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/gBwcAp0Xuv3BavbxvnNmv8GjD1E.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Omar Sy",
+            "Laurent Lafitte",
+            "Izïa Higelin",
+            "Dimitri Storoge",
+            "Stéphane Pezerat"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13822738"
     }
 ]
