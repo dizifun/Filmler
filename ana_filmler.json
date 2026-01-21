@@ -103125,5 +103125,46 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt10627584"
+    },
+    {
+        "id": 636565,
+        "title": "Rose Adası'nın İnanılmaz Hikayesi (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/6Q5cfHddcKyC4KBKOzZeQ5hI55N.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Elio Germano",
+            "Matilda De Angelis",
+            "Fabrizio Bentivoglio",
+            "François Cluzet",
+            "Tom Wlaschiha"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt10287954"
+    },
+    {
+        "id": 653762,
+        "title": "Trüf Avcıları (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/pnhaxfCxBqwKv86jTyGqakbPNFG.jpg",
+        "year": "2020",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Carlo Gonella",
+            "Sergio Cauda",
+            "Aurelio Conterno",
+            "Angelo Gagliardi",
+            "Maria Cicciù"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt11394318"
     }
 ]
