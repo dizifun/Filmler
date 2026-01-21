@@ -47055,5 +47055,45 @@
             "CH"
         ],
         "link": "https://vidmody.com/vs/tt13149356"
+    },
+    {
+        "id": 998022,
+        "title": "Öğretmenler Odası (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/jZSx4oL1u8f4ZTm2HajdBZnqEsE.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Leonie Benesch",
+            "Eva Löbau",
+            "Michael Klammer",
+            "Rafael Stachowiak",
+            "Sarah Bauerett"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt26612950"
+    },
+    {
+        "id": 1120628,
+        "title": "İnce İşler (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/z3k7lTigzxb21bQdEw3oD4pxySH.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Tobias Schäfer",
+            "Cosima Henman",
+            "Axel Stein",
+            "Diana Amft",
+            "Vivien König"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt20256412"
     }
 ]
