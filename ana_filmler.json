@@ -26251,5 +26251,211 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt32627545"
+    },
+    {
+        "id": 661539,
+        "title": "Bob Dylan: Tam Bir Bilinmez (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/rAQQn7tu55cCAsfmVvWyRDyb5o1.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Timothee Chalamet",
+            "Edward Norton",
+            "Elle Fanning",
+            "Monica Barbaro",
+            "Scoot McNairy"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11563598"
+    },
+    {
+        "id": 1358820,
+        "title": "Sabrina Carpenter ile Saçma Bir Noel (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg",
+        "year": "2024",
+        "genres": [
+            "Müzik"
+        ],
+        "cast": [
+            "Sabrina Carpenter",
+            "Cara Delevingne",
+            "Chappell Roan",
+            "Jillian Bell",
+            "Kali Uchis"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt33427273"
+    },
+    {
+        "id": 1097549,
+        "title": "Babygirl (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nicole Kidman",
+            "Harris Dickinson",
+            "Antonio Banderas",
+            "Esther-Rose McGregor",
+            "Sophie Wilde"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt30057084"
+    },
+    {
+        "id": 799766,
+        "title": "Better Man: Robbie Williams'ın Hikâyesi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/4v9jWS1irg2MSwSzTNqLxvO2GjS.jpg",
+        "year": "2024",
+        "genres": [
+            "Müzik",
+            "Dram"
+        ],
+        "cast": [
+            "Robbie Williams",
+            "Jonno Davies",
+            "Steve Pemberton",
+            "Alison Steadman",
+            "Kate Mulvany"
+        ],
+        "country": [
+            "AU"
+        ],
+        "link": "https://vidmody.com/vs/tt14260836"
+    },
+    {
+        "id": 1391409,
+        "title": "Gelmiş Geçmiş En Büyük Soygun (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/wIS7g0i09afNbHQ9VHRnP8PErTs.jpg",
+        "year": "2024",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt18224682"
+    },
+    {
+        "id": 1304106,
+        "title": "Blood Star (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/1luaxuRCI7X8mtNMKsQ4grBYICo.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Britni Camacho",
+            "John Schwab",
+            "Sydney Brumfield",
+            "Travis Lincoln Cox",
+            "Felix Merback"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt28452681"
+    },
+    {
+        "id": 1005331,
+        "title": "Kabin Bagajı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/aIcEk2fIN6ob7OtIBBKod6YCnZB.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Taron Egerton",
+            "Jason Bateman",
+            "Sofia Carson",
+            "Danielle Deadwyler",
+            "Theo Rossi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21382296"
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/1y3TG8N8zwwMxqh0qzdyDs3IyCq.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Gerilim",
+            "Savaş"
+        ],
+        "cast": [
+            "Eva Green",
+            "Mariya Bakalova",
+            "Ruby Rose",
+            "Reza Brojerdi",
+            "Jojo T. Gibbs"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt23872640"
+    },
+    {
+        "id": 1387866,
+        "title": "Disaster Holiday (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/pNZHImRQhSq5qEPSpDkmWLRB4RS.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Kenneth Nkosi",
+            "Lunathi Mampofu",
+            "Kopano Mahlasi",
+            "Lubabalo Tala",
+            "Yeya Ralarala"
+        ],
+        "country": [
+            "ZA"
+        ],
+        "link": "https://vidmody.com/vs/tt34608980"
+    },
+    {
+        "id": 1360794,
+        "title": "Following Yonder Star (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/tIX3upo5WdwH83SIVVV3NcKKza0.jpg",
+        "year": "2024",
+        "genres": [
+            "TV film",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Brooke D'Orsay",
+            "John Brotherton",
+            "Isla Verot",
+            "Amanda Austin",
+            "Melissa Murray-Mutch"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt33903431"
     }
 ]
