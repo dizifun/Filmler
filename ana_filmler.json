@@ -83983,5 +83983,48 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt12358104"
+    },
+    {
+        "id": 772388,
+        "title": "Raydan Çıkan Miras (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/bu4R7iLrps28QQx7ydPjOnpRfAr.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Julián López",
+            "Ernesto Sevilla",
+            "Arturo Valls",
+            "Dafne Fernández",
+            "Ana Milán"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt12610584"
+    },
+    {
+        "id": 573164,
+        "title": "Yumurtalar Firarda: Afrika Macerası (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/cATJVMLHPBg7WFxCihhHaLi2fpS.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Bruno Bichir",
+            "Maite Perroni",
+            "Carlos Espejel",
+            "Angélica Vale",
+            "Dione Riva Palacio Santacruz"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt8049994"
     }
 ]
