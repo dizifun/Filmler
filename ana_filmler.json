@@ -26140,5 +26140,116 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt32368345"
+    },
+    {
+        "id": 804406,
+        "title": "Piyano Dersi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/hNuTHUpxujDOPDPgBSRf2J1FFY2.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "John David Washington",
+            "Danielle Deadwyler",
+            "Samuel L. Jackson",
+            "Ray Fisher",
+            "Michael Potts"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15507512"
+    },
+    {
+        "id": 975511,
+        "title": "Dönüş (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/dOCcIemu4V0uWIBhrMAmMFKow7s.jpg",
+        "year": "2024",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Macera"
+        ],
+        "cast": [
+            "Ralph Fiennes",
+            "Juliette Binoche",
+            "Charlie Plummer",
+            "Marwan Kenzari",
+            "Claudio Santamaria"
+        ],
+        "country": [
+            "GR",
+            "IT",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt19861162"
+    },
+    {
+        "id": 1258164,
+        "title": "Thomas ve Arkadaşları: Noel Mektubu (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/gLi0InRJqjYEnkd4H9gl00hRkvb.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Neil Crone",
+            "Charlie Zeltzer",
+            "Luke Marty",
+            "Kai Harris"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt31499438"
+    },
+    {
+        "id": 1378771,
+        "title": "Trapped Inn (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/dKKyRvWoDAJuSocOXtE0cJ2JYfN.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Matt Rife",
+            "Robert Palmer Watkins",
+            "Brielle Gearson",
+            "Brian Gross",
+            "Rickey Brown"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13598996"
+    },
+    {
+        "id": 1299652,
+        "title": "Watchmen: Chapter II (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/apzbE0pcmKz4RTWFVP7XXdg3VCZ.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Gizem",
+            "Bilim-Kurgu",
+            "Dram"
+        ],
+        "cast": [
+            "Troy Baker",
+            "Adrienne Barbeau",
+            "Michael Cerveris",
+            "Zehra Fazal",
+            "Phil Fondacaro"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt32627545"
     }
 ]
