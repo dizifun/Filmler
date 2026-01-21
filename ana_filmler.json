@@ -69531,5 +69531,46 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt23343786"
+    },
+    {
+        "id": 1065796,
+        "title": "Anaokulunda Bir Gece (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/oa3L3aS7Iy99r74Sc4N7hkPi2Ga.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Piotr Witkowski",
+            "Lena Góra",
+            "Zbigniew Zamachowski",
+            "Aleksandra Domańska",
+            "Dobromir Dymecki"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt19724270"
+    },
+    {
+        "id": 1053080,
+        "title": "Delivery by Christmas (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/5ZrsE9O2aRwqTLREx9NLnXNYNbp.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Monika Frajczyk",
+            "Piotr Pacek",
+            "Franciszek Krupowicz",
+            "Dorota Kolak",
+            "Mirosław Baka"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt19723342"
     }
 ]
