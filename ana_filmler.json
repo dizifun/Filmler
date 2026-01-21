@@ -46970,5 +46970,48 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt26448958"
+    },
+    {
+        "id": 1081291,
+        "title": "Çok Uzak (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/1VaUdyXtfc77SOO3sY1o2yJhIJz.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Naomi Krauss",
+            "Goran Bogdan",
+            "Adnan Maral",
+            "Bahar Balci",
+            "Vedat Erincin"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt18747542"
+    },
+    {
+        "id": 1058100,
+        "title": "Bas Gaza Bas (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/fghkKy8nTmulM9eO2t0oosrA2WD.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Til Schweiger",
+            "Tina Ruland",
+            "Luna Schweiger",
+            "Tim Oliver Schultz",
+            "Michael Kessler"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt20414228"
     }
 ]
