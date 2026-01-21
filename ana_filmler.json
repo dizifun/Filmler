@@ -45014,5 +45014,90 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt20330434"
+    },
+    {
+        "id": 922830,
+        "title": "Disco Boy (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qa9RFjLw6xYfxM1PPCNksZoVYwj.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Franz Rogowski",
+            "Morr Ndiaye",
+            "Laëtitia Ky",
+            "Leon Lučev",
+            "Matteo Olivetti"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt22180518"
+    },
+    {
+        "id": 928200,
+        "title": "Altın Kadeh (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/RTk5Qccbr4r9MyJNe68jFcsA7E.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Karim Leklou",
+            "Malik Zidi",
+            "Elsa Wolliaston",
+            "Jawad Outouia",
+            "Elyes Dkhissi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14644048"
+    },
+    {
+        "id": 948050,
+        "title": "Gölgeler Kralı (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/mbrhbYBVOgZoJoHyvglhMK1QqO7.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Kaaris",
+            "Alassane Diong",
+            "Assa Sylla",
+            "Issaka Sawadogo",
+            "Hassam Ghancy"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt26763229"
+    },
+    {
+        "id": 1070449,
+        "title": "Küçük Evren (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/AlGb171snVDa54CCtM1uQ7gcZfh.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Mamadi Barri",
+            "Walid Benziane",
+            "Sabine Berlière",
+            "Romain Bernardin",
+            "Jean-Paul Hazan"
+        ],
+        "country": [
+            "FR",
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt26448811"
     }
 ]
