@@ -13475,5 +13475,41 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt37727295"
+    },
+    {
+        "id": 1482165,
+        "title": "Bloody Trophy (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/iaBfsRdlRjXfSWyjH4KKLPqXDoJ.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt36992507"
+    },
+    {
+        "id": 1359076,
+        "title": "Operation Pope (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/wvNLNMZjSYvnPvIdfMZWZzpBPIW.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Aksiyon",
+            "Tarih"
+        ],
+        "cast": [
+            "Bogusław Linda",
+            "Karolina Gruszka",
+            "Ireneusz Czop",
+            "Dobromir Dymecki",
+            "Adam Woronowicz"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt33996793"
     }
 ]
