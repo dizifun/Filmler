@@ -103658,5 +103658,26 @@
             "VN"
         ],
         "link": "https://vidmody.com/vs/tt12498114"
+    },
+    {
+        "id": 664413,
+        "title": "365 Gün (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jlJsRsfdUocJU5Za7exTIwBDK8E.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Anna-Maria Sieklucka",
+            "Michele Morrone",
+            "Bronisław Wrocławski",
+            "Otar Saralidze",
+            "Magdalena Lamparska"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt10886166"
     }
 ]
