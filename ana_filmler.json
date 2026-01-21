@@ -103378,5 +103378,47 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt12058242"
+    },
+    {
+        "id": 663451,
+        "title": "Cesur Balık Sihirli Dünyada (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/qdqBCfKHo9EjaONFFI79V4msmb1.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Stephen Thomas Ochsner",
+            "Daniil Medvedev",
+            "Лиза Климова",
+            "Bruce Grant",
+            "David Grout"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7892450"
+    },
+    {
+        "id": 651793,
+        "title": "Russian Raid (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/iFzSgwRV7frtWtF2s9rAlqJJCuB.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Ivan Kotik",
+            "Александр Красовский",
+            "Илья Антоненко",
+            "Vladimir Mineev",
+            "Никита Кологривый"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt12425868"
     }
 ]
