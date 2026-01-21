@@ -46866,5 +46866,69 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt28657882"
+    },
+    {
+        "id": 1204812,
+        "title": "Aile (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5LyiadeCXEsoqmph0fZZhoCBWJa.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Daniel Giménez Cacho",
+            "Ilse Salas",
+            "Cassandra Ciangherotti",
+            "Natalia Solián",
+            "Maribel Verdú"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt27828085"
+    },
+    {
+        "id": 906126,
+        "title": "Kar Kardeşliği (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qTETfjO80wRtKIw4vMTVcw1irp5.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Enzo Vogrincic",
+            "Agustín Pardella",
+            "Matías Recalt",
+            "Esteban Bigliardi",
+            "Diego Vegezzi"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt16277242"
+    },
+    {
+        "id": 838240,
+        "title": "Robot Düşleri (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Dram",
+            "Komedi",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Ivan Labanda",
+            "Tito Trifol",
+            "Rafa Calvo",
+            "José García Tos",
+            "José Luis Mediavilla"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt13429870"
     }
 ]
