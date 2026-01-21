@@ -101455,5 +101455,90 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt10272534"
+    },
+    {
+        "id": 613377,
+        "title": "Kaldı 30 Gün (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/okepE7ytt7bWyFdD77Et273sAtt.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Tarek Boudali",
+            "Philippe Lacheau",
+            "Julien Arruti",
+            "Vanessa Guide",
+            "José Garcia"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11206302"
+    },
+    {
+        "id": 651881,
+        "title": "Elveda Aptallar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/e6m9bwuwj6zluvkZgzP5gFSnRyB.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Virginie Efira",
+            "Albert Dupontel",
+            "Nicolas Marié",
+            "Jackie Berroyer",
+            "Philippe Uchan"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10196398"
+    },
+    {
+        "id": 671039,
+        "title": "Rogue City (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg",
+        "year": "2020",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Lannick Gautry",
+            "Stanislas Merhar",
+            "Kaaris",
+            "Jean Reno",
+            "David Belle"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10127684"
+    },
+    {
+        "id": 574094,
+        "title": "Gözyaşlarının Tuzu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/verxtmnSu890aWcTXCZJZ5TjVmm.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Logann Antuofermo",
+            "Oulaya Amamra",
+            "Louise Chevillotte",
+            "Souheila Yacoub",
+            "André Wilms"
+        ],
+        "country": [
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt10132976"
     }
 ]
