@@ -46372,5 +46372,90 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt22964884"
+    },
+    {
+        "id": 805320,
+        "title": "Bird Box Barcelona (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mario Casas",
+            "Georgina Campbell",
+            "Diego Calva",
+            "Naila Schuberth",
+            "Alejandra Howard"
+        ],
+        "country": [
+            "ES",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14400246"
+    },
+    {
+        "id": 1142216,
+        "title": "The Lady of Silence: The Mataviejitas Murders (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wB6ez9v9HzSLplIy6m00SPIkuH7.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [
+            "Juana Barraza",
+            "Ted Bundy",
+            "Jeffrey Dahmer",
+            "Aileen Wuornos",
+            "John Wayne Gacy"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt27640680"
+    },
+    {
+        "id": 1148969,
+        "title": "The (Almost) Legends (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/7CxGBSNxFaXmpVEP6BJYNQyONjW.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Müzik"
+        ],
+        "cast": [
+            "Benny Emmanuel",
+            "Harold Azuara",
+            "Nora Velázquez",
+            "Ana Celeste",
+            "Guillermo Quintanilla"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt21737024"
+    },
+    {
+        "id": 1124624,
+        "title": "Kederle Baş Etmek (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/19CG7aTgNRF8DvM3Cla4Zn2qWzh.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Gisela Ponce de León",
+            "Karina Jordán",
+            "Jely Reategui",
+            "Salvador del Solar",
+            "Norma Martínez"
+        ],
+        "country": [
+            "PE"
+        ],
+        "link": "https://vidmody.com/vs/tt28765467"
     }
 ]
