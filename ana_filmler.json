@@ -45558,5 +45558,89 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt10152488"
+    },
+    {
+        "id": 852445,
+        "title": "Büyük Felaket: Asit Yağmuru (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bihUBeP4XIr3lBhjstSntrasa8s.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Bilim-Kurgu",
+            "Fantastik"
+        ],
+        "cast": [
+            "Guillaume Canet",
+            "Laetitia Dosch",
+            "Patience Munchenbach",
+            "Felicia Talluto",
+            "Marie Jung"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt17569526"
+    },
+    {
+        "id": 1034947,
+        "title": "Banliyö Çocukları 2 (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/o2LE7qy5NFnE1tg9OqQ0Pir638n.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Bakary Diombera",
+            "Jammeh Diangana",
+            "Kadi Diarra",
+            "Alix Mathurin",
+            "Sana Sri"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27045321"
+    },
+    {
+        "id": 859235,
+        "title": "Şans Eseri (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/2WSRPkitpmB6XanRFSgNbpTU4Rj.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Lou de Laâge",
+            "Valérie Lemercier",
+            "Melvil Poupaud",
+            "Niels Schneider",
+            "Elsa Zylberstein"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15140278"
+    },
+    {
+        "id": 944401,
+        "title": "Dogman (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/hZNoJX4niXe1doyVoDsEl7gjWOr.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Caleb Landry Jones",
+            "Jojo T. Gibbs",
+            "Christopher Denham",
+            "Clemens Schick",
+            "John Charles Aguilar"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt17009348"
     }
 ]
