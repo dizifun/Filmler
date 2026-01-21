@@ -395,5 +395,101 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt33088059"
+    },
+    {
+        "id": 1422227,
+        "title": "Aşk Sadece Bir An (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/rwiMs8Lr6FAjvXEiQzTJyxLqZee.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Emirhan Çakal",
+            "Nilsu Berfin Aktaş",
+            "Tuba Ünsal",
+            "Tuana Naz Tiryaki",
+            "Emre Kınay"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt35518081"
+    },
+    {
+        "id": 1250054,
+        "title": "C Takımı 2 (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/1HBhTscXr0HKrBJmweS6OUlAvVs.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Toygan Avanoğlu",
+            "Murat Akkoyunlu",
+            "Sera Tokdemir",
+            "Ömer Kurt",
+            "Hakan Bulut"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt32992562"
+    },
+    {
+        "id": 1502089,
+        "title": "Bir Ömrün Sonbaharı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/iT6yCdZ88cf5mOKzUxnkT1pwF6p.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Eylül Tumbar",
+            "Bilal Yiğit Koçak",
+            "Lal Ensari",
+            "Efe Eroğul",
+            "Sedef Akalın"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt35108470"
+    },
+    {
+        "id": 1392117,
+        "title": "Umami (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/hgT250M6F0o0bUUTyXjEjof6knA.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Burak Deniz",
+            "Öykü Karayel",
+            "Osman Sonant",
+            "Onur Ünsal",
+            "Ulvi Kahyaoğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33305511"
+    },
+    {
+        "id": 1574217,
+        "title": "Zatonya: Yeni Dünya (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/3BWzGykvTrMgwomNCOu2c5Si657.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon"
+        ],
+        "cast": [],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt35742396"
     }
 ]
