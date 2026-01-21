@@ -31259,5 +31259,48 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt30959158"
+    },
+    {
+        "id": 1149920,
+        "title": "Masal Bitti, Ben Büyüdüm 2 (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/tOLMChPGuhNppPVrdNI4f3RrPUr.jpg",
+        "year": "2024",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Maciej Karaś",
+            "Patryk Siemek",
+            "Amelia Fijałkowska",
+            "Dorota Kolak",
+            "Karolina Gruszka"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt31739491"
+    },
+    {
+        "id": 1257130,
+        "title": "Çiftlik Aşkım (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/a8vkHZyzyjHCMU5j1lcm7UkWssy.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Anna Szymańczyk",
+            "Anna Seniuk",
+            "Mateusz Janicki",
+            "Artur Barciś",
+            "Filip Gurłacz"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt31713069"
     }
 ]
