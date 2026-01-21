@@ -103314,5 +103314,69 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt12872350"
+    },
+    {
+        "id": 579824,
+        "title": "Space Dogs: Tropical Adventure (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/tKZ6NRTYHYGDih3NiycRNGHJGg8.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Евгений Миронов",
+            "Сергей Бурунов",
+            "Сергей Шнуров",
+            "Ирина Пегова",
+            "Юлия Пересильд"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt13033280"
+    },
+    {
+        "id": 587609,
+        "title": "Sevgili Yoldaşlar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/yjE7rHZ7fACJSngF6wlA35OuTWP.jpg",
+        "year": "2020",
+        "genres": [
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Юлия Высоцкая",
+            "Sergei Erlish",
+            "Юлия Бурова",
+            "Андрей Гусев",
+            "Владислав Комаров"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt10796286"
+    },
+    {
+        "id": 579805,
+        "title": "Streltsov (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/bLrkreLmW93MoSecHD9UOSLPMlE.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Romantik"
+        ],
+        "cast": [
+            "Александр Петров",
+            "Виктор Добронравов",
+            "Ефим Петрунин",
+            "Виталий Хаев",
+            "Стася Милославская"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt12058242"
     }
 ]
