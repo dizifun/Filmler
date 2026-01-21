@@ -49980,5 +49980,48 @@
             "SE"
         ],
         "link": "https://vidmody.com/vs/tt18312914"
+    },
+    {
+        "id": 1053544,
+        "title": "Abis (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/j85K3H6Vx7yR1eMFn09cJsLiPhr.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Tuva Novotny",
+            "Peter Franzén",
+            "Kardo Razzazi",
+            "Felicia Truedsson",
+            "Angela Kovács"
+        ],
+        "country": [
+            "SE"
+        ],
+        "link": "https://vidmody.com/vs/tt22016156"
+    },
+    {
+        "id": 978783,
+        "title": "Bir Buçuk Gün (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/sDKLmW41pemkahdPFbxkyxOIx34.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Alexej Manvelov",
+            "Alma Pöysti",
+            "Fares Fares",
+            "Stina Ekblad",
+            "Annika Hallin"
+        ],
+        "country": [
+            "SE"
+        ],
+        "link": "https://vidmody.com/vs/tt20414642"
     }
 ]
