@@ -103166,5 +103166,90 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt11394318"
+    },
+    {
+        "id": 514207,
+        "title": "İstila: Zamanın Sonu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/agcNNguu18jZfbvBFRdhLvdWdf8.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Александр Петров",
+            "Ирина Старшенбаум",
+            "Олег Меньшиков",
+            "Риналь Мухаметов",
+            "Юра Борисов"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt8060328"
+    },
+    {
+        "id": 667995,
+        "title": "DAU. Natasha (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3sLtk0S8mIy2q8AEyadNeecvery.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Natalia Berezhnaya",
+            "Olga Shkabarnya",
+            "Vladimir Azhippo",
+            "Alexey Blinov",
+            "Luc Bigé"
+        ],
+        "country": [
+            "GB",
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt11697832"
+    },
+    {
+        "id": 592279,
+        "title": "AK-47 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/lngZUXEhcgtpoyORU827Y13i6Ii.jpg",
+        "year": "2020",
+        "genres": [
+            "Savaş",
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Юра Борисов",
+            "Ольга Лерман",
+            "Артур Смольянинов",
+            "Эльдар Калимулин",
+            "Виталий Хаев"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt11547520"
+    },
+    {
+        "id": 575088,
+        "title": "Baba Yaga:Karanlık Ormanın Terörü (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/72r3FJH0Lv7M52lRcIhDy5wwkin.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Олег Чугунов",
+            "Глафира Голубева",
+            "Артём Жигулин",
+            "Игорь Хрипунов",
+            "Светлана Устинова"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt8006374"
     }
 ]
