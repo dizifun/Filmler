@@ -68973,5 +68973,51 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt11006950"
+    },
+    {
+        "id": 864101,
+        "title": "Mira (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/jV0i5eA0m7809FqAsTBUX0Ihy5S.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Dram",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Анатолий Белый",
+            "Дарья Мороз",
+            "Вероника Устимова",
+            "Максим Лагашкин",
+            "Евгений Егоров"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt15296186"
+    },
+    {
+        "id": 898230,
+        "title": "Karlar Kraliçesi ve Prenses (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/2HBjolAyTV4PANA9E3KrqkbM7ip.jpg",
+        "year": "2022",
+        "genres": [
+            "Macera",
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Polina Voytenko",
+            "Mariia Shustrova",
+            "Irina Chumanteva",
+            "Юрий Романов",
+            "Konstantin Panchenko"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt17164334"
     }
 ]
