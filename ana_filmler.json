@@ -68226,5 +68226,93 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt20168564"
+    },
+    {
+        "id": 626872,
+        "title": "Acil İniş (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/a2vdt1X1J3ckmVmmlrRxvi7y0yf.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "송강호",
+            "이병헌",
+            "전도연",
+            "김남길",
+            "임시완"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt11535228"
+    },
+    {
+        "id": 773867,
+        "title": "Seul 88 (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/zukuy8slSFF1OpokjGtGwuMcAQV.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Komedi"
+        ],
+        "cast": [
+            "유아인",
+            "고경표",
+            "이규형",
+            "박주현",
+            "옹성우"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt13611770"
+    },
+    {
+        "id": 800345,
+        "title": "Carter (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/aGKln9LeFkP30MAiwFiuaMmNvzG.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "주원",
+            "이성재",
+            "정소리",
+            "도영서",
+            "Camilla Belle"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt21237030"
+    },
+    {
+        "id": 727340,
+        "title": "Hunt (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/bvXLSjCkKjPjXBO4xwwqtN4y8qA.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "이정재",
+            "정우성",
+            "전혜진",
+            "허성태",
+            "고윤정"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6931658"
     }
 ]
