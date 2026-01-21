@@ -85375,5 +85375,47 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt15910034"
+    },
+    {
+        "id": 497834,
+        "title": "Tehlikeli Oyun (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/mIoOzU9iTi0EbtLxcT35UN1PkSE.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "巩俐",
+            "趙又廷",
+            "オダギリジョー",
+            "Pascal Greggory",
+            "Tom Wlaschiha"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt8499638"
+    },
+    {
+        "id": 879913,
+        "title": "Altın Gaga ve Macera Çetesi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/ojJZR9gfWypWjhyv1lAiRx3ONH0.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Liu Xingzuo",
+            "Xingliner",
+            "陈浩",
+            "박시윤"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt15257928"
     }
 ]
