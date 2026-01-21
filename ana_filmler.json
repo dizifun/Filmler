@@ -70046,5 +70046,48 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt15022184"
+    },
+    {
+        "id": 947507,
+        "title": "Süper Aile (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/mARMKk4BXHdxp9sCTG4oPYmZZoO.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Hennika Eggum Huuse",
+            "Tobias Santelmann",
+            "Kari Simonsen",
+            "Henriette Marø",
+            "Todd Bishop Monrad Vistven"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt21212718"
+    },
+    {
+        "id": 788734,
+        "title": "İlgi Manyağı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/3foz4JbQH0RvR5mcDXARiKAGMDt.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Kristine Kujath Thorp",
+            "Eirik Sæther",
+            "Fanny Vaager",
+            "Fredrik Stenberg Ditlev-Simonsen",
+            "Sarah Francesca Brænne"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt18816518"
     }
 ]
