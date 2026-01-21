@@ -65855,5 +65855,154 @@
             "BE"
         ],
         "link": "https://vidmody.com/vs/tt14995258"
+    },
+    {
+        "id": 893364,
+        "title": "Belle ve Sebastian: Cesur Dostum (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/hboYDjuFPzYkJpqUb5yP3vLJiqL.jpg",
+        "year": "2022",
+        "genres": [
+            "Macera",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Robinson Mensah-Rouanet",
+            "Caroline Anglade",
+            "Alice David",
+            "Michèle Laroque",
+            "Aurélien Recoing"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt16248144"
+    },
+    {
+        "id": 893369,
+        "title": "Jack Mimoun & the Secrets of Val Verde (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/vWx3Hi7DZ7VWyjWVf9gySG6Lbq4.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Malik Bentalha",
+            "Joséphine Japy",
+            "Jérôme Commandeur",
+            "François Damiens",
+            "Benoît Magimel"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt21249808"
+    },
+    {
+        "id": 919573,
+        "title": "Masum (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/lzPeSK1JqMLll5ORITHnH7dzWG0.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Romantik"
+        ],
+        "cast": [
+            "Louis Garrel",
+            "Roschdy Zem",
+            "Noémie Merlant",
+            "Anouk Grinberg",
+            "Jean-Claude Pautot"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt19841734"
+    },
+    {
+        "id": 786977,
+        "title": "Kötülüğün Kökeni (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/hBPGQkSrNv5Yj78HlPPernyPMIA.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Laure Calamy",
+            "Doria Tillier",
+            "Dominique Blanc",
+            "Jacques Weber",
+            "Suzanne Clément"
+        ],
+        "country": [
+            "CA",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13729232"
+    },
+    {
+        "id": 865498,
+        "title": "Özel Bir Hediye (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/kGMSw3kDzyGAPzAMPBEKAtF3oAh.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Daniel Auteuil",
+            "Jamel Debbouze",
+            "Alice Belaïdi",
+            "Simon Faliu",
+            "Lucie Fabry"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13361648"
+    },
+    {
+        "id": 603204,
+        "title": "Öğle Güneşinde Yıldızlar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/v5hR3B1H8qrgsWrDEixSjSVLqn5.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Suç"
+        ],
+        "cast": [
+            "Margaret Qualley",
+            "Joe Alwyn",
+            "Benny Safdie",
+            "Danny Ramirez",
+            "Nick Romano"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10354106"
+    },
+    {
+        "id": 914203,
+        "title": "Tori ve Lokita (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/dXHC5464oJqmsWrTT60Zg2HY04G.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Pablo Schils",
+            "Joely Mbundu",
+            "Alban Ukaj",
+            "Tijmen Govaerts",
+            "Charlotte De Bruyne"
+        ],
+        "country": [
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt18317064"
     }
 ]
