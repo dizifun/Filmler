@@ -87932,5 +87932,85 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt11534356"
+    },
+    {
+        "id": 751696,
+        "title": "Araf 4: Meryem (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mW2CCBNfVDHiRGLunjO4wwCt1Dx.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Ulukan Agdas",
+            "Zafer Sahin",
+            "Efsun Akkurt",
+            "Onur Yaprakçı"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11962012"
+    },
+    {
+        "id": 682262,
+        "title": "Sabit Kanca: Son Soru (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mwASWfGcoeIBBn8AGO0zoEpBaDD.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "İsmail Baki Tuncer",
+            "Fırat Sobutay",
+            "Zerrin Sümer",
+            "Metin Yıldız",
+            "Barbaros Dikmen"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10994556"
+    },
+    {
+        "id": 683809,
+        "title": "Zengo (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/60Xh1xJPS0M2FyHTmnmUGHwlwLw.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Yasemin Sakallıoğlu",
+            "Dilşah Demir",
+            "Ece İrtem",
+            "Kazim Semih Varol",
+            "Neşe Mengüloğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11261270"
+    },
+    {
+        "id": 799313,
+        "title": "Mendilim Kekik Kokuyor (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/rOQHDZH06xk0Uaf48VNohTlRXIV.jpg",
+        "year": "2020",
+        "genres": [
+            "Savaş"
+        ],
+        "cast": [
+            "Wilma Elles",
+            "Mehmet Çevik",
+            "Başar Alemdar",
+            "Çetin Büyükakın",
+            "Devrim Yakut"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10923534"
     }
 ]
