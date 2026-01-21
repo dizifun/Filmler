@@ -27976,5 +27976,68 @@
             "AR"
         ],
         "link": "https://vidmody.com/vs/tt28769440"
+    },
+    {
+        "id": 1053588,
+        "title": "Jumping The Fence (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/bLzqOr0U65QOj2tgwjFNd5xBYxh.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Moussa Sylla",
+            "Edith Martínez Val",
+            "Éric Nantchouang",
+            "Nansi Nsue",
+            "Vicky Peña"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt15289660"
+    },
+    {
+        "id": 1155605,
+        "title": "Tavşan Deliğinde Fiesta (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/6bAIhLoQsoziSKNp526ZxEUyVQ5.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Manuel Garcia-Rulfo",
+            "Teresa Ruiz",
+            "Miguel Valverde",
+            "Alfredo Gatica",
+            "Pierre Louis"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt27921617"
+    },
+    {
+        "id": 1005681,
+        "title": "Aşk Duvarın Ötesinde (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/2M744maeOhki8otEm2qW8FLlil3.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Aitana",
+            "Fernando Guallar",
+            "Natalia Rodríguez",
+            "Adam Jezierski",
+            "Paco Tous"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt20198716"
     }
 ]
