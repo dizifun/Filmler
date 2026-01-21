@@ -44882,5 +44882,137 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt21627730"
+    },
+    {
+        "id": 643215,
+        "title": "Asteriks ve Oburiks: Orta Krallık (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/mEV57FR3xlMFCMawTYqvSyrRazI.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Guillaume Canet",
+            "Gilles Lellouche",
+            "Vincent Cassel",
+            "Jonathan Cohen",
+            "Julie Chen"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11210390"
+    },
+    {
+        "id": 976293,
+        "title": "Bırak Artık Şu Yalanlarını (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/diyZhmp0MNvBarkGrApMwJGr1Ef.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Guillaume de Tonquédec",
+            "Victor Belmondo",
+            "Guilaine Londez",
+            "Jéremy Gillet",
+            "Julien de Saint Jean"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt18626656"
+    },
+    {
+        "id": 970867,
+        "title": "Dounia and the Princess of Aleppo (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/ghbylpaqHeZcVaxxenx67jTva06.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Macera"
+        ],
+        "cast": [
+            "Rahaf Ataya",
+            "Elza Mardirossian",
+            "Manuel Tadros",
+            "Raïa Haïdar",
+            "Marya Zarif"
+        ],
+        "country": [
+            "CA",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt23327624"
+    },
+    {
+        "id": 1052152,
+        "title": "Cesur Balina Katak (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/e1UJYWLDniMsgN7rua4pKLXGSRY.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Macera"
+        ],
+        "cast": [
+            "Alexandre Bacon",
+            "Nancy Bernier",
+            "Jeff Boudreault",
+            "Benoît Brière",
+            "Jérémie Desbiens"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt13952306"
+    },
+    {
+        "id": 657197,
+        "title": "Büyük Sihir (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/pdwA3FsKPmgdyfyO6gENqB3vfBB.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Müzik"
+        ],
+        "cast": [
+            "Denis Podalydès",
+            "Sergi López",
+            "Noémie Lvovsky",
+            "Rebecca Marder",
+            "Judith Chemla"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt17040210"
+    },
+    {
+        "id": 977506,
+        "title": "Suç Bende (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/md262PEVfypBg6bl4iG4i3iywnO.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Komedi",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Nadia Tereszkiewicz",
+            "Rebecca Marder",
+            "Isabelle Huppert",
+            "Fabrice Luchini",
+            "Dany Boon"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt20330434"
     }
 ]
