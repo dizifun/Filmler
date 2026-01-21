@@ -102395,5 +102395,47 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt7212754"
+    },
+    {
+        "id": 681235,
+        "title": "Torbaaz (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/tiG1YwNax0oTmNpbkdexY5rOBW7.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "संजय दत्त",
+            "Rahul Dev",
+            "Nargis Fakhri",
+            "Gavie Chahal"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt7805960"
+    },
+    {
+        "id": 735919,
+        "title": "AK vs AK (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Aksiyon",
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Anil Kapoor",
+            "Anurag Kashyap",
+            "Sonam Kapoor Ahuja",
+            "Harshvardhan Kapoor",
+            "Boney Kapoor"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt11651796"
     }
 ]
