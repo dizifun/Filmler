@@ -101102,5 +101102,65 @@
             "TN"
         ],
         "link": "https://vidmody.com/vs/tt9648886"
+    },
+    {
+        "id": 575291,
+        "title": "How to Be a Good Wife (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/rSGGW4yKPBQg4kK3ic0aJmzdomP.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Juliette Binoche",
+            "Yolande Moreau",
+            "Noémie Lvovsky",
+            "Édouard Baer",
+            "François Berléand"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10441958"
+    },
+    {
+        "id": 613367,
+        "title": "Çılgın Büyükbabalarım (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/eHwZrgiTDrnTmcsp0x223RwynoN.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Gérard Lanvin",
+            "Olivier Marchal",
+            "Camille Aguilar",
+            "Jean-François Cayrey",
+            "Anne Girouard"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10746876"
+    },
+    {
+        "id": 618260,
+        "title": "Kadın (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/ulEU0WqKdtkL82sEKeYaQtTLqL.jpg",
+        "year": "2020",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Aleksandra Orbeck-Nilssen",
+            "Norma Bastidas",
+            "Gabriela Melgoza",
+            "Virginie Raisson",
+            "Florence de Paz"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7419466"
     }
 ]
