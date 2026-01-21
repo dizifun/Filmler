@@ -63913,5 +63913,48 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt9288822"
+    },
+    {
+        "id": 899112,
+        "title": "Vahşi Gece (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/7ouQ7JOxzBnvXbRuG1Ae6cGu3cs.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "David Harbour",
+            "John Leguizamo",
+            "Beverly D'Angelo",
+            "Alex Hassell",
+            "Alexis Louder"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12003946"
+    },
+    {
+        "id": 744594,
+        "title": "Beyaz Gürültü (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/lIJcWbwTZKxHonMkp3q7EIcRg2I.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Greta Gerwig",
+            "Don Cheadle",
+            "Raffey Cassidy",
+            "Sam Nivola"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6160448"
     }
 ]
