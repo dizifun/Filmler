@@ -46622,5 +46622,162 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt15789472"
+    },
+    {
+        "id": 816707,
+        "title": "Haşarat (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/nW0RO1nWsPMd8kNq2hMq4xZEglg.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Jordi Sánchez",
+            "Carlos Areces",
+            "Loles León",
+            "Silvia Abril",
+            "Carmina Barrios"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt14443260"
+    },
+    {
+        "id": 744857,
+        "title": "When Evil Lurks (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/9Ly4S99McgnhO50XikTGguPFNvo.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ezequiel Rodríguez",
+            "Demián Salomón",
+            "Silvina Sabater",
+            "Luis Ziembrowski",
+            "Marcelo Michinaux"
+        ],
+        "country": [
+            "AR",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16300962"
+    },
+    {
+        "id": 955531,
+        "title": "Rahibe Ölüm (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zLXbSwqLp9V4F0LTMehDmZMJDhE.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Korku"
+        ],
+        "cast": [
+            "Aria Bedmar",
+            "Maru Valdivielso",
+            "Luisa Merelas",
+            "Almudena Amor",
+            "Chelo Vivares"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt19175696"
+    },
+    {
+        "id": 1179664,
+        "title": "A Deadly Invitation (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/gayPKa9VThZRqSd3OKeqUTaZfyp.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Gizem"
+        ],
+        "cast": [
+            "Regina Blandón",
+            "Maribel Verdú",
+            "Juan Pablo de Santiago",
+            "Manolo Cardona",
+            "Aarón Díaz"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt13022120"
+    },
+    {
+        "id": 928118,
+        "title": "Film Anlatıcısı Kız (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qCyMdwaiebq6QKEnKRVuYmm0ths.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Bérénice Bejo",
+            "Antonio de la Torre",
+            "Daniel Brühl",
+            "Sara Becker",
+            "Alondra Valenzuela"
+        ],
+        "country": [
+            "CL",
+            "ES",
+            "FR",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt1661236"
+    },
+    {
+        "id": 989589,
+        "title": "Sömürgeciler (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5kYF9g8xqzr5twOhUmoI8EFlKnW.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Camilo Arancibia",
+            "Heinz K. Krattiger",
+            "Mark Stanley",
+            "Alfredo Castro",
+            "Benjamín Westfall"
+        ],
+        "country": [
+            "AR",
+            "CL",
+            "DK",
+            "FR",
+            "DE",
+            "SE",
+            "TW",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt10370812"
+    },
+    {
+        "id": 1117006,
+        "title": "Me contro Te: Il film - Vacanze in Transilvania (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/cFLK3rDmeoN9ovaqfkVTRlJS9Iw.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Sofia Scalia",
+            "Luigi Calagna",
+            "Michele Savoia",
+            "Pierpaolo Zizzi",
+            "Antonella Carone"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt27715920"
     }
 ]
