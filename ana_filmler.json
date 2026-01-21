@@ -85112,5 +85112,49 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt14895216"
+    },
+    {
+        "id": 604360,
+        "title": "Sekizinci Gece (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/a11TdGOWqASvbeMs7q0a1YLa5K.jpg",
+        "year": "2021",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "이성민",
+            "남다름",
+            "박해준",
+            "Kim You-jung",
+            "김동영"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt14781176"
+    },
+    {
+        "id": 845222,
+        "title": "Kingdom: Ashin of the North (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/dBz61uAt6xjJt4yqhiZXQt0a1bB.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Fantastik",
+            "Gerilim"
+        ],
+        "cast": [
+            "전지현",
+            "박병은",
+            "김시아",
+            "김뢰하",
+            "구교환"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt13412252"
     }
 ]
