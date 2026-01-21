@@ -102980,5 +102980,46 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt10941528"
+    },
+    {
+        "id": 714099,
+        "title": "Miss Marx (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/lfXx51cfTgvYWb8gp6nHZwPVjEm.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Romola Garai",
+            "Patrick Kennedy",
+            "John Gordon Sinclair",
+            "Felicity Montagu",
+            "Karina Fernandez"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt11009666"
+    },
+    {
+        "id": 669665,
+        "title": "Babamız (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mqIvzYu42Fwjx2InWcyD5XialvD.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Pierfrancesco Favino",
+            "Barbara Ronchi",
+            "Francesco Gheghi",
+            "Mattia Garaci",
+            "Marco Pancrazi"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt10798072"
     }
 ]
