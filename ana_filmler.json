@@ -11548,5 +11548,48 @@
             "CH"
         ],
         "link": "https://vidmody.com/vs/tt32204858"
+    },
+    {
+        "id": 1303227,
+        "title": "Başka Bir Alman Tankı Hikâyesi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/vF82SF3NsMUngg4DrRmjrYwDlYS.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Johannes Scheidweiler",
+            "Meike Droste",
+            "Monika Lennartz",
+            "Roland Bonjour",
+            "Alexander Schuster"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt32485941"
+    },
+    {
+        "id": 1233069,
+        "title": "Dokunulmazlık (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/myobUMFqh0h8E72Uw4dRFnJ3t9w.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Jeanne Goursaud",
+            "Dougray Scott",
+            "Lera Abova",
+            "Emanuel Fellmer",
+            "Annabelle Mandeng"
+        ],
+        "country": [
+            "AT",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt30876483"
     }
 ]
