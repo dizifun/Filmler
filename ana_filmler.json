@@ -28839,5 +28839,49 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt28833698"
+    },
+    {
+        "id": 996064,
+        "title": "The Trail (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/vnCJHouRyOfVJZ2XFLS5hgb8cd6.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Bilim-Kurgu",
+            "Macera"
+        ],
+        "cast": [
+            "Corinna Pumm",
+            "Paul Hassler",
+            "Stefan Schnuderl",
+            "Julia Foidl",
+            "Sophia Grabner"
+        ],
+        "country": [
+            "AT"
+        ],
+        "link": "https://vidmody.com/vs/tt6232306"
+    },
+    {
+        "id": 1209130,
+        "title": "Hagen (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/eQ1nTnV6neOhBeDJj87IUHDLwb0.jpg",
+        "year": "2024",
+        "genres": [
+            "Fantastik",
+            "Macera",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Gijs Naber",
+            "Jannis Niewöhner",
+            "Lilja van der Zwaag",
+            "Dominic Marcus Singer",
+            "Rosalinde Mynster"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt6176336"
     }
 ]
