@@ -46779,5 +46779,92 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt27715920"
+    },
+    {
+        "id": 948038,
+        "title": "Elena Biliyor (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/msBqpMwotbdLYrbHNrr3gSBN952.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Mercedes Morán",
+            "Érica Rivas",
+            "Mercedes Scápola",
+            "Miranda de la Serna",
+            "Marcos Montes"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt28081899"
+    },
+    {
+        "id": 1202841,
+        "title": "Ünlü Stilistin Gizemli Ölümü (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zcCa5KmcLGDang6qZP5RdZgDddz.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Alejandro Gómez",
+            "Johan Velandia",
+            "Myriam De Lourdes",
+            "Juana del Río",
+            "Walter Luengas"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt29692772"
+    },
+    {
+        "id": 1145810,
+        "title": "I Don't Expect Anyone to Believe Me (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/hU2EUVy0SkYVIX8dScHTpsC8cdB.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Dario Yazbek Bernal",
+            "Natalia Solián",
+            "Anna Castillo",
+            "Alexis Ayala",
+            "Carmen Beato"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt21738294"
+    },
+    {
+        "id": 1175343,
+        "title": "Hurricane Season (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qsuwnCDwFgHyCfGYub6QeynXelD.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Edgar Treviño",
+            "Andrés Cordaz",
+            "Ernesto Meléndez",
+            "Kat Rigoni",
+            "Paloma Alvamar"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt28657882"
     }
 ]
