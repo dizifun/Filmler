@@ -28214,5 +28214,133 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt31227161"
+    },
+    {
+        "id": 1125510,
+        "title": "The Platform 2 (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/jHGgM019xAoy62cKZtDmTxvQlUY.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim-Kurgu",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Milena Smit",
+            "Hovik Keuchkerian",
+            "Natalia Tena",
+            "Óscar Jaenada",
+            "Ivan Massagué"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt27729779"
+    },
+    {
+        "id": 1247458,
+        "title": "Paralel Hayatlar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/s62A9nTJIqU9JKmjAnADISejSBq.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Elisa Zulueta",
+            "Francisca Lewin",
+            "Gabriel Urzúa",
+            "Marcial Tagle",
+            "Pablo Macaya"
+        ],
+        "country": [
+            "CL"
+        ],
+        "link": "https://vidmody.com/vs/tt31796256"
+    },
+    {
+        "id": 1233083,
+        "title": "Hotel Bitcoin (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/yGZfoYDHOIJbK9IQtXTlnshtuP6.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Alejo Sauras",
+            "Marta Hazas",
+            "Pablo Chiapella",
+            "Canco Rodríguez",
+            "Vanesa Romero"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt31308426"
+    },
+    {
+        "id": 1118028,
+        "title": "Kızıl Bakire (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/px23WWIZlWqo94E6gWF4QBv4JFG.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Gerilim"
+        ],
+        "cast": [
+            "Najwa Nimri",
+            "Alba Planas",
+            "Aixa Villagrán",
+            "Patrick Criado",
+            "Pepe Viyuela"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt27599713"
+    },
+    {
+        "id": 1362648,
+        "title": "The Initiated: Written from the Shadows (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/6340ZG3qHfS7q8ES5rwf4AQ0U1w.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Andrés Parra",
+            "Ángela Cano",
+            "Christian Tappán",
+            "Cristina Umaña",
+            "Jorge Cao"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt31187064"
+    },
+    {
+        "id": 1069387,
+        "title": "Pedro Páramo (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/lpl7d2ALW2TkPt7ziXPGxGJrU0h.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Fantastik",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Manuel Garcia-Rulfo",
+            "Tenoch Huerta Mejía",
+            "Dolores Heredia",
+            "Ilse Salas",
+            "Héctor Kotsifakis"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt27717667"
     }
 ]
