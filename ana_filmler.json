@@ -102834,5 +102834,50 @@
             "HK"
         ],
         "link": "https://vidmody.com/vs/tt10508838"
+    },
+    {
+        "id": 508935,
+        "title": "Sekiz Yüz (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/r0uFJBsR5HtYfwFekGOr74qeyWG.jpg",
+        "year": "2020",
+        "genres": [
+            "Savaş",
+            "Tarih",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "王千源",
+            "张译",
+            "黄志忠",
+            "姜武",
+            "歐豪"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt7294150"
+    },
+    {
+        "id": 734355,
+        "title": "Monster Run (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/6T0ybhl06K9dpqDnpznZyHgRPh.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "余文樂",
+            "春夏",
+            "惠英紅",
+            "喬杉",
+            "Tu Men"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt10097484"
     }
 ]
