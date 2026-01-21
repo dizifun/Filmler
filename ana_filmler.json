@@ -35430,5 +35430,797 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt12823454"
+    },
+    {
+        "id": 700391,
+        "title": "65 (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/tDxU6Y7tloddXBsQGJ6UC8sZRLG.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Ariana Greenblatt",
+            "Chloe Coleman",
+            "Nika King",
+            "Brian Dare"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12261776"
+    },
+    {
+        "id": 800787,
+        "title": "Yeniden Başla (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Florence Pugh",
+            "Morgan Freeman",
+            "Molly Shannon",
+            "Celeste O'Connor",
+            "Zoe Lister-Jones"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14153080"
+    },
+    {
+        "id": 714964,
+        "title": "Küçük Bir Beyaz Yalan (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/ne9ninjEnyaRkZQnNAZuPVYgpgu.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Michael Shannon",
+            "Kate Hudson",
+            "Don Johnson",
+            "Da'Vine Joy Randolph",
+            "Mark Boone Junior"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4225012"
+    },
+    {
+        "id": 855263,
+        "title": "Dünyaya Karşı İkimiz (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/h9v3mwCZoH8apyczNMgBI0TfFJV.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Teyana Taylor",
+            "William Catlett",
+            "Josiah Cross",
+            "Aven Courtney",
+            "Aaron Kingsley Adetola"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12427158"
+    },
+    {
+        "id": 964913,
+        "title": "Acidman (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qzd14POdi80yv6kQ7w4vHAGPGF5.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Dianna Agron",
+            "Thomas Haden Church",
+            "Sameerah Luqmaan-Harris",
+            "Miranda O'Brien",
+            "Nicholas Clary"
+        ],
+        "country": [
+            "RU",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt19757912"
+    },
+    {
+        "id": 1094844,
+        "title": "Ape vs Mecha Ape (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dJaIw8OgACelojyV6YuVsOhtTLO.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Tom Arnold",
+            "Anna Telfer",
+            "Lisa Ellee",
+            "Jack Pearson",
+            "Corbin Timbrook"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt26785742"
+    },
+    {
+        "id": 1081662,
+        "title": "İçimdeki Şeytan (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/znKhqO9MjWmHwbRcLvOhQt7TeEq.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Hadley Robinson",
+            "Emily Hampshire",
+            "Kausar Mohammed",
+            "Brandon Mychal Smith",
+            "Desmin Borges"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt17202164"
+    },
+    {
+        "id": 555285,
+        "title": "Orada Mısın Tanrım? Benim, Margaret (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/2dbEFe9EXxVFGnQF2dI9tMZIllh.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Abby Ryder Fortson",
+            "Rachel McAdams",
+            "Kathy Bates",
+            "Elle Graham",
+            "Benny Safdie"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9185206"
+    },
+    {
+        "id": 1003579,
+        "title": "Batman: Gotham'a Gelen Kıyamet (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/sKWN5ZzDxnfVixUavs09HfBCCA3.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aksiyon",
+            "Gizem"
+        ],
+        "cast": [
+            "David Giuntoli",
+            "Patrick Fabian",
+            "John DiMaggio",
+            "Karan Brar",
+            "Navid Negahban"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt24223450"
+    },
+    {
+        "id": 881164,
+        "title": "Boston Strangler (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Keira Knightley",
+            "Carrie Coon",
+            "Chris Cooper",
+            "Alessandro Nivola",
+            "Rory Cochrane"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2560078"
+    },
+    {
+        "id": 996569,
+        "title": "Brother (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/yqd1CmwaXQkLXVLsO2cqiExplb1.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Lamar Johnson",
+            "Aaron Pierre",
+            "Kiana Madeira",
+            "Marsha Stephanie Blake",
+            "Lovell Adams-Gray"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt15474896"
+    },
+    {
+        "id": 933419,
+        "title": "Şampiyonlar (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bM8O8rHYmCykyvZ8OJjN6FApJTT.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Woody Harrelson",
+            "Kaitlin Olson",
+            "Cheech Marin",
+            "Matt Cook",
+            "Ernie Hudson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15339570"
+    },
+    {
+        "id": 776098,
+        "title": "Chang Can Dunk (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/ohaIkrTd47z43IuLlwwNg7bi96c.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Bloom Li",
+            "Ben Wang",
+            "Zoë Renee",
+            "Mardy Ma",
+            "Dexter Darden"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13650494"
+    },
+    {
+        "id": 1085103,
+        "title": "Clock (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bkPpmNSdbRIgtscqH86BQFLJXcz.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Dianna Agron",
+            "Melora Hardin",
+            "Jay Ali",
+            "Grace Porter",
+            "Saul Rubinek"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt17219484"
+    },
+    {
+        "id": 677179,
+        "title": "Creed III: Efsane Devam Ediyor (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/vTfR6I2Y5iUu4PmB8ypbW9T9OEp.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Michael B. Jordan",
+            "Tessa Thompson",
+            "Jonathan Majors",
+            "Phylicia Rashād",
+            "Mila Davis-Kent"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11145118"
+    },
+    {
+        "id": 981848,
+        "title": "Double Threat (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5Z9KqbOA8WbInbmB0TsO62L7QIy.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "Danielle Chuchran",
+            "Matthew Lawrence",
+            "Kevin Joy",
+            "Mo Gallini",
+            "Dawn Olivieri"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13302660"
+    },
+    {
+        "id": 1072799,
+        "title": "Down Low (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/gP7cVHCwvyGeo9jMuA7gfkMeDKX.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Zachary Quinto",
+            "Lukas Gage",
+            "Sebastian Arroyo",
+            "Judith Light",
+            "Simon Rex"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14592044"
+    },
+    {
+        "id": 1095940,
+        "title": "Do Your Worst (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/xUxbUuCjh9T0vUeiPrNn7zoiONr.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Shannon Esra",
+            "Kate Liquorish",
+            "Wayne Van Rooyen",
+            "Rea Rangaka",
+            "Sharon Spiegel-Wagner"
+        ],
+        "country": [
+            "ZA"
+        ],
+        "link": "https://vidmody.com/vs/tt27032785"
+    },
+    {
+        "id": 1100597,
+        "title": "Doc Holliday (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/WDFGoUnX1JjCJS3pzKPknc6dBJ.jpg",
+        "year": "2023",
+        "genres": [
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Tom Zembrod",
+            "Billy Blair",
+            "Stephen Brodie",
+            "Robert Keith",
+            "Derrick Redford"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21340016"
+    },
+    {
+        "id": 493529,
+        "title": "Zindanlar ve Ejderhalar: Hırsızlar Arasında Onur (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/Aa4I4p7JGZfpLqwzdr1SwKODkGG.jpg",
+        "year": "2023",
+        "genres": [
+            "Macera",
+            "Fantastik",
+            "Komedi"
+        ],
+        "cast": [
+            "Chris Pine",
+            "Michelle Rodriguez",
+            "Justice Smith",
+            "Sophia Lillis",
+            "Hugh Grant"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2906216"
+    },
+    {
+        "id": 626332,
+        "title": "Flamin' Hot (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Jesse García",
+            "Annie Gonzalez",
+            "Emilio Rivera",
+            "Vanessa Martinez",
+            "Dennis Haysbert"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8105234"
+    },
+    {
+        "id": 943788,
+        "title": "Kara Ayin (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/k7HA1LgpGtAGDHPpdRzycI4M8ab.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Anna Camp",
+            "John Ales",
+            "Jennifer Lafleur",
+            "Travis Hammer",
+            "Eduardo Campirano III"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13497984"
+    },
+    {
+        "id": 913740,
+        "title": "Guardians of Time (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/hpbpga8Rkwgku5HlxgsGnOoWlvY.jpg",
+        "year": "2023",
+        "genres": [
+            "Macera",
+            "Fantastik",
+            "Aksiyon",
+            "Aile",
+            "Gizem"
+        ],
+        "cast": [
+            "Samantha Ryan",
+            "Ava Torres",
+            "Carley Coleman",
+            "Nia Salaam",
+            "Skip Schwink"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10580188"
+    },
+    {
+        "id": 761851,
+        "title": "His Only Son (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/e85UDGmD9HmKcS0BOgoha029bkK.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Nicolas Mouawad",
+            "Sara Seyed",
+            "Scot Cooper",
+            "Luis Fernandez-Gil",
+            "Orestes Sophocleous"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8277246"
+    },
+    {
+        "id": 1071976,
+        "title": "Buz Fırtınası (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/lWwaW9Nt3u4zs61AnKiktgrD2jU.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Korku",
+            "TV film"
+        ],
+        "cast": [
+            "McKenzie Westmore",
+            "Grant Bowler",
+            "Tyler Christopher",
+            "William Baldwin",
+            "Tori Griffith"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt25012890"
+    },
+    {
+        "id": 958196,
+        "title": "İçeride (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/tayHRAWq3GXhqeLdYlm4azDjPKr.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Willem Dafoe",
+            "Gene Bervoets",
+            "Eliza Stuyck",
+            "Andrew Blumenthal",
+            "Vincent Eaton"
+        ],
+        "country": [
+            "GR"
+        ],
+        "link": "https://vidmody.com/vs/tt14781036"
+    },
+    {
+        "id": 603692,
+        "title": "John Wick: Chapter 4 (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/6jS780bEkQRPLEPWvZ0MGQ0EI4j.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Keanu Reeves",
+            "Donnie Yen",
+            "Bill Skarsgård",
+            "Ian McShane",
+            "Laurence Fishburne"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10366206"
+    },
+    {
+        "id": 516806,
+        "title": "Son Nöbetçi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/pD1o9B0ibENdNroYrBCQemG2jnr.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Kate Bosworth",
+            "Lucien Laviscount",
+            "Martin McCann",
+            "Thomas Kretschmann",
+            "Ben Pullen"
+        ],
+        "country": [
+            "GB",
+            "EE"
+        ],
+        "link": "https://vidmody.com/vs/tt5153956"
+    },
+    {
+        "id": 765904,
+        "title": "Linoleum (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/lAdPsBMnP5ctvKavQY9y8JazygK.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Jim Gaffigan",
+            "Rhea Seehorn",
+            "Katelyn Nacon",
+            "Gabriel Rush",
+            "Amy Hargreaves"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13483866"
+    },
+    {
+        "id": 953365,
+        "title": "Geçmişe Sünger (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/vzREoP8Gjw5ZazzBaNKKh4zigcV.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Jane Fonda",
+            "Lily Tomlin",
+            "Malcolm McDowell",
+            "Richard Roundtree",
+            "Sarah Burns"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15488088"
+    },
+    {
+        "id": 638974,
+        "title": "Murder Mystery 2 (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg",
+        "year": "2023",
+        "genres": [
+            "Gizem",
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Jennifer Aniston",
+            "Mark Strong",
+            "Mélanie Laurent",
+            "Jodie Turner-Smith"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15255288"
+    },
+    {
+        "id": 878375,
+        "title": "Umut Kanatları (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/8GTJwaC2CeNa0Zg6QrPLwrfurpZ.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Dennis Quaid",
+            "Heather Graham",
+            "Jesse Metcalfe",
+            "Tonglan Qiu",
+            "Abigail Rhyne"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13929998"
+    },
+    {
+        "id": 855262,
+        "title": "Pinball: The Man Who Saved the Game (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/gjGphbx4ZDwAYYWImpY427KGw7B.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Tarih",
+            "Romantik"
+        ],
+        "cast": [
+            "Mike Faist",
+            "Crystal Reed",
+            "Dennis Boutsikaris",
+            "Christopher Convery",
+            "Connor Ratliff"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13365876"
+    },
+    {
+        "id": 932430,
+        "title": "Prom Pact (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Peyton Elizabeth Lee",
+            "Milo Manheim",
+            "Blake Draper",
+            "Monique A. Green",
+            "Arica Himmel"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt17321230"
+    },
+    {
+        "id": 1080917,
+        "title": "ReBroken (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/fRzhUijVlR4M545TsBRy99yZil9.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Scott Hamm Duenas",
+            "Kipp Tribble",
+            "Alison Haislip",
+            "Tobin Bell",
+            "Nija Okoro"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15293102"
+    },
+    {
+        "id": 1061855,
+        "title": "Bak Şu Leyleğe 2: Zümrüt Taşının Peşinde (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wHU1sHJtiabe4r2NLJzwu0VDtjm.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Jonathan Failla",
+            "Jeffrey Hylton",
+            "Dulcie Smart",
+            "Erik Hansen",
+            "Mala Ghedia"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt14514964"
+    },
+    {
+        "id": 1049638,
+        "title": "Rye Lane (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/int5eEKNc8g0V5i3XYaPeaC6paD.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "David Jonsson",
+            "Vivian Oparah",
+            "Poppy Allen-Quarmby",
+            "Simon Manyonda",
+            "Benjamin Sarpong-Broni"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt15893750"
     }
 ]
