@@ -97206,5 +97206,639 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt2222042"
+    },
+    {
+        "id": 763531,
+        "title": "Meeting (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/zRPgRhmmCZm8aksVd2QjpJQdCFI.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Korku"
+        ],
+        "cast": [
+            "Stephen Schreiber",
+            "Ava Amande",
+            "Bhrina Bache",
+            "Portia Booroff",
+            "Nalan Burgess"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt7361504"
+    },
+    {
+        "id": 665764,
+        "title": "Mogul Mowgli (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/n65YDWlWUoNFOYGdFIAs3TlyWo3.jpg",
+        "year": "2020",
+        "genres": [
+            "Müzik",
+            "Dram"
+        ],
+        "cast": [
+            "Riz Ahmed",
+            "Aiysha Hart",
+            "Anjana Vasan",
+            "Nabhaan Rizwan",
+            "Alyy Khan"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9892094"
+    },
+    {
+        "id": 757451,
+        "title": "Çoğu Erkek Eziktir (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/35WoBawcfxuYTQo2jBC4SfjG3xq.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Andy Buckley",
+            "Mira Sorvino",
+            "Michael Provost",
+            "Grace Caroline Currey",
+            "Keith David"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11084664"
+    },
+    {
+        "id": 643550,
+        "title": "Nocturne (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/zJNFiWBGYSMbfTAk6Ygqdj6Rahq.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Sydney Sweeney",
+            "Madison Iseman",
+            "Jacques Colimon",
+            "Ivan Shaw",
+            "John Rothman"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11044858"
+    },
+    {
+        "id": 688258,
+        "title": "Occupation: Rainfall (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/vpq8XjZ3ZalcbqWOYIdqcV7FbIJ.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Dan Ewing",
+            "Jet Tranter",
+            "Temuera Morrison",
+            "Ken Jeong",
+            "Jason Isaacs"
+        ],
+        "country": [
+            "AU",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8615822"
+    },
+    {
+        "id": 575417,
+        "title": "On the Rocks (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Bill Murray",
+            "Rashida Jones",
+            "Marlon Wayans",
+            "Jessica Henwick",
+            "Jenny Slate"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9606374"
+    },
+    {
+        "id": 560050,
+        "title": "Bir Ay Masalı (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/kYUZzmcDsghQQHCw3vaenM0FR7b.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Cathy Ang",
+            "Phillipa Soo",
+            "Robert G. Chiu",
+            "Ken Jeong",
+            "John Cho"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7488208"
+    },
+    {
+        "id": 548755,
+        "title": "Percy (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/tcSldNnc8KgbBVcMlUkUA19isv5.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Christopher Walken",
+            "Roberta Maxwell",
+            "Christina Ricci",
+            "Zach Braff",
+            "Adam Beach"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8976696"
+    },
+    {
+        "id": 670428,
+        "title": "PG: Psycho Goreman (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/byvJImlUrJv9l0FNSeaSGgbqNYw.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Komedi",
+            "Korku"
+        ],
+        "cast": [
+            "Nita-Josee Hanna",
+            "Owen Myre",
+            "Matthew Ninaber",
+            "Steven Vlahos",
+            "Adam Brooks"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt11252440"
+    },
+    {
+        "id": 651610,
+        "title": "Pixie (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/zvQpvZneVLM3dssUyqYvnQsHovk.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Olivia Cooke",
+            "Ben Hardy",
+            "Daryl McCormack",
+            "Colm Meaney",
+            "Alec Baldwin"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt10831086"
+    },
+    {
+        "id": 435615,
+        "title": "Possessor (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Andrea Riseborough",
+            "Christopher Abbott",
+            "Jennifer Jason Leigh",
+            "Sean Bean",
+            "Tuppence Middleton"
+        ],
+        "country": [
+            "CA",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5918982"
+    },
+    {
+        "id": 461115,
+        "title": "Radium Girls (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/dAm0OgBJIuWq5HU9r3iQCenYuvA.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Joey King",
+            "Abby Quinn",
+            "Cara Seymour",
+            "Scott Shepherd",
+            "Susan Heyward"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6317180"
+    },
+    {
+        "id": 659994,
+        "title": "İnatçılar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/o2WkyqJE2QiXkFPi8MZiYUiwbeL.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Sam Neill",
+            "Michael Caton",
+            "Miranda Richardson",
+            "Wayne Blair",
+            "Asher Keddie"
+        ],
+        "country": [
+            "AU"
+        ],
+        "link": "https://vidmody.com/vs/tt8737608"
+    },
+    {
+        "id": 665894,
+        "title": "Gerçekten Aşk (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/hqqEHkLUdOyoDYcvXi0lUEeQ748.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Kofi Siriboe",
+            "Yootha Wong-Loi-Sing",
+            "Uzo Aduba",
+            "Tristan Mack Wilds",
+            "Naturi Naughton"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8722624"
+    },
+    {
+        "id": 505379,
+        "title": "Rebecca (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Lily James",
+            "Armie Hammer",
+            "Kristin Scott Thomas",
+            "Keeley Hawes",
+            "Ann Dowd"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt2235695"
+    },
+    {
+        "id": 707408,
+        "title": "Rent-A-Pal (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/wFaO4uc8po7uNCTSdvbqduMTyuu.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Brian Landis Folkins",
+            "Wil Wheaton",
+            "Kathleen Brady",
+            "Amy Rutledge",
+            "Adrian Egolf"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12274228"
+    },
+    {
+        "id": 531219,
+        "title": "Cadılar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Fantastik",
+            "Aile",
+            "Korku"
+        ],
+        "cast": [
+            "Anne Hathaway",
+            "Octavia Spencer",
+            "Stanley Tucci",
+            "Jahzir Bruno",
+            "Chris Rock"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt0805647"
+    },
+    {
+        "id": 606876,
+        "title": "Rifkin'in Festivali (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/4RZEvJr4S1dHkPvPWfZMa15hGV.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Wallace Shawn",
+            "Gina Gershon",
+            "Louis Garrel",
+            "Elena Anaya",
+            "Enrique Arce"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8593904"
+    },
+    {
+        "id": 731587,
+        "title": "Rose: A Love Story (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3OoqaAsZjC8FkyrQd8IQC51qTHR.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Sophie Rundle",
+            "Matt Stokoe",
+            "Olive Gray",
+            "Nathan McMullen",
+            "Boadicea Ricketts"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9643228"
+    },
+    {
+        "id": 575776,
+        "title": "Azize (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/o9UkgVMTFLRkjmcfnihQPyQhOmZ.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Morfydd Clark",
+            "Jennifer Ehle",
+            "Lily Frazer",
+            "Lily Knight",
+            "Rosie Sansom"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt7557108"
+    },
+    {
+        "id": 653569,
+        "title": "Kendini Kurtar! (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/f8BNXoUUMSZlhJWXcE7Kzj2k5rU.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Sunita Mani",
+            "John Reynolds",
+            "Ben Sinclair",
+            "John Early",
+            "Jo Firestone"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7873348"
+    },
+    {
+        "id": 572751,
+        "title": "Rehin (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/A4SHHEf6MH1Z1GmUZBtHwJL7YbY.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Macera"
+        ],
+        "cast": [
+            "Scott Adkins",
+            "Mario Van Peebles",
+            "Matthew Garbacz",
+            "Steven Elder",
+            "James P. Bennett"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7221772"
+    },
+    {
+        "id": 637053,
+        "title": "Shithouse (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/lyOajZgP8Iy3JdVgvaiBv9K5OMH.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Cooper Raiff",
+            "Dylan Gelula",
+            "Amy Landecker",
+            "Logan Miller",
+            "Olivia Scott Welch"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11618536"
+    },
+    {
+        "id": 670439,
+        "title": "Gece Yarısına Altı Dakika (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/hOdW30Yk3aAmiWGjbfeNJ316QQY.jpg",
+        "year": "2020",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Eddie Izzard",
+            "Carla Juri",
+            "James D'Arcy",
+            "Celyn Jones",
+            "David Schofield"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5114840"
+    },
+    {
+        "id": 560144,
+        "title": "Yukarıdaki Tehlike 3 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Lindsey Morgan",
+            "Alexander Siddig",
+            "Rhona Mitra",
+            "Daniel Bernhardt",
+            "Yayan Ruhian"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9387250"
+    },
+    {
+        "id": 621151,
+        "title": "Büyü (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/gHRJEytSHEfPgliMShcbWfp11pE.jpg",
+        "year": "2020",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Fantastik"
+        ],
+        "cast": [
+            "Omari Hardwick",
+            "Loretta Devine",
+            "John Beasley",
+            "Peter Butler",
+            "Lorraine Burroughs"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10736580"
+    },
+    {
+        "id": 604578,
+        "title": "Doğaçlama (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/aCWrzHFYfAkpvOGYyZYeGO9foGp.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Korku"
+        ],
+        "cast": [
+            "Katherine Langford",
+            "Charlie Plummer",
+            "Yvonne Orji",
+            "Hayley Law",
+            "Piper Perabo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5774062"
+    },
+    {
+        "id": 739123,
+        "title": "Tales from the Hood 3 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/fT27GgfhKys7aLqXIzhIdv5RLBT.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Tony Todd",
+            "London Brown",
+            "Cooper Huckabee",
+            "Patrick Abellard",
+            "Sage Arrindell"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11453082"
+    },
+    {
+        "id": 549294,
+        "title": "Senkronik (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/wgm4gdJwb7iSYX0uBsRAZmHQmPm.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Anthony Mackie",
+            "Jamie Dornan",
+            "Katie Aselton",
+            "Alexia Ioannides",
+            "Ramiz Monsef"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9016974"
     }
 ]
