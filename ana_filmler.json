@@ -67426,5 +67426,49 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt13793230"
+    },
+    {
+        "id": 601635,
+        "title": "Laal Singh Chaddha (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/qqBB1tAi345mXMhLwLJpd7LWLRP.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Aamir Khan",
+            "करीना कपूर खान",
+            "Naga Chaitanya Akkineni",
+            "Mona Singh",
+            "Manav Vij"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt10028196"
+    },
+    {
+        "id": 796207,
+        "title": "Dobaaraa (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/5OIuQ4d7YqeQVg9vUnWINSJekB1.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Taapsee Pannu",
+            "Pavail Gulati",
+            "Aarriant Sawant",
+            "Rahul Bhat",
+            "Saswata Chatterjee"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt14042066"
     }
 ]
