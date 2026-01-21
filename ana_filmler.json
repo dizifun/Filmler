@@ -102288,5 +102288,27 @@
             "AT"
         ],
         "link": "https://vidmody.com/vs/tt13279528"
+    },
+    {
+        "id": 765123,
+        "title": "Noel Çatışması (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/z8rmPRdNDrvxFPNZSCwTRPMmsrS.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Kostja Ullmann",
+            "Alli Neumann",
+            "Detlev Buck",
+            "Peter Kurth",
+            "Sophia Thomalla"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt13446424"
     }
 ]
