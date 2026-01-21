@@ -31730,5 +31730,48 @@
             "DK"
         ],
         "link": "https://vidmody.com/vs/tt31828433"
+    },
+    {
+        "id": 1020896,
+        "title": "Handling the Undead (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/yp2JCSJbMMpLXMy45dM2wtUi8hP.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Renate Reinsve",
+            "Anders Danielsen Lie",
+            "Bahar Pars",
+            "Bjørn Sundquist",
+            "Denise Trankalis"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt2118648"
+    },
+    {
+        "id": 1120383,
+        "title": "Victoria Must Go (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/bLQiuka5p4vrRUt7ES5G4HDQz8A.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Ine Marie Wilmann",
+            "Arthur Berning",
+            "Anette Hoff",
+            "Morten Svartveit",
+            "Mille Sophie Rist Dalhaug"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt28335348"
     }
 ]
