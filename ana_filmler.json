@@ -49513,5 +49513,68 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt26369131"
+    },
+    {
+        "id": 1081313,
+        "title": "Bu Gece Benimlesin (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/eAm55DC4e72sP3Ovk2OiP40lcw.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Roma Gąsiorowska",
+            "Wojciech Zieliński",
+            "Maciej Musiał",
+            "Ewa Wencel",
+            "Jacek Koman"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt26548664"
+    },
+    {
+        "id": 1150215,
+        "title": "Aşk² Sonsuza Dek (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/xKpVmK7dPMAJnXHPF6lOq2QHHni.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Adrianna Chlebicka",
+            "Mateusz Banasiuk",
+            "Ina Sobala",
+            "Tomasz Karolak",
+            "Monika Krzywkowska"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt28496500"
+    },
+    {
+        "id": 1001800,
+        "title": "Zadra (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zYqHqbQdEev8EaG4NnvT53nl70L.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Magdalena Wieczorek",
+            "Jakub Gierszał",
+            "Magdalena Różczka",
+            "Małgorzata Jamroży",
+            "Ignacy Liss"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt16539580"
     }
 ]
