@@ -24193,5 +24193,135 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt8864596"
+    },
+    {
+        "id": 748167,
+        "title": "Çirkinler (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/77rL0mlUebpc9cR61hqlx2XntPt.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim-Kurgu",
+            "Macera",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Joey King",
+            "Brianne Tju",
+            "Keith Powers",
+            "Chase Stokes",
+            "Laverne Cox"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13186604"
+    },
+    {
+        "id": 1324990,
+        "title": "Perde Arkası: Hope Solo'nun Futbol Kariyeri (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/VI3UcTXjPuqsgQRMkTfaRwa0w.jpg",
+        "year": "2024",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Hope Solo",
+            "Michelle Akers",
+            "Pia Sundhage",
+            "Rich Nichols",
+            "Tom Bergeron"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt33043060"
+    },
+    {
+        "id": 1327881,
+        "title": "Voice of Shadows (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/hffZQgrulC6jgneLuTANQrYgiui.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Guillermo Blanco",
+            "Corrinne Mica",
+            "María José Vargas Agudelo",
+            "Jane Hammill",
+            "Michael Paul Levin"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14940390"
+    },
+    {
+        "id": 1201338,
+        "title": "Winter Island (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/aYe2xjfe5SeRZ34lXEvrsYTEBgw.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Elijah Carnazzo",
+            "Jason Adkins",
+            "Katie Prentiss",
+            "Ashlyn Harlos",
+            "Charles Leggett"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15133756"
+    },
+    {
+        "id": 1039659,
+        "title": "Winner (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Emilia Jones",
+            "Connie Britton",
+            "Zach Galifianakis",
+            "Danny Ramirez",
+            "Kathryn Newton"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11433906"
+    },
+    {
+        "id": 1236416,
+        "title": "Wolves Against the World (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/bQEPVGPFdMleWwTnqsEKLSg20ft.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Michael Kunicki",
+            "Quinn Armstrong",
+            "Jordan Mullins",
+            "Jim Azelvandre",
+            "Louie Kurtzman"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt22052328"
     }
 ]
