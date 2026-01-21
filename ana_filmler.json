@@ -68314,5 +68314,49 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt6931658"
+    },
+    {
+        "id": 736820,
+        "title": "Gizli Atama 2 (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/poEYP8BZswiVu0xCFVbq8uPxR6l.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "현빈",
+            "유해진",
+            "윤아",
+            "Daniel Henney",
+            "진선규"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt21867370"
+    },
+    {
+        "id": 799379,
+        "title": "Kurt Avı Projesi (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/op2y1gvqKhAh4yAPLwc4PlX3XRv.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Korku",
+            "Suç"
+        ],
+        "cast": [
+            "서인국",
+            "장동윤",
+            "박호산",
+            "정소민",
+            "고창석"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt15575470"
     }
 ]
