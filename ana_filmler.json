@@ -66153,5 +66153,107 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt15376894"
+    },
+    {
+        "id": 1057648,
+        "title": "Stuck with You (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/pVtOWr1DE5YV4i426NK0lkzwX8e.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Kev Adams",
+            "Camille Lellouche",
+            "Audrey Pirault",
+            "Gaël Mectoob",
+            "Chantal Ravalec"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt23867462"
+    },
+    {
+        "id": 1046529,
+        "title": "Maskeli Dolandırıcı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/oAcf5WdiBB3VfdIMpR7tRUnZ6yC.jpg",
+        "year": "2022",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [
+            "Gilbert Chickli"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt23246772"
+    },
+    {
+        "id": 756935,
+        "title": "The Island Bird (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/vaPca0SEXYI5xlquABAEuUT9EBc.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Marc Lavoine",
+            "Soan Arhimann",
+            "Gérard Jugnot",
+            "Stéfi Celma",
+            "Philippe Duquesne"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13321782"
+    },
+    {
+        "id": 962543,
+        "title": "İşe Yaramazlar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/mY7jyW2ViTMqLkJb50KPER4tjsR.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Mallory Wanecque",
+            "Timéo Mahaut",
+            "Johan Heldenbergh",
+            "Loïc Pech",
+            "Mélina Vanderplancke"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt19719862"
+    },
+    {
+        "id": 993297,
+        "title": "Stella in Love (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/13bUj92OrvpAIFLczsekYKb2qqw.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Flavie Delangle",
+            "Marina Foïs",
+            "Benjamin Biolay",
+            "Loïc Bukolo",
+            "Louise Malek"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt21042306"
     }
 ]
