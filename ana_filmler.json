@@ -68904,5 +68904,74 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt9719256"
+    },
+    {
+        "id": 901358,
+        "title": "Çaykovski’nin Karısı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/oPokKi0hjNMHCUZN2Pgw7GLJgTd.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Алёна Михайлова",
+            "Один Ланд Байрон",
+            "Никита Еленев",
+            "Екатерина Ермишина",
+            "Филипп Авдеев"
+        ],
+        "country": [
+            "FR",
+            "RU",
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt17538510"
+    },
+    {
+        "id": 1017129,
+        "title": "Zıpır Dedektif ve Altın Arı Kovanı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/9Y7gfiusleUOuMXUjFz9qsndJL5.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Gizem",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Ivan Chaban",
+            "Александр Олешко",
+            "Михаил Кшиштовский",
+            "Мирослава Карпович",
+            "Эвелина Блёданс"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt23636152"
+    },
+    {
+        "id": 589759,
+        "title": "Fındıkkıran ve Sihirli Flüt (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/z1NK9yJgi3rndRcTAQP41dHqouv.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Фёдор Федотов",
+            "Любовь Аксёнова",
+            "Pyotr Ivaschenko",
+            "Александр Гудков",
+            "Елена Шульман"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt11006950"
     }
 ]
