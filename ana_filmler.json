@@ -44210,5 +44210,440 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt20420628"
+    },
+    {
+        "id": 1036619,
+        "title": "Yas Tatili (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wJFHUglmh7xlY7g9Ql85QAJBZ6n.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Dan Levy",
+            "Ruth Negga",
+            "Himesh Patel",
+            "Luke Evans",
+            "Celia Imrie"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt19887550"
+    },
+    {
+        "id": 919131,
+        "title": "Hanky Panky (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/tQHbLzTYmXAKIT0m5SH8w8xHYMu.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Jacob DeMonte-Finn",
+            "Ashley Holliday Tavares",
+            "Christina Laskay",
+            "Seth Green",
+            "Anthony Rutowicz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5368798"
+    },
+    {
+        "id": 979097,
+        "title": "Hatır (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/omw4Joc0ryMcWTuNBWsN6Dc9ozy.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jessica Chastain",
+            "Peter Sarsgaard",
+            "Merritt Wever",
+            "Josh Charles",
+            "Elsie Fisher"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt19864828"
+    },
+    {
+        "id": 870358,
+        "title": "Küçük Batman'ın Noeli (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/z89Mg5uAqBu1IlXW5iYauuIPb7o.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Yonas Kibreab",
+            "Luke Wilson",
+            "James Cromwell",
+            "David Hornsby",
+            "Dolph Adomian"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15352516"
+    },
+    {
+        "id": 940551,
+        "title": "Ördeklerin Göçü (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/9QTwAbUzieLJevTI4aVx4oIpy9Q.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Macera",
+            "Animasyon"
+        ],
+        "cast": [
+            "Kumail Nanjiani",
+            "Elizabeth Banks",
+            "Caspar Jennings",
+            "Tresi Gazal",
+            "Awkwafina"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6495056"
+    },
+    {
+        "id": 760774,
+        "title": "One Life (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
+        "year": "2023",
+        "genres": [
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Johnny Flynn",
+            "Lena Olin",
+            "Romola Garai",
+            "Alex Sharp"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt13097932"
+    },
+    {
+        "id": 753336,
+        "title": "Origin (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Aunjanue Ellis-Taylor",
+            "Niecy Nash-Betts",
+            "Jon Bernthal",
+            "Emily Yancy",
+            "Finn Wittrock"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13321244"
+    },
+    {
+        "id": 792307,
+        "title": "Zavallılar (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/jzgOjZ71TcHqWHzUsWdTvvnisob.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Emma Stone",
+            "Mark Ruffalo",
+            "Willem Dafoe",
+            "Ramy Youssef",
+            "Christopher Abbott"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14230458"
+    },
+    {
+        "id": 879689,
+        "title": "Raging Grace (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/mu7vmxuZGAUZCJ5jxqpmpk0CPFX.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Korku",
+            "Komedi",
+            "Gizem"
+        ],
+        "cast": [
+            "Leanne Best",
+            "Max Eigenmann",
+            "Jaeden Paige Boadilla",
+            "Rob Pomfret",
+            "Eva Jane Willis"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt14946978"
+    },
+    {
+        "id": 848326,
+        "title": "Rebel Moon - Part One: A Child of Fire (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Sofia Boutella",
+            "Michiel Huisman",
+            "Ed Skrein",
+            "Djimon Hounsou",
+            "배두나"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14998742"
+    },
+    {
+        "id": 848187,
+        "title": "Rol Yapma (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/n0EIrzqftgSXrCcU94gH4wlm8RC.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Kaley Cuoco",
+            "David Oyelowo",
+            "Bill Nighy",
+            "Connie Nielsen",
+            "Rudi Dharmalingam"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12964320"
+    },
+    {
+        "id": 823452,
+        "title": "Kürekçi Çocuklar (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/90ZaF4s6kGV1zC9LjMQEpUiNAuH.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Joel Edgerton",
+            "Callum Turner",
+            "Peter Guinness",
+            "Sam Strike",
+            "Thomas Elms"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1856080"
+    },
+    {
+        "id": 927107,
+        "title": "Ölümcül Sır (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/clRgRu7G30E2yMC4xjKyGRsXcj9.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Aaron Eckhart",
+            "Nina Dobrev",
+            "Clifton Collins Jr.",
+            "Tim Blake Nelson",
+            "Ilfenesh Hadera"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2016303"
+    },
+    {
+        "id": 973778,
+        "title": "The End We Start From (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/S9U0axheNakD9LQusEpFijDgSe.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jodie Comer",
+            "Katherine Waterston",
+            "Joel Fry",
+            "Mark Strong",
+            "Gina McKee"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt21810682"
+    },
+    {
+        "id": 1029575,
+        "title": "The Family Plan (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Mark Wahlberg",
+            "Michelle Monaghan",
+            "Maggie Q",
+            "Zoe Colletti",
+            "Van Crosby"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16431870"
+    },
+    {
+        "id": 850165,
+        "title": "Demir Pençe (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/emOG8OAEZj2Rj0E9pJ03l7KcAC9.jpg",
+        "year": "2023",
+        "genres": [
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Zac Efron",
+            "Jeremy Allen White",
+            "Harris Dickinson",
+            "Stanley Simons",
+            "Holt McCallany"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21064584"
+    },
+    {
+        "id": 763144,
+        "title": "Son Piyade (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/svRfv41gFQDyD5oaIMxehRmuFgF.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Pierce Brosnan",
+            "Clémence Poésy",
+            "John Amos",
+            "Jürgen Prochnow",
+            "Ian McElhinney"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt12404266"
+    },
+    {
+        "id": 467244,
+        "title": "İlgi Alanı (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/kXIpj0FUBUkZMZiR3bzK0vbEkUK.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Christian Friedel",
+            "Sandra Hüller",
+            "Johann Karthaus",
+            "Luis Noah Witte",
+            "Nele Ahrensmeier"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7160372"
+    },
+    {
+        "id": 975043,
+        "title": "Beni Sana Getiren Yol (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/3PlxixvWDwU3CmQZDa94wfmfBpa.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Lucy Hale",
+            "Nat Wolff",
+            "John Gallagher Jr.",
+            "Britne Oldford",
+            "Genevieve Angelson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3468380"
+    },
+    {
+        "id": 787699,
+        "title": "Wonka (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/lfYTDWhYeUTWMznPMgWD2DFCACL.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Timothee Chalamet",
+            "Calah Lane",
+            "Keegan-Michael Key",
+            "Hugh Grant",
+            "Paterson Joseph"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6166392"
     }
 ]
