@@ -10754,5 +10754,47 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt36462054"
+    },
+    {
+        "id": 1450599,
+        "title": "Nakavt (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Macera"
+        ],
+        "cast": [
+            "Ciryl Gane",
+            "Alice Belaïdi",
+            "Foued Nabba",
+            "Maleaume Paquin",
+            "Anne Azoulay"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt36240772"
+    },
+    {
+        "id": 1284505,
+        "title": "Zoraki Tatil (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/9S9Db2hl8KwZu96caRgRXzipslf.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Clovis Cornillac",
+            "Aure Atika",
+            "Bertrand Usclat",
+            "Pauline Clément",
+            "Laurent Stocker"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt33836626"
     }
 ]
