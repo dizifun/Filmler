@@ -85584,5 +85584,46 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt10230994"
+    },
+    {
+        "id": 660708,
+        "title": "Il Buco (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/m64CWU1Hji19Kr4b4uLJZBrTQDi.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Nicola Lanza",
+            "Antonio Lanza",
+            "Leonardo Larocca",
+            "Claudia Candusso",
+            "Mila Costi"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt11012320"
+    },
+    {
+        "id": 608980,
+        "title": "Üç Aile (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/A8PPsV9kD7zXQ3KMB5eHp2sveOE.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Margherita Buy",
+            "Riccardo Scamarcio",
+            "Alba Rohrwacher",
+            "Adriano Giannini",
+            "Elena Lietti"
+        ],
+        "country": [
+            "FR",
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt9110904"
     }
 ]
