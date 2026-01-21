@@ -65542,5 +65542,147 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt14471774"
+    },
+    {
+        "id": 633951,
+        "title": "Confessions of a Hitman (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/4ONGOxqOqStYqufm97TxtzQ41xJ.jpg",
+        "year": "2022",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Luc Picard",
+            "David La Haye",
+            "Sandrine Bisson",
+            "Éveline Gélinas",
+            "Dany Boudreault"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt14678156"
+    },
+    {
+        "id": 992536,
+        "title": "Kızımın Katili (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/ahZ3u1rrhPS0pistDBVDjCAxrnB.jpg",
+        "year": "2022",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt21049266"
+    },
+    {
+        "id": 968739,
+        "title": "Tehlikeli İlişkiler (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/kPycqOXKCVFwsYscYdx5KL7atCr.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Paola Locatelli",
+            "Simon Rérolle",
+            "Ella Pellegrini",
+            "Héloïse Janjaud",
+            "Jin Xuan Mao"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15548032"
+    },
+    {
+        "id": 829165,
+        "title": "Doğuştan Yalancı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/w6EAjkucZq2NbmsiCNHm8mMaPyZ.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Tarek Boudali",
+            "Artus",
+            "Pauline Clément",
+            "Catherine Hosmalin",
+            "Karim Belkhadra"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12754776"
+    },
+    {
+        "id": 807862,
+        "title": "Peter von Kant (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/eYaxSkwbB8qm3IbrNIajPIaJEf7.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Denis Ménochet",
+            "Isabelle Adjani",
+            "Khalil Ben Gharbia",
+            "Hanna Schygulla",
+            "Stefan Crepon"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14336174"
+    },
+    {
+        "id": 988539,
+        "title": "Polaris (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/reh2NjYkhG3EoAsrzKEatcnwlIt.jpg",
+        "year": "2022",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Viva Lee",
+            "Khamisa Wilsher",
+            "Muriel Dutil",
+            "Kara Wooten",
+            "Dinah Gaston"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt14587026"
+    },
+    {
+        "id": 925181,
+        "title": "Böyle Bir Yaz (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/chts5Axluy3och9vdcdJSiJOMJK.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Larissa Corriveau",
+            "Laure Giappiconi",
+            "Aude Mathieu",
+            "Anne Ratte-Polle",
+            "Samir Guesmi"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt16944826"
     }
 ]
