@@ -49188,5 +49188,47 @@
             "SA"
         ],
         "link": "https://vidmody.com/vs/tt28306747"
+    },
+    {
+        "id": 896250,
+        "title": "The Cello (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qjKK2zBYGCaAfNTyXAvqWY9Qtpf.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Jeremy Irons",
+            "Tobin Bell",
+            "سامر إسماعيل",
+            "إلهام علي",
+            "ميلا الزهراني"
+        ],
+        "country": [
+            "SA"
+        ],
+        "link": "https://vidmody.com/vs/tt15824990"
+    },
+    {
+        "id": 1160025,
+        "title": "Naga (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/yIgJBpZy6DewEocSZNDbxEPPgem.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Adwa Bader",
+            "Yazeed Almajyul",
+            "Jubran Al Jubran",
+            "Khalid Bin Shaddad",
+            "Amal Alharbi"
+        ],
+        "country": [
+            "SA"
+        ],
+        "link": "https://vidmody.com/vs/tt28554013"
     }
 ]
