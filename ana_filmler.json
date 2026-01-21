@@ -101226,5 +101226,88 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt10456740"
+    },
+    {
+        "id": 658905,
+        "title": "Perfumes (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/4gqlDp98EgfKJC37tfZDNyAlFys.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Emmanuelle Devos",
+            "Grégory Montel",
+            "Gustave Kervern",
+            "Sergi López",
+            "Zélie Rixhon"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11748354"
+    },
+    {
+        "id": 720272,
+        "title": "Terrible Jungle (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/e3FOSv0Ngg7rsYpy1FUeIVKryYf.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Vincent Dedienne",
+            "Catherine Deneuve",
+            "Alice Belaïdi",
+            "Jonathan Cohen",
+            "Stéphan Beauregard"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10366254"
+    },
+    {
+        "id": 679989,
+        "title": "Simply Black (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/hYzYdsZJyBp3Rd6aLaTo5bp47iq.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Jean-Pascal Zadi",
+            "Fary Lopes",
+            "Caroline Anglade",
+            "Omar Sy",
+            "Mathieu Kassovitz"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10426916"
+    },
+    {
+        "id": 659959,
+        "title": "85 Yazı (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/csOzXiToCUUp0Laf6pv66mVPREa.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Félix Lefebvre",
+            "Benjamin Voisin",
+            "Philippine Velge",
+            "Valeria Bruni Tedeschi",
+            "Melvil Poupaud"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10457128"
     }
 ]
