@@ -55600,5 +55600,394 @@
             "IE"
         ],
         "link": "https://vidmody.com/vs/tt10406596"
+    },
+    {
+        "id": 777831,
+        "title": "9 Bullets (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8h8R2D6AVTZCCA6NIvioObkhXsb.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Lena Headey",
+            "Dean Scott Vazquez",
+            "Sam Worthington",
+            "Barbara Hershey",
+            "La La Anthony"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13680520"
+    },
+    {
+        "id": 294793,
+        "title": "Sırtımdaki Bıçaklar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/mv9qFMKGNTkybtDB3t6Kh4EPNKX.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Chris Pine",
+            "Thandiwe Newton",
+            "Jonathan Pryce",
+            "Laurence Fishburne",
+            "Corey Johnson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3706352"
+    },
+    {
+        "id": 872542,
+        "title": "Ajan Oyunu (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/fu1vb2P54vm3IR7AGALKYNerF9D.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mel Gibson",
+            "Dermot Mulroney",
+            "Adan Canto",
+            "Katie Cassidy",
+            "Jason Isaacs"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14168394"
+    },
+    {
+        "id": 937110,
+        "title": "Always Amore (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/dPJMl05qBhE98cwQz4TCfhPaQ2m.jpg",
+        "year": "2022",
+        "genres": [
+            "TV film",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Autumn Reeser",
+            "Tyler Hynes",
+            "Patty McCormack",
+            "Lisa Marie DiGiacinto",
+            "Matthew Del Bel Belluz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt18181656"
+    },
+    {
+        "id": 644100,
+        "title": "As They Made Us (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/qypGmqMTIT6PmDzmM3i2Aexaxug.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Dianna Agron",
+            "Simon Helberg",
+            "Candice Bergen",
+            "Dustin Hoffman",
+            "Justin Chu Cary"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10949028"
+    },
+    {
+        "id": 816494,
+        "title": "Uyanış (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/fnCVBjR23ucbRG6MrZIBavzgP1e.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Thomas Mann",
+            "Rosa Salazar",
+            "Scout Taylor-Compton",
+            "Shane West",
+            "John Malkovich"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13942896"
+    },
+    {
+        "id": 838484,
+        "title": "Yaşamak İçin Oyna (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/nrp2hvJbMb6mjjId2Dp1Tom7hgB.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Iola Evans",
+            "Asa Butterfield",
+            "Robert Englund",
+            "Angela Griffin",
+            "Ryan Gage"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt11514780"
+    },
+    {
+        "id": 813647,
+        "title": "Coast (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/hgT7TIht1PlpRSioRHkhDBUArsN.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Melissa Leo",
+            "Ciara Bravo",
+            "Fatima Ptacek",
+            "Cristela Alonzo",
+            "Mia Rose Frampton"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3322896"
+    },
+    {
+        "id": 872177,
+        "title": "Corrective Measures (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Gerilim",
+            "Macera"
+        ],
+        "cast": [
+            "Brennan Mejia",
+            "Dan Payne",
+            "Michael Rooker",
+            "Bruce Willis",
+            "Tom Cavanagh"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15391770"
+    },
+    {
+        "id": 860159,
+        "title": "Crush (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/hayr56csDzCSADaejgrRMVPHyDy.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Rowan Blanchard",
+            "Auliʻi Cravalho",
+            "Isabella Ferreira",
+            "Tyler Alvarez",
+            "Teala Dunn"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15096128"
+    },
+    {
+        "id": 955740,
+        "title": "Dakota (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/j3eUOPUoDwkupwTPTDk6ESqrzGt.jpg",
+        "year": "2022",
+        "genres": [
+            "Aile",
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Abbie Cornish",
+            "Lola Sultan",
+            "William Baldwin",
+            "Tim Rozon",
+            "Patrick Muldoon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10241772"
+    },
+    {
+        "id": 820446,
+        "title": "Downton Abbey: Yeni Çağ (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Hugh Bonneville",
+            "Maggie Smith",
+            "Jim Carter",
+            "Michelle Dockery",
+            "Elizabeth McGovern"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt11703710"
+    },
+    {
+        "id": 338953,
+        "title": "Fantastik Canavarlar: Dumbledore'un Sırları (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8fJPrw13w1LtY61APt4NmbOWwEv.jpg",
+        "year": "2022",
+        "genres": [
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "Eddie Redmayne",
+            "Jude Law",
+            "Mads Mikkelsen",
+            "Ezra Miller",
+            "Dan Fogler"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt4123432"
+    },
+    {
+        "id": 809140,
+        "title": "Peder Stu (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/vQgXpov9sCg9Fs7EuIok5bPAWOs.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Mark Wahlberg",
+            "Mel Gibson",
+            "Jacki Weaver",
+            "Teresa Ruiz",
+            "Malcolm McDowell"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14439896"
+    },
+    {
+        "id": 883502,
+        "title": "Fortress: Sniper's Eye (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/61J34xHVVdQHbJ4MSCWQo4e727v.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Chad Michael Murray",
+            "Bruce Willis",
+            "Jesse Metcalfe",
+            "Kelly Greyson",
+            "Ser'Darius Blain"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14577304"
+    },
+    {
+        "id": 484907,
+        "title": "Homebound (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8ceAveKWI7PoYGGOFz2WW7xjtYF.jpg",
+        "year": "2022",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Dram",
+            "Korku"
+        ],
+        "cast": [
+            "Aisling Loftus",
+            "Tom Goodman-Hill",
+            "Raffiella Chapman",
+            "Hattie Gotobed",
+            "Lukas Rolfe"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt4788734"
+    },
+    {
+        "id": 766431,
+        "title": "Hostile Territory (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/pSgLSxoAG1Dt91dUSwnaKETmseW.jpg",
+        "year": "2022",
+        "genres": [
+            "Vahşi Batı",
+            "Aksiyon",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Brian Presley",
+            "Matt McCoy",
+            "Brad Leland",
+            "Brea Bee",
+            "Lew Temple"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8859236"
+    },
+    {
+        "id": 927341,
+        "title": "Ava Bravo'yu Avlamak (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/2ExnkeQZeqRwGHXjRLlNVpstOvP.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Kate del Castillo",
+            "Marc Blucas",
+            "Julio Lazarte",
+            "Halem Medina",
+            "Bryce Fernelius"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13872380"
     }
 ]
