@@ -65165,5 +65165,110 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt21994906"
+    },
+    {
+        "id": 845140,
+        "title": "Mutfak Ekibi (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/laRoV8gRmCyQitrLxGk97XMeEbe.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Audrey Lamy",
+            "François Cluzet",
+            "Chantal Neuwirth",
+            "Fatoumata Kaba",
+            "Yannick Kalombo"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14280366"
+    },
+    {
+        "id": 838885,
+        "title": "Kardeşlerim ve Ben (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/xDBXA0v6YRPuaqXEmUBv4I5rhus.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Maël Rouin Berrandou",
+            "Sofian Khammes",
+            "Dali Benssalah",
+            "Moncef Farfar",
+            "Judith Chemla"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13582752"
+    },
+    {
+        "id": 601188,
+        "title": "Ayrı Dünyalar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/ohNnwWD6yTIrBcBtZyQsulbaT9s.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Juliette Binoche",
+            "Hélène Lambert",
+            "Louise Pociecka",
+            "Steve Papagiannis",
+            "Jérémy Lechevallier"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10088984"
+    },
+    {
+        "id": 788943,
+        "title": "Işıltılı Bir Kız (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/1Ri0i0yy1cviiDHOek6d6D7Ah77.jpg",
+        "year": "2022",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Rebecca Marder",
+            "Ben Attal",
+            "India Hair",
+            "André Marcon",
+            "Anthony Bajon"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13328732"
+    },
+    {
+        "id": 926774,
+        "title": "The Outcast (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/qZrZoWWKixzryXMRYnz7GpooZsD.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Amira Casar",
+            "Khava Israpilova",
+            "Haydar Şişman",
+            "Doğanay Ünal",
+            "Süreyya Kilimci"
+        ],
+        "country": [
+            "FR",
+            "CH",
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13146230"
     }
 ]
