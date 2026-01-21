@@ -47853,5 +47853,70 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt15944018"
+    },
+    {
+        "id": 976893,
+        "title": "Mükemmel Günler (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/kl20QZje7hmD5nUVMgXAI67G32Y.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "役所広司",
+            "柄本時生",
+            "Arisa Nakano",
+            "山田 葵",
+            "麻生祐未"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt27503384"
+    },
+    {
+        "id": 1180199,
+        "title": "Tehlikeli Sularda Aşk (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wIFfdvOrGszCruRjazBuld5KBRU.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "吉沢亮",
+            "宮﨑あおい",
+            "吉田羊",
+            "菊地凛子",
+            "永山絢斗"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt21211474"
+    },
+    {
+        "id": 940721,
+        "title": "Godzilla Minus One (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dHiXX2YPkkxQ8XvR49xuX0XoGar.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Korku",
+            "Aksiyon"
+        ],
+        "cast": [
+            "神木隆之介",
+            "浜辺美波",
+            "山田裕貴",
+            "Munetaka Aoki",
+            "吉岡秀隆"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt23289160"
     }
 ]
