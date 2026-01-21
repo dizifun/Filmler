@@ -77411,5 +77411,69 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt26669396"
+    },
+    {
+        "id": 449406,
+        "title": "Vivo (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Lin-Manuel Miranda",
+            "Ynairaly Simo",
+            "Zoe Saldaña",
+            "Juan de Marcos González",
+            "Brian Tyree Henry"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6338498"
+    },
+    {
+        "id": 649394,
+        "title": "Hayatın Bedeli (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/xMFKTgRRCxfZGmFQVxBsQYAQufo.jpg",
+        "year": "2021",
+        "genres": [
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Michael Keaton",
+            "Amy Ryan",
+            "Stanley Tucci",
+            "Tate Donovan",
+            "Shunori Ramanathan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8009744"
+    },
+    {
+        "id": 857454,
+        "title": "Burada Güvende Değilsin (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/rNRM6lxvnpaZEczxMQZnshlPcMI.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "TV film"
+        ],
+        "cast": [
+            "Haskiri Velazquez",
+            "Austin Weyant",
+            "Brady Gentry",
+            "Cleo Anthony",
+            "Nicky Whelan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14679136"
     }
 ]
