@@ -27231,5 +27231,115 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt27722491"
+    },
+    {
+        "id": 1084736,
+        "title": "Monte Cristo Kontu (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/1tmKLVnB1zWNYLvq7qJ2P5jujzA.jpg",
+        "year": "2024",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Pierre Niney",
+            "Bastien Bouillon",
+            "Anaïs Demoustier",
+            "Laurent Lafitte",
+            "Pierfrancesco Favino"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt26446278"
+    },
+    {
+        "id": 1143019,
+        "title": "Kusursuzlar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/mmaz2IESTJkKf77tSOKZ3PxV7NN.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Inès Reg",
+            "Kévin Debonne",
+            "Vincent Rottiers",
+            "Moussa Maaskri",
+            "François Neycken"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt28290049"
+    },
+    {
+        "id": 971968,
+        "title": "Maria Olmak (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/aD3dg2b5yehSQBTmNOTKUTLK3QB.jpg",
+        "year": "2024",
+        "genres": [
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Anamaria Vartolomei",
+            "Céleste Brunnquell",
+            "Matt Dillon",
+            "Marie Gillain",
+            "Yvan Attal"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt19995770"
+    },
+    {
+        "id": 1001311,
+        "title": "Paris'in Altında (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/nvG6GQniE2SFvc1doTVITXjO8se.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Korku"
+        ],
+        "cast": [
+            "Bérénice Bejo",
+            "Nassim Lyes",
+            "Léa Léviant",
+            "Sandra Parfait",
+            "Aksel Üstün"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13964390"
+    },
+    {
+        "id": 1196470,
+        "title": "Kıyametten Sonra (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/901kRttzfLScns7ss7RyKqG6d2A.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim",
+            "Macera",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Émilie Dequenne",
+            "Andreas Pietschmann",
+            "Lisa Delamar",
+            "Lucas Ebel",
+            "Arben Bajraktaraj"
+        ],
+        "country": [
+            "BE",
+            "MA",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27032708"
     }
 ]
