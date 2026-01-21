@@ -84238,5 +84238,70 @@
             "PA"
         ],
         "link": "https://vidmody.com/vs/tt8657700"
+    },
+    {
+        "id": 852590,
+        "title": "Noel'den Kaçış Yok (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/AmQCS5l9MZZsfLbNENExSkP1Myj.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Aile"
+        ],
+        "cast": [
+            "Tamar Novas",
+            "Andrea Ros",
+            "Peter Vives",
+            "Verónica Forqué",
+            "Mar del Hoyo"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt13782052"
+    },
+    {
+        "id": 899405,
+        "title": "Selam Yabancı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/1MfTZQPSC3XsSt4T8LtagnJtKHq.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Annie Cabello",
+            "Ralf",
+            "Estefi Merelles",
+            "Harold Azuara",
+            "Alicia Vélez"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt16088568"
+    },
+    {
+        "id": 826241,
+        "title": "Mükemmel Aile (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/kbHMTNRiOE4WKXGDFd220i62Tu8.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Aile"
+        ],
+        "cast": [
+            "Belén Rueda",
+            "Jose Coronado",
+            "Gonzalo de Castro",
+            "Pepa Aniorte",
+            "Carolina Yuste"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11924738"
     }
 ]
