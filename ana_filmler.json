@@ -86687,5 +86687,70 @@
             "NL"
         ],
         "link": "https://vidmody.com/vs/tt8639136"
+    },
+    {
+        "id": 808579,
+        "title": "Anne+ Film (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/finlEpYDbdVVYYzTd5mYxe7PDjP.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Hanna van Vliet",
+            "Jouman Fattal",
+            "Thorn Roos de Vries",
+            "Eline van Gils",
+            "Jesse Mensah"
+        ],
+        "country": [
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt15420598"
+    },
+    {
+        "id": 785527,
+        "title": "Forever Rich (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg",
+        "year": "2021",
+        "genres": [
+            "Suç",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Jonas Smulders",
+            "Daniël Kolf",
+            "Sinem Kavus",
+            "Hadewych Minis",
+            "Yootha Wong-Loi-Sing"
+        ],
+        "country": [
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt12748300"
+    },
+    {
+        "id": 788045,
+        "title": "Can Dostum Anne Frank (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/720Hb1K6gZqPxWx16XtyUHPWfFd.jpg",
+        "year": "2021",
+        "genres": [
+            "Tarih",
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Josephine Arendsen",
+            "Aiko Beemsterboer",
+            "Roeland Fernhout",
+            "Lottie Hellingman",
+            "Simone Canaris"
+        ],
+        "country": [
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt10360772"
     }
 ]
