@@ -1099,6 +1099,8 @@ https://vidmody.com/vs/tt20204996
 https://vidmody.com/vs/tt20561198
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mF0tx550p3ViekKX7pfSXKzkXnd.jpg" group-title="Aksiyon", Anka (2022)
 https://vidmody.com/vs/tt15520090
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1G5mt3uGUW5OWUcxcBUtHm5Zdd9.jpg" group-title="Aksiyon", Adanış: Kutsal Kavga (2022)
+https://vidmody.com/vs/tt11409820
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOGNu9ombTan3rDSr1GdeBaXfsB.jpg" group-title="Macera", Greenland: Kıyamet (2026)
 https://vidmody.com/vs/tt14850054
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/deMhNYuqcA8HXRrilI9QIa4Nucd.jpg" group-title="Macera", Dehşet Bey (2025)
@@ -1599,6 +1601,8 @@ https://vidmody.com/vs/tt25627320
 https://vidmody.com/vs/tt6685538
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jKHWAfbpJ4QoIbcIIhlW5uy0xz4.jpg" group-title="Macera", Malazgirt 1071 (2022)
 https://vidmody.com/vs/tt11534392
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1G5mt3uGUW5OWUcxcBUtHm5Zdd9.jpg" group-title="Macera", Adanış: Kutsal Kavga (2022)
+https://vidmody.com/vs/tt11409820
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3BWzGykvTrMgwomNCOu2c5Si657.jpg" group-title="Animasyon", Zatonya: Yeni Dünya (2025)
 https://vidmody.com/vs/tt35742396
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7MsIDVYC3AkCobJEjUYZspZvOZ5.jpg" group-title="Animasyon", Köstebekgiller: Ata Tohumu Muhafızları (2025)
@@ -3517,6 +3521,12 @@ https://vidmody.com/vs/tt14486678
 https://vidmody.com/vs/tt11633442
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mXl76rF8Kc31nIxTh6SfIsZJbv9.jpg" group-title="Komedi", Olmadı Kaçarız (2022)
 https://vidmody.com/vs/tt13288048
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wvxMEjFZ82qhO3T8BQK62EZTWqR.jpg" group-title="Komedi", Kolej Rüyası: Lise Günlükleri 2 (2022)
+https://vidmody.com/vs/tt15225846
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/280pAbEtaSchSo1hSr40GSHPivd.jpg" group-title="Komedi", Dijital Esaret (2022)
+https://vidmody.com/vs/tt9451352
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wW6MFMV3hG7tQ6YkcsuAHKtCwmt.jpg" group-title="Komedi", Sen Yaşamaya Bak (2022)
+https://vidmody.com/vs/tt14898794
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wO7AbxLIYzCjIMe9OV4f3Q4e06N.jpg" group-title="Suç", Doctor Plague (2026)
 https://vidmody.com/vs/tt31511146
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Suç", Oscar Shaw (2026)
@@ -6207,6 +6217,14 @@ https://vidmody.com/vs/tt13358054
 https://vidmody.com/vs/tt7986266
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sNj6ktqv77U2tGKi5Ri4IIXVGIK.jpg" group-title="Dram", Saf (2022)
 https://vidmody.com/vs/tt8901582
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxGDZUBAP5bsEONiiYvMhc4GJS5.jpg" group-title="Dram", Bergen (2022)
+https://vidmody.com/vs/tt12578564
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1G5mt3uGUW5OWUcxcBUtHm5Zdd9.jpg" group-title="Dram", Adanış: Kutsal Kavga (2022)
+https://vidmody.com/vs/tt11409820
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/280pAbEtaSchSo1hSr40GSHPivd.jpg" group-title="Dram", Dijital Esaret (2022)
+https://vidmody.com/vs/tt9451352
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wW6MFMV3hG7tQ6YkcsuAHKtCwmt.jpg" group-title="Dram", Sen Yaşamaya Bak (2022)
+https://vidmody.com/vs/tt14898794
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pdXCiSNwo8RFJemCsDXOYSw2zge.jpg" group-title="Aile", Kardeş Takımı 2 (2025)
 https://vidmody.com/vs/tt32777683
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Aile", Şampiyonlar (2025)
@@ -8099,6 +8117,8 @@ https://vidmody.com/vs/tt16539580
 https://vidmody.com/vs/tt15282148
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aDhoeAnOKY8jR6BJbhDYm3y4dT4.jpg" group-title="Müzik", Babamın Kemanı (2022)
 https://vidmody.com/vs/tt14369276
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mxGDZUBAP5bsEONiiYvMhc4GJS5.jpg" group-title="Müzik", Bergen (2022)
+https://vidmody.com/vs/tt12578564
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg" group-title="Gizem", Mr. K (2025)
 https://vidmody.com/vs/tt7972570
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3FHBd1VTrBKVJqOgkiuup7yLV0z.jpg" group-title="Gizem", Lanetliler (2025)
@@ -9113,6 +9133,8 @@ https://vidmody.com/vs/tt21843638
 https://vidmody.com/vs/tt14486678
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dMtKov3q8stWGcy7UFuRzpMliUy.jpg" group-title="Romantik", UFO (2022)
 https://vidmody.com/vs/tt14369286
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wW6MFMV3hG7tQ6YkcsuAHKtCwmt.jpg" group-title="Romantik", Sen Yaşamaya Bak (2022)
+https://vidmody.com/vs/tt14898794
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wO7AbxLIYzCjIMe9OV4f3Q4e06N.jpg" group-title="Gerilim", Doctor Plague (2026)
 https://vidmody.com/vs/tt31511146
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOGNu9ombTan3rDSr1GdeBaXfsB.jpg" group-title="Gerilim", Greenland: Kıyamet (2026)
