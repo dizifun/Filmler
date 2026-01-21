@@ -83857,5 +83857,89 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt9315904"
+    },
+    {
+        "id": 830645,
+        "title": "Sahilde Cinayet (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel",
+            "Suç",
+            "Tarih",
+            "Gizem"
+        ],
+        "cast": [],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt13323092"
+    },
+    {
+        "id": 768726,
+        "title": "Dartanyan ve Üç Havhavlar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/ifVLR4rvTQSs5he64gyBLeQWf41.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Miguel Ángel Pérez",
+            "Eduardo Jover",
+            "Gloria Cámara",
+            "Antonio Ramírez de Antón",
+            "Ana Esther Alborg"
+        ],
+        "country": [
+            "IN",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11777920"
+    },
+    {
+        "id": 653594,
+        "title": "Beni Bırakma (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/tQh8OD11wLmT739u8ww1lilk0mc.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Armando Espitia",
+            "Christian Vazquez",
+            "Michelle Rodríguez",
+            "Ángeles Cruz",
+            "Arcelia Ramírez"
+        ],
+        "country": [
+            "US",
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt11388990"
+    },
+    {
+        "id": 726429,
+        "title": "Xtreme (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Suç"
+        ],
+        "cast": [
+            "Óscar Jaenada",
+            "Teo García",
+            "Óscar Casas",
+            "Andrea Duro",
+            "Sergio Peris-Mencheta"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11658120"
     }
 ]
