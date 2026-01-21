@@ -65270,5 +65270,130 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt13146230"
+    },
+    {
+        "id": 665828,
+        "title": "Bigbug (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/afOW9clWoB4iWMtMG7XZWQpgS7o.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Komedi"
+        ],
+        "cast": [
+            "Isabelle Nanty",
+            "Elsa Zylberstein",
+            "Claude Perron",
+            "Stéphane De Groodt",
+            "Youssef Hajdi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11541872"
+    },
+    {
+        "id": 740460,
+        "title": "The Wannabes (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/nfeLQ1aLVIKxxjypaa8DXSFoueW.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Grégoire Ludig",
+            "David Marsais",
+            "Julien Pestel",
+            "Damien Gillard",
+            "Gaëlle Lebert"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13460190"
+    },
+    {
+        "id": 928381,
+        "title": "Soluksuz (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/aGEoSwP9x1hTYfjMhXb4cOMCbPQ.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Franck Gastambide",
+            "Simon Abkarian",
+            "Michaël Abiteboul",
+            "Tracy Gotoas",
+            "Serge Hazanavicius"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14465894"
+    },
+    {
+        "id": 862856,
+        "title": "Cop Goes Missing (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/9VwCiuFyn8ax48G0w8h9tgdSmNi.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Patrick d'Assumçao",
+            "Sofia Lesaffre",
+            "Laetitia Casta",
+            "Simon Abkarian",
+            "Alban Lenoir"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12000428"
+    },
+    {
+        "id": 664506,
+        "title": "Başka Bir Dünya (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/1bOwCa2ylY8ACdtXqmhP3r654qq.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Vincent Lindon",
+            "Sandrine Kiberlain",
+            "Anthony Bajon",
+            "Marie Drucker",
+            "Olivier Lemaire"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15115102"
+    },
+    {
+        "id": 746333,
+        "title": "Superwho? (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/4nuElmKU1F53qGq0MskGgyRH8Q2.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Aksiyon",
+            "Aile"
+        ],
+        "cast": [
+            "Philippe Lacheau",
+            "Julien Arruti",
+            "Tarek Boudali",
+            "Élodie Fontan",
+            "Alice Dufour"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13774454"
     }
 ]
