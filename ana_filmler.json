@@ -21765,5 +21765,90 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt9271850"
+    },
+    {
+        "id": 1189423,
+        "title": "Tembeller Ailesi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/2e2PevzGnZUdpNnygxpRWYAWq55.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Teo Vergara",
+            "Olivia Vasquez",
+            "Benjamín Gorroño",
+            "Facundo Hache Herrera",
+            "Remy Hii"
+        ],
+        "country": [
+            "AU"
+        ],
+        "link": "https://vidmody.com/vs/tt29362046"
+    },
+    {
+        "id": 1032823,
+        "title": "Tuzak (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/yEYMle2XTbrxPZyHUrEJUU2peyt.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Josh Hartnett",
+            "Ariel Donoghue",
+            "Saleka Night Shyamalan",
+            "Alison Pill",
+            "Hayley Mills"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt26753003"
+    },
+    {
+        "id": 718821,
+        "title": "Kasırgalar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/hvcTRPDns2VLk12MwKUa1IuCVCe.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Daisy Edgar-Jones",
+            "Glen Powell",
+            "Anthony Ramos",
+            "Brandon Perea",
+            "Maura Tierney"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12584954"
+    },
+    {
+        "id": 1213742,
+        "title": "Tyler Perry'den Zorlu Boşanma (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/4MVgagRGqTwkc8nGflha4cllpEp.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Meagan Good",
+            "Cory Hardrict",
+            "Joseph Lee Anderson",
+            "Taylor Polidore",
+            "Shannon Wallace"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt28248897"
     }
 ]
