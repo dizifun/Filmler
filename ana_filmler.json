@@ -103021,5 +103021,68 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt10798072"
+    },
+    {
+        "id": 741998,
+        "title": "Lanetli Bağlar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/ufbubTLEUvt2aEyFs2u9ow9XxWe.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Mía Maestro",
+            "Riccardo Scamarcio",
+            "Giulia Patrignani",
+            "Mariella Lo Sardo",
+            "Raffaella D'Avella"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt10914452"
+    },
+    {
+        "id": 659290,
+        "title": "Bağlar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/aAWocIYyjy1xII7HO3tTqVhAwLz.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alba Rohrwacher",
+            "Luigi Lo Cascio",
+            "Laura Morante",
+            "Silvio Orlando",
+            "Giovanna Mezzogiorno"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt12585254"
+    },
+    {
+        "id": 664031,
+        "title": "Aşk Engel Tanımaz (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/a8EYJ9zYnunJ2OjTe0ESAePgPHp.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Ludovica Francesconi",
+            "Giuseppe Maggio",
+            "Gaja Masciale",
+            "Jozef Gjura",
+            "Eleonora Gaggero"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt11154906"
     }
 ]
