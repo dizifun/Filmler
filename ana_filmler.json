@@ -27124,5 +27124,70 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt27487473"
+    },
+    {
+        "id": 1084863,
+        "title": "The Soul Eater (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/m0HSecww9Tm79pbiXAE9zqLqq9T.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Suç",
+            "Gizem"
+        ],
+        "cast": [
+            "Virginie Ledoyen",
+            "Paul Hamy",
+            "Sandrine Bonnaire",
+            "Malik Zidi",
+            "Manu Lanzi"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt28821588"
+    },
+    {
+        "id": 1152014,
+        "title": "A Little Something Extra (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/uIlJ1wOlEt5K3NowJQDG4qscQAC.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Artus",
+            "Clovis Cornillac",
+            "Alice Belaïdi",
+            "Marc Riso",
+            "Céline Groussard"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt30795948"
+    },
+    {
+        "id": 1208491,
+        "title": "İkizler Takımı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/P96S4bsDg40R2clBLj7HznqI3F.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Jérôme Niel",
+            "Manu Payet",
+            "Clara Luciani",
+            "Kyan Khojandi",
+            "Akil Wingate"
+        ],
+        "country": [
+            "CA",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt17494412"
     }
 ]
