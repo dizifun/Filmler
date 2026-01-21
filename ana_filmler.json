@@ -101668,5 +101668,90 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt9345754"
+    },
+    {
+        "id": 673174,
+        "title": "Fırtına İçin Bir Kurban (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/7NAyMGFjvpJrYNa5dluVtMWcMES.jpg",
+        "year": "2020",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Marta Etura",
+            "Carlos Librado \"Nene\"",
+            "Leonardo Sbaraglia",
+            "Imanol Arias",
+            "Ana Wagener"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7304824"
+    },
+    {
+        "id": 668742,
+        "title": "Sadece Bir Baba Var 2: Kayınvalidenin Gelişi (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/7MjODwcPV5tAEa1zlje9N4gReGS.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Santiago Segura",
+            "Toni Acosta",
+            "Martina D’Antiochia",
+            "Calma Segura",
+            "Luna Fulgencio"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11506284"
+    },
+    {
+        "id": 726208,
+        "title": "Sakın Dinleme (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/9a2E3HusZ12ZlozZeCpfjTwYaeg.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Rodolfo Sancho",
+            "Ramón Barea",
+            "Nerea Barros",
+            "Belén Fabra",
+            "Ana Fernández"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11750282"
+    },
+    {
+        "id": 635366,
+        "title": "Window to the Sea (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/yMLSjYuwhd1Piqnj8j7w2O57zjc.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Emma Suárez",
+            "Ακύλλας Καραζήσης",
+            "Gaizka Ugarte",
+            "Katerina Zafeiropoulou",
+            "Αντώνης Καφετζόπουλος"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt9288850"
     }
 ]
