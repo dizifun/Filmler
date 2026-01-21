@@ -83526,5 +83526,149 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt13079150"
+    },
+    {
+        "id": 785516,
+        "title": "Böyle Kaldık (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/siRIgKDX920Nqu1jWDGMNxykqwN.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Dany Boon",
+            "François Damiens",
+            "Laurence Arné",
+            "Élie Semoun",
+            "Nawell Madani"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13834006"
+    },
+    {
+        "id": 655082,
+        "title": "Eiffel (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/qOYRo6wcu9MxsNlBUMiGVcXtY71.jpg",
+        "year": "2021",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Romain Duris",
+            "Emma Mackey",
+            "Pierre Deladonchamps",
+            "Armande Boulanger",
+            "Andranic Manet"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10366514"
+    },
+    {
+        "id": 660000,
+        "title": "Sönmüş Hayaller (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/nn8dJsqI5HTFcEzyWxPNxWSxwZF.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Tarih"
+        ],
+        "cast": [
+            "Benjamin Voisin",
+            "Cécile de France",
+            "Vincent Lacoste",
+            "Xavier Dolan",
+            "Salomé Dewaels"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10505316"
+    },
+    {
+        "id": 764686,
+        "title": "Yol Ayrımı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/305FoWSoMiABeRKqpGo08PMwHRO.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Marina Foïs",
+            "Valeria Bruni Tedeschi",
+            "Pio Marmaï",
+            "Aissatou Diallo Sagna",
+            "Jean-Louis Coulloc'h"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13321730"
+    },
+    {
+        "id": 789578,
+        "title": "The Heroics (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/nmFJoDFzXf5D0j3E8dLXiFB1UgI.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "François Créton",
+            "Richard Bohringer",
+            "Ariane Ascaride",
+            "Clotilde Courau",
+            "Roméo Créton"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7661518"
+    },
+    {
+        "id": 785209,
+        "title": "Playground (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/AwrnngjOrI7VYclXUxN2ixEIutQ.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Maya Vanderbeque",
+            "Günter Duret",
+            "Elsa Laforge",
+            "Lena Girard Voss",
+            "Simon Caudry"
+        ],
+        "country": [
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt11087960"
+    },
+    {
+        "id": 807070,
+        "title": "Vortex (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/lbvtl05fJrfkZr2TCPzM8utZy8N.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Dario Argento",
+            "Françoise Lebrun",
+            "Alex Lutz",
+            "Kamel Benchemekh",
+            "Corinne Bruand"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14821150"
     }
 ]
