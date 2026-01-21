@@ -88501,5 +88501,45 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt13238110"
+    },
+    {
+        "id": 757651,
+        "title": "Af (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/tcAuUxt0ahW67jm3WhJr9U3IgLv.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Timur Acar",
+            "Eminé Meyrem",
+            "Hakan Aslan",
+            "Yusuf Bayraktar",
+            "Macit Koper"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13534792"
+    },
+    {
+        "id": 940573,
+        "title": "Daha İyi Yenil (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/eNXgChnOXXlp7GfAyNi2lZ41tNt.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Aydın Orak",
+            "Sema Güler",
+            "Mustafa Uzunyılmaz",
+            "Emrah Ekici",
+            "Şafak Orbay"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11575312"
     }
 ]
