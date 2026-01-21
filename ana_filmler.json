@@ -68729,5 +68729,91 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt22071864"
+    },
+    {
+        "id": 823999,
+        "title": "Diabolik: Ginko Attacks! (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg",
+        "year": "2022",
+        "genres": [
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Giacomo Gianniotti",
+            "Miriam Leone",
+            "Valerio Mastandrea",
+            "Monica Bellucci",
+            "Alessio Lapice"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt15307230"
+    },
+    {
+        "id": 885303,
+        "title": "The Voyagers (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/uDJAvuOrULRF2cRYIElQkiyyh0N.jpg",
+        "year": "2022",
+        "genres": [
+            "Fantastik",
+            "Macera",
+            "TV film"
+        ],
+        "cast": [
+            "Matteo Schiavone",
+            "Fabio Bizzarro",
+            "Andrea Gaia Wlderk",
+            "Francesca Alice Antonini",
+            "Fabrizio Gifuni"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt15426722"
+    },
+    {
+        "id": 873126,
+        "title": "Benim Adım İntikam (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/7KKwgicdKs2sJadWOf7xRkiSyiA.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Alessandro Gassmann",
+            "Ginevra Francesconi",
+            "Remo Girone",
+            "Alessio Praticò",
+            "Francesco Villano"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt15229674"
+    },
+    {
+        "id": 890618,
+        "title": "The Prince of Rome (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/fDPHqWaB3GqWJL1MOnf0u8DFu2G.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Marco Giallini",
+            "Giulia Bevilacqua",
+            "Filippo Timi",
+            "Sergio Rubini",
+            "Denise Tantucci"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt15766394"
     }
 ]
