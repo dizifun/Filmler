@@ -32727,5 +32727,188 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt27349112"
+    },
+    {
+        "id": 1143839,
+        "title": "Haile: Bir Aile Kabusu (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5ryMVYaS0E48OytakguxEDRty4O.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Seyran Aksoy",
+            "İpek Arkan",
+            "Tolga Demircan",
+            "Hülya Diken",
+            "Rifat Durmus"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt27301476"
+    },
+    {
+        "id": 1140577,
+        "title": "Maske: Nezaketle Tebessüm (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/nrppdxBrx15C1XAPLjCtFbZg3o7.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Kaan Turgut",
+            "Nilay Deniz",
+            "Mert Turak",
+            "Erdinç Gülener",
+            "Burç Kümbetlioğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt27843079"
+    },
+    {
+        "id": 1128568,
+        "title": "Merve Kült (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/8ykNHGS101LDiFrprD37dhGuug.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Ahsen Eroğlu",
+            "Ozan Dolunay",
+            "Zuhal Olcay",
+            "Ferit Aktuğ",
+            "Esra Akkaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt19121700"
+    },
+    {
+        "id": 1145045,
+        "title": "Adalet (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/3nIpQCD33LdhgRR5f3lA9C2KcGR.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Çağan Atakan Arslan",
+            "Ufuk Özkan",
+            "Eslem Akar",
+            "Burak Sarımola",
+            "Bahattin Cüneyt Aksakal"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt26370113"
+    },
+    {
+        "id": 1006911,
+        "title": "Sen İnandır (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/e2OVAX58bmTqYG1B4lP802n0YNZ.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Ayça Ayşin Turan",
+            "Ekin Koç",
+            "Zerrin Sümer",
+            "Yıldız Kültür",
+            "Naz Çağla Irmak"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt21257152"
+    },
+    {
+        "id": 1091020,
+        "title": "Benim Babam Bir Kahraman (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5HQOLX5t4BvrSGQQ96wtla5Lj3G.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Ufuk Bayraktar",
+            "Mahir İpek",
+            "Mehmet Emin Güney",
+            "Selim Erdoğan",
+            "İdris Nebi Taşkan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt22298570"
+    },
+    {
+        "id": 1038522,
+        "title": "Tebessüm (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/9o5LSeAqfuj5aL0eHENiWzNh06q.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Onur Buldu",
+            "Adem Tosun",
+            "Seda Türkmen",
+            "Güvenç Selekman",
+            "Emir Çubukçu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt22982202"
+    },
+    {
+        "id": 1143327,
+        "title": "Obsesyon (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/eSv8lrfbh66JUkGXiccUPV5I3uz.jpg",
+        "year": "2023",
+        "genres": [
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ekin Mert Daymaz",
+            "Ege Kökenli",
+            "Sarp Can Köroğlu",
+            "Burcu Karakaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt26452054"
+    },
+    {
+        "id": 871085,
+        "title": "Genco (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/srig9QUDxX55iewPqcnBKMH0pEv.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Genco Erkal"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt28095268"
     }
 ]
