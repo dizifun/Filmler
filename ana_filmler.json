@@ -11786,5 +11786,70 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt21194868"
+    },
+    {
+        "id": 607141,
+        "title": "Mutlu Ol (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/6bvW47MtJKo2ipPYJ2xDvdf4zbz.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Müzik",
+            "Aile"
+        ],
+        "cast": [
+            "Abhishek Bachchan",
+            "Inayat Verma",
+            "Nora Fatehi",
+            "Nassar",
+            "Johny Lever"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt6649234"
+    },
+    {
+        "id": 1216780,
+        "title": "Nadaaniyan (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/28OvHIRxK5jve41mLRp7Sx5mITa.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Ibrahim Ali Khan",
+            "Khushi Kapoor",
+            "Mahima Chaudhry",
+            "Suniel Shetty",
+            "Dia Mirza"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt30422937"
+    },
+    {
+        "id": 1257960,
+        "title": "Sikandar (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Salman Khan",
+            "Rashmika Mandanna",
+            "Sathyaraj",
+            "Sharman Joshi",
+            "प्रतीक स्मिता पाटिल"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt31712434"
     }
 ]
