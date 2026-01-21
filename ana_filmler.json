@@ -70345,5 +70345,47 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt11213372"
+    },
+    {
+        "id": 674322,
+        "title": "Cemil Şov (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/kvvuB4Chtxj2QA68ddBRF5BTfLF.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "Komedi"
+        ],
+        "cast": [
+            "Ozan Çelik",
+            "Nesrin Cavadzade",
+            "Alican Yücesoy",
+            "Cezmi Baskın",
+            "Başar Alemdar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11843944"
+    },
+    {
+        "id": 798422,
+        "title": "Bir Nükhet Duru Filmi: Duru Olmak (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/5T9kdB1U6y9Tv7tpKXSY02aHAaB.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel",
+            "Müzik"
+        ],
+        "cast": [
+            "Nükhet Duru",
+            "Kenan Doğulu",
+            "Sıla",
+            "Teoman",
+            "Mabel Matiz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12651512"
     }
 ]
