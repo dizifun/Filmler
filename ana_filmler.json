@@ -1888,5 +1888,180 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt21227864"
+    },
+    {
+        "id": 1414160,
+        "title": "An Unexpected Valentine (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/7REWn0JCKF8ORdepVhdlqcrzj1C.jpg",
+        "year": "2025",
+        "genres": [
+            "TV film",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Lacey Chabert",
+            "Robert Buckley",
+            "Jess Brown",
+            "Princess Davis",
+            "Anthony Timpano"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt35304903"
+    },
+    {
+        "id": 1272149,
+        "title": "Bridget Jones: Onun İçin Çıldırıyor (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/hNsNO1BGm2JjHn1Ryz0OZ1pOhQe.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Renée Zellweger",
+            "Chiwetel Ejiofor",
+            "Leo Woodall",
+            "Hugh Grant",
+            "Jim Broadbent"
+        ],
+        "country": [
+            "FR",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt32063050"
+    },
+    {
+        "id": 822119,
+        "title": "Kaptan Amerika: Cesur Yeni Dünya (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/pDRk4CHForp28shN9V0DgB0BnW8.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Anthony Mackie",
+            "Harrison Ford",
+            "Danny Ramirez",
+            "שירה האס",
+            "Tim Blake Nelson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14513804"
+    },
+    {
+        "id": 1125899,
+        "title": "Cleaner (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Daisy Ridley",
+            "Clive Owen",
+            "Taz Skylar",
+            "Flavia Watson",
+            "Ray Fearon"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt27812086"
+    },
+    {
+        "id": 1150370,
+        "title": "Soğuk Cüzdan (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/m6ZGxUu0JyV7Cyj9xDR8capgrzb.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Raúl Castillo",
+            "Melonie Díaz",
+            "Tony Cavalero",
+            "Josh Brener",
+            "Zoë Winters"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt27307826"
+    },
+    {
+        "id": 1084440,
+        "title": "Daima Seninle (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/u64csVCG9nLpYqFWFFitrdvz7hG.jpg",
+        "year": "2025",
+        "genres": [
+            "Bilim-Kurgu",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Henry Golding",
+            "Beatrice Grannò",
+            "Aura Garrido",
+            "Rubén Ochandiano",
+            "Nathalie Poza"
+        ],
+        "country": [
+            "BE",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt26676914"
+    },
+    {
+        "id": 1302916,
+        "title": "Heart Eyes (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Olivia Holt",
+            "Mason Gooding",
+            "Gigi Zumbado",
+            "Michaela Watkins",
+            "Devon Sawa"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt32558992"
+    },
+    {
+        "id": 1229893,
+        "title": "I Love You Forever (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/bbCPdF56Bo0pLUvcLngv7MDC12S.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Sofia Black-D'Elia",
+            "Ray Nicholson",
+            "Cazzie David",
+            "Jon Rudnitsky",
+            "Raymond Cham Jr."
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15907380"
     }
 ]
