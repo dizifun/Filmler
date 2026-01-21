@@ -10558,5 +10558,50 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt23572848"
+    },
+    {
+        "id": 1261501,
+        "title": "Ad Vitam (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/3ZqM7bLNmHdyj658gqtifrV5afl.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Guillaume Canet",
+            "Alexis Manenti",
+            "Stéphane Caillard",
+            "Nassim Lyes",
+            "Zita Hanrot"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt32138452"
+    },
+    {
+        "id": 1082424,
+        "title": "Jane Austen Wrecked My Life (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/XCxY5JRGTMt7LqweJ00lyxn7nH.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Camille Rutherford",
+            "Pablo Pauly",
+            "Charlie Anson",
+            "Annabelle Lengronne",
+            "Liz Crowther"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt31112509"
     }
 ]
