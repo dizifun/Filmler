@@ -48287,5 +48287,48 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt22507484"
+    },
+    {
+        "id": 961268,
+        "title": "Balerin (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/x82IX4hXkKcgBOlZPCFdXKERXMA.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "전종서",
+            "김지훈",
+            "박유림",
+            "신세휘",
+            "박형수"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt26350277"
+    },
+    {
+        "id": 958263,
+        "title": "Believer 2 (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/h3G2rjJoOOMOKweAY3YTK0Tnaa0.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Aksiyon",
+            "Suç"
+        ],
+        "cast": [
+            "조진웅",
+            "차승원",
+            "한효주",
+            "오승훈",
+            "이주영"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt26258204"
     }
 ]
