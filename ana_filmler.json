@@ -28685,5 +28685,49 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt13657394"
+    },
+    {
+        "id": 1212073,
+        "title": "60 Dakika (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/rqkWWQsXq6zk3QDB9VgL0okywj2.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Emilio Sakraya",
+            "Dennis Mojen",
+            "Marie Mouroum",
+            "Paul Wollin",
+            "Florian Schmidtke"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt29538571"
+    },
+    {
+        "id": 1171004,
+        "title": "Kaos Kardeşler ve Penguen Paul (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/3RedKq6E9s7AbYzF6YW0uzmHXU6.jpg",
+        "year": "2024",
+        "genres": [
+            "Aile"
+        ],
+        "cast": [
+            "Max Giermann",
+            "Janine Kunze",
+            "Lilit Serger",
+            "Momo Beier",
+            "Rona Regjepi"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt6647982"
     }
 ]
