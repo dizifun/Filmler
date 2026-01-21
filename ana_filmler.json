@@ -91083,5 +91083,92 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt9411866"
+    },
+    {
+        "id": 529485,
+        "title": "Dönüş Yolu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Al Madrigal",
+            "Michaela Watkins",
+            "Janina Gavankar",
+            "Glynn Turman"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8544498"
+    },
+    {
+        "id": 446893,
+        "title": "Troller Dünya Turu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/l49xspKiCmXAw2ukDq8wWrit1Wf.jpg",
+        "year": "2020",
+        "genres": [
+            "Aile",
+            "Animasyon",
+            "Komedi",
+            "Fantastik",
+            "Macera",
+            "Müzik"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Justin Timberlake",
+            "Ron Funches",
+            "Rachel Bloom",
+            "James Corden"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6587640"
+    },
+    {
+        "id": 619947,
+        "title": "Tuscaloosa (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jDCfNHisRQLySPPpuzUtxG0gETQ.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Ella Rae Peck",
+            "Bruce Bohne",
+            "Natalia Dyer",
+            "Devon Bostick",
+            "Nathan Phillips"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7579446"
+    },
+    {
+        "id": 660609,
+        "title": "Babamın Mutfağı (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/neUgCuBhafxYQyXTKxwjQejqqa7.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Mamoudou Athie",
+            "Courtney B. Vance",
+            "Niecy Nash-Betts",
+            "Matt McGorry",
+            "Sasha Compère"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9261218"
     }
 ]
