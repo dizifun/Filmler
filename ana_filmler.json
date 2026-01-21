@@ -47182,5 +47182,69 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt27441898"
+    },
+    {
+        "id": 1174725,
+        "title": "Race to the Summit (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/hTLtWIEQzJcW1KtnbH5Zvip0FfE.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Ueli Steck",
+            "Dani Arnold"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt28995566"
+    },
+    {
+        "id": 932801,
+        "title": "The Universal Theory (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/k7HRjuIEjDVX1vXnOzcqmLvVJpM.jpg",
+        "year": "2023",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Jan Bülow",
+            "Olivia Ross",
+            "Hanns Zischler",
+            "Gottfried Breitfuß",
+            "Philippe Graber"
+        ],
+        "country": [
+            "DE",
+            "AT",
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt18453866"
+    },
+    {
+        "id": 1172175,
+        "title": "Misyon: Eğlence Okulu (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/u7IyReiRRuhCdB7YdHpPsx4WbBP.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Lucas Herzog",
+            "Erna Westphal",
+            "Otto Emil Koch",
+            "Daniela Preuss",
+            "Leevi Tjelle Höhlein"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt21630718"
     }
 ]
