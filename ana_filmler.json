@@ -102202,5 +102202,26 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt11617052"
+    },
+    {
+        "id": 570358,
+        "title": "Yabancı (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/p3OlISNJGRhmrcmH0MTiJyflmsZ.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mišel Matičević",
+            "Sandra Hüller",
+            "Rainer Bock",
+            "Thomas Mraz",
+            "Flonja Kodheli"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt8955708"
     }
 ]
