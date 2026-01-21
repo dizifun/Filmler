@@ -47246,5 +47246,49 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt21630718"
+    },
+    {
+        "id": 1023845,
+        "title": "Silber ve Rüyalar Kitabı (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/htk1EaqrPAJK9nRpIRNe6JZfGvT.jpg",
+        "year": "2023",
+        "genres": [
+            "Fantastik",
+            "Romantik"
+        ],
+        "cast": [
+            "Jana McKinnon",
+            "Rhys Mannion",
+            "Chaneil Kular",
+            "Josephine Blazier",
+            "Théo Augier"
+        ],
+        "country": [
+            "DE",
+            "IE"
+        ],
+        "link": "https://vidmody.com/vs/tt22037984"
+    },
+    {
+        "id": 1183905,
+        "title": "Bagaj - Mahsur (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/sQ2FqmB98T8bAjhYHa3DIf2TS4H.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Sina Martens",
+            "Artjom Gilz",
+            "Luise Helm",
+            "Poal Cairo",
+            "Charles Rettinghaus"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt27214365"
     }
 ]
