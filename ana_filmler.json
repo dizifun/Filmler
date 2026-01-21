@@ -29010,5 +29010,46 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt27744786"
+    },
+    {
+        "id": 1086729,
+        "title": "Amar Singh Chamkila (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/t9wSGgaPfbGUBBlne7xw8GaArvu.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Diljit Dosanjh",
+            "Parineeti Chopra",
+            "Apindereep Singh",
+            "Anjum Batra",
+            "Rahul Mittra"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt26658272"
+    },
+    {
+        "id": 936622,
+        "title": "Bade Miyan Chote Miyan (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Akshay Kumar",
+            "Tiger Shroff",
+            "Sonakshi Sinha",
+            "Manushi Chhillar",
+            "Alaya F"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt18072316"
     }
 ]
