@@ -88215,5 +88215,85 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt13841826"
+    },
+    {
+        "id": 722895,
+        "title": "Ben Bir Denizim (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/ysAcCzR9KMdxekbgpKn9xay3dh6.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Gürberk Polat",
+            "Serkan Keskin",
+            "Sitare Akbaş",
+            "Celil Nalçakan",
+            "Seda Akman"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11368696"
+    },
+    {
+        "id": 1138193,
+        "title": "Ben Böyle Şansın (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/1ohX4s9n0CCqUpmdcZXfAxj0z3f.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Özgür Esat Şentürk",
+            "Umut Ögmen",
+            "Zeliha Çakırtaş",
+            "Akın Ayvaz",
+            "Ilknur Aygün"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13116652"
+    },
+    {
+        "id": 1070247,
+        "title": "Randıman (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3mst5llWyeEB5eMX4AJjs7azPCb.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Cezmi Baskın",
+            "Yağmur Ün",
+            "Salih Kalyon",
+            "Feriha Eyüboğlu",
+            "Bilge Yalçinkaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12578536"
+    },
+    {
+        "id": 741048,
+        "title": "Yeniden Leyla (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/u7MhTUG1UJNFeMLYhkC21n5sIVt.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Meli Bendeli",
+            "Ayfer Dönmez",
+            "Cem Zeynel Kılıç",
+            "Sermet Yeşil",
+            "Ali Hikmet Kürekçi"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13070178"
     }
 ]
