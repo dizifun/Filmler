@@ -67098,5 +67098,46 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt8518302"
+    },
+    {
+        "id": 888321,
+        "title": "Korsaj (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/4Indv8e9bYTI2RMfpOKrzxcSKJZ.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Vicky Krieps",
+            "Florian Teichtmeister",
+            "Katharina Lorenz",
+            "Jeanne Werner",
+            "Alma Hasun"
+        ],
+        "country": [
+            "AT"
+        ],
+        "link": "https://vidmody.com/vs/tt11992694"
+    },
+    {
+        "id": 968572,
+        "title": "Paula ve Jojo (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/9urHg7dyz3oj6zR0pKQXxnvAFfG.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Caro Cult",
+            "Nina Gummich",
+            "Steven Sowah",
+            "Louis Nitsche",
+            "Susanne Bredehöft"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt21044524"
     }
 ]
