@@ -103084,5 +103084,46 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt11154906"
+    },
+    {
+        "id": 654905,
+        "title": "Bir Babanın Öfkesi (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/iik8EaTX1ElExuZLfHKBi4dl9Zh.jpg",
+        "year": "2020",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Fabrizio Gifuni",
+            "Lino Musella",
+            "Monica Piseddu",
+            "Andrea Pennacchi",
+            "Emanuele Linfatti"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt11499506"
+    },
+    {
+        "id": 667869,
+        "title": "Onca Yoksulluk Varken (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3SOSDhoJa31aCXYzOw7zWCoSAwU.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Sophia Loren",
+            "Ibrahima Gueye",
+            "Renato Carpentieri",
+            "Diego Iosif Pirvu",
+            "Massimiliano Rossi"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt10627584"
     }
 ]
