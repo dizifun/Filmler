@@ -48503,5 +48503,51 @@
             "TW"
         ],
         "link": "https://vidmody.com/vs/tt27671269"
+    },
+    {
+        "id": 1006763,
+        "title": "The Abandoned (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/gPIi21NOdbAME0tjDbRbFoSG99Z.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "張鈞甯",
+            "阮經天",
+            "游安順",
+            "Sajee Apiwong",
+            "項婕如"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt22742070"
+    },
+    {
+        "id": 1174698,
+        "title": "Süper Ajan Bernard: Görev Mars (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bF341fp2s6YAxP6R2Gj98Ht1el8.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Komedi",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "曾梦玉",
+            "梁晓强",
+            "巴赫",
+            "张东",
+            "宣晓鸣"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt32526396"
     }
 ]
