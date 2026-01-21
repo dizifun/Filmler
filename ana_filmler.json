@@ -68664,5 +68664,70 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt13051724"
+    },
+    {
+        "id": 644124,
+        "title": "Dampyr (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/ppOj3kwMWBm767rA10pI8X4waja.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Fantastik",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Wade Briggs",
+            "Stuart Martin",
+            "Frida Gustavsson",
+            "Sebastian Croft",
+            "Luke Roberts"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt10315050"
+    },
+    {
+        "id": 873125,
+        "title": "Mussolini'nin Hazinesi (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/q5u1b1h90GgBaukDRnQKhCjvjFt.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Komedi"
+        ],
+        "cast": [
+            "Pietro Castellitto",
+            "Matilda De Angelis",
+            "Tommaso Ragno",
+            "Isabella Ferrari",
+            "Filippo Timi"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt14270848"
+    },
+    {
+        "id": 1024426,
+        "title": "Yüksekten Korkmuyorum (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/239DQg4tEWnLfBVwZhTdVVTMIAI.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Federica Torchetti",
+            "Celeste Savino",
+            "Cristiano Caccamo",
+            "Lorenzo Richelmy",
+            "Fausto Maria Sciarappa"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt22071864"
     }
 ]
