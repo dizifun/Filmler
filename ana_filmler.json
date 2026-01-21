@@ -84487,5 +84487,131 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt15036416"
+    },
+    {
+        "id": 957402,
+        "title": "Borrowed White (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/l3wdLjqOC2nRMHYyxHOY15HtDuu.jpg",
+        "year": "2021",
+        "genres": [
+            "TV film",
+            "Dram"
+        ],
+        "cast": [
+            "Susanne Wolff",
+            "Ulrich Matthes",
+            "Florist Bajgora",
+            "Elia Gezer",
+            "Bruno Cathomas"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt13071552"
+    },
+    {
+        "id": 683641,
+        "title": "Benim Adım Karl (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/gQJcTlIfLJayp5TdlvFzwh9gtMp.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Luna Wedler",
+            "Jannis Niewöhner",
+            "Milan Peschel",
+            "Edin Hasanović",
+            "Anna Fialová"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt9205538"
+    },
+    {
+        "id": 853588,
+        "title": "Av Günü (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/fZeeagepiv74DUE6ich1GYThkaG.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "David Kross",
+            "Hanno Koffler",
+            "Maria Ehrich",
+            "Robert Finster",
+            "Yung Ngo"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt15198608"
+    },
+    {
+        "id": 748787,
+        "title": "Satranç (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/5poIIt9a5YkAEI5MkY7hSfQwrrI.jpg",
+        "year": "2021",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Savaş",
+            "Gerilim"
+        ],
+        "cast": [
+            "Oliver Masucci",
+            "Albrecht Schuch",
+            "Birgit Minichmayr",
+            "Rolf Lassgård",
+            "Andreas Lust"
+        ],
+        "country": [
+            "AT",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt12058584"
+    },
+    {
+        "id": 743921,
+        "title": "İstanbul Bahçesi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/qPYcMwsgWPjt8R9zrcmijq2PKoM.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Emil von Schönfels",
+            "Mekyas Mulugeta",
+            "Katharina Behrens",
+            "Nicole Marischka",
+            "Godehard Giese"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt10526266"
+    },
+    {
+        "id": 855823,
+        "title": "Schumacher (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/ArpeW9q7rEwWyzZ3SZbBRsuvFPZ.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Mick Schumacher",
+            "Corinna Schumacher",
+            "Ralf Schumacher",
+            "Rolf Schumacher",
+            "Gina Schumacher"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt10322274"
     }
 ]
