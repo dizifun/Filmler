@@ -69406,5 +69406,88 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt21106646"
+    },
+    {
+        "id": 1011367,
+        "title": "Operation Nation (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/zrmVNoap8VgDf00KZspHm8kaVPp.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Maciej Musiałowski",
+            "Magdalena Maścianica",
+            "Borys Szyc",
+            "Antoni Królikowski",
+            "Cezary Pazura"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt20816202"
+    },
+    {
+        "id": 999127,
+        "title": "Broad Peak (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/trbZSMZHzRf7uAPieWwvQ81J0dr.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Ireneusz Czop",
+            "Maja Ostaszewska",
+            "Piotr Głowacki",
+            "Łukasz Simlat",
+            "Tomasz Sapryk"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt8983230"
+    },
+    {
+        "id": 920220,
+        "title": "Johnny (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/6UoWEfDbLm8q9VtrnLRp0ORzbNd.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Dawid Ogrodnik",
+            "Piotr Trojan",
+            "Beata Zygarlicka",
+            "Grażyna Bułka",
+            "Maria Pakulnis"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt15538570"
+    },
+    {
+        "id": 785398,
+        "title": "Aİ (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/rJAwWTC7jybSGxVvn1LCTQGqNMM.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Macera"
+        ],
+        "cast": [
+            "Sandra Drzymalska",
+            "Isabelle Huppert",
+            "Lorenzo Zurzolo",
+            "Mateusz Kościukiewicz",
+            "Tomasz Organek"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt19652910"
     }
 ]
