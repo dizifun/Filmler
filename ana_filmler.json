@@ -12811,5 +12811,47 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt28364592"
+    },
+    {
+        "id": 1418134,
+        "title": "My Deer Boy (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/1f1iPAcBMi8FORShAzFPyvfQzFe.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Fantastik"
+        ],
+        "cast": [
+            "Кузьма Сапрыкин",
+            "Ольга Веникова",
+            "Даниил Вахрушев",
+            "Виктор Васильев",
+            "Екатерина Волкова"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt29920904"
+    },
+    {
+        "id": 650033,
+        "title": "Free Fall (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/x4IwkaXpFLtIIj5ACNEmZkqWFhP.jpg",
+        "year": "2025",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Александр Кузнецов",
+            "Анна Чиповская",
+            "Андрей Мерзликин",
+            "Андрей Пынзару"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt14760886"
     }
 ]
