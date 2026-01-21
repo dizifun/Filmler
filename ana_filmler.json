@@ -11677,5 +11677,73 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt36754289"
+    },
+    {
+        "id": 1000438,
+        "title": "Emergency (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/yp5eg70g6LaZoBiApOv9oerzvvX.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Kangana Ranaut",
+            "Anupam Kher",
+            "Satish Kaushik",
+            "Shreyas Talpade",
+            "Mahima Chaudhry"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt21279420"
+    },
+    {
+        "id": 1195430,
+        "title": "Deva (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/4wKpglgZYMYpISMdThgdqS1TSQc.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Gizem",
+            "Suç"
+        ],
+        "cast": [
+            "Shahid Kapoor",
+            "Pooja Hegde",
+            "Pavail Gulati",
+            "Pravessh Rana",
+            "Girish Kulkarni"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt27852049"
+    },
+    {
+        "id": 1143407,
+        "title": "Sky Force (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Savaş",
+            "Tarih"
+        ],
+        "cast": [
+            "Veer Pahariya",
+            "Akshay Kumar",
+            "Nimrat Kaur",
+            "Sara Ali Khan",
+            "Sharad Kelkar"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt27056066"
     }
 ]
