@@ -85625,5 +85625,85 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt9110904"
+    },
+    {
+        "id": 747687,
+        "title": "Katolik Okulu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/4r7ssCjVvUg5yHFivv3OUmIWNNU.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Benedetta Porcaroli",
+            "Giulio Pranno",
+            "Emanuele Maria Di Stefano",
+            "Giulio Fochetti",
+            "Leonardo Ragazzini"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt10345782"
+    },
+    {
+        "id": 776328,
+        "title": "Marilyn'in Gözleri (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/wpF3kiZhC1k2GkauHlolDy6UTSd.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Miriam Leone",
+            "Stefano Accorsi",
+            "Thomas Trabacchi",
+            "Mario Pirrello",
+            "Orietta Notari"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt13313408"
+    },
+    {
+        "id": 770742,
+        "title": "Kardeş Kardeş (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/lAysbKnY3QoFcChVGKDcvPYInTs.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alessandro Preziosi",
+            "Claudia Pandolfi",
+            "Ludovica Martino",
+            "Stella Egitto",
+            "Caterina Murino"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt13003996"
+    },
+    {
+        "id": 747688,
+        "title": "Benim Adım Yara (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/l4pLdsQ7iXziTljdl1EaBCYlw0T.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Isabella Ragonese",
+            "Alessio Boni",
+            "Thomas Trabacchi",
+            "Sandra Toffolatti",
+            "Roberto Zibetti"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt15655276"
     }
 ]
