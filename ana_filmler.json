@@ -102547,5 +102547,49 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt13428402"
+    },
+    {
+        "id": 662708,
+        "title": "Pokémon Filmi: Ormanın Sırları (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/HS659LwNNdFtcvD0m8FxAATNQW.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "松本梨香",
+            "大谷育江",
+            "上白石萌歌",
+            "林原めぐみ",
+            "三木眞一郎"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt11819890"
+    },
+    {
+        "id": 726654,
+        "title": "The Untold Tale of the Three Kingdoms (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3zWk2XNXlwwFwQOiJoD9EM1M9Sh.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Tarih"
+        ],
+        "cast": [
+            "大泉洋",
+            "ムロツヨシ",
+            "橋本さとし",
+            "高橋努",
+            "山田孝之"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt12718318"
     }
 ]
