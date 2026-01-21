@@ -11252,5 +11252,67 @@
             "EC"
         ],
         "link": "https://vidmody.com/vs/tt28554021"
+    },
+    {
+        "id": 1327769,
+        "title": "27 Gece (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/vqReHIFJc1vgYLTQF768rFsRxRC.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Marilú Marini",
+            "Daniel Hendler",
+            "Humberto Tortonese",
+            "Julieta Zylberberg",
+            "Paula Grinszpan"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt38095263"
+    },
+    {
+        "id": 1484640,
+        "title": "Gel Yüzelim (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/wHK4R14rjhoDIBwmk9uwTNpopFz.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "María Paz Grandjean",
+            "Rosa Puga Vittini",
+            "Ignacia Baeza",
+            "Benjamín Westfall",
+            "Rodrigo Palacios"
+        ],
+        "country": [
+            "CL"
+        ],
+        "link": "https://vidmody.com/vs/tt34682204"
+    },
+    {
+        "id": 1144443,
+        "title": "Sesimi Takip Et (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/p2HlUfMufLsVArsoLgvphVCWJJK.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Berta Castañé",
+            "Jae Woo Yang",
+            "Claudia Traisac",
+            "Fernando Guallar",
+            "Itziar Ituño"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt23899310"
     }
 ]
