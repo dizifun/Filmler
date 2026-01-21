@@ -103273,5 +103273,46 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt11905962"
+    },
+    {
+        "id": 517096,
+        "title": "Galaksinin Kalecisi (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/1AkgB1GoseuOB0i14uC185oqmCz.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Macera"
+        ],
+        "cast": [
+            "Евгений Романцов",
+            "Виктория Агалакова",
+            "Евгений Миронов",
+            "Иван Иванович",
+            "Елизавета Тайченачева"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7176054"
+    },
+    {
+        "id": 594958,
+        "title": "The Time Guardians (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jkKOr6Jj078T5FzUUb4ETjNlFGM.jpg",
+        "year": "2020",
+        "genres": [
+            "Fantastik"
+        ],
+        "cast": [
+            "Ксения Алексеева",
+            "Павел Трубинер",
+            "Любовь Толкалина",
+            "Артём Ткаченко",
+            "Марина Казанкова"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt12872350"
     }
 ]
