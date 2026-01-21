@@ -84450,5 +84450,42 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt11560730"
+    },
+    {
+        "id": 847981,
+        "title": "Kara Ada (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/lthWL35rQlNbb9UAv44KEhKNEOX.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Philip Froissant",
+            "Hanns Zischler",
+            "Alice Dwyer",
+            "Mercedes Müller",
+            "Lieselotte Voß"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt12881516"
+    },
+    {
+        "id": 850329,
+        "title": "Shiny_Flakes: 19'unda Uyuşturucu Baronu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/jUhfOWAQzGbReE2jpkzzlgttevx.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [
+            "Maximilian Schmidt"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt15036416"
     }
 ]
