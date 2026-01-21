@@ -67707,5 +67707,68 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt14227972"
+    },
+    {
+        "id": 634429,
+        "title": "Shin Ultraman (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/w6E7MiAdPh0qA9ZqGKWmD4X1GUH.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "斎藤工",
+            "長澤まさみ",
+            "Hidetoshi Nishijima",
+            "有岡大貴",
+            "早見あかり"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt10737918"
+    },
+    {
+        "id": 849786,
+        "title": "Wandering (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/kQo2cZML25inFmxkG57GZCMrR4p.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "広瀬すず",
+            "松坂桃李",
+            "横浜流星",
+            "多部未華子",
+            "趣里"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt15150608"
+    },
+    {
+        "id": 960700,
+        "title": "Fullmetal Alchemist: The Revenge Of Scar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/epyZbxy59fLsYv7x2nsnuNT6qvt.jpg",
+        "year": "2022",
+        "genres": [
+            "Fantastik",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "山田涼介",
+            "水石亜飛夢",
+            "新田真剣佑",
+            "本田翼",
+            "ディーン・フジオカ"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt18671386"
     }
 ]
