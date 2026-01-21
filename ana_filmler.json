@@ -750,5 +750,67 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt36622181"
+    },
+    {
+        "id": 1530439,
+        "title": "Aile Meselesi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/rEwywdVpoaE2xqS6PoPuHSw76oF.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Halil Ergün",
+            "Demet Erdem",
+            "Cengiz Ergezer",
+            "Ayşen İnci",
+            "Ufuk Kaplan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt37876097"
+    },
+    {
+        "id": 1418524,
+        "title": "Sırdaş (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/stK2pVqNf0wTnxyrb6C1yPsisXx.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Saadet Işıl Aksoy",
+            "Nilgün Türksever",
+            "Nesrin Yatman",
+            "Nevin Zencirci",
+            "Sibel Oral"
+        ],
+        "country": [
+            "LU",
+            "TR",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt35451642"
+    },
+    {
+        "id": 1495723,
+        "title": "Metruk Adam (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/lGaVDZ6kLPqxypkio1fREN3z3Li.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Mert Ramazan Demir",
+            "Ada Erma",
+            "Rahimcan Kapkap",
+            "Ercan Kesal",
+            "Edip Tepeli"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt34691776"
     }
 ]
