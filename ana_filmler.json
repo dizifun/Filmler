@@ -66572,5 +66572,112 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt14941698"
+    },
+    {
+        "id": 913988,
+        "title": "The Final Game (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/zn1RhPoLmG5Bao7RmVgHmKLjCp9.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jaime Lorente",
+            "Álvaro Cervantes",
+            "Roger Casamajor",
+            "Àlex Maruny",
+            "Marc Bonnin"
+        ],
+        "country": [
+            "ES",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7148264"
+    },
+    {
+        "id": 714888,
+        "title": "Arjantin, 1985 (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/dVOVjQw9kUWIgUNaXHms3fPnmHE.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Suç"
+        ],
+        "cast": [
+            "Ricardo Darín",
+            "Peter Lanzani",
+            "Alejandra Flechner",
+            "Paula Ransenberg",
+            "Carlos Portaluppi"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt15301048"
+    },
+    {
+        "id": 960875,
+        "title": "Kafestekiler (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/z0iZuYNM0hUyHZeldIdXf4aSrPy.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Elena Anaya",
+            "Pablo Molinero",
+            "Eva Tennear",
+            "Eva Llorach",
+            "Carlos Santos"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt12683756"
+    },
+    {
+        "id": 913991,
+        "title": "Mahkum 77 (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/inXd4PIZwpQ2xppy9iDARECM3jA.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Miguel Herrán",
+            "Javier Gutiérrez",
+            "Jesús Carroza",
+            "Catalina Sopelana",
+            "Xavi Sáez"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt15128358"
+    },
+    {
+        "id": 960170,
+        "title": "Rainbow (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg",
+        "year": "2022",
+        "genres": [
+            "Fantastik",
+            "Dram",
+            "Komedi",
+            "Müzik"
+        ],
+        "cast": [
+            "Dora Postigo",
+            "Carmen Maura",
+            "Carmen Machi",
+            "Luis Bermejo",
+            "Áyax Pedrosa"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt14722598"
     }
 ]
