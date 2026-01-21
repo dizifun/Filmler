@@ -67643,5 +67643,48 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt14428598"
+    },
+    {
+        "id": 882826,
+        "title": "Bir Aksiyon Kahramanı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/dfxEPNm27lrnZvIP5BLSQ4OyYyk.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Komedi"
+        ],
+        "cast": [
+            "Ayushmann Khurrana",
+            "Jaideep Ahlawat",
+            "Gautam Joglekar",
+            "Harsh Chhaya",
+            "Neeraj Madhav"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt15600222"
+    },
+    {
+        "id": 755045,
+        "title": "Sirk Şamatası (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/if1EDRozDB2LJ8IO2d7lzt46Ahh.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Ranveer Singh",
+            "Varun Sharma",
+            "Pooja Hegde",
+            "Jacqueline Fernandez",
+            "Johny Lever"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt11112808"
     }
 ]
