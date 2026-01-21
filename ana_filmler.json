@@ -25302,5 +25302,256 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt33406376"
+    },
+    {
+        "id": 1411773,
+        "title": "The Last Stand of Ellen Cole (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Lin Shaye",
+            "Liz Caribel Sierra",
+            "Craig Tate",
+            "Ty Olsson",
+            "Karan Gill"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15682498"
+    },
+    {
+        "id": 1360610,
+        "title": "Menendez Kardeşler (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/cBEozqkV9XhSHCUDoLhhWMlmok9.jpg",
+        "year": "2024",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Erik Menendez",
+            "Lyle Menendez",
+            "Robert Rand",
+            "Shelley Ross",
+            "Pamela Bozanich"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt33481094"
+    },
+    {
+        "id": 1047373,
+        "title": "The Silent Hour (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/j736cRzBtEPCm0nHnpRN1prqiqj.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Joel Kinnaman",
+            "Sandra Mae Frank",
+            "Mekhi Phifer",
+            "Mark Strong",
+            "Michael Eklund"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt22874848"
+    },
+    {
+        "id": 1354652,
+        "title": "The Stoic (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/8RyWAkp2I8MiappqzmnCFIO6trJ.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Scott Wright",
+            "Rocci Williams",
+            "Stuart Brennan",
+            "George McCluskey",
+            "Jason Flemyng"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt26452738"
+    },
+    {
+        "id": 827931,
+        "title": "Zamanda Bir Kesik (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/yCsFIEYytXv4reukWWcp78B84dU.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Madison Bailey",
+            "Antonia Gentry",
+            "Griffin Gluck",
+            "Megan Best",
+            "Michael Shanks"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt14857528"
+    },
+    {
+        "id": 706693,
+        "title": "Timestalker (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/gUIBW4NKSFQ2GiJLLULDmtHT21.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim-Kurgu",
+            "Romantik",
+            "Fantastik",
+            "Komedi"
+        ],
+        "cast": [
+            "Alice Lowe",
+            "Jacob Anderson",
+            "Nick Frost",
+            "Tanya Reynolds",
+            "Aneurin Barnard"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt7340766"
+    },
+    {
+        "id": 1364049,
+        "title": "Untapped: Closing America’s Opportunity Gap (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/8cVqcWHsI6PrS2X4fZ33vRBGj1H.jpg",
+        "year": "2024",
+        "genres": [],
+        "cast": [],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt33499792"
+    },
+    {
+        "id": 912649,
+        "title": "Venom: Son Dans (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/zXuJod6c9NyPwHJiT3HxsZDquLZ.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Bilim-Kurgu",
+            "Macera"
+        ],
+        "cast": [
+            "Tom Hardy",
+            "Chiwetel Ejiofor",
+            "Juno Temple",
+            "Rhys Ifans",
+            "Stephen Graham"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt16366836"
+    },
+    {
+        "id": 1100099,
+        "title": "Son Ana Kadar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/oRNkqLrnIDA8kM2wkClraaFtOxd.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Andrew Garfield",
+            "Florence Pugh",
+            "Grace Delaney",
+            "Lee Braithwaite",
+            "Aoife Hinds"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt27131358"
+    },
+    {
+        "id": 402431,
+        "title": "Wicked (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/qaqQqYRjK3djrOZAeKQBdVFtQqh.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Fantastik"
+        ],
+        "cast": [
+            "Cynthia Erivo",
+            "Ariana Grande",
+            "Michelle Yeoh",
+            "Jonathan Bailey",
+            "Ethan Slater"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1262426"
+    },
+    {
+        "id": 835113,
+        "title": "Woman of the Hour (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Daniel Zovatto",
+            "Nicolette Robinson",
+            "Jedidiah Goodacre",
+            "Autumn Best"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7737800"
+    },
+    {
+        "id": 1098378,
+        "title": "İçimdeki Canavar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/nHlHRntqfDM0ORsfgPL28u4GiTT.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Komedi",
+            "Korku"
+        ],
+        "cast": [
+            "Melissa Barrera",
+            "Tommy Dewey",
+            "Edmund Donovan",
+            "Kayla Foster",
+            "Taylor Trensch"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt22741760"
     }
 ]
