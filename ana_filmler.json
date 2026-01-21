@@ -88076,5 +88076,85 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt11988512"
+    },
+    {
+        "id": 721413,
+        "title": "Plaza (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/5VyskG5hGCkYNZfBN5OEwLan22N.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Onur Berk Arslanoğlu",
+            "Deniz Altan",
+            "Adnan Devran",
+            "Özgür Özcan",
+            "Ali Kesim"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12737834"
+    },
+    {
+        "id": 752973,
+        "title": "İyi ki Yapmışım (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/vzWIW1cuDpsTcMMsWXyO2U51F5g.jpg",
+        "year": "2020",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Tilbe Saran",
+            "Metin Akpınar",
+            "Demet Akbağ",
+            "Perran Kutman",
+            "Ahmet Gülhan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt15139398"
+    },
+    {
+        "id": 721398,
+        "title": "Şair (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/rTHanclreucHqHt3ezZHyGVBmD.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Hakan Atalay",
+            "Sedat Kalkavan",
+            "Tonguç Oksal",
+            "Bilal Çatalçekiç",
+            "Melissa Yıldırımer"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12734394"
+    },
+    {
+        "id": 721409,
+        "title": "Körleşme (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/dHivA2A40ntvOYfCnARTU8DwsWR.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Fatih Al",
+            "Asiye Dinçsoy",
+            "Vedat Erincin",
+            "Cüneyt Yalaz",
+            "İpek Tenolcay"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11992106"
     }
 ]
