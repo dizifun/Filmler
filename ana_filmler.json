@@ -92059,5 +92059,152 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt11079148"
+    },
+    {
+        "id": 567608,
+        "title": "İkili Oyun (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mHWbWIB2YntY9865pXfqoVf8vAy.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Zach Avery",
+            "Samara Weaving",
+            "Carly Chaikin",
+            "Павел Лычников",
+            "Hal Ozsan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1929297"
+    },
+    {
+        "id": 597219,
+        "title": "Bir Bilsen (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Leah Lewis",
+            "Daniel Diemer",
+            "Alexxis Lemire",
+            "Enrique Murciano",
+            "Wolfgang Novogratz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9683478"
+    },
+    {
+        "id": 631939,
+        "title": "The Legion (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg",
+        "year": "2020",
+        "genres": [
+            "Macera",
+            "Tarih",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Mickey Rourke",
+            "Bai Ling",
+            "Joaquim de Almeida",
+            "Vladimir Kulich",
+            "Максим Матвеев"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8318284"
+    },
+    {
+        "id": 545237,
+        "title": "Yuva (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jude Law",
+            "Carrie Coon",
+            "Charlie Shotwell",
+            "Oona Roche",
+            "Adeel Akhtar"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt8338762"
+    },
+    {
+        "id": 415311,
+        "title": "Komşu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jvv66k53knzs49wnzaOZjOPYj4r.jpg",
+        "year": "2020",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "William Fichtner",
+            "Jessica McNamee",
+            "Jean Louisa Kelly",
+            "Michael Rosenbaum",
+            "Colin Woodell"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3905764"
+    },
+    {
+        "id": 576156,
+        "title": "The Lovebirds (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Issa Rae",
+            "Kumail Nanjiani",
+            "Paul Sparks",
+            "Anna Camp",
+            "Nicholas X. Parsons"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8851668"
+    },
+    {
+        "id": 582596,
+        "title": "Yanlış Missy (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/wkvNmDrQUrqxBqc3WhoUMr9XSOp.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "David Spade",
+            "Lauren Lapkus",
+            "Nick Swardson",
+            "Geoff Pierson",
+            "Jackie Sandler"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9619798"
     }
 ]
