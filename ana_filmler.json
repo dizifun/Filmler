@@ -70470,5 +70470,43 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt12516292"
+    },
+    {
+        "id": 805017,
+        "title": "Her Şey Dahil (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/egwSJ6UiVw7dlsuDWNvfqMsfPDf.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Ismail Daşdöǧen",
+            "Hakan Hoşcan"
+        ],
+        "country": [
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt14210468"
+    },
+    {
+        "id": 809236,
+        "title": "Sen Hiç Ateş Böceği Gördün mü? (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/hd4bvLVr9RBuQZ3BCTvpEGG4aJs.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Ecem Erkek",
+            "Engin Alkan",
+            "Devrim Yakut",
+            "Merve Dizdar",
+            "Ushan Çakır"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13317694"
     }
 ]
