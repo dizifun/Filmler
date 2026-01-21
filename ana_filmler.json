@@ -83670,5 +83670,85 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt14821150"
+    },
+    {
+        "id": 594691,
+        "title": "Aşıklar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/dYTUF5cz9uHrKoJoC13xfdWnTjK.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Pierre Niney",
+            "Stacy Martin",
+            "Benoît Magimel",
+            "Christophe Montenez",
+            "Nicolas Wanczycki"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9800670"
+    },
+    {
+        "id": 793998,
+        "title": "Kürtaj (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/siefIYyIfc64bKhWshuleYbIHyO.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Anamaria Vartolomei",
+            "Kacey Mottet Klein",
+            "Luàna Bajrami",
+            "Louise Orry-Diquéro",
+            "Pio Marmaï"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13880104"
+    },
+    {
+        "id": 820709,
+        "title": "Manyetik Vuruşlar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/uzL5n5kvWMhEtYWYSZOo3f4tIMq.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Thimotée Robart",
+            "Marie Colomb",
+            "Joseph Olivennes",
+            "Fabrice Adde",
+            "Louise Anselme"
+        ],
+        "country": [
+            "FR",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt14068864"
+    },
+    {
+        "id": 888917,
+        "title": "Dolandırıcılığın Efendileri (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/v2LroBlpT6uRTuGybRT1dwMirVW.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [
+            "Marco Mouly ",
+            "Arnaud Mimran"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15711402"
     }
 ]
