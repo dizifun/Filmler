@@ -83750,5 +83750,48 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt15711402"
+    },
+    {
+        "id": 633949,
+        "title": "Hatıra Kutusu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/q17tifz1rj0N6Vts457qDkpkTT7.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Manal Issa",
+            "Rim Turki",
+            "Paloma Vauthier",
+            "Clémence Sabbagh",
+            "Hassan Akil"
+        ],
+        "country": [
+            "CA",
+            "LB"
+        ],
+        "link": "https://vidmody.com/vs/tt7265490"
+    },
+    {
+        "id": 754067,
+        "title": "Vicky'nin Gizemli Dostu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/v17kM8POZGKOSlbzrim0ll5tyjj.jpg",
+        "year": "2021",
+        "genres": [
+            "Macera",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Vincent Elbaz",
+            "Shanna Keil",
+            "Marie Gillain",
+            "Éric Elmosnino",
+            "Tchéky Karyo"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10945274"
     }
 ]
