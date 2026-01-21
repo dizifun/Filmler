@@ -68119,5 +68119,45 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt12663250"
+    },
+    {
+        "id": 619803,
+        "title": "Kuralsızlar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/bXZHFbbMStNLL08lVYIlx2SmrsA.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim",
+            "Macera"
+        ],
+        "cast": [
+            "마동석",
+            "손석구",
+            "최귀화",
+            "박지환",
+            "허동원"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt15838850"
+    },
+    {
+        "id": 965143,
+        "title": "Siber Cehennem: Bir İnternet Kâbusu (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/xcHKydbJhXkoWXZke2QhrE7H89m.jpg",
+        "year": "2022",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [
+            "김규남"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt19768508"
     }
 ]
