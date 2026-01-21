@@ -46180,5 +46180,69 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt22185848"
+    },
+    {
+        "id": 1073413,
+        "title": "Görüngü (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/tjZXA0hkXm5HXbFzt2Zv9tbw66F.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Belén Rueda",
+            "Gracia Olayo",
+            "Toni Acosta",
+            "Emilio Gutiérrez Caba",
+            "Miren Ibarguren"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt18315204"
+    },
+    {
+        "id": 1101799,
+        "title": "Kaçak Kraliçeler (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/x64C75mMFlKwBR0s1OzDANLRzWC.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Martha Higareda",
+            "Paola Nuñez",
+            "Alejandra Ambrosi",
+            "Valeria Vera",
+            "Claudia Pineda"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt21736218"
+    },
+    {
+        "id": 1053587,
+        "title": "Fatum (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/xzmmJAa3OX302flRxg6fEf18FLL.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Luis Tosar",
+            "Elena Anaya",
+            "Álex García",
+            "Arón Piper",
+            "María Luisa Mayol"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt20215670"
     }
 ]
