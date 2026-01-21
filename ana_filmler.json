@@ -68358,5 +68358,48 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt15575470"
+    },
+    {
+        "id": 851644,
+        "title": "20th Century Girl (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/rSNtRQpCsDckczokmynAcVAt4Fm.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Kim You-jung",
+            "변우석",
+            "박정우",
+            "노윤서",
+            "김성경"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt15340724"
+    },
+    {
+        "id": 1028741,
+        "title": "Unidentified (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/6R6deRS2rXU7xQwmEWW7y5QkU2h.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "장선",
+            "Kim Hyo-in",
+            "Jeon Ho-hyeon",
+            "Jeon Young-hee",
+            "Shin Deok-gyu"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt22488952"
     }
 ]
