@@ -31881,5 +31881,50 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt11092178"
+    },
+    {
+        "id": 717196,
+        "title": "Niko: Kuzey Işıklarının Ötesinde (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/qltfhWht6kbfkH9uZdeJqZ8CxDL.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Matthew Whelan",
+            "Emma Jenkins",
+            "Paul Tylak",
+            "Roger Gregg",
+            "Dermot Magennis"
+        ],
+        "country": [
+            "DK",
+            "FI",
+            "IE",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt14813816"
+    },
+    {
+        "id": 716808,
+        "title": "Heavier Trip (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/yaHPLV0xAZRGLVcN9MAVATMdQGW.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Johannes Holopainen",
+            "Samuli Jaskio",
+            "Chike Ohanwe",
+            "Max Ovaska",
+            "Anatole Taubman"
+        ],
+        "country": [
+            "FI"
+        ],
+        "link": "https://vidmody.com/vs/tt28772978"
     }
 ]
