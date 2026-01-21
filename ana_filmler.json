@@ -67990,5 +67990,69 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt17677744"
+    },
+    {
+        "id": 610321,
+        "title": "The Policeman's Lineage (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/cQVOJcX7pUbmRQb0MgM1uqnj0kM.jpg",
+        "year": "2022",
+        "genres": [
+            "Suç"
+        ],
+        "cast": [
+            "Choi Woo-shik",
+            "조진웅",
+            "이현욱",
+            "박희순",
+            "Kwon Yul"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt16676718"
+    },
+    {
+        "id": 591120,
+        "title": "Korsanlar 2: Kayıp Hazinenin Peşinde (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/2Tf1Hi5YVVeJksddvWn7o4dWjYm.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "강하늘",
+            "한효주",
+            "이광수",
+            "권상우",
+            "채수빈"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt17491040"
+    },
+    {
+        "id": 606403,
+        "title": "Special Delivery (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/6v1N2SBhaF8lTBgsjfTAgVmS5q9.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç"
+        ],
+        "cast": [
+            "박소담",
+            "김의성",
+            "송새벽",
+            "염혜란",
+            "정현준"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt16529222"
     }
 ]
