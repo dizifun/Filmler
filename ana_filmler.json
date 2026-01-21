@@ -46457,5 +46457,68 @@
             "PE"
         ],
         "link": "https://vidmody.com/vs/tt28765467"
+    },
+    {
+        "id": 1010826,
+        "title": "Katil Kitap Kulübü (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/idew42l7ILdyR97XC9yG4hFUy1Z.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Veki Velilla",
+            "Iván Pellicer",
+            "Álvaro Mel",
+            "Ane Rot",
+            "Carlos Alcaide"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt18260564"
+    },
+    {
+        "id": 1159086,
+        "title": "Büyük Olta (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/17VmLlO81QJPGlnAJxZKRwSKhDW.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Memo Villegas",
+            "Pierre Louis",
+            "Yalitza Aparicio",
+            "Eligio Meléndez",
+            "Julio Casado"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt14542504"
+    },
+    {
+        "id": 1157027,
+        "title": "Oceans Are the Real Continents (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dhJSlesnTNCBKmY965gQMSEDfmw.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alexander Diego",
+            "Edith Ybarra Clara",
+            "Frank Ernesto Lam",
+            "Alain Alain Alfonso González",
+            "Milagros Llanes Martínez"
+        ],
+        "country": [
+            "CU",
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt28635355"
     }
 ]
