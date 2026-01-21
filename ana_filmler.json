@@ -48549,5 +48549,50 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt32526396"
+    },
+    {
+        "id": 1046090,
+        "title": "Bir İpte Üç Cambaz (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/eNvuf4PHepy0nlXfludjGCJGG59.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "阮經天",
+            "王淨",
+            "李李仁",
+            "謝瓊煖",
+            "袁富華"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt29319990"
+    },
+    {
+        "id": 1047003,
+        "title": "Lost in Perfection (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/1l5XZjBmSahYU4pKMdUc75DOba5.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "邵雨薇",
+            "鳳小岳",
+            "林美秀",
+            "曾少宗",
+            "Mark Lee"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt27766132"
     }
 ]
