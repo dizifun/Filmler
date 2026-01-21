@@ -2366,5 +2366,94 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt22751422"
+    },
+    {
+        "id": 950396,
+        "title": "The Gorge (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Miles Teller",
+            "Anya Taylor-Joy",
+            "Sigourney Weaver",
+            "Ṣọpẹ́ Dìrísù",
+            "William Houston"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13654226"
+    },
+    {
+        "id": 1124620,
+        "title": "The Monkey (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Theo James",
+            "Tatiana Maslany",
+            "Christian Convery",
+            "Colin O'Brien",
+            "Adam Scott"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt27714946"
+    },
+    {
+        "id": 1203329,
+        "title": "The Witcher: Sirens of the Deep (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Doug Cockle",
+            "Joey Batey",
+            "Christina Wren",
+            "Emily Carey",
+            "Camrus Johnson"
+        ],
+        "country": [
+            "PL",
+            "KR",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15495150"
+    },
+    {
+        "id": 1013301,
+        "title": "When I'm Ready (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/g7T2OZVC4G70tmYmUnVzzsbbIYO.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Andrew Ortenberg",
+            "June Schreiner",
+            "Thalia Besson",
+            "Dermot Mulroney",
+            "Lauren Cohan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21818162"
     }
 ]
