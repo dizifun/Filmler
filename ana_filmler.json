@@ -47918,5 +47918,72 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt23289160"
+    },
+    {
+        "id": 913001,
+        "title": "Hayalî (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/4SvEgyMg5sc4NK7sULHK1GvT1au.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Dram",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "寺田心",
+            "鈴木梨央",
+            "安藤サクラ",
+            "仲里依紗",
+            "山田孝之"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt16369708"
+    },
+    {
+        "id": 1137142,
+        "title": "Lumberjack the Monster (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/6dKz0iEom8J0wfQT2kecjyIfkCV.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Suç",
+            "Korku"
+        ],
+        "cast": [
+            "亀梨和也",
+            "菜々緒",
+            "吉岡里帆",
+            "Kiyohiko Shibukawa",
+            "染谷将太"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt28090490"
+    },
+    {
+        "id": 1156125,
+        "title": "Kötülük Diye Bir Şey Yok (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/l7UYV72xCMaEVpSJHuKswZmtEka.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Hitoshi Omika",
+            "Ryo Nishikawa",
+            "Ryuji Kosaka",
+            "渋谷采郁",
+            "菊池葉月"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt28490044"
     }
 ]
