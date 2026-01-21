@@ -10603,5 +10603,48 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt31112509"
+    },
+    {
+        "id": 1230208,
+        "title": "Merkez 36 (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/qby65G5rzt4xltXeFsf0tnUMxdx.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Victor Belmondo",
+            "Tewfik Jallab",
+            "Soufiane Guerrab",
+            "Juliette Dol",
+            "Yvan Attal"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt31032711"
+    },
+    {
+        "id": 1361622,
+        "title": "Ana-Oğul Balayı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/bzW0afBIyWZ0bjCje8GPezvETy0.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Michèle Laroque",
+            "Julien Frison",
+            "Rossy de Palma",
+            "Gilbert Melki",
+            "Margot Bancilhon"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt35300972"
     }
 ]
