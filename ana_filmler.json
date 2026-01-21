@@ -84829,5 +84829,49 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt7518786"
+    },
+    {
+        "id": 683127,
+        "title": "Earwig’in Sihirli Şarkısı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/jPGcxoV5q6Nkt5civQU4bpDqiTU.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aile"
+        ],
+        "cast": [
+            "平澤宏々路",
+            "寺島しのぶ",
+            "濱田岳",
+            "Sherina Munaf",
+            "豊川悦司"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt12441478"
+    },
+    {
+        "id": 734519,
+        "title": "FABLE: Aradığınız Katile Ulaşılamıyor (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/zjiiMbbQiPLnma3dLQFrGX02hu6.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "岡田准一",
+            "木村文乃",
+            "堤真一",
+            "平手友梨奈",
+            "安藤政信"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt13017204"
     }
 ]
