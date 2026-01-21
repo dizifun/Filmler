@@ -27430,5 +27430,71 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt21247132"
+    },
+    {
+        "id": 974950,
+        "title": "Emilia Pérez (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Zoe Saldaña",
+            "Karla Sofía Gascón",
+            "Selena Gomez",
+            "Adriana Paz",
+            "Edgar Ramírez"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt20221436"
+    },
+    {
+        "id": 1001274,
+        "title": "Gece Çağrısı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/jzZJXEa8KX5hsjCCpRaWc69e9gz.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jonathan Feltre",
+            "Natacha Krief",
+            "Jonas Bloquet",
+            "Romain Duris",
+            "Thomas Mustin"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt16826430"
+    },
+    {
+        "id": 1180702,
+        "title": "Nice Girls (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/zdoqqR2OtQ0b1gnFQkGIsY5rDuF.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Alice Taglioni",
+            "Stéfi Celma",
+            "Baptiste Lecaplain",
+            "Noémie Lvovsky",
+            "Antoine Duléry"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt29288566"
     }
 ]
