@@ -90043,5 +90043,395 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt6819310"
+    },
+    {
+        "id": 619594,
+        "title": "Salinger Yılım (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/qoKFZWYNfrfCVIaXGMabprqdzxf.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Margaret Qualley",
+            "Sigourney Weaver",
+            "Douglas Booth",
+            "Seána Kerslake",
+            "Brían F. O'Byrne"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt2222052"
+    },
+    {
+        "id": 610045,
+        "title": "Karlar Kralı Norm 3 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/ohWU8bPbAK5WEAboIabivld9Hyw.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Andrew Toth",
+            "Lisa Durupt",
+            "Jonathan Holmes",
+            "Paul Dobson",
+            "Cole Howard"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9434836"
+    },
+    {
+        "id": 508439,
+        "title": "Hadi Gidelim (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jP3ju3i6J7RqTUw0Ug1CJyAGGwC.jpg",
+        "year": "2020",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Macera",
+            "Animasyon",
+            "Fantastik"
+        ],
+        "cast": [
+            "Tom Holland",
+            "Chris Pratt",
+            "Julia Louis-Dreyfus",
+            "Octavia Spencer",
+            "Mel Rodriguez"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7146812"
+    },
+    {
+        "id": 576005,
+        "title": "Azize Frances (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mkiI2VzPLyvZvlsX8WD84P16Cee.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Kelly O'Sullivan",
+            "Ramona Edith Williams",
+            "Charin Alvarez",
+            "Lily Mojekwu",
+            "Max Lipchitz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9016016"
+    },
+    {
+        "id": 454626,
+        "title": "Kirpi Sonic (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/eyF2vFCCOQrKoma8mU0W76MU6Mw.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Bilim-Kurgu",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Ben Schwartz",
+            "James Marsden",
+            "Tika Sumpter",
+            "Jim Carrey",
+            "Natasha Rothwell"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3794354"
+    },
+    {
+        "id": 663255,
+        "title": "Spy Intervention (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/srS8rvH1SwKcpeYuzUqSNBU1llH.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "Poppy Delevingne",
+            "Drew Van Acker",
+            "Dave Sheridan",
+            "Blake Anderson",
+            "Brittany Furlan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7369550"
+    },
+    {
+        "id": 597231,
+        "title": "Ayağa Kalkmak, Düşmek (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/sPf007Zt2zdPk62FfeNYnxBbXUG.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Billy Crystal",
+            "Ben Schwartz",
+            "Grace Gummer",
+            "Eloise Mumford",
+            "John Behlmann"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6173484"
+    },
+    {
+        "id": 618355,
+        "title": "Süpermen: Kızıl Evlat (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Animasyon",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Jason Isaacs",
+            "Amy Acker",
+            "Diedrich Bader",
+            "Vanessa Marshall",
+            "Phil Morris"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10985510"
+    },
+    {
+        "id": 481848,
+        "title": "Vahşetin Çağrısı (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/lvWCJvI8xVM7hbpaXtXXG4clKFm.jpg",
+        "year": "2020",
+        "genres": [
+            "Macera",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Harrison Ford",
+            "Dan Stevens",
+            "Colin Woodell",
+            "Karen Gillan",
+            "Omar Sy"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7504726"
+    },
+    {
+        "id": 570670,
+        "title": "Görünmez Adam (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/zGYKcLcWzZtptwuWJiEwKjsYPtG.jpg",
+        "year": "2020",
+        "genres": [
+            "Gerilim",
+            "Bilim-Kurgu",
+            "Korku"
+        ],
+        "cast": [
+            "Elisabeth Moss",
+            "Aldis Hodge",
+            "Storm Reid",
+            "Michael Dorman",
+            "Harriet Dyer"
+        ],
+        "country": [
+            "AU",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1051906"
+    },
+    {
+        "id": 505225,
+        "title": "İstediği Son Şey (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/4mDbGqi8mloDdxkviq13SKCfuFH.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Anne Hathaway",
+            "Ben Affleck",
+            "Rosie Perez",
+            "Willem Dafoe",
+            "Edi Gathegi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7456312"
+    },
+    {
+        "id": 589049,
+        "title": "Fotoğraf (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/zSMq9DMmeyaF6dScQTB71Ow0brD.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Issa Rae",
+            "LaKeith Stanfield",
+            "Chanté Adams",
+            "Y'lan Noel",
+            "Kelvin Harrison, Jr."
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7798646"
+    },
+    {
+        "id": 526007,
+        "title": "Gece Nöbeti (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/rlZYxbC28qjGrzT21i1SKsgR8Y0.jpg",
+        "year": "2020",
+        "genres": [
+            "Gerilim",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Tye Sheridan",
+            "Ana de Armas",
+            "John Leguizamo",
+            "Helen Hunt",
+            "Jacque Gray"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7979142"
+    },
+    {
+        "id": 605874,
+        "title": "Geriye Kalanlar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/xMjJ0acrj0W5g9c4XKiW0PFVzP2.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Heather Graham",
+            "Sophie Nélisse",
+            "Abigail Pniowsky",
+            "Jodi Balfour",
+            "Charlie Gillespie"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt8584722"
+    },
+    {
+        "id": 565426,
+        "title": "Sevdiğim Tüm Erkeklere: Not Seni Hala Seviyorum (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/lhmRUU9FmKmzfUTGYyw79si9kCz.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Lana Condor",
+            "Noah Centineo",
+            "Jordan Fisher",
+            "Anna Cathcart",
+            "John Corbett"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9354842"
+    },
+    {
+        "id": 525428,
+        "title": "Anya'yı Beklerken (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/5BfXAZ6BoS6zdWa2X4nXEuIXPZe.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Noah Schnapp",
+            "Thomas Kretschmann",
+            "Frederick Schmidt",
+            "Tómas Lemarquis",
+            "Gilles Marini"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7095476"
+    },
+    {
+        "id": 660549,
+        "title": "Kötü Adam (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/kc5AdZ0DJqrnAye8xGbXgtABh4E.jpg",
+        "year": "2020",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Craig Fairbrass",
+            "Robert Glenister",
+            "Nicholas Aaron",
+            "Izuka Hoyle",
+            "Jade Asha"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9820352"
+    },
+    {
+        "id": 399363,
+        "title": "Wendy (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/nphsStbtAuJ2IaXtCvDXDwMUF5N.jpg",
+        "year": "2020",
+        "genres": [
+            "Fantastik",
+            "Dram"
+        ],
+        "cast": [
+            "Devin France",
+            "Yashua Mack",
+            "Gage Naquin",
+            "Gavin Naquin",
+            "Krzysztof Meyn"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2420124"
     }
 ]
