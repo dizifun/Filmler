@@ -103679,5 +103679,47 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt10886166"
+    },
+    {
+        "id": 590854,
+        "title": "The Hater (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/rlVctjcab46ALMOVEQfcKTCkpaV.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Maciej Musiałowski",
+            "Vanessa Aleksander",
+            "Danuta Stenka",
+            "Jacek Koman",
+            "Agata Kulesza"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt9506474"
+    },
+    {
+        "id": 681019,
+        "title": "Bu Gece Ormanda Kimse Uyumuyor (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/uDQGsOIXcZU0EsTW2LKMPoR7zV2.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Korku"
+        ],
+        "cast": [
+            "Julia Wieniawa",
+            "Sebastian Dela",
+            "Michał Lupa",
+            "Wiktoria Gąsiewska",
+            "Stanisław Cywka"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt11240506"
     }
 ]
