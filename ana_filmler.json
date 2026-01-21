@@ -614,5 +614,87 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt32367116"
+    },
+    {
+        "id": 1474574,
+        "title": "Sihirli Annem: Hepimiz Biriz (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/5pWCpxei0x4JYi26vqS5iXFuUgF.jpg",
+        "year": "2025",
+        "genres": [
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "İnci Türkay",
+            "Nevra Serezli",
+            "Zeynep Özkaya",
+            "Gül Onat",
+            "Şahap Sayılgan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36589374"
+    },
+    {
+        "id": 1556444,
+        "title": "Köstebekgiller: Ata Tohumu Muhafızları (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/7MsIDVYC3AkCobJEjUYZspZvOZ5.jpg",
+        "year": "2025",
+        "genres": [
+            "Aile",
+            "Animasyon"
+        ],
+        "cast": [
+            "Beren Gökyıldız",
+            "Mehmet Aybars Kaya",
+            "Pınar Altuğ",
+            "Jennifer Boyner",
+            "Altan Yiğit Ceylan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt34691861"
+    },
+    {
+        "id": 1471161,
+        "title": "Kalender Pide (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/wJ8wb0b4v8msHcZKqSjOY3WECCZ.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Tolga Çevik",
+            "İbrahim Büyükak",
+            "Esra Ruşan",
+            "Almila Ada",
+            "Mustafa Kırantepe"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt35825882"
+    },
+    {
+        "id": 1469030,
+        "title": "Sıcak Büfe (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/5J5pBNIpWOz2Faa8bafSLRJyerj.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Hakan Yılmaz",
+            "Orkuncan İzan",
+            "Bihter Dinçel",
+            "Deniz Hamzaoğlu",
+            "Barış Yıldız"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36262473"
     }
 ]
