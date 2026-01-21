@@ -82856,5 +82856,48 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt11734264"
+    },
+    {
+        "id": 661930,
+        "title": "The Swarm (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/n3yVHGtvnGTPMdGLrcOhFxXPRD7.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Dram"
+        ],
+        "cast": [
+            "Suliane Brahim",
+            "Sofian Khammes",
+            "Marie Narbonne",
+            "Raphael Romand",
+            "Nathalie Boyer"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10675724"
+    },
+    {
+        "id": 660006,
+        "title": "Madam Claude (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/9miY5tHWmvVAft4gjqyaXyhLYHY.jpg",
+        "year": "2021",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Karole Rocher",
+            "Garance Marillier",
+            "Roschdy Zem",
+            "Pierre Deladonchamps",
+            "Liah O'Prey"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10307724"
     }
 ]
