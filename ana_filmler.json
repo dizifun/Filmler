@@ -94910,5 +94910,67 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt11695654"
+    },
+    {
+        "id": 612706,
+        "title": "Work It (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/b5XfICAvUe8beWExBz97i0Qw4Qh.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Müzik"
+        ],
+        "cast": [
+            "Sabrina Carpenter",
+            "Liza Koshy",
+            "Keiynan Lonsdale",
+            "Michelle Buteau",
+            "Jordan Fisher"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10276470"
+    },
+    {
+        "id": 523781,
+        "title": "Banyo Duvarı Yazıları (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/bA8JLH7qZImKiskvR5JIVESR9y5.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Charlie Plummer",
+            "Molly Parker",
+            "Walton Goggins",
+            "Andy Garcia",
+            "Taylor Russell"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8045906"
+    },
+    {
+        "id": 672035,
+        "title": "David Arquette'i Öldüremezsin (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/tdYm50Tfvyp4jmv96WdCFLSlEJL.jpg",
+        "year": "2020",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "David Arquette",
+            "Richmond Arquette",
+            "Patricia Arquette",
+            "Karen Yu",
+            "Kevin Nash"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11454066"
     }
 ]
