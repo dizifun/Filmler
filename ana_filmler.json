@@ -86488,5 +86488,49 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt14315566"
+    },
+    {
+        "id": 866678,
+        "title": "Öfke Çemberi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/sSIo1vG0IILxzHkLKmtFEoTbVE9.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Mateusz Banasiuk",
+            "Weronika Książkiewicz-Nathaniel",
+            "Mateusz Damięcki",
+            "Łukasz Simlat",
+            "Wojciech Zieliński"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt10515864"
+    },
+    {
+        "id": 871964,
+        "title": "Bu Gece Ormanda Kimse Uyumuyor: Bölüm 2 (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/k5Z2DdVqtWxGm14d3F3GawHlGOV.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Komedi"
+        ],
+        "cast": [
+            "Mateusz Więcławek",
+            "Julia Wieniawa",
+            "Zofia Wichłacz",
+            "Andrzej Grabowski",
+            "Wojciech Mecwaldowski"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt14315500"
     }
 ]
