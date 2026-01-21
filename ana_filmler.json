@@ -42982,5 +42982,69 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt10551654"
+    },
+    {
+        "id": 1175873,
+        "title": "Vindicta (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/yeopyZbtwX0sgsndJU6vQj1uxrb.jpg",
+        "year": "2023",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Michasha Armstrong",
+            "Sean Astin",
+            "Jaime M. Callica",
+            "Karolina Cubitt",
+            "Daniel Cudmore"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt28682039"
+    },
+    {
+        "id": 779816,
+        "title": "White Bird: A Wonder Story (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/s2igE99PVBEMsry3qEGEH3rM83K.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Ariella Glaser",
+            "Orlando Schwerdt",
+            "Bryce Gheisar",
+            "Gillian Anderson",
+            "Helen Mirren"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11068094"
+    },
+    {
+        "id": 1330343,
+        "title": "Wineville (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/owcL0euoyfW6KhAwxUIH1kXWW6W.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Brande Roderick",
+            "Texas Battle",
+            "Carolyn Hennesy",
+            "Casey King",
+            "Taylor Murphy-Sinclair"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21158916"
     }
 ]
