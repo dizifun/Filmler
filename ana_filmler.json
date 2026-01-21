@@ -31345,5 +31345,46 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt32245043"
+    },
+    {
+        "id": 1280440,
+        "title": "Boksör (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/tXAj0pzGuA1dvYcEnHxjSjM107e.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Eryk Kulm",
+            "Adrianna Chlebicka",
+            "Eryk Lubos",
+            "Adam Woronowicz",
+            "Jacek Poniedziałek"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt32244931"
+    },
+    {
+        "id": 1281933,
+        "title": "Boşanamama (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/pPYejDUlj7yZ0MrKTBbo8jAIxkC.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Magdalena Popławska",
+            "Wojciech Mecwaldowski",
+            "Tomasz Schuchardt",
+            "Oliwia Drabik",
+            "Michalina Łabacz"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt33307315"
     }
 ]
