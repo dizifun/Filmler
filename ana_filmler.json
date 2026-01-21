@@ -66362,5 +66362,65 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt13660916"
+    },
+    {
+        "id": 955971,
+        "title": "Annemle Balayı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/mJnldu7WjrGdZnFZMacaoguKX48.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Carmen Machi",
+            "Quim Gutiérrez",
+            "Justina Bustos",
+            "Yolanda Ramos",
+            "Dominique Guillo"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11269026"
+    },
+    {
+        "id": 946703,
+        "title": "Altın Kafes (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/lu2yPIBgj3zP5rpEPuDOlGurwkf.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Aitana Sánchez-Gijón",
+            "Cumelén Sanz",
+            "Younes Bachir",
+            "Pedro Casablanc",
+            "Salomé Jiménez"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt15006754"
+    },
+    {
+        "id": 800407,
+        "title": "Kristal Kızlar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/2dCG9VTI7sBxCNyRVtJv0GG7e39.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "María Pedraza",
+            "Paula Losada",
+            "Mona Martínez",
+            "Marta Hazas",
+            "Ana Wagener"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt14118046"
     }
 ]
