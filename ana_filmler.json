@@ -70737,5 +70737,103 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt15575856"
+    },
+    {
+        "id": 1056979,
+        "title": "Bekleyiş (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/q2Vkg8yHZe54LPGd1UbMaJICEfL.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Aslı Akdağ"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt16244496"
+    },
+    {
+        "id": 986915,
+        "title": "Gerçek Cinler (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/6sPm2yKnsfglXFFMVmNUpjy9Its.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Kuzey Demir",
+            "Rıfat Kanpara",
+            "Ceyhun Sevilmis",
+            "Okan Aksu",
+            "Emir Ozdemir"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt15145508"
+    },
+    {
+        "id": 776659,
+        "title": "Okul Tıraşı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/pGvU74mXbLcesSymnc38sXuuohJ.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Samet Yıldız",
+            "Nurullah Alaca",
+            "Ekin Koç",
+            "Mahir İpek",
+            "Melih Selçuk"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10311018"
+    },
+    {
+        "id": 865814,
+        "title": "Kilit (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/rhhVFk7WWFL12k0u4DCpVQEcbUo.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Melisa Aslı Pamuk",
+            "Asuman Dabak",
+            "Mert Fırat",
+            "Timur Acar",
+            "Melik Akkaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12687584"
+    },
+    {
+        "id": 963761,
+        "title": "Şeflerin Şefi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/edP6PsiXqoKzwhUc1TC1YyshMod.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Sermiyan Midyat",
+            "Ruhi Sarı",
+            "Zeynep Gülmez",
+            "Açelya Elmas",
+            "Melih Selçuk"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13810700"
     }
 ]
