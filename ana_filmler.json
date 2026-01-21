@@ -32222,5 +32222,102 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt22208452"
+    },
+    {
+        "id": 1083127,
+        "title": "Kırmızı Başlıklı Kız ve Bizim Kahramanlar (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/psK6c63NGsdRu9WiPvqwN01Spd.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon"
+        ],
+        "cast": [],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt25786030"
+    },
+    {
+        "id": 1073337,
+        "title": "İyi Adamın 10 Günü (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/xEB1QCOuNFc7e6oxsNxQURph3bS.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Nejat İşler",
+            "Nur Fettahoğlu",
+            "Şenay Gürler",
+            "İlayda Alişan",
+            "İlayda Akdoğan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt23334464"
+    },
+    {
+        "id": 1073125,
+        "title": "Rüyanda Görürsün (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zr9Yel6jjlNe1O3xBnrndZDL3nC.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Murat Boz",
+            "Burcu Özberk",
+            "Ekin Mert Daymaz",
+            "Devrim Yakut",
+            "Şerif Erol"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt21308736"
+    },
+    {
+        "id": 1024600,
+        "title": "Prestij Meselesi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5Fsr8mHyd0GxQYBl83357e23kCs.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Mahmut Kırmızıgül",
+            "Onur Gözeten",
+            "Ali Erkin Acır",
+            "Engin Hepileri",
+            "Eser Yenenler"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt21909844"
+    },
+    {
+        "id": 1222750,
+        "title": "Bir Tatlı Huzur (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zI0SGEeXbn9u8yiE8ZyDXceqE4j.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Didem Balçın",
+            "Toygan Avanoğlu",
+            "Gizem Kala",
+            "Demircan Kaçel"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt28429977"
     }
 ]
