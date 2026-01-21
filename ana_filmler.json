@@ -45336,5 +45336,94 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt21276064"
+    },
+    {
+        "id": 1140056,
+        "title": "Para Kokusu (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/iIVTJE7Ldq3uVgYNL3QP5zUXmp8.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Raphaël Quenard",
+            "Igor Gotesman",
+            "Agathe Rousselle",
+            "Antoine Gouy",
+            "Nina Meurisse"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27987407"
+    },
+    {
+        "id": 958155,
+        "title": "Gençler (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dtMrGc0iEvB4FiinWRwTAXr05ft.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Vanessa Paradis",
+            "Franck Ropers",
+            "Ewan Bourdelles",
+            "Noah Zandouche",
+            "Alaïs Bertrand"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt20455254"
+    },
+    {
+        "id": 1000130,
+        "title": "Hounds (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wsZjbpHluzjZA7bv68fVWj43Ubz.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Ayoub Elaid",
+            "Abdellatif Masstouri",
+            "Mohamed Hmimsa",
+            "Abdellah Lebkiri",
+            "Lahcen Zaimouzen"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt25750836"
+    },
+    {
+        "id": 496450,
+        "title": "Mucize: Uğur Böceği ile Kara Kedi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/f84cjyiMfzr1CcZHiervc0vJjfm.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aksiyon",
+            "Romantik",
+            "Aile"
+        ],
+        "cast": [
+            "Anouck Hautbois",
+            "Benjamin Bollen",
+            "Fanny Bloc",
+            "Alexandre Nguyen",
+            "Antoine Tomé"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10364034"
     }
 ]
