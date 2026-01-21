@@ -45142,5 +45142,49 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt12672536"
+    },
+    {
+        "id": 921452,
+        "title": "Jeanne du Barry (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/o4WMgW6BJw5Tbj0dK3DJBVYku8Y.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Romantik"
+        ],
+        "cast": [
+            "Maïwenn",
+            "Johnny Depp",
+            "Benjamin Lavernhe",
+            "Melvil Poupaud",
+            "Robin Renucci"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt17277414"
+    },
+    {
+        "id": 989672,
+        "title": "Narsistle Aşk (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/yUGxcOIzaItcXWleKDqNWiCne8O.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Virginie Efira",
+            "Melvil Poupaud",
+            "Dominique Reymond",
+            "Romane Bohringer",
+            "Virginie Ledoyen"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt23049206"
     }
 ]
