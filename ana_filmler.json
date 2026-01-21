@@ -11128,5 +11128,87 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt36150950"
+    },
+    {
+        "id": 1327766,
+        "title": "Kalp Bilir (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Benjamín Vicuña",
+            "Julieta Díaz",
+            "Peto Menahem",
+            "Gloria Carrá",
+            "Bicho Gómez"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt33244550"
+    },
+    {
+        "id": 1285406,
+        "title": "Düşmanlar (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/931RWObebU1Y4EUS2fpwmZQRGPs.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Christian Checa",
+            "Hugo Welzel",
+            "Estefanía de los Santos",
+            "Luna Pamiés",
+            "José María Peinado"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt34190272"
+    },
+    {
+        "id": 1397832,
+        "title": "Kara Dul Maje (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/36mW4O2VWBaOJZYV5c5r2i8Hl3m.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Ivana Baquero",
+            "Tristán Ulloa",
+            "Carmen Machi",
+            "Pepe Ocio",
+            "Joel Sánchez"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt33474172"
+    },
+    {
+        "id": 1245165,
+        "title": "Mezuniyet Gezisi: Mallorca (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/2xPrbk7C4I3YQofZ7mAYS9OYVFd.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Yolanda Ramos",
+            "Berta Castañé",
+            "Sara Vidorreta",
+            "Claudia Roset",
+            "Nadia Vilaplana"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt31317401"
     }
 ]
