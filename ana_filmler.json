@@ -45642,5 +45642,70 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt17009348"
+    },
+    {
+        "id": 967582,
+        "title": "Only 3 Days Left (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qIExh8vD4d5EzkXTGtnZHY1cw0m.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Tarek Boudali",
+            "Philippe Lacheau",
+            "Julien Arruti",
+            "Vanessa Guide",
+            "Chantal Ladesou"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27712015"
+    },
+    {
+        "id": 1061728,
+        "title": "Butterfly Tale (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bE1DU3x6PjGdcooevaoweJbqSsQ.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Tatiana Maslany",
+            "Andrey Batt",
+            "Ludivine Reding",
+            "Catherine Renaud",
+            "Antoine Desrochers"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt8434394"
+    },
+    {
+        "id": 943134,
+        "title": "Hayvan Krallığı (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/4yma6Foff7K8NPQscOGT7aFVOYs.jpg",
+        "year": "2023",
+        "genres": [
+            "Macera",
+            "Dram",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Romain Duris",
+            "Paul Kircher",
+            "Adèle Exarchopoulos",
+            "Tom Mercier",
+            "Billie Blain"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt16606592"
     }
 ]
