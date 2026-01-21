@@ -85833,5 +85833,51 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt13932162"
+    },
+    {
+        "id": 529106,
+        "title": "Komiser Grom: Veba Doktoru (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/6hOvvthQWfSzdAy8YcAz85dpodV.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Тихон Жизневский",
+            "Любовь Аксёнова",
+            "Алексей Маклаков",
+            "Александр Сетейкин",
+            "Сергей Горошко"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7601480"
+    },
+    {
+        "id": 589761,
+        "title": "Çernobil (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/ssApiPZ0O0U7IHPJ306i29Ejcuw.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Macera",
+            "Aksiyon",
+            "Fantastik",
+            "Gizem"
+        ],
+        "cast": [
+            "Данила Козловский",
+            "Оксана Акиньшина",
+            "Филипп Авдеев",
+            "Равшана Куркова",
+            "Артур Бесчастный"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt10648714"
     }
 ]
