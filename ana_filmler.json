@@ -45099,5 +45099,48 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt26448811"
+    },
+    {
+        "id": 1102776,
+        "title": "Kimdim Ben? (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/1CBPYYjaHEgS7xObjYacoRMwmA2.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Alban Lenoir",
+            "Éric Cantona",
+            "Thibault de Montalembert",
+            "Sveva Alviti",
+            "Saïdou Camara"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27197387"
+    },
+    {
+        "id": 796185,
+        "title": "Üç Silahşörler: D'Artagnan (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/lm0pfF0HSLsSpFlhGCmR6Bhl8EE.jpg",
+        "year": "2023",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "François Civil",
+            "Vincent Cassel",
+            "Romain Duris",
+            "Pio Marmaï",
+            "Eva Green"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12672536"
     }
 ]
