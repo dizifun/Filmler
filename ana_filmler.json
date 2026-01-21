@@ -43776,5 +43776,137 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt10545296"
+    },
+    {
+        "id": 609681,
+        "title": "The Marvels (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/laGm5l1tF2xhjbZipoZUc4yyl7d.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Macera",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Brie Larson",
+            "Teyonah Parris",
+            "Iman Vellani",
+            "Samuel L. Jackson",
+            "Zawe Ashton"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10676048"
+    },
+    {
+        "id": 1108658,
+        "title": "The Shift (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/voLxg0emuu862JAgFwM4yTH3eGj.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Kristoffer Polaha",
+            "Neal McDonough",
+            "Elizabeth Tabish",
+            "Sean Astin",
+            "Jason Marsden"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt19406606"
+    },
+    {
+        "id": 1186957,
+        "title": "The Velveteen Rabbit (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Phoenix Laroche",
+            "Alex Lawther",
+            "Samantha Colley",
+            "Leonard Buckley",
+            "Tilly Vosburgh"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9900816"
+    },
+    {
+        "id": 956920,
+        "title": "Ahırda Bir Şey Var (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/mQnvcZNdeAq3CbQDyEcV2MVJVxy.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Martin Starr",
+            "Amrita Acharia",
+            "Kiran Shah",
+            "Townes Bunner",
+            "Zoe Winther-Hansen"
+        ],
+        "country": [
+            "FI",
+            "LT",
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt23060796"
+    },
+    {
+        "id": 970948,
+        "title": "Sonra Ne Oluyor? (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/6uuEfniHXT0mOZeKNFxCI8o5adZ.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Meg Ryan",
+            "David Duchovny",
+            "Rob Gilchrist",
+            "Will Reed",
+            "Patricia Rouse"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt19890316"
+    },
+    {
+        "id": 1022796,
+        "title": "Dilek (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qh5fUcvkmAwk68ndiYT8hXXB7IA.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "Ariana DeBose",
+            "Chris Pine",
+            "Alan Tudyk",
+            "Angelique Cabral",
+            "Victor Garber"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11304740"
     }
 ]
