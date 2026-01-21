@@ -45425,5 +45425,138 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt10364034"
+    },
+    {
+        "id": 1020394,
+        "title": "The Squad: Home Run (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5QpXUYd3WcOyXzHkPIvq2BpYMI6.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Alban Lenoir",
+            "Jean Reno",
+            "Sofia Essaïdi",
+            "Stéfi Celma",
+            "Cassiopée Mayance"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt28199975"
+    },
+    {
+        "id": 915935,
+        "title": "Bir Düşüşün Anatomisi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qhnwiOV3nMmbEOuwesr1xyezWOp.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Suç"
+        ],
+        "cast": [
+            "Sandra Hüller",
+            "Swann Arlaud",
+            "Milo Machado-Graner",
+            "Antoine Reinartz",
+            "Samuel Theis"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt17009710"
+    },
+    {
+        "id": 1034055,
+        "title": "Orman Çetesi: Dünya Turu (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/fYEFL0Xhnl1uTd9l4rZes2DeXqW.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Philippe Bozo",
+            "Laurent Morteau",
+            "Pascal Casanova",
+            "Céline Monsarrat",
+            "Emmanuel Curtil"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt21810762"
+    },
+    {
+        "id": 912480,
+        "title": "Red Rooms (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/4bZRVKK1krmpAYYpd6v1R6P9WRP.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Juliette Gariépy",
+            "Laurie Babin",
+            "Élisabeth Locas",
+            "Maxwell McCabe-Lokos",
+            "Natalie Tannous"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt22207786"
+    },
+    {
+        "id": 854547,
+        "title": "Mon Pere, le Diable (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/4UuA19uFKvQd9Y7aqfuKf4215pL.jpg",
+        "year": "2023",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Babetida Sadjo",
+            "Souléymane Sy Savané",
+            "Jennifer Tchiakpe",
+            "Franck Saurel",
+            "Martine Amisse"
+        ],
+        "country": [
+            "FR",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt13892558"
+    },
+    {
+        "id": 979149,
+        "title": "Bir Usta Darbesi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/nurzCuBfHW8yH3VhpzHXXsc38YT.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Bouli Lanners",
+            "Vincent Macaigne",
+            "Bastien Ughetto",
+            "Anaïde Rozam",
+            "Aure Atika"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10152488"
     }
 ]
