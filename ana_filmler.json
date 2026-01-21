@@ -86752,5 +86752,50 @@
             "NL"
         ],
         "link": "https://vidmody.com/vs/tt10360772"
+    },
+    {
+        "id": 881957,
+        "title": "Captain Nova (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/xzomO8VLkvnoudDwwz409OcOQb6.jpg",
+        "year": "2021",
+        "genres": [
+            "Macera",
+            "Aile",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Kika van de Vijver",
+            "Marouane Meftah",
+            "Anniek Pheifer",
+            "Hannah van Lunteren",
+            "Joep Vermolen"
+        ],
+        "country": [
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt14915608"
+    },
+    {
+        "id": 881180,
+        "title": "The Claus Family 2 (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/3uK6Mn9nLTiyN357H7jYp06GrAY.jpg",
+        "year": "2021",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Jan Decleir",
+            "Mo Bakker",
+            "Bracha van Doesburgh",
+            "Stefaan Degand",
+            "Eva van der Gucht"
+        ],
+        "country": [
+            "BE",
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt14384176"
     }
 ]
