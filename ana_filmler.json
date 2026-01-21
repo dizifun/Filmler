@@ -49681,5 +49681,48 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt28290233"
+    },
+    {
+        "id": 1152797,
+        "title": "Freestyle (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/x6HrGmmpVUX8XBI9Vg4hbSsdBCX.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Maciej Musiałowski",
+            "Nel Kaczmarek",
+            "Michał Sikorski",
+            "Filip Lipiecki",
+            "Paweł Mykietyn"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt28366647"
+    },
+    {
+        "id": 1081676,
+        "title": "Unutulmuş Sevgi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/fEA2roeQTXxI5q84xyPITzdkFs0.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Leszek Lichota",
+            "Maria Kowalska",
+            "Ignacy Liss",
+            "Anna Szymańczyk",
+            "Izabela Kuna"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt26596953"
     }
 ]
