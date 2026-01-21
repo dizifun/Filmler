@@ -85770,5 +85770,46 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt13786474"
+    },
+    {
+        "id": 576784,
+        "title": "Sihirli Yollarda (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/6sOzqhtSIZ2qu4mPQtdK1nS4JUJ.jpg",
+        "year": "2021",
+        "genres": [
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Антон Шагин",
+            "Павел Деревянко",
+            "Михаил Ефремов",
+            "Паулина Андреева",
+            "Ян Цапник"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt11390180"
+    },
+    {
+        "id": 633802,
+        "title": "Dark Spell (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/h6WSdu91WembH619okLty4Et8uW.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Яна Енжаева",
+            "Константин Белошапка",
+            "Илья Ермолов",
+            "Nikita Yuranov",
+            "Варвара Бородина"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt12057168"
     }
 ]
