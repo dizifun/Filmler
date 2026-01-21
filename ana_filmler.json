@@ -6676,5 +6676,259 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt31241595"
+    },
+    {
+        "id": 507244,
+        "title": "Afterburn (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
+        "year": "2025",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Dave Bautista",
+            "Ольга Куриленко",
+            "Kristofer Hivju",
+            "Samuel L. Jackson",
+            "Daniel Bernhardt"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1210027"
+    },
+    {
+        "id": 1525091,
+        "title": "Boş Kalan Odalar (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/38odJEJiluUBLI58tO6oTmv5wZl.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Steve Hartman",
+            "Meryl Hartman",
+            "Bryan Muehlberger",
+            "Gloria Cazares",
+            "Javier Cazares"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt37798645"
+    },
+    {
+        "id": 1244531,
+        "title": "Savaş Canavarı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Savaş",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Mark Coles Smith",
+            "Joel Nankervis",
+            "Sam Delich",
+            "Maximillian Johnson",
+            "Lee Tiger Halley"
+        ],
+        "country": [
+            "AU"
+        ],
+        "link": "https://vidmody.com/vs/tt29468874"
+    },
+    {
+        "id": 1236204,
+        "title": "Birthrite (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/4ozeV62H7CGWprsCrif2lax8dHO.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Alice Kremelberg",
+            "Michael Chernus",
+            "Owen Campbell",
+            "Patch Darragh",
+            "Ross Partridge"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt28235110"
+    },
+    {
+        "id": 1245993,
+        "title": "Suçüstü (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/eFQOK12Wn11cMSLbN7zfueK1BOY.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Komedi"
+        ],
+        "cast": [
+            "Austin Butler",
+            "Regina King",
+            "Zoë Kravitz",
+            "Matt Smith",
+            "Liev Schreiber"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1493274"
+    },
+    {
+        "id": 1208877,
+        "title": "Day of a Lion (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/fxkMRuTwWNDsYDB9uFLhjcpFS7L.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Dilara Foscht",
+            "Bianca Foscht",
+            "Simone Neviani"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt28153464"
+    },
+    {
+        "id": 1503900,
+        "title": "Die'ced: Reloaded (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/haFDZfpKszHq7DXvuQd5Zz7shQW.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Eden Campbell",
+            "Jason Brooks",
+            "Nigel Vonas",
+            "Collin Fischer",
+            "John Karyus"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt36748605"
+    },
+    {
+        "id": 1398911,
+        "title": "Duvarın Ötesi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/dPLaZcZ5WiVy4gPl1RL6KipphC3.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Tabatha Zimiga",
+            "Porshia Zimiga",
+            "Scoot McNairy",
+            "Jennifer Ehle",
+            "Jesse Thorson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21349688"
+    },
+    {
+        "id": 1151334,
+        "title": "Eenie Meanie (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/12Va3oO3oYUdOd75zM57Nx1976a.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Samara Weaving",
+            "Karl Glusman",
+            "Andy Garcia",
+            "Steve Zahn",
+            "Jermaine Fowler"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt15514498"
+    },
+    {
+        "id": 537921,
+        "title": "Son Bir Macera (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Adam Devine",
+            "Idris Elba",
+            "Kathryn Hahn",
+            "Fred Armisen",
+            "Bobby Moynihan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8785038"
+    },
+    {
+        "id": 1125257,
+        "title": "Daha Çılgın Cuma (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/muAtvqoLT24LaRoeVvBCASN6mh5.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Fantastik",
+            "Aile"
+        ],
+        "cast": [
+            "Lindsay Lohan",
+            "Jamie Lee Curtis",
+            "Julia Butters",
+            "Sophia Hammons",
+            "Manny Jacinto"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt31956415"
+    },
+    {
+        "id": 1499984,
+        "title": "Gladiator Underground (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "D.Y. Sao",
+            "Andy Le",
+            "Brian Le",
+            "Apasiri Kulthanan",
+            "Craig Ng"
+        ],
+        "country": [
+            "TH"
+        ],
+        "link": "https://vidmody.com/vs/tt34966032"
     }
 ]
