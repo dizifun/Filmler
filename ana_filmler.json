@@ -47013,5 +47013,47 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt20414228"
+    },
+    {
+        "id": 1098110,
+        "title": "Kan ve Altın (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/rOjou3ukKXiHgNu8SMJAgQ17Yen.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Robert Maaser",
+            "Jördis Triebel",
+            "Marie Hacke",
+            "Alexander Scheer",
+            "Roy McCrerey"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt18073328"
+    },
+    {
+        "id": 964819,
+        "title": "99 Moons (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/vTw3aPHw2NExDDlXGawpj6IFqWp.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Valentina Di Pace",
+            "Dominik Fellmann",
+            "Danny Exnar",
+            "Gregory Hari",
+            "Ale Lindman"
+        ],
+        "country": [
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt13149356"
     }
 ]
