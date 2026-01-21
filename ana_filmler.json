@@ -70387,5 +70387,88 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt12651512"
+    },
+    {
+        "id": 726413,
+        "title": "Hayaletler (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/qNh6VesJIK0bhgDMwPlIfbVocFK.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Nalan Kuruçim",
+            "Beril Kayar",
+            "Dilayda Günes",
+            "S. Emrah Özdemir",
+            "Efe Tunçer"
+        ],
+        "country": [
+            "FR",
+            "QA",
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12140804"
+    },
+    {
+        "id": 835899,
+        "title": "Aşkım Bahardı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/g4E50PmJpgZ4NQpOrILUoSKChKs.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Aslı Bekiroğlu",
+            "Alper Saldıran",
+            "Serkan Kuru",
+            "Bengi İdil Uras",
+            "Hakan Eksen"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13040906"
+    },
+    {
+        "id": 785534,
+        "title": "Kağıttan Hayatlar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/22iaAAr3LZucqLZJ5M8w52gwNiR.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Çağatay Ulusoy",
+            "Emir Ali Doğrul",
+            "Ersin Arıcı",
+            "Turgay Tanülkü",
+            "Selen Öztürk"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13045890"
+    },
+    {
+        "id": 799020,
+        "title": "Seni Buldum Ya! (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/c3jsmFjBxPRgJlg9AqI7kgY8IEb.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Serkan Keskin",
+            "Nihal Yalçın",
+            "Bülent Emin Yarar",
+            "Ezgi Mola",
+            "Taner Birsel"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12516292"
     }
 ]
