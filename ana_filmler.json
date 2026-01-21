@@ -65500,5 +65500,47 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt13822738"
+    },
+    {
+        "id": 955569,
+        "title": "Arthur Laneti (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/hlVmnRymQ4ki7G7EK7slETuezNf.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mathieu Berger",
+            "Thalia Besson",
+            "Yann Mendy",
+            "Jade Pedri",
+            "Marceau Ebersolt"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt19783626"
+    },
+    {
+        "id": 852437,
+        "title": "Mastemah (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/klg7SAsdtNCgvu8v7LzMQRoN9By.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Camille Razat",
+            "Olivier Barthélémy",
+            "Tibo Vandenborre",
+            "Féodor Atkine",
+            "Dylan Robert"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14471774"
     }
 ]
