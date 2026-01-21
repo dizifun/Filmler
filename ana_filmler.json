@@ -11032,5 +11032,59 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt23648788"
+    },
+    {
+        "id": 1447287,
+        "title": "Wherever You Want (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/32kwv7gWBcIcI9mi5h5CwwLxZVw.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Diana Hoyos",
+            "Juan A. Baptista",
+            "Juliana Galvis",
+            "Carlos-Manuel Vesga",
+            "Andrés Castañeda"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt33087658"
+    },
+    {
+        "id": 1426297,
+        "title": "Play Dead (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Paula Brasca",
+            "Damián Del Castillo",
+            "Marta Quarleri",
+            "Milagros Ribet"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt34793095"
+    },
+    {
+        "id": 1394818,
+        "title": "Only On Earth (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/yfdfYkbBMkexGadunQasqkq2Kqp.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [],
+        "country": [
+            "DK",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt32373054"
     }
 ]
