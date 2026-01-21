@@ -102678,5 +102678,50 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt10620868"
+    },
+    {
+        "id": 606906,
+        "title": "Steel Rain 2: Summit (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/fNGhJeO8M4E3ZphagqtFwA9h6hl.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Savaş"
+        ],
+        "cast": [
+            "정우성",
+            "곽도원",
+            "유연석",
+            "Angus Macfadyen",
+            "신정근"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt10516176"
+    },
+    {
+        "id": 581392,
+        "title": "Yarımada (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/53OH0qKgKVdrBlHXtUylpeIZlx6.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Aksiyon",
+            "Gerilim",
+            "Macera"
+        ],
+        "cast": [
+            "강동원",
+            "이정현",
+            "이레",
+            "권해효",
+            "김민재"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt8850222"
     }
 ]
