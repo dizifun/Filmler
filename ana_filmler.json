@@ -65769,5 +65769,91 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt12071756"
+    },
+    {
+        "id": 852046,
+        "title": "Athena (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Dali Benssalah",
+            "Anthony Bajon",
+            "Alexis Manenti",
+            "Ouassini Embarek",
+            "Sami Slimane"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15445056"
+    },
+    {
+        "id": 803694,
+        "title": "Başkalarının Çocukları (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/wMmFmG9uF8rwXUqyBWGEdEuc7mG.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Virginie Efira",
+            "Roschdy Zem",
+            "Chiara Mastroianni",
+            "Callie Ferreira-Goncalves",
+            "Yamée Couture"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15403712"
+    },
+    {
+        "id": 915931,
+        "title": "Paris Hatıraları (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/gYxcl1rhJkvnErymMEHSekjF2ez.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Virginie Efira",
+            "Benoît Magimel",
+            "Grégoire Colin",
+            "Maya Sansa",
+            "Nastya Golubeva Carax"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15329224"
+    },
+    {
+        "id": 911129,
+        "title": "Derin Tutkular (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/vdq9wlWHfE4CHgDydlaPxpL5RQp.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Camille Rowe",
+            "Sofiane Zermani",
+            "César Domboy",
+            "Laurent Fernandez",
+            "Zacharie Chasseriaud"
+        ],
+        "country": [
+            "FR",
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt14995258"
     }
 ]
