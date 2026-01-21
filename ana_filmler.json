@@ -553,5 +553,66 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt33030186"
+    },
+    {
+        "id": 1460028,
+        "title": "Baldız (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/hEzTNpdUSQNoWbMDIk3P7sqSvg.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Oya Başar",
+            "Asuman Dabak",
+            "Ayşegül Asar",
+            "Pedro Karami",
+            "Damla Aslanalp"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36469661"
+    },
+    {
+        "id": 1462796,
+        "title": "Bölük Pörçük – Bir Tuncel Kurtiz Biyografisi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/fqYqg3DffPyZ5mfma8TEIWdzMoo.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Tuncel Kurtiz",
+            "Cansu Dere",
+            "Halit Ergenç",
+            "Fatih Akın",
+            "Nejat İşler"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36503240"
+    },
+    {
+        "id": 1001270,
+        "title": "Öldürdüğün Şeyler (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/9ROPs44Z4D3slcsu0lvPzXvtLGF.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Ekin Koç",
+            "Erkan Kolçak Köstendil",
+            "Hazar Ergüçlü",
+            "Selen Kurtaran",
+            "İdil Engindeniz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt32367116"
     }
 ]
