@@ -27189,5 +27189,47 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt17494412"
+    },
+    {
+        "id": 1145608,
+        "title": "Marcello Mio (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/xQ5v2jqjPBt6T71OIBnTFkDXUz4.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Chiara Mastroianni",
+            "Catherine Deneuve",
+            "Fabrice Luchini",
+            "Nicole Garcia",
+            "Benjamin Biolay"
+        ],
+        "country": [
+            "IT",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt32086069"
+    },
+    {
+        "id": 978090,
+        "title": "Striking The Palace (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/uyYWWcIpx4kbei1AXjDH4xuhltp.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Corinne Masiero",
+            "Lucie Charles-Alfred",
+            "Marie-Sohna Condé",
+            "Salimata Kamate",
+            "Maïmouna Gueye"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27722491"
     }
 ]
