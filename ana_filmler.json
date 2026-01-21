@@ -28060,5 +28060,47 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt31190009"
+    },
+    {
+        "id": 1278725,
+        "title": "State of Silence (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/zo62RwZnT1P1eMWqtmMRmc42uXZ.jpg",
+        "year": "2024",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Jesús Medina",
+            "Marcos Vizcarra",
+            "María de Jesús Peters",
+            "Juan de Dios García Davish",
+            "Jan Albert Hootsen"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt32146541"
+    },
+    {
+        "id": 1191610,
+        "title": "Goyo (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/mBw1uyf33TAcnoXjo0bzGjMyNG3.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Nicolás Furtado",
+            "Nancy Dupláa",
+            "Soledad Villamil",
+            "Pablo Rago",
+            "Cecilia Roth"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt32598483"
     }
 ]
