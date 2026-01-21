@@ -27736,5 +27736,160 @@
             "CH"
         ],
         "link": "https://vidmody.com/vs/tt10695672"
+    },
+    {
+        "id": 1000866,
+        "title": "The Marching Band (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/5DD44mXSZSrgMRoLopr9LKcgF6N.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Benjamin Lavernhe",
+            "Pierre Lottin",
+            "Sarah Suco",
+            "Clémence Massart-Weit",
+            "Ludmila Mikaël"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt30327451"
+    },
+    {
+        "id": 1171640,
+        "title": "GTMAX (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Suç"
+        ],
+        "cast": [
+            "Ava Baya",
+            "Jalil Lespert",
+            "Jérémie Laheurte",
+            "Thibaut Évrard",
+            "Riadh Belaïche"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt29260436"
+    },
+    {
+        "id": 842859,
+        "title": "En Değerli Hediye (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/tPakN7T2T6VHd3Q7kPmASbHfq9P.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Dominique Blanc",
+            "Grégory Gadebois",
+            "Denis Podalydès",
+            "Jean-Louis Trintignant",
+            "Serge Hazanavicius"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10462154"
+    },
+    {
+        "id": 1142518,
+        "title": "Özgürlük (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/99I1yjoy9uJOo0daJHce230JGoi.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Lucas Bravo",
+            "Yvan Attal",
+            "Léa Luce Busato",
+            "Steve Tientcheu",
+            "David Ayala"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt31917705"
+    },
+    {
+        "id": 1112466,
+        "title": "Balkondaki Kadınlar (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/bYCFy8PFUzLnXsk2Csa9mGH5i68.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Korku",
+            "Fantastik"
+        ],
+        "cast": [
+            "Souheila Yacoub",
+            "Sanda Codreanu",
+            "Noémie Merlant",
+            "Lucas Bravo",
+            "Nadège Beausson-Diagne"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27721737"
+    },
+    {
+        "id": 1147416,
+        "title": "Mucizevi Londra: Zamanın Sınırında (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/vl8LFZAkVheAPreV7snvXGh3cbb.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aksiyon",
+            "Fantastik",
+            "TV film"
+        ],
+        "cast": [
+            "Anouck Hautbois",
+            "Marie Nonnenmacher",
+            "Benjamin Bollen",
+            "Clara Soares",
+            "Marie Chevalot"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13701202"
+    },
+    {
+        "id": 1154223,
+        "title": "Kaplanlarla Av (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/wyGaJk25KqJOFwJWV5bzf8PWP9J.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Sofiane Zermani",
+            "Waël Sersoub",
+            "Géraldine Nakache",
+            "Cassandra Cano",
+            "Samir Guesmi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt28639058"
     }
 ]
