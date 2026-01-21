@@ -30995,5 +30995,51 @@
             "SA"
         ],
         "link": "https://vidmody.com/vs/tt20420710"
+    },
+    {
+        "id": 1090097,
+        "title": "Behind the Mountains (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/uOmDRXqO0oF31iZsZZGPoKOAgsz.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Majd Mastoura",
+            "Walid Bouchhioua",
+            "سامر بشارات",
+            "Selma Zeghidi",
+            "Helmi Dridi"
+        ],
+        "country": [
+            "BE",
+            "FR",
+            "QA",
+            "SA",
+            "TN",
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt26771225"
+    },
+    {
+        "id": 1257750,
+        "title": "Balayımsı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/fPKCk7GMoVOvqDVNaiHzQdgxNPK.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "نور الغندور",
+            "محمود بوشهري",
+            "آسيا الشمري",
+            "مهدي برويز",
+            "قحطان القحطاني"
+        ],
+        "country": [
+            "KW"
+        ],
+        "link": "https://vidmody.com/vs/tt31565654"
     }
 ]
