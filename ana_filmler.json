@@ -28102,5 +28102,51 @@
             "AR"
         ],
         "link": "https://vidmody.com/vs/tt32598483"
+    },
+    {
+        "id": 1062323,
+        "title": "Şampiyon (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/6WYzIPOZ7egEPU7bnWr9GnYNY2e.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Dani Rovira",
+            "Swit Eme",
+            "Pablo Chiapella",
+            "Luis Fernández",
+            "Cintia García"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt24079806"
+    },
+    {
+        "id": 1309923,
+        "title": "Çifte Pazarlık (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/4dmetjnIvBAfP20hqK9QcZxySgR.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Mauricio Ochmann",
+            "Leonardo Ortizgris",
+            "Enoc Leaño",
+            "Tato Alexander",
+            "Claudette Maillé"
+        ],
+        "country": [
+            "AR",
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt31227221"
     }
 ]
