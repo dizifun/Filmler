@@ -27341,5 +27341,94 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt27032708"
+    },
+    {
+        "id": 1154215,
+        "title": "Elyas (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/zuwf11mv6ju9Kf8PtlUjB0OzrBg.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Roschdy Zem",
+            "Laëtitia Eïdo",
+            "Nabil Elouahabi",
+            "Sherwan Haji",
+            "Dimitri Storoge"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt28336131"
+    },
+    {
+        "id": 1000075,
+        "title": "The Price of Money: A Largo Winch Adventure (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/9ccXmqC2J8sglLCATVsphxGbwZr.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Tomer Sisley",
+            "James Franco",
+            "Clotilde Hesme",
+            "Elise Tilloloy",
+            "Denis O'Hare"
+        ],
+        "country": [
+            "BE",
+            "FR",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt23049322"
+    },
+    {
+        "id": 1001292,
+        "title": "Hayaletler (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/vPfufnBKf3AeA8lghapY8vcT2Iy.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Adam Bessa",
+            "Tawfeek Barhom",
+            "Julia Franz Richter",
+            "حلا رجب",
+            "Shafiqa El Till"
+        ],
+        "country": [
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt30135174"
+    },
+    {
+        "id": 1001083,
+        "title": "Bu Sırada, Dünya'da (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/uADxZluvJ3RslvvWVHwBSroIwmQ.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim-Kurgu",
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Megan Northam",
+            "Dimitri Doré",
+            "Sébastien Pouderoux",
+            "Catherine Salée",
+            "Sam Louwyck"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt21247132"
     }
 ]
