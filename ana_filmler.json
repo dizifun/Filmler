@@ -86338,5 +86338,50 @@
             "SY"
         ],
         "link": "https://vidmody.com/vs/tt10691828"
+    },
+    {
+        "id": 575764,
+        "title": "Kazablanka Ritimleri (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/jWVGjnCjx3l57qvo4bs29Lw4Yt7.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Ismail Adouab",
+            "Nouhaila Arif",
+            "Samah Baricou",
+            "Abdelilah Basbousi",
+            "Anas Basbousi"
+        ],
+        "country": [
+            "FR",
+            "MA"
+        ],
+        "link": "https://vidmody.com/vs/tt14773800"
+    },
+    {
+        "id": 884452,
+        "title": "Pusu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/66YilIOkU9X3yQ9MzGgsFtA7XXL.jpg",
+        "year": "2021",
+        "genres": [
+            "Savaş",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "مروان عبدالله",
+            "Khalifa Al Jassem",
+            "Mohammed Ahmed",
+            "Abdulla Saeed Bin Haider",
+            "Saeed Alharsh"
+        ],
+        "country": [
+            "AE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13445076"
     }
 ]
