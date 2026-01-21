@@ -68181,5 +68181,50 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt13056052"
+    },
+    {
+        "id": 938008,
+        "title": "The Killer (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/qPXGKOEQ1NSrmH6s7qFFF3qC9O6.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "장혁",
+            "Lee Seo-young",
+            "방은정",
+            "브루스 칸",
+            "이승준"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt19713090"
+    },
+    {
+        "id": 601796,
+        "title": "Evrenler Savaşı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/ggbPzZd6dHdXcgegmX76zDWJcB6.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "류준열",
+            "김우빈",
+            "김태리",
+            "소지섭",
+            "염정아"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt20168564"
     }
 ]
