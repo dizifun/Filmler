@@ -491,5 +491,67 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt35742396"
+    },
+    {
+        "id": 1441607,
+        "title": "Ayakçı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/ozdSWrO30FqE7CQVyxe1FopWqvs.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Gökhan Yıkılkan",
+            "İnan Ulaş Torun",
+            "Öznur Serçeler",
+            "Mustafa Üstündağ",
+            "Erkan Can"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt35979130"
+    },
+    {
+        "id": 1425617,
+        "title": "Başka Bir Sen (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Giray Altınok",
+            "Ezgi Mola",
+            "Kerem Özdoğan",
+            "Nevra Serezli",
+            "Hüseyin Avni Danyal"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt35948720"
+    },
+    {
+        "id": 1320408,
+        "title": "Gecenin Kıyısı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/44GdjzHmL61vHBmacdgjMJuy80D.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ahmet Rıfat Şungar",
+            "Berk Hakman",
+            "Eda Akalın",
+            "Baran Akbulut",
+            "Deniz Zahmetsiz"
+        ],
+        "country": [
+            "DE",
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33030186"
     }
 ]
