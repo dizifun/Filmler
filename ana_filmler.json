@@ -30210,5 +30210,71 @@
             "TW"
         ],
         "link": "https://vidmody.com/vs/tt30698096"
+    },
+    {
+        "id": 1116465,
+        "title": "Efsane 2 (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/lEsgtru47SEKWHYnLZ1AuLhrVJx.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Jackie Chan",
+            "张艺兴",
+            "古力娜扎",
+            "李治廷",
+            "李晨"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt27589902"
+    },
+    {
+        "id": 1078374,
+        "title": "Suffocating Love (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/rC5YwYqsHXzCf0L5eQaD9qg0ABN.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Fantastik",
+            "Dram"
+        ],
+        "cast": [
+            "林柏宏",
+            "項婕如",
+            "謝欣穎",
+            "林艾璇",
+            "黃宣"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt32536634"
+    },
+    {
+        "id": 1300945,
+        "title": "A Place Called Silence (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/uKThqY2oRYSHOPxYryTp2550fuZ.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "王传君",
+            "張鈞甯",
+            "吳鎮宇",
+            "王圣迪",
+            "蔡明"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt32553390"
     }
 ]
