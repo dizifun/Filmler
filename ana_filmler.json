@@ -5851,5 +5851,83 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt32147653"
+    },
+    {
+        "id": 1484253,
+        "title": "Felaketler Dizisi: Kabusa Dönen Mavi Yolculuk (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/nJZlsBpDxx3LrGwXvwXkQyVnp9A.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel",
+            "Dram"
+        ],
+        "cast": [
+            "Frank Spagnoletti",
+            "Devin Marble",
+            "Kalin Lamm",
+            "Ashley Lamm",
+            "Jayme Lamm"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt36856455"
+    },
+    {
+        "id": 1477453,
+        "title": "Astroworld Faciası (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/1wIN9BaKxKypTFc5wYKGghxwUgS.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Travis Scott",
+            "Drake",
+            "SZA",
+            "Harry Styles",
+            "Michael Rapino"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt36856278"
+    },
+    {
+        "id": 1484262,
+        "title": "Felaketler Dizisi: Bir Markanın Çöküşü (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/jqDRiwqDsopRZe7xZRYz7KiTkjc.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt36856482"
+    },
+    {
+        "id": 1484255,
+        "title": "Felaketler Dizisi: Skandalların Başkanı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/s1ZyKBjml8t6HR0e5lkhRte620E.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Rob Ford",
+            "Katie Simpson",
+            "Dave Rider",
+            "Tom Beyer",
+            "John Filion"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt36856306"
     }
 ]
