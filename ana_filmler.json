@@ -101540,5 +101540,50 @@
             "CH"
         ],
         "link": "https://vidmody.com/vs/tt10132976"
+    },
+    {
+        "id": 641501,
+        "title": "Nasıl Süper Kahraman Oldum (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/nM5i9pp24ADppiQ2EQYQXpoDXyl.jpg",
+        "year": "2020",
+        "genres": [
+            "Bilim-Kurgu",
+            "Macera",
+            "Aksiyon",
+            "Komedi",
+            "Gerilim"
+        ],
+        "cast": [
+            "Pio Marmaï",
+            "Vimala Pons",
+            "Benoît Poelvoorde",
+            "Leïla Bekhti",
+            "Swann Arlaud"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10345590"
+    },
+    {
+        "id": 712178,
+        "title": "Youri Gagarine (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/g7wfTiqza28FqUlKGaGqvlXhTDX.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Alséni Bathily",
+            "Lyna Khoudri",
+            "Jamil McCraven",
+            "Finnegan Oldfield",
+            "Farida Rahouadj"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12444424"
     }
 ]
