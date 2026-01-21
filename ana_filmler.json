@@ -10796,5 +10796,95 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt33836626"
+    },
+    {
+        "id": 1107216,
+        "title": "Evcil Hayvanlar Yolda (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/kGreWvuW4FlzWP4UQUyJ55N1zGK.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Damien Ferrette",
+            "Hervé Jolly",
+            "Kaycie Chase",
+            "Frantz Confiac",
+            "Emmanuel Garijo"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt36424914"
+    },
+    {
+        "id": 1246049,
+        "title": "Dracula (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/hCKkybW6EfSZoOW3xia9ZsQwaUd.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku",
+            "Fantastik",
+            "Romantik"
+        ],
+        "cast": [
+            "Caleb Landry Jones",
+            "Zoë Bleu Sidel",
+            "Christoph Waltz",
+            "Matilda De Angelis",
+            "Ewens Abid"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt31434030"
+    },
+    {
+        "id": 986206,
+        "title": "Night Carnage (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/w0wjPQKhlqisSbylf1sWZiNyc2h.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Korku",
+            "Romantik"
+        ],
+        "cast": [
+            "Sadie Katz",
+            "Christian Howard",
+            "Mike Ferguson",
+            "Katarina Leigh Waters",
+            "Jazlyn Nicolette Sward"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt12410182"
+    },
+    {
+        "id": 1314452,
+        "title": "Other (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/l6MDQw0oQMoS9ye2QgK9KCzgf68.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Ольга Куриленко",
+            "Jean Schatz",
+            "Lola Bonaventure",
+            "Jacqueline Ghaye",
+            "Sasha Nugent"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt34207924"
     }
 ]
