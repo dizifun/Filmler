@@ -29415,5 +29415,37 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt27671792"
+    },
+    {
+        "id": 1400562,
+        "title": "Fear (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/d7wBQCt4oCEH8LmYxE90yPj185m.jpg",
+        "year": "2024",
+        "genres": [],
+        "cast": [],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt31064317"
+    },
+    {
+        "id": 1371030,
+        "title": "Vanvaas (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/rMFHWTeMeBB6xr6eIfoWfsqzito.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Nana Patekar",
+            "Utkarsh Sharma",
+            "Simrat Kaur",
+            "Khushboo",
+            "Hemant Kher"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt29120307"
     }
 ]
