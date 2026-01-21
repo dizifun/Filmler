@@ -102458,5 +102458,48 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt11116656"
+    },
+    {
+        "id": 563067,
+        "title": "Fukushima 50 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/nbbv1FgZbfDlujJlr2XiNP3HhyW.jpg",
+        "year": "2020",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "渡辺謙",
+            "佐藤浩市",
+            "吉岡秀隆",
+            "安田成美",
+            "緒形直人"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt9318772"
+    },
+    {
+        "id": 665251,
+        "title": "Altered Carbon: Resleeved (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/dql1WvlOdEgzQ0Ub05NqHmW7D4y.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "鈴木達央",
+            "佐藤利奈",
+            "朝井彩加",
+            "Kenji Yamauchi",
+            "山本兼平"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt9310328"
     }
 ]
