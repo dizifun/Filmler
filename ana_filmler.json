@@ -85990,5 +85990,49 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt12036270"
+    },
+    {
+        "id": 598014,
+        "title": "Son Şövalye: Karanlığın Elçisi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/o271iaTrhWb3lOI4KoEDhtKNWcK.jpg",
+        "year": "2021",
+        "genres": [
+            "Fantastik",
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "Виктор Хориняк",
+            "Mila Syvatska",
+            "Екатерина Вилкова",
+            "Елена Яковлева",
+            "Константин Лавроненко"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt13769630"
+    },
+    {
+        "id": 597840,
+        "title": "Pinokyo: Sihirli Yolculuk (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/oJFjxo6VBOuUqsWojY0SD51BxO7.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aile"
+        ],
+        "cast": [
+            "Pauly Shore",
+            "Filipp Lebedev",
+            "Диомид Виноградов",
+            "Антон Эльдаров",
+            "Элиза Мартиросова"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt8480678"
     }
 ]
