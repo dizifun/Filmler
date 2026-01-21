@@ -103465,5 +103465,49 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt10525672"
+    },
+    {
+        "id": 651866,
+        "title": "The Division (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/hcjQWaH8RfDi5TqwHZtViVQLjyT.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Sílvio Guindane",
+            "Erom Cordeiro",
+            "Natália Lage",
+            "Thelmo Fernandes",
+            "Marcos Palmeira"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt10648192"
+    },
+    {
+        "id": 652483,
+        "title": "Uçak Modu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/olbxe4g3PWmWtadoIYF1HTUNT8z.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Larissa Manoela",
+            "Erasmo Carlos",
+            "André Luiz Frambach",
+            "Katiuscia Canoro",
+            "Dani Ornellas"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt10731748"
     }
 ]
