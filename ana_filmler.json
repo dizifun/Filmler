@@ -102245,5 +102245,27 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt12875782"
+    },
+    {
+        "id": 735595,
+        "title": "Garabet (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/8XpJZ73JYtnjpGseIi3fqCAVGxM.jpg",
+        "year": "2020",
+        "genres": [
+            "Aile",
+            "Fantastik",
+            "Korku"
+        ],
+        "cast": [
+            "Leon Orlandianyi",
+            "Benno Rosskopf",
+            "Marii Weichsler",
+            "Lars Bitterlich",
+            "Julia Koschitz"
+        ],
+        "country": [
+            "AT"
+        ],
+        "link": "https://vidmody.com/vs/tt9654108"
     }
 ]
