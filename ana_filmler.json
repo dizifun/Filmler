@@ -65684,5 +65684,90 @@
             "CA"
         ],
         "link": "https://vidmody.com/vs/tt16944826"
+    },
+    {
+        "id": 933415,
+        "title": "Derin Korku (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/5JC3gEPSUkoBboA4wtFJ7ZMaPjY.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Sofia Lesaffre",
+            "Victor Meutelet",
+            "Joseph Olivennes",
+            "Kassim Meesters",
+            "Philippe Résimont"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt16540514"
+    },
+    {
+        "id": 833384,
+        "title": "Köpekbalığı Yılı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/9DcNwh03WHYVnnA4GmI2pkWXh4I.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Korku",
+            "Dram"
+        ],
+        "cast": [
+            "Marina Foïs",
+            "Kad Merad",
+            "Jean-Pascal Zadi",
+            "Christine Gautier",
+            "Ludovic Torrent"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14962428"
+    },
+    {
+        "id": 853332,
+        "title": "Asi (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/na6BcEvVXabMGclMK6RbDFdCmbh.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Aboubakr Bensaïhi",
+            "Lubna Azabal",
+            "Tara Abboud",
+            "Amir El Arbi",
+            "Younes Bouab"
+        ],
+        "country": [
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt11946138"
+    },
+    {
+        "id": 665388,
+        "title": "Rumba Terapisi (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/66tSxn5ZS6YBUgYN1TUb4KN7V8m.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Franck Dubosc",
+            "Louna Espinosa",
+            "Jean-Pierre Darroussin",
+            "Marie-Philomène Nga",
+            "Catherine Jacob"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12071756"
     }
 ]
