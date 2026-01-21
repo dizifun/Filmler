@@ -48397,5 +48397,67 @@
             "TW"
         ],
         "link": "https://vidmody.com/vs/tt22742964"
+    },
+    {
+        "id": 1040284,
+        "title": "Yi qi (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/meSKm04wacPXS0tslgkAInFzkUr.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "王柏傑",
+            "曾敬驊",
+            "薛仕凌",
+            "項婕如",
+            "謝盈萱"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt26686436"
+    },
+    {
+        "id": 1085046,
+        "title": "Süper Maymun Shimmy (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/yzZgTkCtGzdI7ufWvwAb69JENYt.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aksiyon",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "David Semery"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt21448604"
+    },
+    {
+        "id": 931102,
+        "title": "Ride On (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/f5CKOjTbt7KO4TXCI6lOKvDzUwA.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Jackie Chan",
+            "刘浩存",
+            "郭麒麟",
+            "吴京",
+            "余皑磊"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt15430628"
     }
 ]
