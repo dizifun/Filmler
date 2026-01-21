@@ -67577,5 +67577,71 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt14438964"
+    },
+    {
+        "id": 915831,
+        "title": "Monica, O My Darling (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/3iX8wpLgkx83jCLNR03nW4lpaP2.jpg",
+        "year": "2022",
+        "genres": [
+            "Suç",
+            "Komedi",
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Rajkummar Rao",
+            "Huma Qureshi",
+            "Radhika Apte",
+            "Sikandar Kher",
+            "Bagavathi Perumal"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt15128068"
+    },
+    {
+        "id": 934747,
+        "title": "Bay Mumya (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/hTws35YFhEQdDEKi1dOZbIVeXed.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "रितेश देशमुख",
+            "Genelia D'Souza",
+            "Mahesh Manjrekar",
+            "Ila Arun",
+            "Rakesh Bedi"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt17736704"
+    },
+    {
+        "id": 934419,
+        "title": "Başla (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/4d2xoBGXMpfeQ6QgpVI4qm34bKP.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Triptii Dimri",
+            "Swastika Mukherjee",
+            "Babil Khan",
+            "Amit Sial",
+            "Sameer Kochhar"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt14428598"
     }
 ]
