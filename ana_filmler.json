@@ -45859,5 +45859,112 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt23790924"
+    },
+    {
+        "id": 845111,
+        "title": "Üç Silahşörler: Milady (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/oxPdfTJLfCZauJiUdhHe5lA4bhD.jpg",
+        "year": "2023",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "François Civil",
+            "Vincent Cassel",
+            "Romain Duris",
+            "Pio Marmaï",
+            "Eva Green"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12672620"
+    },
+    {
+        "id": 843843,
+        "title": "Suddenly (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/1sWV6viiVt2lBNcwf8WmjcR34Q4.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Macera"
+        ],
+        "cast": [
+            "Gilles Lellouche",
+            "Mélanie Thierry"
+        ],
+        "country": [
+            "BE",
+            "FR",
+            "IS"
+        ],
+        "link": "https://vidmody.com/vs/tt14904622"
+    },
+    {
+        "id": 1105736,
+        "title": "Schlitter: Evil in the Woods (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/8PduYaILMsUxHhE74f4uAWC5DzO.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Louka Meliava",
+            "Côme Levin",
+            "Gilles David",
+            "Lena Lapres",
+            "Bernard Eylenbosch"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27353928"
+    },
+    {
+        "id": 1063879,
+        "title": "Korku Ağı (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/j0zGO01cLQZoIriXst8TAFJaUqJ.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Théo Christine",
+            "Sofia Lesaffre",
+            "Finnegan Oldfield",
+            "Jérôme Niel",
+            "Lisa Nyarko"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt26744289"
+    },
+    {
+        "id": 1204912,
+        "title": "İnanılmaz Noel (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/9kKDdxX0KZ6x2F5FNCUOa4VQEji.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Macera",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Éric Judor",
+            "Lison Daniel",
+            "Ragnar Le Breton",
+            "Alex Lutz",
+            "Laura Felpin"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt29961072"
     }
 ]
