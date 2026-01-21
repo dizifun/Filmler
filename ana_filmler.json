@@ -32666,5 +32666,66 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt27191541"
+    },
+    {
+        "id": 1221785,
+        "title": "Beni Sev (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/raPe8QGsaxaxI2CiPxcsrnY7wyL.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Cansu Tosun",
+            "Tolga Güleç",
+            "Özlem Maden",
+            "Aslı Bankoğlu",
+            "Metin Keçeci"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt27417185"
+    },
+    {
+        "id": 1124931,
+        "title": "Aşkın Saati 19.03 (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/AokBP6rTcfWr1L7GoSFjU7rs8a7.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Berat Efe Parlar",
+            "Feride Hilal Akın",
+            "Ayhan Taş",
+            "Bülent Çolak",
+            "Pascal Nouma"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt22801038"
+    },
+    {
+        "id": 1225297,
+        "title": "Öt Bakalım (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/tds5pZ11a25ahfNIsrBFVoFxEGG.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Murat Akkoyunlu",
+            "Asuman Dabak",
+            "Nagihan Karadere",
+            "Tuncay Beyazıt",
+            "Emre Ertunç"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt27349112"
     }
 ]
