@@ -70530,5 +70530,67 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt16402488"
+    },
+    {
+        "id": 840431,
+        "title": "Bembeyaz (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/i9Nj22Z1DX4liyyHQRRPAoVOuvq.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Mert Fırat",
+            "Ece Çeşmioğlu",
+            "İnanç Konukçu",
+            "Rıza Akın",
+            "Kubilay Tunçer"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10032574"
+    },
+    {
+        "id": 966424,
+        "title": "Dost Kazığı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/9hesKV1U8C9Qwur8I8cmwyKkAFr.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Müjde Uzman",
+            "Ruhi Sarı",
+            "Cemal Hünal",
+            "Serkan Kuru",
+            "Açelya Elmas"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt19851048"
+    },
+    {
+        "id": 839983,
+        "title": "Yağmur Rengi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/cgDg5DKcMc3WZAA47wkW0LncnPM.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Elvan Albat",
+            "Hakan Bilgin",
+            "Asuman Dabak",
+            "Serkan Kuru",
+            "Pamir Pekin"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13925470"
     }
 ]
