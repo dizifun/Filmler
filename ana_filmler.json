@@ -29266,5 +29266,68 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt31897917"
+    },
+    {
+        "id": 1146577,
+        "title": "CTRL (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/eCaaJkJqRA6unsVe5hvtgJq301H.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Ananya Panday",
+            "Vihaan Samat",
+            "Aparshakti Khurana",
+            "Devika Vatsa",
+            "Kamakshi Bhat"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt12736014"
+    },
+    {
+        "id": 1184889,
+        "title": "Jigra (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/mhnT27mgtiMNowOhAlMWSqBoSyb.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Alia Bhatt",
+            "Vedang Raina",
+            "मनोज पाहवा",
+            "Vivek Gomber",
+            "Akashdeep Sabir"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt26733317"
+    },
+    {
+        "id": 1213712,
+        "title": "Vicky Vidya Ka Woh Wala Video (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/77gbFuFUfXx3OWv6pGhOAfHMBpg.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Rajkummar Rao",
+            "Triptii Dimri",
+            "Vijay Raaz",
+            "Mallika Sherawat",
+            "Tiku Talsania"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt29330913"
     }
 ]
