@@ -75465,5 +75465,92 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt11992904"
+    },
+    {
+        "id": 811959,
+        "title": "The United Way (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/bF1E2UnkDm17xxBpLqqsyhGPQDB.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Éric Cantona",
+            "David Beckham",
+            "Ole Gunnar Solskjaer",
+            "Nicky Butt",
+            "Bryan Robson"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt10443794"
+    },
+    {
+        "id": 520663,
+        "title": "Penceredeki Kadın (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/k4AjPOunmKxrWeIeiZ4nRmkw6TP.jpg",
+        "year": "2021",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Amy Adams",
+            "Gary Oldman",
+            "Anthony Mackie",
+            "Fred Hechinger",
+            "Wyatt Russell"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6111574"
+    },
+    {
+        "id": 578701,
+        "title": "Ölmemi İsteyenler (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/oYhhxKdey1VerXDEAtYmH5anVKx.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Finn Little",
+            "Jon Bernthal",
+            "Nicholas Hoult",
+            "Aidan Gillen"
+        ],
+        "country": [
+            "US",
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt3215824"
+    },
+    {
+        "id": 714273,
+        "title": "Mazlumlar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/AW2J0D0mpXczJKsvboEkIfFeXf.jpg",
+        "year": "2021",
+        "genres": [
+            "Fantastik",
+            "Bilim-Kurgu",
+            "Dram"
+        ],
+        "cast": [
+            "Johann Myers",
+            "Géza Röhrig",
+            "Michael Gould",
+            "Hayley Carmichael",
+            "Ned Dennehy"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt8043434"
     }
 ]
