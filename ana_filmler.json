@@ -88012,5 +88012,48 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt10923534"
+    },
+    {
+        "id": 703119,
+        "title": "Aşk Şarkısı (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/nSyFfKksWyLmCfQbtjZwLABhxJv.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "TV film"
+        ],
+        "cast": [
+            "Sadi Celil Cengiz",
+            "Hande Kaptan",
+            "Kadir Polatçı",
+            "Pelin Orhuner",
+            "Mustafa Şen"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12531984"
+    },
+    {
+        "id": 793916,
+        "title": "Mahşer: Bir Varmış Bir Yokmuş (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/mqjnwrNGW4sry7rMGx9YoDEWfZS.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Asuman Dabak",
+            "Tarik Tanrisever",
+            "Soydan Soydaş",
+            "Süleyman Kabaali",
+            "Mehmet Tanrısever"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11000468"
     }
 ]
