@@ -31794,5 +31794,47 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt19811010"
+    },
+    {
+        "id": 1082900,
+        "title": "Sevimli (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/4DHpXjhMwfwpaldge4OcISjQTX7.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Helga Guren",
+            "Oddgeir Thune",
+            "Heidi Gjermundsen",
+            "Maja Tothammer-Hruza",
+            "Marte Magnusdotter Solem"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt26629652"
+    },
+    {
+        "id": 1144681,
+        "title": "Armand (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/xk5bZuZqMaPIUICNcVs5sFpNnDE.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Renate Reinsve",
+            "Ellen Dorrit Petersen",
+            "Endre Hellestveit",
+            "Thea Lambrechts Vaulen",
+            "Øystein Røger"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt26745321"
     }
 ]
