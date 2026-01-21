@@ -66805,5 +66805,81 @@
             "AR"
         ],
         "link": "https://vidmody.com/vs/tt11306932"
+    },
+    {
+        "id": 1026563,
+        "title": "13 Exorcisms (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/8LpnMIqpRiwxpbGR33ALCmVl7gj.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Korku"
+        ],
+        "cast": [
+            "María Romanillos",
+            "Ruth Díaz",
+            "Urko Olazábal",
+            "Pablo Revuelta",
+            "José Sacristán"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt21199996"
+    },
+    {
+        "id": 1044043,
+        "title": "Who's a Good Boy? (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/6gINoJKzfjqJtxyVXtzneXT1zrR.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Sebastian Dante",
+            "Sirena Ortiz",
+            "Luisa Guzmán Quintero",
+            "Harold Azuara",
+            "Diego Meléndez"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt18082726"
+    },
+    {
+        "id": 945897,
+        "title": "Aksiyon Adamı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/2sZAwJI7hPIXwQKp95RFXhCm619.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Juan José Ballesta",
+            "Miki Esparbé",
+            "Luis Callejo",
+            "Liah O'Prey",
+            "Alexandre Blazy"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt12703292"
+    },
+    {
+        "id": 1046532,
+        "title": "Yunus Eğitmenine Ne Oldu? (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/eALBxCLwgOECIbEVH8aa5UAWLW0.jpg",
+        "year": "2022",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt23473184"
     }
 ]
