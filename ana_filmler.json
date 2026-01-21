@@ -209,5 +209,191 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt32642706"
+    },
+    {
+        "id": 1402859,
+        "title": "Karantina (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/2BvjlOVoYqkJQD49mkD0MHGpxy.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "İlker Aksum",
+            "Meltem Akçöl",
+            "Demirhan Demircioğlu",
+            "Deniz Uğur",
+            "Erdinç Gülener"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt32810861"
+    },
+    {
+        "id": 1407345,
+        "title": "Doğulu (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Savaş Satış",
+            "Onur Akbay",
+            "Özgür Meriç",
+            "Gürkan Uygun",
+            "Cansel Elçin"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33369041"
+    },
+    {
+        "id": 1294311,
+        "title": "Kardeş Takımı 2 (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/pdXCiSNwo8RFJemCsDXOYSw2zge.jpg",
+        "year": "2025",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Ceyda Kasabalı",
+            "Fırat Albayram",
+            "Çağan Efe Ak",
+            "Ecrin Su Çoban",
+            "Mehmet Aybars Kaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt32777683"
+    },
+    {
+        "id": 1075795,
+        "title": "Kutsal Damacana 5: Zombi! (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/kDH6QUdvcZxlNK61oWhoq3AuKP0.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Korku",
+            "Fantastik"
+        ],
+        "cast": [
+            "Şafak Sezer",
+            "Ersin Korkut",
+            "Yıldırım Memişoğlu",
+            "Bülent Ersoy",
+            "Nergis Kumbasar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33362137"
+    },
+    {
+        "id": 1312650,
+        "title": "Fidan (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/b1qSKOISJePVHPGQ5T8wB040YU5.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Leyla Smyrna Cabas",
+            "Alican Yücesoy",
+            "Ayça Bingöl",
+            "Göksel Kortay",
+            "Gürkan Uygun"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt32828065"
+    },
+    {
+        "id": 1318917,
+        "title": "Rüzgara Bırak (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik"
+        ],
+        "cast": [
+            "Hande Erçel",
+            "Barış Arduç",
+            "Gözde Mutluer",
+            "Tuğrul Tülek",
+            "Şebnem Sönmez"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt32730754"
+    },
+    {
+        "id": 1277192,
+        "title": "Tur Rehberi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/wu80BCy95v9Z5yfb9LHZz9eaibi.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Cem Gelinoğlu",
+            "Alp Öyken",
+            "Atılgan Gümüş",
+            "Eda Akalın",
+            "Elena Viunova"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt34895052"
+    },
+    {
+        "id": 1415670,
+        "title": "Şampiyonlar (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg",
+        "year": "2025",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Murat Yıldırım",
+            "Büşra Pekin",
+            "Erdal Özyağcılar",
+            "Ezo Sunal",
+            "Mert Ege Ak"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt34982167"
+    },
+    {
+        "id": 1412862,
+        "title": "Zugzwang (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/fZUubPp0b15h3hxIZn55RjbmC8m.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Hakan Emre Ünal",
+            "Ecem Gündoğan",
+            "Ömer Faruk Yıldırım",
+            "Bora Aksu",
+            "Ahmet Kaynak"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33088059"
     }
 ]
