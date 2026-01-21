@@ -11745,5 +11745,46 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt27056066"
+    },
+    {
+        "id": 1226572,
+        "title": "Malegaonlu Süper Çocuklar (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/8rXUBBTICQdXtDXBgQ53LSGHo1t.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Adarsh Gourav",
+            "Shashank Arora",
+            "Vineet Kumar Singh",
+            "Anuj Singh Duhan",
+            "Saqib Ayub"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt28007064"
+    },
+    {
+        "id": 1201012,
+        "title": "Kim Bu Charlie? (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Yami Gautam",
+            "Pratik Gandhi",
+            "Eijaz Khan",
+            "Mukul Chadda",
+            "Pavitra Sarkar"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt21194868"
     }
 ]
