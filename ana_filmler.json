@@ -32319,5 +32319,46 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt28429977"
+    },
+    {
+        "id": 1056234,
+        "title": "Alice Müzikali (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/rGF5AaBqUckyElDGtHuWYikhgMq.jpg",
+        "year": "2023",
+        "genres": [
+            "Fantastik",
+            "Müzik"
+        ],
+        "cast": [
+            "Serenay Sarıkaya",
+            "Ezgi Mola",
+            "Enis Arıkan",
+            "Şükrü Özyıldız",
+            "İbrahim Selim"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt20194152"
+    },
+    {
+        "id": 1069440,
+        "title": "Ulan Salih (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bTS0nwNd6CfKqaEHVrc7TjlmYaG.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "İnan Ulaş Torun",
+            "Eslem Akar",
+            "Levent Sülün",
+            "Metin Keçeci",
+            "Tülay Bulut"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt25503254"
     }
 ]
