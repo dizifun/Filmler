@@ -47985,5 +47985,47 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt28490044"
+    },
+    {
+        "id": 606400,
+        "title": "Hedefteki Adam (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/4nuDm12MGpjt0P0e4koynmYVtqM.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "황정민",
+            "현빈",
+            "강기영",
+            "Lee Seung-cheol",
+            "정재성"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt21111120"
+    },
+    {
+        "id": 843794,
+        "title": "JUNG_E (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/qEkatvFb6hrebLBAanb25ea26yh.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "강수연",
+            "김현주",
+            "류경수",
+            "엄지원",
+            "이동희"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt22352848"
     }
 ]
