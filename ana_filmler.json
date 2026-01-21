@@ -48926,5 +48926,47 @@
             "BR"
         ],
         "link": "https://vidmody.com/vs/tt23144234"
+    },
+    {
+        "id": 818511,
+        "title": "Ağır Yük (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/5MGIG3EECkWbJINDgsAeUTlbPhS.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Thiago Martins",
+            "Sheron Menezzes",
+            "Raphael Logam",
+            "Milhem Cortaz",
+            "Evandro Mesquita"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt16427938"
+    },
+    {
+        "id": 1158959,
+        "title": "A Life Too Short: The Isabella Nardoni Case (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/53pmHd5XialRnoTXlLwwBaezEOs.jpg",
+        "year": "2023",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Hebe Camargo",
+            "Márcio Campos",
+            "Marcos Carneiro",
+            "Ilana Casoy",
+            "Francisco Cembranelli"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt28552695"
     }
 ]
