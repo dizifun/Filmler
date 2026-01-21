@@ -100781,5 +100781,133 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt7126948"
+    },
+    {
+        "id": 651838,
+        "title": "An Irrepressible Woman (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/nebPQQN7SH9KYXJBDifCkqsrvfK.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Elsa Zylberstein",
+            "Hippolyte Girardot",
+            "Émilie Dequenne",
+            "Mathilda May",
+            "Philippe Torreton"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9079080"
+    },
+    {
+        "id": 568381,
+        "title": "Bir Köpeğin Fantastik Hikayesi (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/vSOahbRV1akLCjFPZb6UoQ5z464.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Dram",
+            "Aile"
+        ],
+        "cast": [
+            "Lizzie Brocheré",
+            "Bruno Salomone",
+            "Thierry Hancisse",
+            "Nathalie Boutefeu",
+            "Shirelle Mai-Yvart"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6785292"
+    },
+    {
+        "id": 589970,
+        "title": "Aslan Yürek (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/7yyaYwtDu1Aw91ybG3TyWRWARWm.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Dany Boon",
+            "Philippe Katerine",
+            "Anne Serra",
+            "Samuel Jouy",
+            "Sophie Verbeeck"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9908390"
+    },
+    {
+        "id": 582922,
+        "title": "Back Home (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/bfMmHkvpPHdekvs16EXjo1mcVZZ.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Niels Schneider",
+            "Adèle Exarchopoulos",
+            "Roman Coustère Hachez",
+            "Patrick d'Assumçao",
+            "Hélène Vincent"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9411900"
+    },
+    {
+        "id": 550738,
+        "title": "Süper Ajanlar (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/5VfGVWzoR3Pew1Pl9bczF9t54PL.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aksiyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Camille Pierrandeli",
+            "Karen Strassman",
+            "Davy Mourier",
+            "Guangtao Jiang",
+            "马正阳"
+        ],
+        "country": [
+            "US",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8028842"
+    },
+    {
+        "id": 613345,
+        "title": "Sahanın Kraliçeleri (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/5VnwWxOMrxN1NumssSwO0VU1yob.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Kad Merad",
+            "Alban Ivanov",
+            "Céline Sallette",
+            "Sabrina Ouazani",
+            "Laure Calamy"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9031048"
     }
 ]
