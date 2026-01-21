@@ -86162,5 +86162,47 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt11666128"
+    },
+    {
+        "id": 661595,
+        "title": "Yakuza Prenses (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Masumi",
+            "Jonathan Rhys Meyers",
+            "伊原剛志",
+            "Eijiro Ozaki",
+            "Toshiji Takeshima"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt10715446"
+    },
+    {
+        "id": 760154,
+        "title": "Brezilyalı Öğrencinin Gizli Günlüğü (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/vqVVwT8hwHUlPscS2yE8c4aEm0T.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Larissa Manoela",
+            "Thati Lopes",
+            "Bruno Montaleone",
+            "David Sherod",
+            "Maiara Walsh"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt11594766"
     }
 ]
