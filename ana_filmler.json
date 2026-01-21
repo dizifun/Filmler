@@ -50237,5 +50237,48 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt14509240"
+    },
+    {
+        "id": 983044,
+        "title": "Konvoy (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/ti2faZXJnTqjbX68uFLo4Di4xhx.jpg",
+        "year": "2023",
+        "genres": [
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Tobias Santelmann",
+            "Anders Baasmo Christiansen",
+            "Heidi Ruud Ellingsen",
+            "Preben Hodneland",
+            "Adam Lundgren"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt27724113"
+    },
+    {
+        "id": 1202584,
+        "title": "Christmas As Usual (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/2pxvbJ6XtKxZ6YsZJQKh6Wdp3GR.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Ida Ursin-Holm",
+            "Kanan Gill",
+            "Marit Andreassen",
+            "Erik Follestad",
+            "Veslemøy Mørkrid"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt23790418"
     }
 ]
