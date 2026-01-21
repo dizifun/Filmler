@@ -10646,5 +10646,47 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt35300972"
+    },
+    {
+        "id": 1229730,
+        "title": "Araba Hırsızları (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/hO7gnOL4MoqJYyrJtE8tfcb5aZV.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Zoé Marchal",
+            "Franck Gastambide",
+            "Bosh",
+            "Mareva Ranarivelo",
+            "Alassane Diong"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt35683795"
+    },
+    {
+        "id": 1130863,
+        "title": "Bella'nın Ölümü (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/9jOZNmxiWl6gnn40IXYY7GKeX5k.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Guillaume Canet",
+            "Charlotte Gainsbourg",
+            "Patrick Descamps",
+            "Jérémie Covillault",
+            "Anne-Lise Heimburger"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt27834531"
     }
 ]
