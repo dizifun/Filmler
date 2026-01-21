@@ -28601,5 +28601,89 @@
             "CO"
         ],
         "link": "https://vidmody.com/vs/tt34058121"
+    },
+    {
+        "id": 1191611,
+        "title": "Kamp Annesi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/wyZD0b5cAQi1jny59fqbIKQ4Y58.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Natalia Oreiro",
+            "Milo Zeus Lis",
+            "Pablo Rago",
+            "Dalia Gutmann",
+            "Sofía Morandi"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt29368988"
+    },
+    {
+        "id": 1156593,
+        "title": "Your Fault (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Nicole Wallace",
+            "Gabriel Guevara",
+            "Marta Hazas",
+            "Iván Sánchez",
+            "Eva Ruiz"
+        ],
+        "country": [
+            "US",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt28510079"
+    },
+    {
+        "id": 934584,
+        "title": "Rich Flu (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/g5SPCvrkoiSvl6YiFLPOUln22Su.jpg",
+        "year": "2024",
+        "genres": [
+            "Gerilim",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Mary Elizabeth Winstead",
+            "Rafe Spall",
+            "Lorraine Bracco",
+            "Dixie Egerickx",
+            "César Domboy"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt17677434"
+    },
+    {
+        "id": 1208808,
+        "title": "Gece  Vardiyası (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/vhj4ZJErJL5fu5BukFUawuIIA20.jpg",
+        "year": "2024",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Paulina Gaitán",
+            "Tony Dalton",
+            "Patricia Reyes Spíndola",
+            "Enoc Leaño",
+            "Fernanda Echevarría"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt13657394"
     }
 ]
