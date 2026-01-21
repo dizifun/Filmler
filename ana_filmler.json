@@ -82899,5 +82899,69 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt10307724"
+    },
+    {
+        "id": 638965,
+        "title": "Mandibles (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/8YtLJ9xcEHDpE1vsB5fy6PINERZ.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Grégoire Ludig",
+            "David Marsais",
+            "Adèle Exarchopoulos",
+            "India Hair",
+            "Bruno Lochet"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10375106"
+    },
+    {
+        "id": 471498,
+        "title": "Oksijen (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/mCAg3CStlGFw0de1U9MgmxKxwV7.jpg",
+        "year": "2021",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Mélanie Laurent",
+            "Mathieu Amalric",
+            "Malik Zidi",
+            "Laura Boujenah",
+            "Éric Herson-Macarel"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6341832"
+    },
+    {
+        "id": 712134,
+        "title": "Paris'te Bahar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/nDVhl1MGrjnhNsbDJdBpT2adoqY.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Suzanne Lindon",
+            "Arnaud Valois",
+            "Florence Viala",
+            "Frédéric Pierrot",
+            "Rebecca Marder"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12444426"
     }
 ]
