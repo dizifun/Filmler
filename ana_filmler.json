@@ -15267,5 +15267,69 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt32760062"
+    },
+    {
+        "id": 1316400,
+        "title": "Aynı İpte Asılı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/5nnzzRIiN3V3WLU6ZPosPNYlqh3.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ali Kurum",
+            "Büşra Albayrak",
+            "Efe Akercan",
+            "Güray Doğru",
+            "Ayşe Mutlusen"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt32045603"
+    },
+    {
+        "id": 1318765,
+        "title": "Ben ve Babam : Vatan (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/sjsvVq6463HMRKKKf2SzcncFT1u.jpg",
+        "year": "2024",
+        "genres": [
+            "TV film",
+            "Dram",
+            "Aile",
+            "Suç"
+        ],
+        "cast": [
+            "Ümit Kantarcılar",
+            "Sevcan Yaşar",
+            "Toprak Kıvılcım",
+            "Erdal Özyağcılar",
+            "Güzin Özyağcılar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33007812"
+    },
+    {
+        "id": 1402290,
+        "title": "Son Şans (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/n6i1bCaNpKDjNHoA0U6cwrhozus.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Öykü Çelik",
+            "Ferdi Dursun",
+            "Gürgen Öz",
+            "Hakan Eksen",
+            "Duygu Mercan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt24241906"
     }
 ]
