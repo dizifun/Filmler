@@ -13601,5 +13601,47 @@
             "NL"
         ],
         "link": "https://vidmody.com/vs/tt27675583"
+    },
+    {
+        "id": 1100800,
+        "title": "The Balloonist (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/o1PND9xFwNVtEM2ASAXlSXcwKUT.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Sallie Harmsen",
+            "Pieter Embrechts",
+            "Beau Minnaert",
+            "Frieda Pittoors",
+            "Nazanin Taheri"
+        ],
+        "country": [
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt38346012"
+    },
+    {
+        "id": 1509402,
+        "title": "Bay & Bayan Aslan (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/eG0iASj1UvhkrJB3Lhl8vQOHzKe.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Yolanthe Cabau",
+            "Thijs Boermans",
+            "Sinan Eroglu",
+            "Nesim el Ahmadi",
+            "Ruben van der Meer"
+        ],
+        "country": [
+            "NL"
+        ],
+        "link": "https://vidmody.com/vs/tt37249795"
     }
 ]
