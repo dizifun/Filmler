@@ -48201,5 +48201,48 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt27534328"
+    },
+    {
+        "id": 1148189,
+        "title": "Harika Kanatlar: Maksimum Hız (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wgR0iQHNalkUf2sqTRxybMouutK.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Macera"
+        ],
+        "cast": [
+            "Moon Nam-sook",
+            "홍소영",
+            "Chang Eun-sook",
+            "전태열",
+            "Jeong Yeong-wung"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt28554423"
+    },
+    {
+        "id": 783110,
+        "title": "Smugglers (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/ayLXqPZCu3uaLLhXiqvw5NBb7Lw.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "김혜수",
+            "염정아",
+            "조인성",
+            "박정민",
+            "김종수"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt28106766"
     }
 ]
