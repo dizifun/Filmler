@@ -102612,5 +102612,49 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt11358398"
+    },
+    {
+        "id": 571648,
+        "title": "Talih Kuşu (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/aA2o9i2DhGXptIcDQLLRjVmkLft.jpg",
+        "year": "2020",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "전도연",
+            "정우성",
+            "배성우",
+            "윤여정",
+            "정만식"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt9747594"
+    },
+    {
+        "id": 571625,
+        "title": "The Closet (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/dgrFMKqHfH5xQbpEyxpeea4nXys.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "하정우",
+            "김남길",
+            "허율",
+            "김시아",
+            "신현빈"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt11727052"
     }
 ]
