@@ -49073,5 +49073,53 @@
             "BR"
         ],
         "link": "https://vidmody.com/vs/tt23744022"
+    },
+    {
+        "id": 958161,
+        "title": "The Last Queen (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/6swVeP1RktnwrtLfDR8b78Pcxyv.jpg",
+        "year": "2023",
+        "genres": [
+            "Macera",
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Adila Bendimerad",
+            "Dali Benssalah",
+            "Dimitri Boetto",
+            "محمد الطاهر زاوي",
+            "Imen Noel"
+        ],
+        "country": [
+            "DZ",
+            "SA",
+            "FR",
+            "QA",
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt18039808"
+    },
+    {
+        "id": 1102935,
+        "title": "The Matchmaker (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/53h5Z8ll4ahF08CQcZvDeRVGyvw.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Reem AlHabib",
+            "Husam AlHarthi",
+            "Nour Alkhadra",
+            "Rahaf Ibrahim",
+            "Jubran Al Jubran"
+        ],
+        "country": [
+            "SA"
+        ],
+        "link": "https://vidmody.com/vs/tt22497824"
     }
 ]
