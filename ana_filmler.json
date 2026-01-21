@@ -12617,5 +12617,50 @@
             "TW"
         ],
         "link": "https://vidmody.com/vs/tt36593616"
+    },
+    {
+        "id": 1419406,
+        "title": "The Shadow's Edge (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/o25Tk1FYQi2BLk0OEAvx2h69QvB.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jackie Chan",
+            "张子枫",
+            "梁家輝",
+            "此沙",
+            "文俊辉"
+        ],
+        "country": [
+            "CN",
+            "HK"
+        ],
+        "link": "https://vidmody.com/vs/tt34610311"
+    },
+    {
+        "id": 1468057,
+        "title": "Gatao Big Brothers (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/eoUcppppVNj8BkgBDkZTv82x3tx.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "高捷",
+            "蔡振南",
+            "太保",
+            "金介文",
+            "龍天翔"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt37998920"
     }
 ]
