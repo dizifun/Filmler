@@ -696,5 +696,59 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt36262473"
+    },
+    {
+        "id": 1602310,
+        "title": "Caretta Bobi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/3yIT5oIGPRPLIPJNeFan3l2yRso.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon"
+        ],
+        "cast": [],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36334413"
+    },
+    {
+        "id": 1315706,
+        "title": "Siccîn 8 (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/6z0fM39EC7xrETMoN0s4HYbZDpT.jpg",
+        "year": "2025",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Masal Aksel",
+            "Mana Alkoy",
+            "Fahrettin Avcı",
+            "Melike Balçık",
+            "Ece Baykal"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36826841"
+    },
+    {
+        "id": 1564183,
+        "title": "Hep Yek: Loto (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/ogoc6bWdkeXRn25MOHm34V9yez7.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "İnan Ulaş Torun",
+            "Önder Açıkbaş",
+            "Mehmet Ali Erbil",
+            "Erkan Meriç",
+            "Cansu Tuman"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36622181"
     }
 ]
