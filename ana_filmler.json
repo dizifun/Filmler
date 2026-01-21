@@ -836,5 +836,70 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt32990818"
+    },
+    {
+        "id": 1217805,
+        "title": "Faruk (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/gmBo2VGGEHInN8rfsbSzvxEr99c.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel",
+            "Dram"
+        ],
+        "cast": [
+            "Faruk Özge",
+            "Fikret Özge",
+            "Derya Erkenci",
+            "Nurdan Çakmak",
+            "Alibey Güner"
+        ],
+        "country": [
+            "DE",
+            "FR",
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt30440590"
+    },
+    {
+        "id": 1522377,
+        "title": "İki Dünya Bir Dilek (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/98JYjLElGk8cHYd2FT0DLK11CcJ.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Hande Erçel",
+            "Metin Akdülger",
+            "Serkan Tınmaz",
+            "Eylül Su Sapan",
+            "Nazlıcan Demir"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt36499994"
+    },
+    {
+        "id": 1386792,
+        "title": "Lefter: Bir Ordinaryüs Hikayesi (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/pvy0dINISg6SIlRpzALX0p284lm.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Erdem Kaynarca",
+            "Aslıhan Malbora",
+            "Deniz Işın",
+            "Aslıhan Gürbüz",
+            "Halit Ergenç"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt34433451"
     }
 ]
