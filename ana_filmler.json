@@ -70110,5 +70110,49 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt14807000"
+    },
+    {
+        "id": 736526,
+        "title": "Esrarengiz Canavar (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
+        "year": "2022",
+        "genres": [
+            "Fantastik",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Ine Marie Wilmann",
+            "Kim S. Falck-Jørgensen",
+            "Mads Sjøgård Pettersen",
+            "Gard B. Eidsvold",
+            "Anneke von der Lippe"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt11116912"
+    },
+    {
+        "id": 788752,
+        "title": "Viking Kurdu (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/j5CG4PfEtr991jd9u33OdErUU9n.jpg",
+        "year": "2022",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Elli Rhiannon Müller Osborne",
+            "Liv Mjönes",
+            "Vidar Magnussen",
+            "Mia Fosshaug Laubacher",
+            "Arthur Hakalahti"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt13051810"
     }
 ]
