@@ -46072,5 +46072,113 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt15789492"
+    },
+    {
+        "id": 1067820,
+        "title": "Awareness (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/vH8oJr2msp4olEBju55tcgZckRb.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gizem",
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Carlos Scholz",
+            "Pedro Alonso",
+            "María Pedraza",
+            "Óscar Jaenada",
+            "Lela Loren"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt18556326"
+    },
+    {
+        "id": 818648,
+        "title": "İlk Öpücükte Aşk (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/sKBWGgsUCjoc5x3zdQuJUvozqKh.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Álvaro Cervantes",
+            "Silvia Alonso",
+            "Gorka Otxoa",
+            "Susana Abaitua",
+            "Pilar Castro"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt14463514"
+    },
+    {
+        "id": 943930,
+        "title": "Tin & Tina (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/uvREA7LTsPsHz4i0Ds82Fzez7K6.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Milena Smit",
+            "Jaime Lorente",
+            "Carlos González Morollón",
+            "Anastasia Russo",
+            "Teresa Rabal"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7354440"
+    },
+    {
+        "id": 1092193,
+        "title": "Have a Nice Day! (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/w7X1ra5lYbiZ5WnkCikSThKCMZm.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Álvaro Guerrero",
+            "Andrea Chaparro",
+            "Eduardo Minett",
+            "Fernando Larrañaga",
+            "Eduardo de la Peña"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt26739643"
+    },
+    {
+        "id": 868985,
+        "title": "Çok Yaşa Meksika! (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/ieyUpr5ES9QEz1cn4clCnBf9XJl.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Damián Alcázar",
+            "Alfonso Herrera",
+            "Joaquín Cosío",
+            "Ana de la Reguera",
+            "Ana Martín"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt22185848"
     }
 ]
