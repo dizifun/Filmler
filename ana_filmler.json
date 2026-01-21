@@ -29051,5 +29051,46 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt18072316"
+    },
+    {
+        "id": 1093971,
+        "title": "Srikanth (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/nkWF1jIMQqWZSShNTAdBUqrdFsZ.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Rajkummar Rao",
+            "Jyothika",
+            "Alaya F",
+            "Sharad Kelkar",
+            "Anusha Nuthula"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt23790740"
+    },
+    {
+        "id": 901315,
+        "title": "Mr. & Mrs. Mahi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/x1v8Qzvp46WEpxoBFlqaGfSsAxw.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Rajkummar Rao",
+            "Janhvi Kapoor",
+            "Kumud Mishra",
+            "Arjit Taneja",
+            "Yamini Das"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt16227342"
     }
 ]
