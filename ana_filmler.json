@@ -102028,5 +102028,69 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt10978398"
+    },
+    {
+        "id": 649755,
+        "title": "Dadı Büyükanne (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/nuQdvLaHaOnjT2GrLLDvqIBKhvx.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Aile"
+        ],
+        "cast": [
+            "Maren Kroymann",
+            "Günther Maria Halmer",
+            "Maxime Diemer",
+            "Barbara Sukowa",
+            "Heiner Lauterbach"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt10252330"
+    },
+    {
+        "id": 657811,
+        "title": "Lassie Eve Dön (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/82yxvnYtgeRzsq5f9USlrFJI05s.jpg",
+        "year": "2020",
+        "genres": [
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Nico Marischka",
+            "Sebastian Bezzel",
+            "Anna Maria Mühe",
+            "Bella Bading",
+            "Matthias Habich"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt10384944"
+    },
+    {
+        "id": 658760,
+        "title": "Isi & Ossi (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/bZ7H0kCwEM6CQ0dyCs2H4RkU130.jpg",
+        "year": "2020",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Lisa Vicari",
+            "Dennis Mojen",
+            "Lisa Hagmeister",
+            "Ernst Stötzner",
+            "Christina Hecke"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt9806322"
     }
 ]
