@@ -101309,5 +101309,110 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt10457128"
+    },
+    {
+        "id": 726649,
+        "title": "Anelka: Misunderstood (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/iTQe3kiiyBuj5G1d1fvSvVsnWVt.jpg",
+        "year": "2020",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Nicolas Anelka",
+            "Thierry Henry",
+            "Omar Sy",
+            "Arsene Wenger",
+            "Didier Drogba"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12724622"
+    },
+    {
+        "id": 659699,
+        "title": "Geçmişi Silmek (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/nGyMTLluH8gi4nAY6l75ejbmWQq.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Blanche Gardin",
+            "Denis Podalydès",
+            "Corinne Masiero",
+            "Vincent Lacoste",
+            "Benoît Poelvoorde"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10627352"
+    },
+    {
+        "id": 653775,
+        "title": "Into the World (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/9QAgWmP2KcJGt3B46GQbt7MwEbI.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Sandrine Bonnaire",
+            "Aure Atika",
+            "Brigitte Roüan",
+            "Kenza Fortas",
+            "Sarah Stern"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11154574"
+    },
+    {
+        "id": 712152,
+        "title": "The Big Hit (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/3I0a0V6ahuXOQPG5ztnbgGL8vEf.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Kad Merad",
+            "Marina Hands",
+            "Laurent Stocker",
+            "Pierre Lottin",
+            "Wabinlé Nabié"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12444440"
+    },
+    {
+        "id": 670497,
+        "title": "Yakari: Muhteşem Bir Macera (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/33fCBhTOJ8nPsNOJVZB5Dcl2tUC.jpg",
+        "year": "2020",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Macera"
+        ],
+        "cast": [
+            "Diana Amft",
+            "Patrick Bach",
+            "Oscar Douieb",
+            "Kathleen Renish",
+            "Hans Sigl"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt11125636"
     }
 ]
