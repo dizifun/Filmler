@@ -45966,5 +45966,48 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt29961072"
+    },
+    {
+        "id": 816904,
+        "title": "Mumyalar (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/tnB87Ic0VhX1vlsnrXe5N7E0eK9.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Fantastik",
+            "Aile"
+        ],
+        "cast": [
+            "Óscar Barberán",
+            "Ana Esther Alborg",
+            "Luis Pérez Reina",
+            "María Luisa Solá",
+            "Jaume Solà"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt23177868"
+    },
+    {
+        "id": 1070830,
+        "title": "Benim Uçan Dev Maceram (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dcukuBV2EUxxKQni12LK4HAYTwX.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon"
+        ],
+        "cast": [
+            "Gina Yangali",
+            "Merly Morello",
+            "Yiddá Eslava",
+            "Gustavo Mayer",
+            "Reynaldo Arenas"
+        ],
+        "country": [
+            "PE"
+        ],
+        "link": "https://vidmody.com/vs/tt27134838"
     }
 ]
