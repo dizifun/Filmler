@@ -69061,5 +69061,48 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt16378164"
+    },
+    {
+        "id": 962232,
+        "title": "Aşkımızın Sonsuzluğu (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Henry Zaga",
+            "Giulia Be",
+            "João Miguel",
+            "Othon Bastos",
+            "Leo Bahia"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt16027944"
+    },
+    {
+        "id": 1022206,
+        "title": "Kiralık Bir Eş (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Caio Castro",
+            "Thati Lopes",
+            "Mariana Xavier",
+            "Patrícya Travassos",
+            "Danielle Winits"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt22091698"
     }
 ]
