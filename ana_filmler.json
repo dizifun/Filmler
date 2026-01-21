@@ -71418,5 +71418,104 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt14474588"
+    },
+    {
+        "id": 911306,
+        "title": "Aykut Enişte 2 (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/41c6pOhq8AQaMbUQD2SKtbR8ldl.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Cem Gelinoğlu",
+            "Melis Babadağ",
+            "Hakan Yılmaz",
+            "Müfit Kayacan",
+            "Lale Başar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt12738164"
+    },
+    {
+        "id": 1099392,
+        "title": "Bayram Şekeri (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/8XBIdYtWiyBPZ4p5BtpzHac2LJy.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Öykü Gürman",
+            "İnan Ulaş Torun",
+            "Arben Akış",
+            "Deniz Oral",
+            "Aslı Bankoğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt14810744"
+    },
+    {
+        "id": 718488,
+        "title": "Dayı: Bir Adamın Hikâyesi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/3OnMKxVftp5KKOHCNMvp5bUsB0.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Macera",
+            "Romantik"
+        ],
+        "cast": [
+            "Ufuk Bayraktar",
+            "Gizem Karaca",
+            "Ahmet Varlı",
+            "Beste Bereket",
+            "Turgut Tunçalp"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11267076"
+    },
+    {
+        "id": 835963,
+        "title": "Bağlılık Hasan (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/5WnyMHip6zWOEAW5ba6GYwlNG3B.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Umut Karadağ",
+            "Filiz Bozok",
+            "Gökhan Azlağ",
+            "Ayşe Günyüz",
+            "Ruslan Zeynalviç Kavandi"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13649034"
+    },
+    {
+        "id": 916222,
+        "title": "Cem Yılmaz: Diamond Elite Platinum Plus (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/d7pspvBSo0OLvyfPHU21qjhOWMj.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "TV film"
+        ],
+        "cast": [
+            "Cem Yılmaz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt16444502"
     }
 ]
