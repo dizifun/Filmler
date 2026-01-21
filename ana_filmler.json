@@ -66255,5 +66255,48 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt21042306"
+    },
+    {
+        "id": 656796,
+        "title": "Bugün Her Şey Düzelecek (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/9QFiRicoeI9uvOgEPvRFciuhOUM.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Leonardo Sbaraglia",
+            "Benjamín Otero",
+            "Natalia Oreiro",
+            "Charo López",
+            "Luis Luque"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt11592014"
+    },
+    {
+        "id": 856433,
+        "title": "La Soga 2: Kurtuluş (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/wRk6hwsEIIO0BqGH8FIc1Zbf7Wv.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Manny Perez",
+            "Sarah Jorge León",
+            "Hada Vanessa",
+            "Chris McGarry",
+            "Juan Fernández"
+        ],
+        "country": [
+            "DO"
+        ],
+        "link": "https://vidmody.com/vs/tt8042312"
     }
 ]
