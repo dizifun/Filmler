@@ -66442,5 +66442,69 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt12358208"
+    },
+    {
+        "id": 852592,
+        "title": "Centauro (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/uMYROfsn2lm1P8wzOsq3c6TuRxF.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Àlex Monner",
+            "Begoña Vargas",
+            "Abraham Pérez Fernández",
+            "Édgar Vittorino",
+            "Carlos Bardem"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt13479592"
+    },
+    {
+        "id": 880313,
+        "title": "Tanrının Gazabı (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/kjDb1UWIJI06vdV9W0Of6f9JD9W.jpg",
+        "year": "2022",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Diego Peretti",
+            "Juan Minujín",
+            "Macarena Achaga",
+            "Mónica Antonópulos",
+            "Guillermo Arengo"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt15189534"
+    },
+    {
+        "id": 800855,
+        "title": "Live Is Life (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Adrián Baena",
+            "Juan del Pozo",
+            "Raúl del Pozo",
+            "David Rodríguez",
+            "Javier Casellas"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt12923028"
     }
 ]
