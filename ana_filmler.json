@@ -102310,5 +102310,47 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt13446424"
+    },
+    {
+        "id": 601643,
+        "title": "Hayalet Hikayeleri (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/tQeLzheMNQClBAXy9t1HvZFzhYD.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Janhvi Kapoor",
+            "Surekha Sikri",
+            "Vijay Varma",
+            "शोभिता धूलिपाला",
+            "Sagar Arya"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt10230404"
+    },
+    {
+        "id": 584850,
+        "title": "Tanhaji: Keşfedilmemiş Savaşçı (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/dznXqzhi6vJsUHhLiIRGqpKcnEO.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Ajay Devgan",
+            "सैफ अली खान",
+            "Kajol",
+            "Sharad Kelkar",
+            "Reyhna Malhotra"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt8108274"
     }
 ]
