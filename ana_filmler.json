@@ -101414,5 +101414,46 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt11125636"
+    },
+    {
+        "id": 712150,
+        "title": "The Speech (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/eVmMOVKYau6HmoF5AEUabePDNmU.jpg",
+        "year": "2020",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Benjamin Lavernhe",
+            "Sara Giraudeau",
+            "Kyan Khojandi",
+            "Julia Piaton",
+            "François Morel"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12105554"
+    },
+    {
+        "id": 599377,
+        "title": "Lux Æterna (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jCe6ZZgdxgAG38v1O0gnqYQP4YH.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Korku"
+        ],
+        "cast": [
+            "Charlotte Gainsbourg",
+            "Béatrice Dalle",
+            "Abbey Lee",
+            "Karl Glusman",
+            "Clara 3000"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10272534"
     }
 ]
