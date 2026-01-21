@@ -30782,5 +30782,48 @@
             "BR"
         ],
         "link": "https://vidmody.com/vs/tt16427902"
+    },
+    {
+        "id": 1304588,
+        "title": "Agents (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/xvdkVb070AqZZpTBOZzbrnsGL3d.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nad Sham",
+            "Naomi Willow",
+            "Chien Ho Liao",
+            "Jay Sham",
+            "Kapil Bisht"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt24084674"
+    },
+    {
+        "id": 1186947,
+        "title": "Suç Kraliçesi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/kACUQNwGMqsbf3fuBEFNwTRgJZV.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Maria Bomani",
+            "Jean Amorim",
+            "Milhem Cortaz",
+            "João Vitor Nascimento",
+            "Jorge Hissa"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt32276312"
     }
 ]
