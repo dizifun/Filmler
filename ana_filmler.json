@@ -11314,5 +11314,48 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt23899310"
+    },
+    {
+        "id": 1156594,
+        "title": "Bizim Hatamız (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
+        "year": "2025",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Nicole Wallace",
+            "Gabriel Guevara",
+            "Gabriela Andrada",
+            "Marta Hazas",
+            "Goya Toledo"
+        ],
+        "country": [
+            "ES",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt33311244"
+    },
+    {
+        "id": 1275151,
+        "title": "Karanlıkta Saklı (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/oStCY3nlOPIAodsYDpr3g5ZjE6K.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Susana Abaitua",
+            "Andrés Gertrúdix",
+            "Iraia Elias",
+            "Ariadna Gil",
+            "Raúl Arévalo"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt32129665"
     }
 ]
