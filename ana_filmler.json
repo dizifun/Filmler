@@ -30381,5 +30381,46 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt27395353"
+    },
+    {
+        "id": 1013869,
+        "title": "Şafak Sökerken (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/uGKrhbbQrzEzmUImTYLWz1UAZgb.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Lily James",
+            "Rebecca Antonaci",
+            "Joe Keery",
+            "Rachel Sennott",
+            "Alba Rohrwacher"
+        ],
+        "country": [
+            "IT",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt21824548"
+    },
+    {
+        "id": 1115749,
+        "title": "Hâlâ Güzel (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/FToY0m3aJpZUPjeqYN9akNptad.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Diana Del Bufalo",
+            "Valentina Nappi",
+            "Alessandro Tiberi",
+            "Raoul Bova",
+            "Angela Finocchiaro"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt30235974"
     }
 ]
