@@ -46009,5 +46009,68 @@
             "PE"
         ],
         "link": "https://vidmody.com/vs/tt27134838"
+    },
+    {
+        "id": 1078862,
+        "title": "Birlikte, Her Yere (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/gBiZdPAWLSPLE4sX6BzWMzaJylP.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Mauricio Ochmann",
+            "Ana Serradilla",
+            "David Chocarro",
+            "Diana Bovio",
+            "Irán Castillo"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt12616964"
+    },
+    {
+        "id": 772515,
+        "title": "Huesera: The Bone Woman (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/uqQOjLjJRDH7AzdomnEtX2SvnCA.jpg",
+        "year": "2023",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Natalia Solián",
+            "Alfonso Dosal",
+            "Mayra Batalla",
+            "Mercedes Hernández",
+            "Sonia Couoh"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt11718516"
+    },
+    {
+        "id": 1072567,
+        "title": "Infiesto (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç"
+        ],
+        "cast": [
+            "Isak Férriz",
+            "Iria del Río",
+            "Antonio Buíl",
+            "Juan Fernández",
+            "Andrea Barrado"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt15789492"
     }
 ]
