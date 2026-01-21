@@ -48702,5 +48702,78 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt14225838"
+    },
+    {
+        "id": 938030,
+        "title": "Elf Me (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zM9qQrY9PsparIpFg4UlUS3YmMe.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "Lillo",
+            "Anna Foglietta",
+            "Federico Ielapi",
+            "Giorgio Pasotti",
+            "Caterina Guzzanti"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt28527613"
+    },
+    {
+        "id": 588564,
+        "title": "A Greyhound of a Girl (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/zRHhiMKOXxMaNm6WoRae3vcbGpI.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Dram",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Charlotte Infussi D'Amico",
+            "Maria Pia Di Meo",
+            "Maricla Affatato",
+            "Valentina Favazza",
+            "Franco Mannella"
+        ],
+        "country": [
+            "EE",
+            "DE",
+            "IE",
+            "IT",
+            "LV",
+            "LU",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt17526454"
+    },
+    {
+        "id": 1044648,
+        "title": "Nuovo Olimpo (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Damiano Gavino",
+            "Andrea Di Luigi",
+            "Luisa Ranieri",
+            "Greta Scarano",
+            "Aurora Giovinazzo"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt18394610"
     }
 ]
