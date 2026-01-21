@@ -30119,5 +30119,96 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt23630030"
+    },
+    {
+        "id": 662402,
+        "title": "Siyah Çay (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/oejLis6MmJvYH6Mun0yiSqJKUQK.jpg",
+        "year": "2024",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Nina Mélo",
+            "張翰",
+            "吳可熙",
+            "張豐豪",
+            "余佩真"
+        ],
+        "country": [
+            "MR",
+            "FR",
+            "LU",
+            "CI",
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt21994228"
+    },
+    {
+        "id": 1229349,
+        "title": "Yolo (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/fI5BIp48yERyYhu7O6XlDT4puSZ.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Komedi",
+            "Aksiyon"
+        ],
+        "cast": [
+            "贾玲",
+            "雷佳音",
+            "张小斐",
+            "杨紫",
+            "沙溢"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt28151876"
+    },
+    {
+        "id": 1228564,
+        "title": "Ayı Kardeşler: Zaman Yolculuğu (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/9uUF2Gua379M7z09WxxJawV0PNX.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Bilim-Kurgu",
+            "Aile"
+        ],
+        "cast": [
+            "Tan Xiao",
+            "Wanyao Li",
+            "Ming Zhang",
+            "Zhang Wei",
+            "Zhang Bingjun"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt29632994"
+    },
+    {
+        "id": 1166073,
+        "title": "Ters Soygun (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/oB36HsgeELqoMEuA2Iqf8GsSDMx.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "陳柏霖",
+            "Cecilia Choi",
+            "蔡凡熙",
+            "林哲熹",
+            "Frederick Ming Zhong Lee"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt30698096"
     }
 ]
