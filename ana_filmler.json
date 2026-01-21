@@ -83369,5 +83369,162 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt15091284"
+    },
+    {
+        "id": 663260,
+        "title": "Kara Kutu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/xj8fGj9AW99YG25GC6zlhXYi0Fq.jpg",
+        "year": "2021",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Pierre Niney",
+            "Lou de Laâge",
+            "André Dussollier",
+            "Sébastien Pouderoux",
+            "Olivier Rabourdin"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10341034"
+    },
+    {
+        "id": 869617,
+        "title": "Sadece Arkadaşız (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/nRUcrJf5HwW9gCqn5l9bcMyA9us.jpg",
+        "year": "2021",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Mickaël Lumière",
+            "Manon Azem",
+            "Fadily Camara",
+            "Constance Arnoult",
+            "Éloïse Valli"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt14700948"
+    },
+    {
+        "id": 740844,
+        "title": "Pıtırcık: Hazine Avı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/fZA6f7z6N8hTmPFFYSR0k5aNvMo.jpg",
+        "year": "2021",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Ilan Debrabant",
+            "Jean-Paul Rouve",
+            "Audrey Lamy",
+            "Pierre Arditi",
+            "Grégory Gadebois"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt15173948"
+    },
+    {
+        "id": 712454,
+        "title": "Dünyanın Zirvesi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/hM8i4vhql3G9tr1w08Ma7nZjdO4.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Gizem"
+        ],
+        "cast": [
+            "Éric Herson-Macarel",
+            "Damien Boisseau",
+            "Elisabeth Ventura",
+            "Lazare Herson-Macarel",
+            "Kylian Rehlinger"
+        ],
+        "country": [
+            "FR",
+            "LU"
+        ],
+        "link": "https://vidmody.com/vs/tt7014378"
+    },
+    {
+        "id": 788942,
+        "title": "Huzursuz (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/h9CMZP0vNzRLobbmxo7rkv8RCYn.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Leïla Bekhti",
+            "Damien Bonnard",
+            "Gabriel Merz Chammah",
+            "Patrick Descamps",
+            "Jules Waringo"
+        ],
+        "country": [
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt11611486"
+    },
+    {
+        "id": 866127,
+        "title": "Kadın Katilini Yakalatan Kadınlar (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/4pNmisYcsu3fsC5XlOpt0LbyjA7.jpg",
+        "year": "2021",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "cast": [],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15216504"
+    },
+    {
+        "id": 879097,
+        "title": "Rabbids: İstila - Mars Görevi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/pHM0DBDnvFlxIvwPckaVIV6KbLw.jpg",
+        "year": "2021",
+        "genres": [
+            "Animasyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Damien Laquet"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt15310736"
+    },
+    {
+        "id": 671043,
+        "title": "Zengin ve Şımarık (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/sb3hYPMDHjyUBID95jqMRoFMbl2.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Gérard Jugnot",
+            "Camille Lou",
+            "Artus",
+            "Louka Meliava",
+            "François Morel"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13079150"
     }
 ]
