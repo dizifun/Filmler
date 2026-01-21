@@ -47674,5 +47674,51 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt27506951"
+    },
+    {
+        "id": 1083862,
+        "title": "Resident Evil: Ölüm Adası (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wwnRlAvh1weRgdLsUleFX594wrn.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Animasyon",
+            "Bilim-Kurgu",
+            "Korku"
+        ],
+        "cast": [
+            "Matthew Mercer",
+            "Nicole Tompkins",
+            "Kevin Dorman",
+            "Stephanie Panisello",
+            "Erin Cahill"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt26674627"
+    },
+    {
+        "id": 812225,
+        "title": "Black Clover: Sword of the Wizard King (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/b7gDkAKvW2Gwz6eZBuJTkOUn95g.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Gakuto Kajiwara",
+            "島﨑信長",
+            "諏訪部順一",
+            "優木かな",
+            "関俊彦"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt22868844"
     }
 ]
