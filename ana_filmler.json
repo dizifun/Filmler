@@ -85200,5 +85200,71 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt15108954"
+    },
+    {
+        "id": 776797,
+        "title": "The Sadness (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/d8Ip6MmPxeMAtNJtusbPaGCEsvh.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "朱軒洋",
+            "雷嘉汭",
+            "王自強",
+            "陳映如",
+            "Lan Wei-Hua"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt13872248"
+    },
+    {
+        "id": 765684,
+        "title": "Octonautlar ve Ateş Çemberi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/wmuWA097ijMNCDOnyBRNiipl68Q.jpg",
+        "year": "2021",
+        "genres": [
+            "Aile",
+            "Animasyon",
+            "Macera"
+        ],
+        "cast": [
+            "Teresa Gallagher",
+            "Simon Greenall",
+            "Michael C. Murphy",
+            "Paul Panting",
+            "Rob Rackstraw"
+        ],
+        "country": [
+            "GB",
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt13779166"
+    },
+    {
+        "id": 773569,
+        "title": "The Soul (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/gLldYwBq1LYCZB3doNIE1xBEmE5.jpg",
+        "year": "2021",
+        "genres": [
+            "Gizem",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "張震",
+            "張鈞甯",
+            "孙安可",
+            "李銘順",
+            "林暉閔"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt13598976"
     }
 ]
