@@ -67139,5 +67139,69 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt21044524"
+    },
+    {
+        "id": 997703,
+        "title": "Buba (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/7iRMwdNzXFnOKMhVoodj0zhvFYY.jpg",
+        "year": "2022",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Bjarne Mädel",
+            "Georg Friedrich",
+            "Anita Vulesica",
+            "Maren Kroymann",
+            "Soma Pysall"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt21195548"
+    },
+    {
+        "id": 821292,
+        "title": "The Young Chief Winnetou (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/n2sOwXwrJCrPKvjn4qfDHT2yENE.jpg",
+        "year": "2022",
+        "genres": [
+            "Aile",
+            "Macera",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Mika Ullritz",
+            "Milo Haaf",
+            "Anatole Taubman",
+            "Mehmet Kurtuluş",
+            "Lola Linnea Padotzke"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt14359598"
+    },
+    {
+        "id": 978998,
+        "title": "Lucy Artık Bir Gangster (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/aQMJMWDkQA50czLdLRxiXAYVwC.jpg",
+        "year": "2022",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Violetta Arnemann",
+            "Franziska Wulf",
+            "Kostja Ullmann",
+            "Kailas Mahadevan",
+            "Lisa Marie Trense"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt11307462"
     }
 ]
