@@ -101775,5 +101775,68 @@
             "AR"
         ],
         "link": "https://vidmody.com/vs/tt10915060"
+    },
+    {
+        "id": 701175,
+        "title": "Paramedik (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/hrv7mkS5EaTfr3bvcDSxO32WPlb.jpg",
+        "year": "2020",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Mario Casas",
+            "Déborah François",
+            "Guillermo Pfening",
+            "Celso Bugallo",
+            "Raúl Jiménez"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt11127690"
+    },
+    {
+        "id": 737802,
+        "title": "Dad Wanted (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/pkGH2TfJpK9CnOB3qS8uVqAqdp9.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Natalia Coronado",
+            "Juan Pablo Medina",
+            "Silvia Navarro",
+            "Ela Velden",
+            "Luis Ernesto Franco"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt12721188"
+    },
+    {
+        "id": 618746,
+        "title": "Trajik Orman (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/2Az1Uo51rtyRj8uMQmKemBBRkdH.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Indira Andrewin",
+            "Gilberto Barraza",
+            "Mariano Tun Xool",
+            "Gabino Rodríguez",
+            "Eligio Meléndez"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt12792598"
     }
 ]
