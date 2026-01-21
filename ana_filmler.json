@@ -48112,5 +48112,49 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt26599543"
+    },
+    {
+        "id": 636173,
+        "title": "Rüyanın Peşinde (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/e2NsGi5EApPyLRMsGokqEtR1j3E.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "박서준",
+            "IU",
+            "김종수",
+            "고창석",
+            "정승길"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt13814704"
+    },
+    {
+        "id": 1095932,
+        "title": "Yarışçılar: Büyük Hesaplaşma (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wmixF65kXMbBDL3BB4T0EtYqrq5.jpg",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "김서영",
+            "엄상현",
+            "권창욱",
+            "김연우",
+            "강시현"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt13429168"
     }
 ]
