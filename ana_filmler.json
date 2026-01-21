@@ -69343,5 +69343,47 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt15575356"
+    },
+    {
+        "id": 829557,
+        "title": "365 Gün: Bugün (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/kkVbZoe9mpEgT7LSKjpG9n78v0V.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Anna-Maria Sieklucka",
+            "Michele Morrone",
+            "Simone Susinna",
+            "Magdalena Lamparska",
+            "Otar Saralidze"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt12996154"
+    },
+    {
+        "id": 953233,
+        "title": "Hırçın Kız (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/nTtAZmqLqNTNEJm0Z3ATOtXIm0U.jpg",
+        "year": "2022",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Magdalena Lamparska",
+            "Mikołaj Roznerski",
+            "Piotr Cyrwus",
+            "Tomasz Sapryk",
+            "Dorota Landowska"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt18970380"
     }
 ]
