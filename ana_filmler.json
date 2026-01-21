@@ -84383,5 +84383,72 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt14534992"
+    },
+    {
+        "id": 760883,
+        "title": "Kızıl Gökler (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/wOeCT4mUWUqD75JlOu6EQ2Mmk10.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Peri Baumeister",
+            "Carl Anton Koch",
+            "Kais Setti",
+            "Alexander Scheer",
+            "Dominic Purcell"
+        ],
+        "country": [
+            "DE",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6402468"
+    },
+    {
+        "id": 795813,
+        "title": "Tam Sana Göreyim (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/fa5tjOJLp8uNcoBRQGIs1v7QNop.jpg",
+        "year": "2021",
+        "genres": [
+            "Bilim-Kurgu",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Maren Eggert",
+            "Dan Stevens",
+            "Sandra Hüller",
+            "Hans Löw",
+            "Wolfgang Hübsch"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt13087796"
+    },
+    {
+        "id": 680447,
+        "title": "Kasırga 5 - Büyük Kasırga (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/8N8rHkDWzQRGiTKHoGbvDhwE4It.jpg",
+        "year": "2021",
+        "genres": [
+            "Aile",
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Luna Paiano",
+            "Hanna Binke",
+            "Marvin Linke",
+            "Amber Bongard",
+            "Tilo Prückner"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt11560730"
     }
 ]
