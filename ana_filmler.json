@@ -15331,5 +15331,108 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt24241906"
+    },
+    {
+        "id": 1507618,
+        "title": "Kar Masalı (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/iG19XVQnD4PbbG222xn8wLPEeCY.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Baran Andıç",
+            "Aslı Bekiroğlu",
+            "Ceren Taşçı",
+            "Tuna Arman",
+            "Ahmet Kayakesen"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33131796"
+    },
+    {
+        "id": 1330413,
+        "title": "Arda Turan: Yüzleşme (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/dLn3DpqfXYQwjJAk2naLfuHFL99.jpg",
+        "year": "2024",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Arda Turan",
+            "Gerard Piqué",
+            "Filipe Luís",
+            "Andrés Iniesta",
+            "Neymar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt31845255"
+    },
+    {
+        "id": 1426547,
+        "title": "Oyunda Kal: Eğlence Arenası (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/hIijWUBS9NV5r6oldnWlhdNN7oP.jpg",
+        "year": "2024",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Öykü Günay",
+            "Masal Günay",
+            "Alper Baytekin",
+            "Doğan Akdoğan",
+            "Kübra Balcan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33371459"
+    },
+    {
+        "id": 1508884,
+        "title": "Son Bir Tatil (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/lepHii2t8CvphWsDQHMWacSJvQr.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Toygan Avanoğlu",
+            "Burcu Gönder",
+            "İlayda Sezgin",
+            "Ömer Gülsen",
+            "Şiva Behrouzfar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt33131742"
+    },
+    {
+        "id": 1340071,
+        "title": "Mahşerin Üç Delisi (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/tGU4h63pgYQAkdiztpnRjg6Bc9b.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Başak Daşman",
+            "Yüksel Ünal",
+            "Okan Koç",
+            "Mustafa Şen",
+            "Cezmi Baskın"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8387526"
     }
 ]
