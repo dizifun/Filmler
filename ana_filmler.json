@@ -47290,5 +47290,48 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt27214365"
+    },
+    {
+        "id": 854062,
+        "title": "Aşka Düşmek (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/9VNZFomnPmLsf5NMthzxtF8mrx5.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Aylin Tezel",
+            "Chris Fulton",
+            "Rory Fleck-Byrne",
+            "Alexandra Dowling",
+            "Samuel Anderson"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt10334160"
+    },
+    {
+        "id": 1076311,
+        "title": "Uzaydan Mesaj Var (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/97cx8dfeTk2Co5CmzhogaQYj7KS.jpg",
+        "year": "2023",
+        "genres": [
+            "Aile",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "Ava-Elizabeth Awe",
+            "Felix Nölle",
+            "Alwara Höfels",
+            "Lavinia Wilson",
+            "Ronald Zehrfeld"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt21622000"
     }
 ]
