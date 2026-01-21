@@ -47333,5 +47333,50 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt21622000"
+    },
+    {
+        "id": 864573,
+        "title": "Üç Çete Birden (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/bwJHR0qzAvJLKy7EioiSRu0QivY.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Arjun Kapoor",
+            "तबु",
+            "Kumud Mishra",
+            "Radhika Madan",
+            "Shardul Bhardwaj"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt15281704"
+    },
+    {
+        "id": 778946,
+        "title": "Görev Majnu (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/jHQitiHK4M561W1O7WwfJ0dJ8S1.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Aksiyon",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Sidharth Malhotra",
+            "Rashmika Mandanna",
+            "Sharib Hashmi",
+            "Kumud Mishra",
+            "Parmeet Sethi"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt13131232"
     }
 ]
