@@ -87203,5 +87203,45 @@
             "CZ"
         ],
         "link": "https://vidmody.com/vs/tt3804810"
+    },
+    {
+        "id": 836563,
+        "title": "Evrim (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/oxvF4fBDT9kyGLw1Gy6rrADUUo6.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Monori Lili",
+            "Láng Annamária",
+            "Goya Rego",
+            "Padmé Hamdemir"
+        ],
+        "country": [
+            "HU"
+        ],
+        "link": "https://vidmody.com/vs/tt14776894"
+    },
+    {
+        "id": 574078,
+        "title": "Karımın Hikayesi (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/1pG4n8Yu9BEszJw5CwBwuXB0bBZ.jpg",
+        "year": "2021",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Léa Seydoux",
+            "Gijs Naber",
+            "Louis Garrel",
+            "Sergio Rubini",
+            "Jasmine Trinca"
+        ],
+        "country": [
+            "HU"
+        ],
+        "link": "https://vidmody.com/vs/tt8205028"
     }
 ]
