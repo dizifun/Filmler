@@ -65395,5 +65395,48 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt13774454"
+    },
+    {
+        "id": 575554,
+        "title": "Faithful (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/4MNr061XJcCpgyF0dBRzr8DpdjY.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Vincent Lacoste",
+            "Vicky Krieps",
+            "Jules Langlade",
+            "Marc Brunet",
+            "Thomas Ducasse"
+        ],
+        "country": [
+            "BE",
+            "DZ",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9731172"
+    },
+    {
+        "id": 785303,
+        "title": "Robust (2022)",
+        "poster": "https://image.tmdb.org/t/p/w500/vjIRmCXBWRK2lozxDqzdIewlrVa.jpg",
+        "year": "2022",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Gérard Depardieu",
+            "Déborah Lukumuena",
+            "Lucas Mortier",
+            "Megan Northam",
+            "Florence Janas"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt13667548"
     }
 ]
