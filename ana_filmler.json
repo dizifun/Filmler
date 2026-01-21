@@ -47116,5 +47116,48 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt21308888"
+    },
+    {
+        "id": 1088563,
+        "title": "Lassie: Yepyeni Bir Macera (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/4Xr4wbpmbIY8Mecah8lFAAXv76P.jpg",
+        "year": "2023",
+        "genres": [
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Nico Marischka",
+            "Katharina Schüttler",
+            "Justus von Dohnányi",
+            "Annette Frier",
+            "Anna Lucia Gualano"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt23023256"
+    },
+    {
+        "id": 1609489,
+        "title": "Invincible: Atom Eve (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "year": "2023",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Macera",
+            "Fantastik",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Steven Yeun",
+            "Sandra Oh",
+            "J.K. Simmons"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt28452191"
     }
 ]
