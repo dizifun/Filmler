@@ -47569,5 +47569,48 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt18411490"
+    },
+    {
+        "id": 781732,
+        "title": "Hayvani (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "रणबीर कपूर",
+            "Rashmika Mandanna",
+            "Anil Kapoor",
+            "Bobby Deol",
+            "Triptii Dimri"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt13751694"
+    },
+    {
+        "id": 875188,
+        "title": "Kho Gaye Hum Kahan (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/WUptEusy1sMh3s46Ik7QbfoKts.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Siddhant Chaturvedi",
+            "Ananya Panday",
+            "Adarsh Gourav",
+            "Kalki Koechlin",
+            "Anya Singh"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt15434074"
     }
 ]
