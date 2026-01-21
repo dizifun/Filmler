@@ -48330,5 +48330,50 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt26258204"
+    },
+    {
+        "id": 842675,
+        "title": "Gezegenler Savaşı (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/mctv2Q6l5qTjl1r2y6EAigsjZVk.jpg",
+        "year": "2023",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "吴京",
+            "劉德華",
+            "李雪健",
+            "沙溢",
+            "宁理"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt13539646"
+    },
+    {
+        "id": 1066298,
+        "title": "Tam Nehir Kırmızısı (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/eqcH2KZZMJUvpYM1SWhch2XpSyp.jpg",
+        "year": "2023",
+        "genres": [
+            "Gizem",
+            "Komedi",
+            "Gerilim",
+            "Tarih"
+        ],
+        "cast": [
+            "沈腾",
+            "Jackson Yee",
+            "张译",
+            "雷佳音",
+            "Yunpeng Yue"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt21148018"
     }
 ]
