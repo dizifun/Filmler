@@ -49597,5 +49597,46 @@
             "PL"
         ],
         "link": "https://vidmody.com/vs/tt12858434"
+    },
+    {
+        "id": 1107872,
+        "title": "Anneler Günü (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/mYhMXF9XnXSZdKAPEbucjtsnI9C.jpg",
+        "year": "2023",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Agnieszka Grochowska",
+            "Adrian Delikta",
+            "Dariusz Chojnacki",
+            "Paulina Chruściel",
+            "Paweł Koślik"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt19724192"
+    },
+    {
+        "id": 1117698,
+        "title": "Fanatik (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/6S0Elz6FHbasFzGr08d2HpZPyuQ.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alin Szewczyk",
+            "Jan Cięciara",
+            "Dobromir Dymecki",
+            "Wiktoria Kruszczyńska",
+            "Maja Szopa"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt27612422"
     }
 ]
