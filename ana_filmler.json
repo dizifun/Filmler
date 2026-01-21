@@ -10968,5 +10968,47 @@
             "CA"
         ],
         "link": "https://vidmody.com/vs/tt38348802"
+    },
+    {
+        "id": 1300607,
+        "title": "Lucca'nın Dünyası (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Bárbara Mori",
+            "Julián Tello",
+            "Juan Pablo Medina",
+            "Ari Brickman",
+            "Danish Husain"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt28657879"
+    },
+    {
+        "id": 1323784,
+        "title": "Kötü Etki (2025)",
+        "poster": "https://image.tmdb.org/t/p/w500/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg",
+        "year": "2025",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Alberto Olmo",
+            "Eléa Rochera",
+            "Enrique Arce",
+            "Mirela Balić",
+            "Farid Bechara"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt23558084"
     }
 ]
