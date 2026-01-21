@@ -83941,5 +83941,47 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt11658120"
+    },
+    {
+        "id": 763152,
+        "title": "Ortaya Karışık İlişkiler (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/uShw8wJ7K4ySrPtUWjGe8wwJ5fj.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Ernesto Alterio",
+            "Raúl Arévalo",
+            "Luis Callejo",
+            "Anna Castillo",
+            "Pilar Castro"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6925902"
+    },
+    {
+        "id": 811072,
+        "title": "Two (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/v23nJWsYGaI3ysikMBWJgIjcGwL.jpg",
+        "year": "2021",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Pablo Derqui",
+            "Marina Gatell",
+            "Kandido Uranga",
+            "Anna Chincho Serrano",
+            "Esteban Galilea"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt12358104"
     }
 ]
