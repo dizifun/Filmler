@@ -83045,5 +83045,177 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt11952238"
+    },
+    {
+        "id": 424277,
+        "title": "Annette (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/kumbxy2gNU0IvymBjJzbOC6OEJv.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Marion Cotillard",
+            "Simon Helberg",
+            "Devyn McDowell",
+            "Natalia Lafourcade"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6217926"
+    },
+    {
+        "id": 454527,
+        "title": "Benedetta (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg",
+        "year": "2021",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Virginie Efira",
+            "Charlotte Rampling",
+            "Daphné Patakia",
+            "Lambert Wilson",
+            "Olivier Rabourdin"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6823148"
+    },
+    {
+        "id": 577242,
+        "title": "Kaamelott: The First Chapter (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/4mcovnajaLoy7dbv5arykJjDFFC.jpg",
+        "year": "2021",
+        "genres": [
+            "Macera",
+            "Fantastik",
+            "Komedi"
+        ],
+        "cast": [
+            "Alexandre Astier",
+            "Lionnel Astier",
+            "Anne Girouard",
+            "Thomas Cousseau",
+            "Franck Pitiot"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9844322"
+    },
+    {
+        "id": 729720,
+        "title": "Emekli Ajan (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/sNfEiOU2QOACkdcUBKRzhFcIYTN.jpg",
+        "year": "2021",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Jean-Claude Van Damme",
+            "Alban Ivanov",
+            "Samir Decazza",
+            "Assa Sylla",
+            "Éric Judor"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12808182"
+    },
+    {
+        "id": 633954,
+        "title": "Mükemmel Aile Olma Kılavuzu (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/4jurR6dMGAyAYgNSgpPIL9OmBRY.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Louis Morissette",
+            "Émilie Bierre",
+            "Catherine Chabot",
+            "Xavier Lebel",
+            "Isabelle Guérard"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt11991786"
+    },
+    {
+        "id": 611408,
+        "title": "Saint-Tropez'deki Gizem (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/802uQpzn3jG0EZaPMzCzN1ieewk.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Christian Clavier",
+            "Benoît Poelvoorde",
+            "Thierry Lhermitte",
+            "Jérôme Commandeur",
+            "Rossy de Palma"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10537660"
+    },
+    {
+        "id": 523936,
+        "title": "Tüp (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/dDUftr5bXJ6ddnNwSNrJwbJQCpE.jpg",
+        "year": "2021",
+        "genres": [
+            "Korku",
+            "Bilim-Kurgu",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Gaia Weiss",
+            "Peter Franzén",
+            "Romane Libert",
+            "Frédéric Franchitti",
+            "Corneliu Dragomirescu"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5752192"
+    },
+    {
+        "id": 735726,
+        "title": "Her Şey Yolunda (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/x0I5yAcBtFfUea8muo1Kz9816Pm.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Sophie Marceau",
+            "André Dussollier",
+            "Géraldine Pailhas",
+            "Charlotte Rampling",
+            "Éric Caravaca"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt12847812"
     }
 ]
