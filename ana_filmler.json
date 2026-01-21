@@ -71275,5 +71275,148 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt15511174"
+    },
+    {
+        "id": 963372,
+        "title": "4N1K: Düğün (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/u9vmlPNI3sSguEir5nmdUXNI0kR.jpg",
+        "year": "2021",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Gözde Mutluer",
+            "Atakan Hoşgören",
+            "Sina Özer",
+            "Cihan Şimşek",
+            "Cemrehan Karakaş"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13000788"
+    },
+    {
+        "id": 954231,
+        "title": "Aylak Takımı (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/2zLciU9OFVTpt58ULfkxzqex4CT.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Yıldız Asyalı",
+            "Tuna Arman",
+            "Mert Topuz",
+            "Zeynep Batur",
+            "Can Erdoğan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt15072684"
+    },
+    {
+        "id": 969620,
+        "title": "Anlatırsam Aşık Olurum (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/nFSMH2Vh7cENeq9capNbLOLLdn8.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Zeynep Beşerler",
+            "Ümit Erdim",
+            "Kerem Poyraz Kayaalp",
+            "Tanser Yılmaztürk",
+            "İrfan Kangı"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt21223842"
+    },
+    {
+        "id": 889300,
+        "title": "Beni Çok Sev (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/qkaQgCdWO0NAA790lgRbiIxNqhp.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Sarp Akkaya",
+            "Aleyna Özgeçen",
+            "Ercan Kesal",
+            "Songül Öden",
+            "Füsun Demirel"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt13161356"
+    },
+    {
+        "id": 980833,
+        "title": "Muallim (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/2TB7s2P4UAVYlkgyv2ox3OGXBPL.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Melih Selçuk",
+            "Sevtap Özaltun",
+            "Ruhi Sarı",
+            "Halit Karaata",
+            "Yigit Çelebi"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt15863948"
+    },
+    {
+        "id": 731647,
+        "title": "Seni Bulacam Oğlum! (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/lZ34hbdbhW4vjrarGNRbDI7nPuc.jpg",
+        "year": "2021",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Gökhan Yıkılkan",
+            "Ali Sürmeli",
+            "Gürkan Uygun",
+            "Ali Erkazan",
+            "Zihni Göktay"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11767342"
+    },
+    {
+        "id": 819223,
+        "title": "Sen Ben Lenin (2021)",
+        "poster": "https://image.tmdb.org/t/p/w500/2UgvV5Ad5X16r2HzAeEXHa4mWY3.jpg",
+        "year": "2021",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Barış Falay",
+            "Saygın Soysal",
+            "Melis Birkan",
+            "Serdar Orçin",
+            "Nur Sürer"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt14474588"
     }
 ]
