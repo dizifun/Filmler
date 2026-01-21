@@ -28751,5 +28751,93 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt28288477"
+    },
+    {
+        "id": 1219576,
+        "title": "Goebbels and the Führer (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/wn6y23glGFpUzdSJE8TWvvrcMFd.jpg",
+        "year": "2024",
+        "genres": [
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Robert Stadlober",
+            "Fritz Karl",
+            "Franziska Weisz",
+            "Sascha Göpel",
+            "Katia Fellin"
+        ],
+        "country": [
+            "DE",
+            "SK"
+        ],
+        "link": "https://vidmody.com/vs/tt30467885"
+    },
+    {
+        "id": 1172648,
+        "title": "Riskli Oyun (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/4mZEqviroRmVUori7V3z4SoYTzp.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Gerilim",
+            "Romantik"
+        ],
+        "cast": [
+            "Dennis Mojen",
+            "Janina Uhse",
+            "Anna Maria Mühe",
+            "Axel Stein",
+            "Stephan Luca"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt28301898"
+    },
+    {
+        "id": 1232422,
+        "title": "Scorched Earth (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/raHfb0LtuKtjzXvsAzzVmMkDGyg.jpg",
+        "year": "2024",
+        "genres": [
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mišel Matičević",
+            "Marie Leuenberger",
+            "Alexander Fehling",
+            "Tim Seyfi",
+            "Bilge Bingul"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt30953867"
+    },
+    {
+        "id": 1208284,
+        "title": "İkiye Bir (2024)",
+        "poster": "https://image.tmdb.org/t/p/w500/z2kFwE2astreSz1TH17ZWWY1gRA.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Suç",
+            "Romantik"
+        ],
+        "cast": [
+            "Sandra Hüller",
+            "Max Riemelt",
+            "Ronald Zehrfeld",
+            "Peter Kurth",
+            "Martin Brambach"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt28833698"
     }
 ]
