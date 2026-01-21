@@ -46287,5 +46287,90 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt21735972"
+    },
+    {
+        "id": 988078,
+        "title": "Penceremden 2: Aramızdaki Deniz (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/orSoGB7eXukJxoNpW1q7siZSbmu.jpg",
+        "year": "2023",
+        "genres": [
+            "Romantik",
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Clara Galle",
+            "Julio Peña",
+            "Guillermo Lasheras",
+            "Natalia Azahara",
+            "Hugo Arbues"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt21245882"
+    },
+    {
+        "id": 1010581,
+        "title": "My Fault (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/dGqzC6hagJzkrMfmIvv3Mb865zJ.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nicole Wallace",
+            "Gabriel Guevara",
+            "Marta Hazas",
+            "Iván Sánchez",
+            "Eva Ruiz"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt21909764"
+    },
+    {
+        "id": 1091044,
+        "title": "Dali'yi Beklerken (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/wAcDJTKZ7gjbG15e1qWAee20ql9.jpg",
+        "year": "2023",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "José Garcia",
+            "Ivan Massagué",
+            "Paco Tous",
+            "Nicolas Cazalé",
+            "Варвара Бородина"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7710588"
+    },
+    {
+        "id": 1051547,
+        "title": "Upon Entry (2023)",
+        "poster": "https://image.tmdb.org/t/p/w500/yWEkwq2FgCT3LYUflXqotzTzWfQ.jpg",
+        "year": "2023",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alberto Ammann",
+            "Bruna Cusí",
+            "Ben Temple",
+            "Laura Gómez",
+            "Colin Morgan"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt22964884"
     }
 ]
