@@ -161316,5 +161316,27 @@
             "ID"
         ],
         "link": "https://vidmody.com/vs/tt7076834"
+    },
+    {
+        "id": 432799,
+        "title": "İz (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/4NERseY84K84UjnCzTpi7wHq2Vf.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Agnieszka Mandat",
+            "Wiktor Zborowski",
+            "Jakub Gierszał",
+            "Patrycja Volny",
+            "Miroslav Krobot"
+        ],
+        "country": [
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt5328350"
     }
 ]
