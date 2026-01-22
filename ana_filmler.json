@@ -151133,5 +151133,441 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt5539054"
+    },
+    {
+        "id": 455656,
+        "title": "Lise Gerçeği (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/iZliPeiiDta9KbONAhdFSXhTxrO.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Nesta Cooper",
+            "Keith Powers",
+            "Alicia Sanz",
+            "Jake Borelli",
+            "Anne Winters"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6119504"
+    },
+    {
+        "id": 415842,
+        "title": "Suikastçı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/4ewblILAnBxepTdTxTd2ERjl4Yy.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Dylan O'Brien",
+            "Michael Keaton",
+            "Taylor Kitsch",
+            "Shiva Negar",
+            "Sanaa Lathan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1961175"
+    },
+    {
+        "id": 341013,
+        "title": "Sarışın Bomba (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5GWPg17cQUhqdrnRVgnEcOc0JxZ.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Charlize Theron",
+            "James McAvoy",
+            "Eddie Marsan",
+            "John Goodman",
+            "Toby Jones"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2406566"
+    },
+    {
+        "id": 460227,
+        "title": "Bad Frank (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/14Mp6zQ609spz366HrfSKtgVKlR.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Kevin Interdonato",
+            "Amanda Clayton",
+            "Tom Sizemore",
+            "Brandon Heitkamp",
+            "Russ Russo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3362238"
+    },
+    {
+        "id": 719013,
+        "title": "Güvercin Benji (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/xmEYgWWoHusRKFu713hnpLq554Q.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Gerald Jones",
+            "Blake Bergman",
+            "Eli Tokash",
+            "Aviad Bernstein",
+            "Jac Bernhard"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4516040"
+    },
+    {
+        "id": 403431,
+        "title": "Brigsby Ayıcığı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/9QepAxHR9am4nKWZqIDpIQjuB5.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Kyle Mooney",
+            "Mark Hamill",
+            "Jorge Lendeborg Jr.",
+            "Matt Walsh",
+            "Michaela Watkins"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5805752"
+    },
+    {
+        "id": 449535,
+        "title": "Dead Shack (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/rKqYBB6ysJW4DQqUwM1DaCIxDM5.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Matthew Nelson-Mahood",
+            "Lizzie Boys",
+            "Gabriel LaBelle",
+            "Lauren Holly",
+            "Donavon Stinson"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6401004"
+    },
+    {
+        "id": 462115,
+        "title": "Dead Trigger (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/uI2c30FyDEeBaa7Ka7tZYH344tC.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Korku"
+        ],
+        "cast": [
+            "Dolph Lundgren",
+            "Autumn Reeser",
+            "Romeo",
+            "Isaiah Washington",
+            "Chris Galya"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5662550"
+    },
+    {
+        "id": 417320,
+        "title": "Yeni Nesil 2 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/b1Bq9y4J60U2HjCgs0AJEIXtTzf.jpg",
+        "year": "2017",
+        "genres": [
+            "Aile",
+            "Fantastik",
+            "TV film",
+            "Macera",
+            "Müzik"
+        ],
+        "cast": [
+            "Dove Cameron",
+            "Mitchell Hope",
+            "Cameron Boyce",
+            "Sofia Carson",
+            "Thomas Doherty"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5117876"
+    },
+    {
+        "id": 407448,
+        "title": "Detroit (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Tarih"
+        ],
+        "cast": [
+            "John Boyega",
+            "Will Poulter",
+            "Anthony Mackie",
+            "Algee Smith",
+            "Hannah Murray"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5390504"
+    },
+    {
+        "id": 374720,
+        "title": "Dunkirk (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/iwvcIamoONxy9yB2td7yjRcbTQ2.jpg",
+        "year": "2017",
+        "genres": [
+            "Savaş",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Fionn Whitehead",
+            "Tom Hardy",
+            "Mark Rylance",
+            "Kenneth Branagh",
+            "Cillian Murphy"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5013056"
+    },
+    {
+        "id": 451644,
+        "title": "Ejder Yürek: Ateş Savaşı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/tdWIs4ZJTemOiehoqudWr0rXZEL.jpg",
+        "year": "2017",
+        "genres": [
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "Marte Germaine Christensen",
+            "Patrick Stewart",
+            "Tom Rhys Harries",
+            "Jessamine-Bliss Bell",
+            "Tamzin Merchant"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5610626"
+    },
+    {
+        "id": 410554,
+        "title": "İlk Kurşun (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yhbRFknoOgAEJHC2wRcU9Xdu9JX.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Bruce Willis",
+            "Hayden Christensen",
+            "Ty Joseph Shelton",
+            "Megan Leonard",
+            "Gethin Anthony"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5884234"
+    },
+    {
+        "id": 514690,
+        "title": "Büyük Kıyamet (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3msVFWalwQyfXQONXh9dRM0FLpD.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Bilim-Kurgu",
+            "Gerilim",
+            "TV film"
+        ],
+        "cast": [
+            "Michael Paré",
+            "Anna Barker",
+            "Marin Almasi",
+            "Caroline Buzanko",
+            "Elle Young"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7108074"
+    },
+    {
+        "id": 524778,
+        "title": "Vites (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/68i0nkFaOzVQjmDzf0Lg79nRdUq.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Nicola Posener",
+            "Len Greenaway",
+            "Andre Guantanamo",
+            "Robert Gulassarian",
+            "Zachary Hendler"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5069194"
+    },
+    {
+        "id": 417870,
+        "title": "Kız Gecesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/mdsHCFt2PeZacEr38y2p5RRf6Hl.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Macera"
+        ],
+        "cast": [
+            "Regina Hall",
+            "Queen Latifah",
+            "Jada Pinkett Smith",
+            "Tiffany Haddish",
+            "Larenz Tate"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3564472"
+    },
+    {
+        "id": 359228,
+        "title": "Ruhlar Evi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/gPnf3fTuoqiG2r4RRyYUAm07mtJ.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Scout Taylor-Compton",
+            "James Landry Hébert",
+            "Mark Boone Junior",
+            "Michael S. New",
+            "Elana Krausz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4365566"
+    },
+    {
+        "id": 455675,
+        "title": "Hickok (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/22UFZsZHviButja9gaR0vLQzf20.jpg",
+        "year": "2017",
+        "genres": [
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Luke Hemsworth",
+            "Trace Adkins",
+            "Bruce Dern",
+            "Cameron Richardson",
+            "Kaiwi Lyman"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6334884"
+    },
+    {
+        "id": 461054,
+        "title": "LEGO Scooby-Doo!: Plajda Korsan Avı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/nFokaZj0GTVjZFNlClqBS0bj1v.jpg",
+        "year": "2017",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile",
+            "Gizem"
+        ],
+        "cast": [
+            "Natalie Lander",
+            "Kate Micucci",
+            "Matthew Lillard",
+            "Grey DeLisle",
+            "Iqbal Theba"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6946580"
+    },
+    {
+        "id": 386623,
+        "title": "Person to Person (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/cqysALwxcE2C0OQJnsM8xdIWJ8T.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Abbi Jacobson",
+            "Michael Cera",
+            "Tavi Gevinson",
+            "Philip Baker Hall",
+            "Bene Coopersmith"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5247026"
     }
 ]
