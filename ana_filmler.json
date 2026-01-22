@@ -104085,5 +104085,48 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt11296058"
+    },
+    {
+        "id": 505746,
+        "title": "Yarış 3 (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/f4xfU5BUrdDeOgt3J6drQGNjfZk.jpg",
+        "year": "2020",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Anders Baasmo Christiansen",
+            "Ida Husøy",
+            "Sven Nordin",
+            "Otto Jespersen",
+            "Henrik Mestad"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt6527456"
+    },
+    {
+        "id": 692969,
+        "title": "Cadaver (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/jbYvBVXbNW3eVZqKNB4FxMpSvci.jpg",
+        "year": "2020",
+        "genres": [
+            "Dram",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Gitte Witt",
+            "Thomas Gullestad",
+            "Thorbjørn Harr",
+            "Tuva Olivia Remman",
+            "Trine Wiggen"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt11284280"
     }
 ]
