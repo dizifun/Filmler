@@ -141023,5 +141023,95 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt6675244"
+    },
+    {
+        "id": 434362,
+        "title": "Gutland (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/wPHfpE42CYVlBjZbq84zoATyAjp.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Frederick Lau",
+            "Vicky Krieps",
+            "Gerdy Zint",
+            "Pit Bukowski",
+            "Marco Lorenzini"
+        ],
+        "country": [
+            "DE",
+            "BE",
+            "LU"
+        ],
+        "link": "https://vidmody.com/vs/tt5455410"
+    },
+    {
+        "id": 493483,
+        "title": "Muhtemel Aşk (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/ylPg4jlV6KDUFnm86m5usjLzTOp.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Franz Rogowski",
+            "Sandra Hüller",
+            "Peter Kurth",
+            "Henning Peker",
+            "Ramona Kunze-Libnow"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt6263618"
+    },
+    {
+        "id": 505204,
+        "title": "Sevimli Dostlar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/aEDp4ZXQ5hvrhrMMU1xqcEpqzjd.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Aile",
+            "Fantastik",
+            "Suç"
+        ],
+        "cast": [
+            "Malu Leicher",
+            "Christoph Maria Herbst",
+            "Tom Beck",
+            "Aylin Tezel",
+            "Meret Becker"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt5368108"
+    },
+    {
+        "id": 432383,
+        "title": "Luis ve Uzaylı Dostları (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/i04x1trcaE8neU5AatI623w7eSN.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Callum Maloney",
+            "Dermot Magennis",
+            "Ian Coppinger",
+            "Paul Tylak",
+            "Lucy Carolan"
+        ],
+        "country": [
+            "DK",
+            "DE",
+            "LU"
+        ],
+        "link": "https://vidmody.com/vs/tt4410000"
     }
 ]
