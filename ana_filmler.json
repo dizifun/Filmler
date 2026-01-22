@@ -122589,5 +122589,49 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt8383694"
+    },
+    {
+        "id": 533715,
+        "title": "Büyük Macera (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/pabDLT28Wj5U655bUtGcRs8G5Kb.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Дмитрий Назаров",
+            "Максим Галкин",
+            "Филипп Киркоров",
+            "Danila Medvedev",
+            "Алексей Воробьёв"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7403614"
+    },
+    {
+        "id": 567801,
+        "title": "Milyoner Baba (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wQMD770rataowz3W142NxVim70M.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Владимир Машков",
+            "Александра Бортич",
+            "Гела Месхи",
+            "Павел Чинарёв",
+            "Марина Петренко"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt10214842"
     }
 ]
