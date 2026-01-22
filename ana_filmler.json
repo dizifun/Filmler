@@ -160494,5 +160494,68 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt5342650"
+    },
+    {
+        "id": 452557,
+        "title": "Wolf Warrior 2 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/1HGiHGbVNmrc246zbdrVxvs1p9G.jpg",
+        "year": "2017",
+        "genres": [
+            "Savaş",
+            "Aksiyon"
+        ],
+        "cast": [
+            "吴京",
+            "Frank Grillo",
+            "Celina Jade",
+            "张翰",
+            "吴刚"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt7131870"
+    },
+    {
+        "id": 452910,
+        "title": "Wu Kong Hikayesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/rl4Snnt1Jo8z0xcuqaYBdj8bsOh.jpg",
+        "year": "2017",
+        "genres": [
+            "Fantastik",
+            "Aksiyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "彭于晏",
+            "倪妮",
+            "余文樂",
+            "歐豪",
+            "鄭爽"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt6513406"
+    },
+    {
+        "id": 458186,
+        "title": "Sihirli Oyuncaklar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/prT8MeAB5G7e3DtmSHTdtFsL3Lc.jpg",
+        "year": "2017",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "季冠霖",
+            "石磊"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt6903084"
     }
 ]
