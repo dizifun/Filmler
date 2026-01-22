@@ -141597,5 +141597,50 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt6900448"
+    },
+    {
+        "id": 420426,
+        "title": "Bleach (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/8POGKMj4wbrBJPit6BofggbQMeh.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "福士蒼汰",
+            "杉咲花",
+            "吉沢亮",
+            "真野恵里菜",
+            "小柳友"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt5979872"
+    },
+    {
+        "id": 494407,
+        "title": "Pokémon Filmi: Bizim Gücümüz (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qp1wXju81fpFkVeSt5EVvnpKmgf.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "松本梨香",
+            "大谷育江",
+            "林原めぐみ",
+            "三木眞一郎",
+            "犬山イヌコ"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt8108230"
     }
 ]
