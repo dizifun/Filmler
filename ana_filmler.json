@@ -141883,5 +141883,49 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt8116428"
+    },
+    {
+        "id": 535389,
+        "title": "Büyük Savaş (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/buZA2PJAIHxDBby6vYGgvcYpaxH.jpg",
+        "year": "2018",
+        "genres": [
+            "Savaş",
+            "Tarih",
+            "Aksiyon"
+        ],
+        "cast": [
+            "조인성",
+            "남주혁",
+            "박성웅",
+            "배성우",
+            "엄태구"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6931414"
+    },
+    {
+        "id": 542836,
+        "title": "Arabulucu (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/imd5SWNlfs0uoaDftLvb9ZlgLKr.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "손예진",
+            "현빈",
+            "김상호",
+            "장영남",
+            "장광"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6904272"
     }
 ]
