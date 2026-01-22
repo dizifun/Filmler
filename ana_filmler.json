@@ -121685,5 +121685,48 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt9155928"
+    },
+    {
+        "id": 567646,
+        "title": "Zorlu Operasyon (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/jbHNkNydiZstlqhhBSvG19lm4NL.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "류승룡",
+            "이하늬",
+            "진선규",
+            "이동휘",
+            "공명"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt9541602"
+    },
+    {
+        "id": 568320,
+        "title": "Vur-Kaç Takımı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wyu2vlvX0a7Pe1QRz02aEfklxFo.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "공효진",
+            "류준열",
+            "조정석",
+            "염정아",
+            "전혜진"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt8119844"
     }
 ]
