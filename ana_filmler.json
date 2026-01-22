@@ -139591,5 +139591,89 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt7146578"
+    },
+    {
+        "id": 525938,
+        "title": "Break (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qwK4PMUppMKlm2CwspO8EKuhj7y.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Sabrina Ouazani",
+            "Kévin Mischel",
+            "Slimane",
+            "Hassam Ghancy",
+            "Maxime Pambet"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7343574"
+    },
+    {
+        "id": 446170,
+        "title": "Siyah Nehir (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/4VlniXoAkFmx3h25feuTcmyj6WK.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Vincent Cassel",
+            "Romain Duris",
+            "Sandrine Kiberlain",
+            "Élodie Bouchez",
+            "Charles Berling"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6009104"
+    },
+    {
+        "id": 485098,
+        "title": "Ateşle Oynayanlar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/gXa5B5Xo2zTJPIrqnMaIUnZ58Pz.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Tahar Rahim",
+            "Stacy Martin",
+            "Bruno Wolkowitch",
+            "Karim Leklou",
+            "Marie Denarnaud"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7888070"
+    },
+    {
+        "id": 478100,
+        "title": "Dünyanın En Çok Öldürülen Kadını (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/yeRL5jA3NOhoBXY1WnuOf7RCRJp.jpg",
+        "year": "2018",
+        "genres": [
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Anna Mouglalis",
+            "Niels Schneider",
+            "Éric Godon",
+            "André Wilms",
+            "Michel Fau"
+        ],
+        "country": [
+            "FR",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6186696"
     }
 ]
