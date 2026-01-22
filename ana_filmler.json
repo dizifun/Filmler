@@ -107446,5 +107446,435 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt5913798"
+    },
+    {
+        "id": 757821,
+        "title": "Black in Minneapolis (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wOKfG9dm2TVYKNeq7EDK4mXUmEF.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Toussaint Morrison",
+            "Geoff Briley",
+            "Malick Ceesay",
+            "Valerie Rose",
+            "Charla Marie Bailey"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8810748"
+    },
+    {
+        "id": 460321,
+        "title": "Yakın Koruma (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/iYAwwdE5KvDaU4Uyll5h4XscXkc.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Noomi Rapace",
+            "Sophie Nélisse",
+            "Indira Varma",
+            "Eoin Macken",
+            "Akin Gazi"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5316540"
+    },
+    {
+        "id": 438650,
+        "title": "Soğuk İntikam (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/yRC5K9gVDbdLe1K7trq3hSjS0Cv.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Liam Neeson",
+            "Tom Bateman",
+            "Tom Jackson",
+            "Laura Dern",
+            "Nicholas Holmes"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5719748"
+    },
+    {
+        "id": 597722,
+        "title": "Şeytan Göz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/3sJ6h6KtfriUEQSpqJRB2gVMKHZ.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Darren Day",
+            "Liam Fox",
+            "Kate James",
+            "Ellie Goffe",
+            "Jimmy Allen"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt8028600"
+    },
+    {
+        "id": 438674,
+        "title": "Adaletsiz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/evooHXiDCmxtZSE7PsZiq2S4vYh.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mel Gibson",
+            "Vince Vaughn",
+            "Tory Kittles",
+            "Michael Jai White",
+            "Jennifer Carpenter"
+        ],
+        "country": [
+            "CA",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6491178"
+    },
+    {
+        "id": 369560,
+        "title": "Sarhoş Ebeveynler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/AbcqkOVT4KrWWhoT18FzZZ73Puk.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Salma Hayek Pinault",
+            "Joe Manganiello",
+            "Treat Williams",
+            "Michelle Veintimilla"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5037840"
+    },
+    {
+        "id": 445629,
+        "title": "Ailece Güreşçi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/rGpilX279VCVir8TBCPwc3CW0bT.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Florence Pugh",
+            "Lena Headey",
+            "Nick Frost",
+            "Vince Vaughn",
+            "Jack Lowden"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6513120"
+    },
+    {
+        "id": 491854,
+        "title": "Foxtrot Six (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/o7c8FKCZFIrLKrZSzgqufvNo4mr.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Oka Antara",
+            "Rio Dewanto",
+            "Verdi Solaiman",
+            "Mike Lewis",
+            "Arifin Putra"
+        ],
+        "country": [
+            "US",
+            "ID"
+        ],
+        "link": "https://vidmody.com/vs/tt8948208"
+    },
+    {
+        "id": 471506,
+        "title": "Greta (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/9hBpFyJ3pGdupXbaC2L7nGvLMBn.jpg",
+        "year": "2019",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Chloë Grace Moretz",
+            "Isabelle Huppert",
+            "Maika Monroe",
+            "Colm Feore",
+            "Stephen Rea"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2639336"
+    },
+    {
+        "id": 589339,
+        "title": "Sevimli Sihirbazlar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2HhrSimz7QLqcojpeRRAPD4ph0l.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon"
+        ],
+        "cast": [
+            "Dave Soltura",
+            "Todd Quills",
+            "Jeremy Rottinger",
+            "Thomas Carr",
+            "Chen Tsung"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9251614"
+    },
+    {
+        "id": 512196,
+        "title": "Ölüm Günün Kutlu Olsun 2 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/y9LWIxH2jdubK9Epumtzz3sFTMt.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Korku",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Jessica Rothe",
+            "Israel Broussard",
+            "Charles Aitken",
+            "Ruby Modine",
+            "Suraj Sharma"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8155288"
+    },
+    {
+        "id": 449563,
+        "title": "Isn't It Romantic (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Fantastik",
+            "Romantik"
+        ],
+        "cast": [
+            "Rebel Wilson",
+            "Liam Hemsworth",
+            "Adam Devine",
+            "Priyanka Chopra Jonas",
+            "Betty Gilpin"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2452244"
+    },
+    {
+        "id": 463157,
+        "title": "Jellyfish (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/vfTlJE4vZHgqQERjQbZ1W8JkHM5.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Liv Hill",
+            "Sinéad Matthews",
+            "Cyril Nri",
+            "Angus Barnett",
+            "Tomos Eames"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6490394"
+    },
+    {
+        "id": 520720,
+        "title": "Kim Possible (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Aksiyon",
+            "Macera",
+            "Komedi",
+            "TV film"
+        ],
+        "cast": [
+            "Sadie Stanley",
+            "Sean Giambrone",
+            "Ciara Riley Wilson",
+            "Taylor Ortega",
+            "Connie Ray"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7979492"
+    },
+    {
+        "id": 580001,
+        "title": "Kevin Hart's Guide to Black History (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Kevin Hart",
+            "Lil Rel Howery",
+            "Saniyya Sidney",
+            "Tom Stern"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6373518"
+    },
+    {
+        "id": 517517,
+        "title": "Lancaster Skies (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/nOHm72CCU5vvrbWhqaDZMkwZ2IP.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Savaş",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Kris Saddler",
+            "Rosa Coduri-Fulford",
+            "Jeffrey Mundell",
+            "Vin Hawke",
+            "Tom Gordon"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3486080"
+    },
+    {
+        "id": 574936,
+        "title": "Love, Romance & Chocolate (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/l0ay0Td2gxq2zEdAlphb2RsdeTX.jpg",
+        "year": "2019",
+        "genres": [
+            "TV film",
+            "Romantik"
+        ],
+        "cast": [
+            "Lacey Chabert",
+            "Will Kemp",
+            "Brittany Bristow",
+            "Guillaume Dolmans",
+            "Joseph Olivennes"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9552488"
+    },
+    {
+        "id": 582186,
+        "title": "Oh, Ramona! (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Bogdan Iancu",
+            "Aggy K. Adams",
+            "Basil Eidenbenz",
+            "Holly Horne",
+            "Adina Ștețcu"
+        ],
+        "country": [
+            "RO"
+        ],
+        "link": "https://vidmody.com/vs/tt7200946"
+    },
+    {
+        "id": 525183,
+        "title": "Paddleton (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/gtssTSvNgY8132hPRtp1DbciYJ6.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Mark Duplass",
+            "Ray Romano",
+            "Christine Woods",
+            "Jen Sung",
+            "Stephen Oyoung"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8041276"
+    },
+    {
+        "id": 574188,
+        "title": "Peel (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/dCuBhVpJ1zbqK134X4EzYqYAOnq.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Emile Hirsch",
+            "Jack Kesy",
+            "Garrett Clayton",
+            "Troy Hall",
+            "Shiloh Fernandez"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8226892"
     }
 ]
