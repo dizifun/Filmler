@@ -135572,5 +135572,173 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt6290798"
+    },
+    {
+        "id": 506680,
+        "title": "Boyun Eğmez: Kefaret Yolu (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/oD5RxDJGdJgpX8X61QMX0qNyYYu.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Samuel Hunt",
+            "Merritt Patterson",
+            "Bob Gunton",
+            "Will Graham",
+            "David Sakurai"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7339792"
+    },
+    {
+        "id": 551298,
+        "title": "Yeni Nesil: Denizin Altında (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/jIJL0VJ8McvJcdaRgi8AwVbdxwU.jpg",
+        "year": "2018",
+        "genres": [
+            "Müzik",
+            "TV film",
+            "Fantastik"
+        ],
+        "cast": [
+            "Dove Cameron",
+            "Anna Cathcart",
+            "Thomas Doherty",
+            "Dylan Playfair",
+            "China Anne McClain"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8884364"
+    },
+    {
+        "id": 335983,
+        "title": "Venom: Zehirli Öfke (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/bQK5C2mL7DJUpQSahoT2CYMtvkX.jpg",
+        "year": "2018",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Tom Hardy",
+            "Michelle Williams",
+            "Riz Ahmed",
+            "Scott Haze",
+            "Reid Scott"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1270797"
+    },
+    {
+        "id": 429202,
+        "title": "Vox Lux (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/56Z2FFSy9C1nSIEFFdae5z6klKc.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Natalie Portman",
+            "Raffey Cassidy",
+            "Jude Law",
+            "Stacy Martin",
+            "Jennifer Ehle"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5960374"
+    },
+    {
+        "id": 426618,
+        "title": "Zor Zamanlarda Aşk (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/yH4Y9gYrqx6Tkpemfe4QgLqdlts.jpg",
+        "year": "2018",
+        "genres": [
+            "Savaş",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Amandla Stenberg",
+            "George MacKay",
+            "Abbie Cornish",
+            "Christopher Eccleston",
+            "Tom Sweet"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt1235187"
+    },
+    {
+        "id": 438808,
+        "title": "White Boy Rick (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/ArbBJOdzM4O2MZhAaSY72CTx8ot.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Matthew McConaughey",
+            "Richie Merritt",
+            "Jennifer Jason Leigh",
+            "Bel Powley",
+            "RJ Cyler"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4537896"
+    },
+    {
+        "id": 417812,
+        "title": "Yangın Yeri (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/artBlBQlwNZBTYbsK2CjqATlBEN.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jake Gyllenhaal",
+            "Carey Mulligan",
+            "Ed Oxenbould",
+            "Zoe Colletti",
+            "Bill Camp"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5929754"
+    },
+    {
+        "id": 443849,
+        "title": "Winter Ridge (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/zAIaeLJ8oAwIcFygWbpC4mNeGtK.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Michael McKell",
+            "Olwen Catherine Kelly",
+            "Hannah Waddingham",
+            "Jamie B. Chambers",
+            "Matt Hookings"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5973658"
     }
 ]
