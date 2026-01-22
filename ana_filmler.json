@@ -142643,5 +142643,45 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt7050476"
+    },
+    {
+        "id": 518601,
+        "title": "İki Kafadar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/pN2jtVqvUKP9kdxRmpSIWjUgLnP.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Сергей Бурунов",
+            "Диомид Виноградов",
+            "Ирина Киреева"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7403570"
+    },
+    {
+        "id": 440626,
+        "title": "Sobibor (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/q7RwP7JijLk54lXjTKiMpRMyjir.jpg",
+        "year": "2018",
+        "genres": [
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Константин Хабенский",
+            "Christopher Lambert",
+            "Michalina Olszańska",
+            "Felice Jankell",
+            "Мария Кожевникова"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt6324614"
     }
 ]
