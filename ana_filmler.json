@@ -123283,5 +123283,45 @@
             "DK"
         ],
         "link": "https://vidmody.com/vs/tt7523180"
+    },
+    {
+        "id": 519465,
+        "title": "Kupa Kızı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/bf6ap8hR9L2NUpnrxryxEfXFr4C.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Trine Dyrholm",
+            "Gustav Lindh",
+            "Magnus Krepper",
+            "Liv Esmår Dannemann",
+            "Silja Esmår Dannemann"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt8378126"
+    },
+    {
+        "id": 531489,
+        "title": "Cutterhead (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/zPz3h24cjBdOhfKgFMynjrVBOwW.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Christine Sønderris",
+            "Krešimir Mikić",
+            "Samson Semere",
+            "Adrian Heili",
+            "Salvatore Striano"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt6562628"
     }
 ]
