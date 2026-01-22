@@ -140399,5 +140399,91 @@
             "CO"
         ],
         "link": "https://vidmody.com/vs/tt7527694"
+    },
+    {
+        "id": 456929,
+        "title": "Şampiyonlar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/exOf1WRbn49a7dCWJfuLGKelMxw.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Javier Gutiérrez",
+            "Athenea Mata",
+            "Juan Margallo",
+            "José de Luna",
+            "Sergio Olmo"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6793580"
+    },
+    {
+        "id": 437029,
+        "title": "Termodinamik Yasaları (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/6Y2v1K21tL13hDS4PGovQ8t1ngS.jpg",
+        "year": "2018",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Vito Sanz",
+            "Berta Vázquez",
+            "Chino Darín",
+            "Victoria Luengo",
+            "Irene Escolar"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6053938"
+    },
+    {
+        "id": 513223,
+        "title": "Kayboluş (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/uzMBxfaRllUwPazFo0wjqlireCm.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Suç"
+        ],
+        "cast": [
+            "Luisana Lopilato",
+            "Amaia Salamanca",
+            "Rafael Spregelburd",
+            "Nicolás Furtado",
+            "Oriana Sabatini"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt7841496"
+    },
+    {
+        "id": 473352,
+        "title": "Sergio and Sergei (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/ardDpNq3r6N8TC9DWuuMCZv0kx6.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Tomás Cao",
+            "Héctor Noas",
+            "Ron Perlman",
+            "Yuliet Cruz",
+            "Mario Guerra"
+        ],
+        "country": [
+            "CU",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6131208"
     }
 ]
