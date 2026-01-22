@@ -160623,5 +160623,53 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt7262780"
+    },
+    {
+        "id": 528210,
+        "title": "Çinli Dul (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/1IrfAddMJfnROUf4fKOheO7ujd4.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "刘亦菲",
+            "Emile Hirsch",
+            "Fangcong Li",
+            "嚴寬",
+            "Yu Shaoqun"
+        ],
+        "country": [
+            "CN",
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt5759434"
+    },
+    {
+        "id": 372782,
+        "title": "Manhunt (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/j7t95BZbnoUZ00qRfAMihj4KE8y.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç",
+            "Macera"
+        ],
+        "cast": [
+            "張涵予",
+            "福山雅治",
+            "하지원",
+            "戚薇",
+            "Jun Kunimura"
+        ],
+        "country": [
+            "CN",
+            "HK"
+        ],
+        "link": "https://vidmody.com/vs/tt4537986"
     }
 ]
