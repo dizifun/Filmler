@@ -160080,5 +160080,48 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt5606538"
+    },
+    {
+        "id": 436994,
+        "title": "Berrak Rüya (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/aIEHU271nOo4WOpZ3vr1hGQOqpK.jpg",
+        "year": "2017",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "고수",
+            "설경구",
+            "박유천",
+            "강혜정",
+            "박인환"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6830780"
+    },
+    {
+        "id": 435366,
+        "title": "Fabricated City (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/v2TRu7tQ8LKHOwfusckYjHvXiya.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Ji Chang-wook",
+            "심은경",
+            "오정세",
+            "안재홍",
+            "김상호"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6399158"
     }
 ]
