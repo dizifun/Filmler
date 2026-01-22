@@ -122720,5 +122720,41 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt10329842"
+    },
+    {
+        "id": 618389,
+        "title": "Andrey Tarkovski: Bir İbadet Olarak Sinema (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/3g8qMNyZ82LPWhbZbLqBYe5drf.jpg",
+        "year": "2019",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Андрей Тарковский"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt10850518"
+    },
+    {
+        "id": 575299,
+        "title": "Vernost (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/PYxGi3NOOWAxE3PwtnwR4ANS8S.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Александр Паль",
+            "Евгения Громова",
+            "Алексей Агранович",
+            "Марина Васильева",
+            "Анна Котова"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt10516086"
     }
 ]
