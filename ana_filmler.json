@@ -140485,5 +140485,47 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt6131208"
+    },
+    {
+        "id": 527246,
+        "title": "Ayrılık Acısıyla Baş Etmek (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/fwCPpgJMV2FAqBRBif6ruSwdsvG.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Gisela Ponce de León",
+            "Karina Jordán",
+            "Jely Reategui",
+            "Christopher Von Uckermann",
+            "Carlos Carlín"
+        ],
+        "country": [
+            "PE"
+        ],
+        "link": "https://vidmody.com/vs/tt8435268"
+    },
+    {
+        "id": 401545,
+        "title": "Herkes Biliyor (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/yPS5qXNkgmjGD3D9hg8OseNiGNE.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Penélope Cruz",
+            "Javier Bardem",
+            "Ricardo Darín",
+            "Eduard Fernández",
+            "Bárbara Lennie"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt4964788"
     }
 ]
