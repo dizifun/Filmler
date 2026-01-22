@@ -142855,5 +142855,45 @@
             "BR"
         ],
         "link": "https://vidmody.com/vs/tt6910020"
+    },
+    {
+        "id": 539437,
+        "title": "Screwdriver (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/5yVp5RsG30N4GSvqQq21reY0IFT.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ziad Bakri",
+            "Areen Omari",
+            "Jameel Khoury",
+            "Yasmine Qaddumi",
+            "Mariam Basha"
+        ],
+        "country": [
+            "PS"
+        ],
+        "link": "https://vidmody.com/vs/tt4183200"
+    },
+    {
+        "id": 517814,
+        "title": "Kefernahum (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/y3tPwP9KnU8bOfyMZ92mN2o0wmP.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Zain Al Rafeea",
+            "Yordanos Shifera",
+            "Boluwatife Treasure Bankole",
+            "Kawsar Al Haddad",
+            "Fadi Kamel Yousef"
+        ],
+        "country": [
+            "LB"
+        ],
+        "link": "https://vidmody.com/vs/tt8267604"
     }
 ]
