@@ -121618,5 +121618,50 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt10228168"
+    },
+    {
+        "id": 571891,
+        "title": "Pokémon: Mewtwo İntikam Peşinde - Evrim (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/xaSoSy7v6WTGpRd15TjBwTekqB2.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Fantastik",
+            "Aksiyon",
+            "Aile"
+        ],
+        "cast": [
+            "松本梨香",
+            "大谷育江",
+            "飯塚雅弓",
+            "こおろぎさとみ",
+            "うえだゆうじ"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt8856470"
+    },
+    {
+        "id": 640090,
+        "title": "Under Your Bed (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/qMiWRDtfXryEPwwRfzU3fXEWY0J.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "高良健吾",
+            "西川可奈子",
+            "Kenichi Abe",
+            "三河悠冴",
+            "三宅亮輔"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt9855728"
     }
 ]
