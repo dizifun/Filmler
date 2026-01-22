@@ -143750,5 +143750,66 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt6313158"
+    },
+    {
+        "id": 439034,
+        "title": "Fırıldak Ailesi: Batsın Bu Orta Dünya (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/jkQXhnVIOfwazR3ZprbP7IGyTNZ.jpg",
+        "year": "2017",
+        "genres": [
+            "Animasyon"
+        ],
+        "cast": [
+            "Bülent Kayabaş",
+            "Tülay Bursa",
+            "Gülen Karaman",
+            "Keremcan Köse",
+            "Tülay Köneçoglu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6409666"
+    },
+    {
+        "id": 662365,
+        "title": "Marlon (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/obgf4HSkIkYZnrjLCKiWTeDwj8p.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Deniz Hamzaoğlu",
+            "Damla Kaya",
+            "Esra Akbas",
+            "Gülay Say",
+            "Ömer Kaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6529334"
+    },
+    {
+        "id": 438703,
+        "title": "Recep İvedik 5 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/jPIYxH4A0JV5vUVggBGE1lIlUaQ.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Şahan Gökbakar",
+            "Deniz Ceylan",
+            "Orkan Varan",
+            "Nurullah Çelebi",
+            "Tanfer Yaşar German"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6439558"
     }
 ]
