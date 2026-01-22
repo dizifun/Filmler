@@ -122246,5 +122246,112 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt10218674"
+    },
+    {
+        "id": 575428,
+        "title": "Güney İstasyonunda Randevu (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/gfMFqiAe6qmS8D6wTzaZa7TDKrQ.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "胡歌",
+            "桂綸鎂",
+            "廖凡",
+            "万茜",
+            "奇道"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt9647768"
+    },
+    {
+        "id": 596041,
+        "title": "Summer of Changsha (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/n1oZdYrFjDQAAXMuUP4FuPZyFnC.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "祖峰",
+            "黄璐",
+            "陈明昊",
+            "田雨",
+            "Qianru Zhang"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt10199668"
+    },
+    {
+        "id": 658009,
+        "title": "Ip Man: Kung Fu Ustası (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/usmTsXE83nyhLmft6YvuJ2XLJaa.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "杜宇航",
+            "苑立若心",
+            "Tong Xiaohu",
+            "Yue Dongfeng",
+            "Ren Yu"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt12567246"
+    },
+    {
+        "id": 604872,
+        "title": "Ateş Yağmuru (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2BMLjpOUNPZmVlmk5q34JkTe6Eh.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "王学圻",
+            "Hannah Quinlivan",
+            "窦骁",
+            "Jason Isaacs",
+            "Shi Liang"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt9203190"
+    },
+    {
+        "id": 559937,
+        "title": "S.W.A.T. (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/rxb5nrLkbdlILD2yaPgiHwxf6o4.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Ling Xiaosu",
+            "Jia Nailiang",
+            "金晨",
+            "张云龙",
+            "Robert Knepper"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt9243442"
     }
 ]
