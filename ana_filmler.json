@@ -159259,5 +159259,71 @@
             "AR"
         ],
         "link": "https://vidmody.com/vs/tt3409848"
+    },
+    {
+        "id": 450314,
+        "title": "Kahraman Tavuk Uzayda (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Animasyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Omar Chaparro",
+            "Jessica Cediel",
+            "Jey Mammon",
+            "Coco Legrand",
+            "Cristián de la Fuente"
+        ],
+        "country": [
+            "CL",
+            "PE"
+        ],
+        "link": "https://vidmody.com/vs/tt4494382"
+    },
+    {
+        "id": 399366,
+        "title": "Karanlık Sır (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/aHB5009XvmvUX1JGRzYNFVLQITJ.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "George MacKay",
+            "Anya Taylor-Joy",
+            "Charlie Heaton",
+            "Mia Goth",
+            "Matthew Stagg"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt5886440"
+    },
+    {
+        "id": 425336,
+        "title": "Pablo Escobar'ı Sevmek (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/m79x9ArgPztwLyIw7BczvoNXEN5.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Javier Bardem",
+            "Penélope Cruz",
+            "Peter Sarsgaard",
+            "Julieth Restrepo",
+            "Óscar Jaenada"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt4682788"
     }
 ]
