@@ -161696,5 +161696,49 @@
             "FI"
         ],
         "link": "https://vidmody.com/vs/tt5222918"
+    },
+    {
+        "id": 408483,
+        "title": "Ebedi Yol (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/eMaznbfPSZMadWFi8kcXyLp038u.jpg",
+        "year": "2017",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Tommi Korpela",
+            "Sidse Babett Knudsen",
+            "Hannu-Pekka Björkman",
+            "Irina Björklund",
+            "Sampo Sarkola"
+        ],
+        "country": [
+            "FI"
+        ],
+        "link": "https://vidmody.com/vs/tt4173170"
+    },
+    {
+        "id": 397852,
+        "title": "Rendel (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/89Ra4YuPxPDGKfbgArDz1u4BDu4.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Fantastik",
+            "Suç"
+        ],
+        "cast": [
+            "Kris Gummerus",
+            "Rami Rusinen",
+            "Renne Korppila",
+            "Matti Onnismaa",
+            "Johnny Vivash"
+        ],
+        "country": [
+            "FI"
+        ],
+        "link": "https://vidmody.com/vs/tt3881026"
     }
 ]
