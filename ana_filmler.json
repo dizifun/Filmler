@@ -158211,5 +158211,131 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt6081632"
+    },
+    {
+        "id": 453354,
+        "title": "Ava (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/cUI1PFsrQVJR3IZOpkfsOOOUhTO.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Noée Abita",
+            "Laure Calamy",
+            "Juan Cano",
+            "Tamara Cano",
+            "Ismaël Capelot"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6194530"
+    },
+    {
+        "id": 399031,
+        "title": "Mutlu Son (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/nmyUCQNzgQp0e7S7F0G7xA3QMuM.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Isabelle Huppert",
+            "Jean-Louis Trintignant",
+            "Mathieu Kassovitz",
+            "Fantine Harduin",
+            "Franz Rogowski"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5304464"
+    },
+    {
+        "id": 430916,
+        "title": "K.O. (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/zwvVP1DjbzrBH0dgQzuhDfhQPoD.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Laurent Lafitte",
+            "Chiara Mastroianni",
+            "Pio Marmaï",
+            "Clotilde Hesme",
+            "Zita Hanrot"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6155084"
+    },
+    {
+        "id": 453191,
+        "title": "Büyük Kötü Tilki ve Diğer Masallar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/opduaXaTUpekvNUkLE7ccXfYmBb.jpg",
+        "year": "2017",
+        "genres": [
+            "Aile",
+            "Animasyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Guillaume Darnault",
+            "Damien Witecka",
+            "Kamel Abdessadok",
+            "Antoine Schoumsky",
+            "Céline Ronté"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5851904"
+    },
+    {
+        "id": 437739,
+        "title": "Köşk (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/AuH2pXBYZlcQpQhAwgHYuF8rdFj.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Nathalie Odzierejko",
+            "Kemar",
+            "Yvick Letexier",
+            "Ludovik",
+            "Vanessa Guide"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7029854"
+    },
+    {
+        "id": 416186,
+        "title": "Godard ve Ben (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/ixND4SmaFFexmID0zIibjHrzH2C.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Louis Garrel",
+            "Stacy Martin",
+            "Bérénice Bejo",
+            "Micha Lescot",
+            "Grégory Gadebois"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5687334"
     }
 ]
