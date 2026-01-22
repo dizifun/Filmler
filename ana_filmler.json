@@ -141275,5 +141275,69 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt5935704"
+    },
+    {
+        "id": 493623,
+        "title": "Hıçkırık - Hichki (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/15IL82Xs6l5ANSbDMCpMonoQxqE.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Rani Mukerji",
+            "Neeraj Kabi",
+            "Rohit Saraf",
+            "Sachin Pilgaonkar",
+            "Asif Basra"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt6588966"
+    },
+    {
+        "id": 503838,
+        "title": "Raid (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qx3m9mRUmDZUVQeAe7CAzFX7xCB.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ajay Devgan",
+            "Saurabh Shukla",
+            "Ileana D'Cruz",
+            "Gayathri Iyer",
+            "Sheeba Chaddha"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt7363076"
+    },
+    {
+        "id": 461649,
+        "title": "Pari (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/nrgJZFOL8xkESagxU2IvwmpAIFt.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Anushka Sharma",
+            "Parambrata Chatterjee",
+            "Rajat Kapoor",
+            "Ritabhari Chakraborty",
+            "Mansi Multani"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt7329858"
     }
 ]
