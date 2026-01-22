@@ -160368,5 +160368,69 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt7160070"
+    },
+    {
+        "id": 383785,
+        "title": "Kung-Fu Yoga (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/u41kmJGBiMeLp1MTI8nqMGpUpPT.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Gizem",
+            "Aile",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Jackie Chan",
+            "李治廷",
+            "张艺兴",
+            "Miya Muqi",
+            "Sonu Sood"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt4217392"
+    },
+    {
+        "id": 462927,
+        "title": "Ayı Kardeşler Fantastik Dünyalar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/vKOmbPKoS4GDHKyto5933h3S2w1.jpg",
+        "year": "2017",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aile",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Tan Xiao",
+            "Ruke Zhang",
+            "Zhang Wei",
+            "Zhang Bingjun",
+            "曾舜晞"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt6857250"
+    },
+    {
+        "id": 427938,
+        "title": "Çılgın Kral (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/plfTFq8OUKJTUaLw4rtsHoXf2uQ.jpg",
+        "year": "2017",
+        "genres": [],
+        "cast": [
+            "郭書瑤",
+            "Chen Andrew",
+            "Franco Chiang",
+            "Cheng-Ti Wu"
+        ],
+        "country": [
+            "TW"
+        ],
+        "link": "https://vidmody.com/vs/tt6557116"
     }
 ]
