@@ -139869,5 +139869,159 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt7530986"
+    },
+    {
+        "id": 519106,
+        "title": "Seninle Başım Dertte (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/mr6Daq6iaiZp3bnWgZfPW8KB6MM.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik",
+            "Suç"
+        ],
+        "cast": [
+            "Adèle Haenel",
+            "Pio Marmaï",
+            "Audrey Tautou",
+            "Damien Bonnard",
+            "Vincent Elbaz"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7534068"
+    },
+    {
+        "id": 471856,
+        "title": "Çifte Hayatlar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/8PYgNGlhvF2kXlJgID6EsOmBCKj.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Guillaume Canet",
+            "Juliette Binoche",
+            "Vincent Macaigne",
+            "Christa Théret",
+            "Nora Hamzawi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7250056"
+    },
+    {
+        "id": 484901,
+        "title": "Düşman Kardeşler (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/pyA0Vl7dFbEJfl8oAlGPLLGv1vz.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Matthias Schoenaerts",
+            "Reda Kateb",
+            "Adel Bencherif",
+            "Sofiane Zermani",
+            "Sabrina Ouazani"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6527586"
+    },
+    {
+        "id": 506043,
+        "title": "The Black Book (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/zlvEyMhwdmuYcJ66ve6wsVkcKnS.jpg",
+        "year": "2018",
+        "genres": [
+            "Romantik",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Jenna Thiam",
+            "Lou de Laâge",
+            "Niels Schneider",
+            "Victoria Guerra",
+            "Stanislas Merhar"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7490368"
+    },
+    {
+        "id": 487476,
+        "title": "Oyun (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/21qNDvJyMmieokV4JL4WDCr6Rxu.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Bérénice Bejo",
+            "Stéphane De Groodt",
+            "Suzanne Clément",
+            "Roschdy Zem",
+            "Doria Tillier"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7489816"
+    },
+    {
+        "id": 495673,
+        "title": "Belleville Polisi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/kYasgLjc9oLbK4chVb7xkpFa7sZ.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Omar Sy",
+            "Luis Guzmán",
+            "Franck Gastambide",
+            "Julie Ferrier",
+            "Biyouna"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6913168"
+    },
+    {
+        "id": 529790,
+        "title": "Pachamama (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/9MP51jJ3ksNy0zXqkuhF8mgOPMJ.jpg",
+        "year": "2018",
+        "genres": [
+            "Macera",
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Andrea Santamaria",
+            "India Coenen",
+            "Saïd Amadis",
+            "Marie-Christine Darah",
+            "Alex Harrouch"
+        ],
+        "country": [
+            "FR",
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt5541002"
     }
 ]
