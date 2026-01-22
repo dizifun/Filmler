@@ -142401,5 +142401,48 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt9088588"
+    },
+    {
+        "id": 483184,
+        "title": "Dogman (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/70xnQgF7KGYaj3fp1uvZTyLi9VP.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Marcello Fonte",
+            "Edoardo Pesce",
+            "Nunzia Schiano",
+            "Adamo Dionisi",
+            "Francesco Acquaroli"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt6768578"
+    },
+    {
+        "id": 481432,
+        "title": "Mutlu Lazzaro (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/pqiVvS37fAYGA8yA2JLlgdDPjk4.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Adriano Tardiolo",
+            "Agnese Graziani",
+            "Luca Chikovani",
+            "Alba Rohrwacher",
+            "Sergi López"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt6752992"
     }
 ]
