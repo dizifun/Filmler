@@ -123155,5 +123155,47 @@
             "BE"
         ],
         "link": "https://vidmody.com/vs/tt11054164"
+    },
+    {
+        "id": 547747,
+        "title": "Goliath (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/5JqhTiacGfHZsDTQbb6wAbVOBb7.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Sebastian Ljungblad",
+            "Joakim Sällquist",
+            "Cornelia Andersson",
+            "Davina Robinson",
+            "Holger Johansson"
+        ],
+        "country": [
+            "SE"
+        ],
+        "link": "https://vidmody.com/vs/tt6844052"
+    },
+    {
+        "id": 496743,
+        "title": "Aniara (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/vgmrUSmhGwWQHEYtl6gikUGDt85.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu",
+            "Dram"
+        ],
+        "cast": [
+            "Emelie Jonsson",
+            "Arvin Kananian",
+            "Bianca Cruzeiro",
+            "Anneli Martini",
+            "Jennie Silfverhjelm"
+        ],
+        "country": [
+            "SE",
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt7589524"
     }
 ]
