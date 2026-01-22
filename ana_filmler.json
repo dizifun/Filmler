@@ -120991,5 +120991,46 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt9248340"
+    },
+    {
+        "id": 595619,
+        "title": "Hollywood'lu Türk (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/k2DPihHe5nDQcAAS9WR3XyCkB0x.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Ilkan Aydin",
+            "Jennifer Bischof",
+            "Matthias Friedrich",
+            "Christian Harting",
+            "Olivia Marei"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt4789036"
+    },
+    {
+        "id": 611468,
+        "title": "Kidnapping Stella (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4BADataA5Oq6On00fzToVEiF9vI.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Max von der Groeben",
+            "Clemens Schick",
+            "Jella Haase",
+            "Jarrod Pistilli"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt8613876"
     }
 ]
