@@ -163116,5 +163116,86 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt3986926"
+    },
+    {
+        "id": 393518,
+        "title": "Albüm (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/3SL2F8R5u1b0ng7gbTB7Ap2OkuA.jpg",
+        "year": "2016",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Şebnem Bozoklu",
+            "Murat Kılıç",
+            "Muttalip Müjdeci",
+            "Müfit Kayacan",
+            "Rıza Akın"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt4909984"
+    },
+    {
+        "id": 438739,
+        "title": "Üç Harfliler 3: Karabüyü (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/7emt2viUwRFqYmINPoYv2n0ryUu.jpg",
+        "year": "2016",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Metin Yıldırım",
+            "Merve Ateş",
+            "Özay Fecht",
+            "Sedat Develik",
+            "Seda Oguz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5753212"
+    },
+    {
+        "id": 412672,
+        "title": "Babamın Kanatları (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/4jam6ORO6UfADG0HtCGutgHJPTc.jpg",
+        "year": "2016",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Menderes Samancılar",
+            "Musab Ekici",
+            "Kübra Kip",
+            "Tansel Öngel",
+            "Mustafa Kırantepe"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5830248"
+    },
+    {
+        "id": 612603,
+        "title": "Yıldızlar da Kayar: Das Borak (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/pUUqNdXKBFtQR4xWIromD7AWXJd.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Yavuz Seçkin",
+            "Larissa Gacemer",
+            "Serenay Aktaş",
+            "Ali Rıza Tanyeli",
+            "Veysel Diker"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6048706"
     }
 ]
