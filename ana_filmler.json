@@ -123134,5 +123134,26 @@
             "NL"
         ],
         "link": "https://vidmody.com/vs/tt11744472"
+    },
+    {
+        "id": 633604,
+        "title": "Yummy (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/nychvxBaGEijaMmgRzkeMNSfPpT.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Maaike Neuville",
+            "Bart Hollanders",
+            "Benjamin Ramon",
+            "Clara Cleymans",
+            "Annick Christiaens"
+        ],
+        "country": [
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt11054164"
     }
 ]
