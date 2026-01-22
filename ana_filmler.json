@@ -104191,5 +104191,27 @@
             "IE"
         ],
         "link": "https://vidmody.com/vs/tt6028620"
+    },
+    {
+        "id": 655363,
+        "title": "Post Mortem (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/pceJmuZrIMZeQKXBcWDxioAuzMK.jpg",
+        "year": "2020",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Klem Viktor",
+            "Hais Fruzsina",
+            "Schell Judit",
+            "Anger Zsolt",
+            "Ladányi Andrea"
+        ],
+        "country": [
+            "HU"
+        ],
+        "link": "https://vidmody.com/vs/tt9834506"
     }
 ]
