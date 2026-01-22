@@ -160166,5 +160166,50 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt6777370"
+    },
+    {
+        "id": 437109,
+        "title": "Ak-Nyeo (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/2arvz5fsrE1BmlbjbBHSiLltlLq.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "김옥빈",
+            "신하균",
+            "성준",
+            "김서형",
+            "조은지"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6777338"
+    },
+    {
+        "id": 459073,
+        "title": "Bir Gün (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/qtzYhjvHBcwKinC2cT9N0w0wp7h.jpg",
+        "year": "2017",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "김명민",
+            "변요한",
+            "유재명",
+            "Jo Eun-hyung",
+            "신혜선"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6890376"
     }
 ]
