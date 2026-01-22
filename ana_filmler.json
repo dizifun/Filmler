@@ -122181,5 +122181,49 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt4060544"
+    },
+    {
+        "id": 615453,
+        "title": "Ne Zha (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/zb8xejiaNR0snSJgDepwFQUIi2e.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "吕艳婷",
+            "囧森瑟夫",
+            "瀚墨",
+            "陈浩",
+            "绿绮"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt10627720"
+    },
+    {
+        "id": 546110,
+        "title": "Çaylaklar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/3NTrIY8Nz0Vrv1cVXrl7LT7rQid.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "Milla Jovovich",
+            "王大陸",
+            "張榕容",
+            "許魏洲",
+            "刘美彤"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt7773340"
     }
 ]
