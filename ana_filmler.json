@@ -139168,5 +139168,89 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt4432006"
+    },
+    {
+        "id": 434358,
+        "title": "Belle ve Sebastian: Bitmeyen Dostluk (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/dRke7UmIqsQTte197NSL9NYrTOz.jpg",
+        "year": "2018",
+        "genres": [
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Félix Bossuet",
+            "Clovis Cornillac",
+            "Tchéky Karyo",
+            "Thierry Neuvic",
+            "Margaux Chatelier"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6449336"
+    },
+    {
+        "id": 451657,
+        "title": "Velayet (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/zsjJvZMnrKJOt2Hqqm4CeDKExqg.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Léa Drucker",
+            "Denis Ménochet",
+            "Thomas Gioria",
+            "Mathilde Auneveux",
+            "Mathieu Saikaly"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6002232"
+    },
+    {
+        "id": 456165,
+        "title": "Family Is Family (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/nm2L53AHKX2aju50reUfRmzMksn.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Dany Boon",
+            "Line Renaud",
+            "Laurence Arné",
+            "Valérie Bonneton",
+            "Guy Lecluyse"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6859418"
+    },
+    {
+        "id": 467938,
+        "title": "İntikam (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/mlMJTtZ9NWgWeh9kes5hn2g5NE7.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Matilda Lutz",
+            "Kevin Janssens",
+            "Vincent Colombe",
+            "Guillaume Bouchède",
+            "Jean-Louis Tribes"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6738136"
     }
 ]
