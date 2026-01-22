@@ -143630,5 +143630,125 @@
             "IR"
         ],
         "link": "https://vidmody.com/vs/tt7901610"
+    },
+    {
+        "id": 677243,
+        "title": "Gölge (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/AeLFVYtuyZbaF0nMGJtbHeihX2D.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Korku"
+        ],
+        "cast": [
+            "Funda Dönmez",
+            "Yüksel Molla",
+            "Şenol İpek",
+            "Deniz Gönen",
+            "Erkay Yavuz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7474510"
+    },
+    {
+        "id": 392011,
+        "title": "Kedi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/A2tHjuF0bey1AN0NbS9fLXOUH0t.jpg",
+        "year": "2017",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Bülent Üstün"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt4420704"
+    },
+    {
+        "id": 443041,
+        "title": "Vezir Parmağı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/iQUByrwG9TZUJ5o0DNirUfXrjMm.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Ali Sürmeli",
+            "Yasemin Yalçın",
+            "Ece Uslu",
+            "Peker Açıkalın",
+            "Gülben Ergen"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6042446"
+    },
+    {
+        "id": 449262,
+        "title": "Çalgı Çengi: İkimiz (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7HwfW2l8HyKEN6CDbhcFl8XlOTg.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Ahmet Kural",
+            "Murat Cemcir",
+            "Rasim Öztekin",
+            "Ayhan Taş",
+            "Burak Satıbol"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5910350"
+    },
+    {
+        "id": 437486,
+        "title": "Kötü Çocuk (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/u0fINOlMa1FjZzwanaHKyXPghpU.jpg",
+        "year": "2017",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Tolga Sarıtaş",
+            "Afra Saraçoğlu",
+            "Sarp Akkaya",
+            "Tülin Özen",
+            "Can Sipahi"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6289452"
+    },
+    {
+        "id": 433138,
+        "title": "Olanlar Oldu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5mD8pcfvPJl7ewXGEiEv4CfAeIK.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Ata Demirer",
+            "Tuvana Türkay",
+            "Ülkü Duru",
+            "Salih Kalyon",
+            "Renan Bilek"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6313158"
     }
 ]
