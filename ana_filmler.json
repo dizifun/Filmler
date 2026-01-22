@@ -159194,5 +159194,70 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt5862312"
+    },
+    {
+        "id": 437033,
+        "title": "Takıntılar, Takıntılar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/8OM0FBfnpHmJVX9IiiuLGld3J6k.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Alexandra Jiménez",
+            "Paco León",
+            "Rossy de Palma",
+            "Oscar Martínez",
+            "Inma Cuevas"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6060156"
+    },
+    {
+        "id": 444404,
+        "title": "Aile Gibi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/jqm01nxZtPN1QM0sWVvxrMnqOv5.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Bárbara Lennie",
+            "Daniel Aráoz",
+            "Claudio Tolcachir",
+            "Paula Cohen",
+            "Yanina Ávila"
+        ],
+        "country": [
+            "AR",
+            "BR",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6386168"
+    },
+    {
+        "id": 326382,
+        "title": "Zama (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3pfgZyIJ1AyXD4JB6b0d2IHzTLV.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Daniel Giménez Cacho",
+            "Lola Dueñas",
+            "Matheus Nachtergaele",
+            "Juan Minujín",
+            "Nahuel Cano"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt3409848"
     }
 ]
