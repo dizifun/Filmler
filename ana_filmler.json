@@ -120539,5 +120539,68 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt7967412"
+    },
+    {
+        "id": 540709,
+        "title": "Ema (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/t8iGxbFUv8FMQJgCDUXRE7Azu63.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Mariana Di Girolamo",
+            "Gael García Bernal",
+            "Santiago Cabrera",
+            "Paola Giannini",
+            "Cristián Suárez"
+        ],
+        "country": [
+            "CL"
+        ],
+        "link": "https://vidmody.com/vs/tt8800266"
+    },
+    {
+        "id": 542921,
+        "title": "Savaşın Gölgesinde (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/AojRnYAdJEScffAOlFpOHs5iy0i.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Karra Elejalde",
+            "Eduard Fernández",
+            "Santi Prego",
+            "Nathalie Poza",
+            "Luis Bermejo"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7818580"
+    },
+    {
+        "id": 613090,
+        "title": "İkikez Yaşa Birkez Sev (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/5ACJu8n3KaJSzM5nmGaA5q6VkH3.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Inma Cuesta",
+            "Oscar Martínez",
+            "Mafalda Carbonell",
+            "Nacho López",
+            "Isabel Requena"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt9063902"
     }
 ]
