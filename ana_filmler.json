@@ -161035,5 +161035,51 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt6537238"
+    },
+    {
+        "id": 457842,
+        "title": "Arrhythmia (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/mvIswmr0ucVPzMYU9VIOw2vW4aB.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Александр Яценко",
+            "Ирина Горбачёва",
+            "Николай Шрайбер",
+            "Сергей Наседкин",
+            "Евгений Сытый"
+        ],
+        "country": [
+            "FI",
+            "DE",
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt6952604"
+    },
+    {
+        "id": 471968,
+        "title": "Son Şövalye (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/kWQh4iIt3WQvWrhMoukPCshzNsh.jpg",
+        "year": "2017",
+        "genres": [
+            "Fantastik",
+            "Aile",
+            "Macera",
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Виктор Хориняк",
+            "Mila Syvatska",
+            "Екатерина Вилкова",
+            "Константин Лавроненко",
+            "Сергей Бурунов"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt6175394"
     }
 ]
