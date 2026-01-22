@@ -121485,5 +121485,48 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt10243678"
+    },
+    {
+        "id": 577328,
+        "title": "Kabir Singh (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/unqiPjtc6CGqs13zho7ZvWU85zu.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Shahid Kapoor",
+            "Kiara Advani",
+            "Arjan Bajwa",
+            "Suresh Oberoi",
+            "Nikita Dutta"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt8983202"
+    },
+    {
+        "id": 569594,
+        "title": "Bharat Hindistan (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/h7G7UWeip1i4g89ErWc8MXqMIrn.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Salman Khan",
+            "Katrina Kaif",
+            "Disha Patani",
+            "Jackie Shroff",
+            "Shashank Arora"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt7721800"
     }
 ]
