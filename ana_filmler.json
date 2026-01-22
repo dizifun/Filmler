@@ -144931,5 +144931,212 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt6973386"
+    },
+    {
+        "id": 474718,
+        "title": "Damat Takımı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/nybzhRKbQMvvPwvoB81SUSLf87J.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Furkan Andıç",
+            "Özgürcan Çevik",
+            "Pelin Akil",
+            "Açelya Topaloğlu",
+            "Sarp Can Köroğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7526338"
+    },
+    {
+        "id": 474716,
+        "title": "Cingöz Recai (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/nCLIYFDgmgohaEsBuGYx7G2XU8k.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Suç"
+        ],
+        "cast": [
+            "Kenan İmirzalıoğlu",
+            "Haluk Bilginer",
+            "Meryem Uzerli",
+            "Musa Uzunlar",
+            "Fatih Artman"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7218732"
+    },
+    {
+        "id": 472454,
+        "title": "Ayla (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/ggtQgembIFKJcSSeuxJocOklasp.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Savaş",
+            "Tarih"
+        ],
+        "cast": [
+            "İsmail Hacıoğlu",
+            "김설",
+            "Çetin Tekindor",
+            "Ali Atay",
+            "Murat Yıldırım"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6316138"
+    },
+    {
+        "id": 477273,
+        "title": "Bölük (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/rDIRBL31LRNU6OMWiPnN2d2oC2E.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Kaan Yıldırım",
+            "Hakan Kurtaş",
+            "Alina Boz",
+            "Aykut Akdere",
+            "Olgu Baran Kubilay"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7535756"
+    },
+    {
+        "id": 477272,
+        "title": "İlk Öpücük (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/2riNmNuOjQgXHYqnfjlO0nGXufV.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Murat Yıldırım",
+            "Özge Gürel",
+            "Beyti Engin",
+            "Hayrettin",
+            "Sadi Celil Cengiz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7309654"
+    },
+    {
+        "id": 477077,
+        "title": "Kayseri Aslanı: Çin İşi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/bjiHAYHI0qFMwzfGjcgxxAZeaUG.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "İnan Ulaş Torun",
+            "Algı Eke",
+            "Asuman Dabak",
+            "Ali Çatalbaş",
+            "Serdal Genç"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9323034"
+    },
+    {
+        "id": 477274,
+        "title": "Yol Arkadaşım (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/mCleX3V9IQRUbLwEVIS0cZnxVSF.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "İbrahim Büyükak",
+            "Oğuzhan Koç",
+            "Eda Ece",
+            "Aslı Bekiroğlu",
+            "Emre Kınay"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7535792"
+    },
+    {
+        "id": 462066,
+        "title": "Sarı Sıcak (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/p0MvRqQg7eEEq4wxhjUzXdGnoSU.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Aytaç Uşun",
+            "Mehmet Özgür",
+            "Gökhan Şimşek",
+            "Cem Zeynel Kılıç",
+            "Tarık Köksal"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6679498"
+    },
+    {
+        "id": 527646,
+        "title": "Çetrefilli (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/727qCzZHR5DoTVasnd8XrBkJmEG.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç"
+        ],
+        "cast": [
+            "Oguzhan Asak",
+            "Gürkan Aslan",
+            "Öner Ateş",
+            "Cansu Cengiz",
+            "Emre Erkan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8318620"
+    },
+    {
+        "id": 518439,
+        "title": "Yol Kenarı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/efw8y7frRTJ81Vy26i1RsXKescB.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Tansu Biçer",
+            "Nalan Kuruçim",
+            "Taner Birsel",
+            "Ercan Kesal",
+            "Rıza Akın"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7466370"
     }
 ]
