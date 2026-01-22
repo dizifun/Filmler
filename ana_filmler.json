@@ -121819,5 +121819,95 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt10530286"
+    },
+    {
+        "id": 486589,
+        "title": "Kırmızı Pabuçlar ve Yedi Cüceler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/dnixbC3gtZgx4Ub67lefNzzNLIy.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Aile",
+            "Komedi",
+            "Romantik",
+            "Macera"
+        ],
+        "cast": [
+            "안소이",
+            "신용우",
+            "전진아",
+            "정재헌",
+            "최한"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt4429160"
+    },
+    {
+        "id": 609382,
+        "title": "Uzay Parkı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4ZafKGYtCqb6RTgCpCu1Xx2hPX2.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "김연우",
+            "신용우",
+            "전태열",
+            "배수빈",
+            "김새해"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt10499552"
+    },
+    {
+        "id": 571627,
+        "title": "The Divine Fury (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/mIYX1mfBqX9SsDB6k10AFAiRp2Z.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "박서준",
+            "안성기",
+            "우도환",
+            "Choi Woo-shik",
+            "박지현"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt10550884"
+    },
+    {
+        "id": 572164,
+        "title": "Çıkış (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/7GTwjMaEVLbDBkg6McEizHTH1PF.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "조정석",
+            "윤아",
+            "고두심",
+            "박인환",
+            "김지영"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt10648440"
     }
 ]
