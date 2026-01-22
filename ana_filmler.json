@@ -142895,5 +142895,48 @@
             "LB"
         ],
         "link": "https://vidmody.com/vs/tt8267604"
+    },
+    {
+        "id": 551025,
+        "title": "Jaga Pocong (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/fVKwcDedCGaEOUqtPw0bqyki826.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Acha Septriasa",
+            "Jajang C. Noer",
+            "Zack Lee",
+            "Aqilla Herby",
+            "Fuad Idris"
+        ],
+        "country": [
+            "ID"
+        ],
+        "link": "https://vidmody.com/vs/tt9125746"
+    },
+    {
+        "id": 449992,
+        "title": "Gece Bizim İçin Gelir (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Joe Taslim",
+            "Iko Uwais",
+            "Julie Estelle",
+            "Sunny Pang",
+            "Asha Kenyeri Bermudez"
+        ],
+        "country": [
+            "US",
+            "ID"
+        ],
+        "link": "https://vidmody.com/vs/tt6116856"
     }
 ]
