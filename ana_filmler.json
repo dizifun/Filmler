@@ -109266,5 +109266,161 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt7645780"
+    },
+    {
+        "id": 601722,
+        "title": "Thicker Than Water (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cw02KZWwpURUXUzk03PpxOJCuIU.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "TV film"
+        ],
+        "cast": [
+            "Andrea Roth",
+            "Eric Osborne",
+            "Tygh Runyan",
+            "Katie Douglas",
+            "Kayla Henry"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8955144"
+    },
+    {
+        "id": 520905,
+        "title": "Tone-Deaf (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/1yHOLVfLHnbAHYqxV2PwtE32kBm.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Komedi"
+        ],
+        "cast": [
+            "Amanda Crew",
+            "Robert Patrick",
+            "Hayley Marie Norman",
+            "AnnaLynne McCord",
+            "Kim Delaney"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8332666"
+    },
+    {
+        "id": 449985,
+        "title": "Triple Threat (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Tony Jaa",
+            "陈虎",
+            "Iko Uwais",
+            "Scott Adkins",
+            "Michael Jai White"
+        ],
+        "country": [
+            "CN",
+            "TH",
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6643972"
+    },
+    {
+        "id": 399361,
+        "title": "Triple Frontier (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/bYhgNDnVdXXpGpfcMlTr0i25fNh.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç",
+            "Macera"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Oscar Isaac",
+            "Charlie Hunnam",
+            "Garrett Hedlund",
+            "Pedro Pascal"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1488606"
+    },
+    {
+        "id": 458723,
+        "title": "Biz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4QKjyxiQsjqOhzK0rxmKXgN1dUh.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Lupita Nyong'o",
+            "Winston Duke",
+            "Elisabeth Moss",
+            "Tim Heidecker",
+            "Shahadi Wright Joseph"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6857112"
+    },
+    {
+        "id": 581420,
+        "title": "Hayatımın Rodeosu (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/eUQyvpTtirjQRYi4gVRsVrDvf6T.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Spencer Locke",
+            "Missi Pyle",
+            "Alyvia Alyn Lind",
+            "Bailey Chase",
+            "Kathleen Rose Perkins"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5848416"
+    },
+    {
+        "id": 400157,
+        "title": "Mucizeler Parkı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/gelp4QIAaYbJnMMjotGtfDIiLvV.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Brianna Denski",
+            "Norbert Leo Butz",
+            "Ken Hudson Campbell",
+            "Mila Kunis",
+            "John Oliver"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6428676"
     }
 ]
