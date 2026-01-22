@@ -138718,5 +138718,411 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt3920782"
+    },
+    {
+        "id": 510041,
+        "title": "Maine (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/fTze8m40Zqpg64Amth7VUOhlCDs.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Laia Costa",
+            "Thomas Mann",
+            "Pat Dortch",
+            "Gus Halper",
+            "Yossie Mulyadi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7316358"
+    },
+    {
+        "id": 481375,
+        "title": "Kindar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/gbq5yQTQ1AfcBQb0y4ozUPTzd8Y.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Florence Pugh",
+            "Ben Lloyd-Hughes",
+            "Celia Imrie",
+            "Scott Chambers",
+            "Georgina Bevan"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt2386237"
+    },
+    {
+        "id": 400650,
+        "title": "Mary Poppins: Sihirli Dadı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/imwnvFYUyz7QwzPM99utXuFUXJi.jpg",
+        "year": "2018",
+        "genres": [
+            "Fantastik",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Emily Blunt",
+            "Lin-Manuel Miranda",
+            "Ben Whishaw",
+            "Emily Mortimer",
+            "Pixie Davies"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5028340"
+    },
+    {
+        "id": 457136,
+        "title": "İskoçya Kraliçesi Mary (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qpfLh5qzvvoyaNySLzsHS6YB7AQ.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Saoirse Ronan",
+            "Margot Robbie",
+            "Jack Lowden",
+            "David Tennant",
+            "Guy Pearce"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt2328900"
+    },
+    {
+        "id": 339380,
+        "title": "Eşitlik Savaşçısı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/ae0MwbZrQJlu1BDJyIy8V5z0Da5.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Felicity Jones",
+            "Armie Hammer",
+            "Justin Theroux",
+            "Sam Waterston",
+            "Kathy Bates"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4669788"
+    },
+    {
+        "id": 535810,
+        "title": "Pride, Prejudice and Mistletoe (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/bEZ0Sd1Jy22gKij2LONgitlRmNV.jpg",
+        "year": "2018",
+        "genres": [
+            "Romantik",
+            "TV film"
+        ],
+        "cast": [
+            "Lacey Chabert",
+            "Brendan Penny",
+            "Sherry Miller",
+            "Art Hindle",
+            "Anna Hardwick"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8634192"
+    },
+    {
+        "id": 394741,
+        "title": "Laurel ile Hardy (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/6bGeNKBScJKfAYmvoOvyRyf82Z4.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Steve Coogan",
+            "John C. Reilly",
+            "Shirley Henderson",
+            "Nina Arianda",
+            "Rufus Jones"
+        ],
+        "country": [
+            "CA",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt3385524"
+    },
+    {
+        "id": 324857,
+        "title": "Örümcek Adam: Örümcek Evreninde (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/ii2MsmBmTL5kQuvBRCtKokUAF8v.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Macera",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld",
+            "Mahershala Ali",
+            "Brian Tyree Henry"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4633694"
+    },
+    {
+        "id": 565255,
+        "title": "Mücadele: Szukalski'nin Hayatı ve Kayıp Sanatı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2kQTN26M1IfK1M3rh3PKgSQmUF3.jpg",
+        "year": "2018",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Stanisław Szukalski",
+            "Glenn Bray",
+            "Robert Williams",
+            "Suzanne Williams",
+            "George DiCaprio"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9316022"
+    },
+    {
+        "id": 432524,
+        "title": "The Harvesting (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/57ylPaFOUYrX1rGfIilyB5LqAUv.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Elena Nikitina Bick",
+            "Chris Conner",
+            "Jennifer Gareis",
+            "Greg Wood",
+            "Noah Headley"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3695346"
+    },
+    {
+        "id": 570977,
+        "title": "Gece Yarısı Çetesi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/xdAQBXmRlKMicyXMmPEMAWBoHr6.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Aile",
+            "TV film"
+        ],
+        "cast": [
+            "David Walliams",
+            "Alan Davies",
+            "Haydn Gwynne",
+            "Amit Shah",
+            "Mark Heap"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9384954"
+    },
+    {
+        "id": 504172,
+        "title": "Kaçakçı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/1AwtKdSNmDe0ja8H5mOUtQG5JWr.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Clint Eastwood",
+            "Bradley Cooper",
+            "Laurence Fishburne",
+            "Michael Peña",
+            "Dianne Wiest"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7959026"
+    },
+    {
+        "id": 567914,
+        "title": "Kraliçe ve Ben (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/q8tcYX3Iy91mG9rHdYYXtESnwHF.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "TV film"
+        ],
+        "cast": [
+            "Samantha Bond",
+            "David Walliams",
+            "Oliver Chris",
+            "Amanda Abbington",
+            "Johnny Vegas"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9413164"
+    },
+    {
+        "id": 375785,
+        "title": "Sonra Sen Geldin (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/658QP5tmBRUlE5JvxOnnmITfG1F.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Maisie Williams",
+            "Asa Butterfield",
+            "Nina Dobrev",
+            "Tyler Hoechlin",
+            "David Koechner"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4859168"
+    },
+    {
+        "id": 475351,
+        "title": "Troll: Kuyruklu Macera (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/aUZj715Zncywwnyea9mWjeSrTWm.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Sonja Ball",
+            "Wyatt Bowen",
+            "Mark Camacho",
+            "Richard Dumont",
+            "Elana Dunkelman"
+        ],
+        "country": [
+            "CA",
+            "CN",
+            "US",
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt6469892"
+    },
+    {
+        "id": 429197,
+        "title": "Vice (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Christian Bale",
+            "Amy Adams",
+            "Steve Carell",
+            "Sam Rockwell",
+            "Alison Pill"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6266538"
+    },
+    {
+        "id": 351044,
+        "title": "Marwen'a Hoş Geldiniz (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Steve Carell",
+            "Leslie Mann",
+            "Merritt Wever",
+            "Janelle Monáe",
+            "Diane Kruger"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3289724"
+    },
+    {
+        "id": 411267,
+        "title": "Webcast (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/kvqwhMf5xfUwHbgZDYaw9gX1ZuK.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Samantha Redford",
+            "Joe Tremain",
+            "Nicola Wright",
+            "Angela Plater",
+            "Georgie Cracknell Wright"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5617310"
+    },
+    {
+        "id": 627453,
+        "title": "Göl Kıyısından Masallar: Willy ve Gölün Koruyucuları (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/hEGnndqS2iGiJa2jCntHGRgZaB5.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Csongor Szalay"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9094112"
     }
 ]
