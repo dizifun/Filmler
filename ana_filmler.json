@@ -120929,5 +120929,47 @@
             "AT"
         ],
         "link": "https://vidmody.com/vs/tt7318102"
+    },
+    {
+        "id": 570661,
+        "title": "The Collini Case (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/9E4XozYUAcxuWMn5dcjGSXwVuD8.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Elyas M'Barek",
+            "Heiner Lauterbach",
+            "Alexandra Maria Lara",
+            "Jannis Niewöhner",
+            "Rainer Bock"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt8739752"
+    },
+    {
+        "id": 570168,
+        "title": "Çifte Bela: Sihirli Ayna (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/zvijwFgCuMgmxwKdVnjGrBnkVg0.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Butz Ulrich Buse",
+            "Marie Leuenberger",
+            "Luis Vorbach",
+            "Pepe Trebs",
+            "Justus Kaßmann"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt7753176"
     }
 ]
