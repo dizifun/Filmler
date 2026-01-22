@@ -122756,5 +122756,49 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt10516086"
+    },
+    {
+        "id": 574982,
+        "title": "Karartma (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/24P6BmpzFBp8VYCJsvyu9De8jrV.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Bilim-Kurgu",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Лукерья Ильяшенко",
+            "Пётр Фёдоров",
+            "Светлана Иванова",
+            "Алексей Чадов",
+            "Ксения Кутепова"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt8664988"
+    },
+    {
+        "id": 575146,
+        "title": "Stray (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/55W0XfdeLDBICMGaZE9IwMk9GVS.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Елена Лядова",
+            "Владимир Вдовиченков",
+            "Севастьян Бугаев",
+            "Yan Runov",
+            "Евгений Цыганов"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt8291886"
     }
 ]
