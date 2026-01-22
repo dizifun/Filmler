@@ -120365,5 +120365,26 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt10409498"
+    },
+    {
+        "id": 571234,
+        "title": "Masallar Diyarı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/vyIb9OAsOtH0FXTkUPeazWN1mUm.jpg",
+        "year": "2019",
+        "genres": [
+            "Fantastik",
+            "Aile"
+        ],
+        "cast": [
+            "Carla Chiorazzo",
+            "Bruno Oro",
+            "Lucrecia Perez",
+            "Ramón Barea",
+            "Pablo Carbonell"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt8387852"
     }
 ]
