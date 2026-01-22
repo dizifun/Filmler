@@ -161081,5 +161081,48 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt6175394"
+    },
+    {
+        "id": 415381,
+        "title": "Furious (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/mcWdKnd8ghsGIpjEaxDekdno1Cr.jpg",
+        "year": "2017",
+        "genres": [
+            "Fantastik",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Илья Малаков",
+            "Александр Цой",
+            "Андрей Бурковский",
+            "Александр Ильин мл.",
+            "Алексей Серебряков"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt6054874"
+    },
+    {
+        "id": 489013,
+        "title": "Maksimum Tehlike (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/gT0upYop2wMSVtFqncNMnnKscCD.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Alexander Nevsky",
+            "Mark Dacascos",
+            "Liliya May",
+            "Евгений Стычкин",
+            "Анна Хилькевич"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt4921370"
     }
 ]
