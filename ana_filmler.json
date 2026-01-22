@@ -140023,5 +140023,89 @@
             "CA"
         ],
         "link": "https://vidmody.com/vs/tt5541002"
+    },
+    {
+        "id": 485166,
+        "title": "Amanda (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/9ISBIpt3Ajb6Ve6KkldvH6G8hw0.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Vincent Lacoste",
+            "Isaure Multrier",
+            "Stacy Martin",
+            "Ophélia Kolb",
+            "Marianne Basler"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7491144"
+    },
+    {
+        "id": 544510,
+        "title": "Cyrano, My Love (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/gNgoOz7aceNllJnXpZ7H9ttUytb.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Tarih"
+        ],
+        "cast": [
+            "Thomas Solivérès",
+            "Olivier Gourmet",
+            "Mathilde Seigner",
+            "Tom Leeb",
+            "Lucie Boujenah"
+        ],
+        "country": [
+            "FR",
+            "BE"
+        ],
+        "link": "https://vidmody.com/vs/tt7201846"
+    },
+    {
+        "id": 498249,
+        "title": "Kötü Tohumlar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/4OCg7ISCuWnPT2HsAbrjR8YiADj.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Kheiron",
+            "Catherine Deneuve",
+            "André Dussollier",
+            "Hakou Benosmane",
+            "Leila Boumedjane"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6708116"
+    },
+    {
+        "id": 467482,
+        "title": "Acelesi Olan Adam (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/taSCLOLz1yHL0TLvVPgxX6hvQmt.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Leïla Bekhti",
+            "Fabrice Luchini",
+            "Igor Gotesman",
+            "Fatima Adoum",
+            "Olivier Rosemberg"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6948326"
     }
 ]
