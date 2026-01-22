@@ -120302,5 +120302,68 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt9172490"
+    },
+    {
+        "id": 608742,
+        "title": "The Holy Family (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6Tej2dRHplZCPFwCYQtkvA7lYvn.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Laura Smet",
+            "Marthe Keller",
+            "Léa Drucker",
+            "Thierry Godard",
+            "Louis-Do de Lencquesaing"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10489382"
+    },
+    {
+        "id": 477018,
+        "title": "Sırlar Kitabı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/l4JEyF12wensT4ywC5iiNqfjRKb.jpg",
+        "year": "2019",
+        "genres": [
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ольга Куриленко",
+            "Lambert Wilson",
+            "Μανώλης Μαυροματάκης",
+            "Sidse Babett Knudsen",
+            "Alex Lawther"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6270534"
+    },
+    {
+        "id": 574321,
+        "title": "Sadece Canavarlar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/xhrrWaq2VTIlV5KTRiTZ2pX2AXl.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Denis Ménochet",
+            "Laure Calamy",
+            "Damien Bonnard",
+            "Nadia Tereszkiewicz",
+            "Bastien Bouillon"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10409498"
     }
 ]
