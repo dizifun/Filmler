@@ -117139,5 +117139,437 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt1560220"
+    },
+    {
+        "id": 565348,
+        "title": "Zoraki Baba (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/r1oA872Sj40w5HlvdtcJfirxGlY.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ethan Hawke",
+            "Elaine Hendrix",
+            "Diane Gaeta",
+            "Betty Gabriel",
+            "Mo McRae"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8970448"
+    },
+    {
+        "id": 416153,
+        "title": "Kutup Köpekleri (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/lG9BRJbAX75Z74eY2Q8oprMsYga.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "James Franco",
+            "Jeremy Renner",
+            "Alec Baldwin",
+            "Anjelica Huston",
+            "Michael Madsen"
+        ],
+        "country": [
+            "CA",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt4426464"
+    },
+    {
+        "id": 634524,
+        "title": "Badland (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/217ddlMrnXll436baw7y5ERmz3x.jpg",
+        "year": "2019",
+        "genres": [
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Bruce Dern",
+            "Mira Sorvino",
+            "Kevin Makely",
+            "Jeff Fahey",
+            "Wes Studi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10253466"
+    },
+    {
+        "id": 621191,
+        "title": "Karanlık Hikaye (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/aqnRQAgsNWvIJQhdB1Yd9miCE46.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Stephen Odubola",
+            "Micheal Ward",
+            "Khali Best",
+            "Karla-Simone Spence",
+            "Eric Kofi Abrefa"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9285882"
+    },
+    {
+        "id": 472815,
+        "title": "Kankalar Yarışıyor (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/prUFwoZ1ZqOz5ibv1NwNaUh2jQg.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Josh Duhamel",
+            "Dan Bakkedahl",
+            "Nick Swardson",
+            "Dax Shepard",
+            "James Roday Rodriguez"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7070818"
+    },
+    {
+        "id": 458897,
+        "title": "Charlie'nin Melekleri (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/oHNWb1Ud34v7r6uYehpAmCGjZ0M.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "Kristen Stewart",
+            "Naomi Scott",
+            "Ella Balinska",
+            "Elizabeth Banks",
+            "Patrick Stewart"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5033998"
+    },
+    {
+        "id": 626315,
+        "title": "Christmas in Rome (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/q5QaNyeS5TA7F0v4oTv652XGUUc.jpg",
+        "year": "2019",
+        "genres": [
+            "TV film",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Lacey Chabert",
+            "Sam Page",
+            "Franco Nero",
+            "Holly Hayes",
+            "Bryan Bounds"
+        ],
+        "country": [
+            "IT",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10344956"
+    },
+    {
+        "id": 639771,
+        "title": "Evren (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kDAr2tO1hfZKeDBunuK6hnBFSPY.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gizem"
+        ],
+        "cast": [
+            "Arjun Singh Panam",
+            "Joshua Ford",
+            "Tom England"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4477292"
+    },
+    {
+        "id": 641228,
+        "title": "Haç: Kötüler Yükseliyor (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/bo1MlgsLOCCXH3lR43clFUHO0ym.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Brian Austin Green",
+            "Lori Heuring",
+            "Patrick Durham",
+            "Tim Abell",
+            "André Gordon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6197400"
+    },
+    {
+        "id": 524659,
+        "title": "Kurşun Geçirmez (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/aUFuuUMd4nMbt3pdzulnFRxbY6e.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Thomas Jane",
+            "Luke Kleintank",
+            "Josh Hopkins",
+            "David Krumholtz",
+            "Bridget Moynahan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4558200"
+    },
+    {
+        "id": 552178,
+        "title": "Karanlık Sular (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/25pnry1bu7lFQ3QljhdvuoOx0bI.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mark Ruffalo",
+            "Anne Hathaway",
+            "Tim Robbins",
+            "Bill Pullman",
+            "Bill Camp"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9071322"
+    },
+    {
+        "id": 480434,
+        "title": "Düşler Ülkesi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/etEsleKmd4fUg3PPojqS4kLkymz.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Finn Cole",
+            "Margot Robbie",
+            "Travis Fimmel",
+            "Kerry Condon",
+            "Darby Camp"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5294522"
+    },
+    {
+        "id": 513409,
+        "title": "Deprem Kuşu (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/oyKnosHXQ7kkhlGwqsWOvn4RgKR.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Romantik",
+            "Gerilim"
+        ],
+        "cast": [
+            "Alicia Vikander",
+            "Riley Keough",
+            "小林直己",
+            "Kiki Sukezane",
+            "佐久間良子"
+        ],
+        "country": [
+            "JP",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8178486"
+    },
+    {
+        "id": 589885,
+        "title": "Eminence Hill (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4MhhBKtMDjIEE942AFg7hVqwvSv.jpg",
+        "year": "2019",
+        "genres": [
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Dominique Swain",
+            "Lance Henriksen",
+            "Barry Corbin",
+            "Brinke Stevens",
+            "Maria Olsen"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9135272"
+    },
+    {
+        "id": 635885,
+        "title": "Yedi Balık Bayramı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/fMHw1PC2nHMicGURcb6ORtc7Zqa.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Skyler Gisondo",
+            "Madison Iseman",
+            "Josh Helman",
+            "Addison Timlin",
+            "Ray Abruzzo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7846056"
+    },
+    {
+        "id": 359724,
+        "title": "Asfaltın Kralları (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/7yXOh2PqutxhruHzVuoR35D1r4m.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Aksiyon",
+            "Tarih"
+        ],
+        "cast": [
+            "Matt Damon",
+            "Christian Bale",
+            "Jon Bernthal",
+            "Caitríona Balfe",
+            "Josh Lucas"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1950186"
+    },
+    {
+        "id": 330457,
+        "title": "Karlar Ülkesi II (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/9tg47I7WTte0GfFDCDlaQZXfaSj.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Animasyon",
+            "Macera",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Idina Menzel",
+            "Kristen Bell",
+            "Josh Gad",
+            "Jonathan Groff",
+            "Evan Rachel Wood"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4520988"
+    },
+    {
+        "id": 506528,
+        "title": "Harriet - Özgürlük Ateşi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/bNmuY9vOx1AEh3G8G1IUppFKAgj.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Cynthia Erivo",
+            "Leslie Odom Jr.",
+            "Janelle Monáe",
+            "Clarke Peters",
+            "Vanessa Bell Calloway"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4648786"
+    },
+    {
+        "id": 531438,
+        "title": "Holiday in the Wild (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kDXMzBpiUJld5zLnSqDmGln3XuM.jpg",
+        "year": "2019",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Kristin Davis",
+            "Rob Lowe",
+            "Fezile Mpela",
+            "John Owen Lowe",
+            "Colin Moss"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8510488"
+    },
+    {
+        "id": 639609,
+        "title": "Holiday Rush (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/daQuZ1tC16KmXw9SPpfVqlNxrJi.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Sonequa Martin-Green",
+            "La La Anthony",
+            "Deon Cole",
+            "Stormi Maya",
+            "Tamala Jones"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10091530"
     }
 ]
