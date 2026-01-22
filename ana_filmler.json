@@ -139675,5 +139675,115 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt6186696"
+    },
+    {
+        "id": 518668,
+        "title": "Guy (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/rWe3P1RIiqjHKW65hF2GW2CGkwh.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Alex Lutz",
+            "Tom Dingler",
+            "Pascale Arbillot",
+            "Brigitte Roüan",
+            "Dani"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7253216"
+    },
+    {
+        "id": 475928,
+        "title": "School's Out (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/AddD9Q8zNIqqrUe4kjRaNqGCHq.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Laurent Lafitte",
+            "Emmanuelle Bercot",
+            "Pascal Greggory",
+            "Luàna Bajrami",
+            "Victor Bonnel"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7175992"
+    },
+    {
+        "id": 504603,
+        "title": "Dünya Senin (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/djRVmvYxKHxJESq1BIdqqWmIByM.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Karim Leklou",
+            "Isabelle Adjani",
+            "Vincent Cassel",
+            "Oulaya Amamra",
+            "François Damiens"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6892462"
+    },
+    {
+        "id": 525554,
+        "title": "Koruyucu (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/mLZRNhB9mxf6XnTNzwbOoL3yLtq.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jean-Claude Van Damme",
+            "Sami Bouajila",
+            "Sveva Alviti",
+            "Kevin Janssens",
+            "Sam Louwyck"
+        ],
+        "country": [
+            "FR",
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt7816392"
+    },
+    {
+        "id": 498248,
+        "title": "Vahşi Dostum (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/jT2eE40R4PWEJ7PGIV4xEeZSsFb.jpg",
+        "year": "2018",
+        "genres": [
+            "Macera",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Daniah De Villiers",
+            "Mélanie Laurent",
+            "Langley Kirkwood",
+            "Ryan Mac Lennan",
+            "Lionel Newton"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt4844148"
     }
 ]
