@@ -142814,5 +142814,46 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt8820590"
+    },
+    {
+        "id": 480714,
+        "title": "Life Is a Bitch (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Marcelo Valle",
+            "Fabiula Nascimento",
+            "Débora Lamm",
+            "Sílvio Guindane",
+            "Otávio Augusto"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt8792492"
+    },
+    {
+        "id": 502581,
+        "title": "Kaybedeceğim Bir Şey Yok (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/yRWweQgRvTBZznCp7CI3PwGLY3X.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Petrônio Gontijo",
+            "Day Mesquita",
+            "Beth Goulart",
+            "Dalton Vigh",
+            "Eduardo Galvão"
+        ],
+        "country": [
+            "BR"
+        ],
+        "link": "https://vidmody.com/vs/tt6910020"
     }
 ]
