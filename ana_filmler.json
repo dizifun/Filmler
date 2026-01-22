@@ -139399,5 +139399,71 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt6838702"
+    },
+    {
+        "id": 499722,
+        "title": "Arkadaşımın Aşkı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/iLjP9AN8eZEjnLhmQRg2Ze9CtT1.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Daniel Auteuil",
+            "Gérard Depardieu",
+            "Sandrine Kiberlain",
+            "Adriana Ugarte",
+            "John Sehil"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7654872"
+    },
+    {
+        "id": 477489,
+        "title": "Bir Nefes Ötede (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/3OzWENKDOrJCeT2GTjWE8NOkbrZ.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Romain Duris",
+            "Ольга Куриленко",
+            "Fantine Harduin",
+            "Michel Robin",
+            "Anna Gaylor"
+        ],
+        "country": [
+            "CA",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5092380"
+    },
+    {
+        "id": 515841,
+        "title": "Ben Senin Bildiğin Erkeklerden Değilim (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/jYkMixEOTGYzdZPDuM7MeHxWqd1.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Vincent Elbaz",
+            "Marie-Sophie Ferdane",
+            "Pierre Bénézit",
+            "Blanche Gardin",
+            "Christèle Tual"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6857988"
     }
 ]
