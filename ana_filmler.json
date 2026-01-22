@@ -151569,5 +151569,332 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt5247026"
+    },
+    {
+        "id": 313943,
+        "title": "İsyan (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg",
+        "year": "2017",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Lee Pace",
+            "Bérénice Marlohe",
+            "Jason Flemyng",
+            "Sibulele Gcilitshana",
+            "Wandile Molebatsi"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3722614"
+    },
+    {
+        "id": 339692,
+        "title": "Shot Caller (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nikolaj Coster-Waldau",
+            "Omari Hardwick",
+            "Jon Bernthal",
+            "Lake Bell",
+            "Emory Cohen"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4633690"
+    },
+    {
+        "id": 315635,
+        "title": "Örümcek-Adam: Eve Dönüş (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7KQ8dSUHk1yDpiBfOQ4hqMLAqrX.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Tom Holland",
+            "Michael Keaton",
+            "Robert Downey Jr.",
+            "Marisa Tomei",
+            "Jon Favreau"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2250912"
+    },
+    {
+        "id": 348389,
+        "title": "Stratton (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/iH5ioYSYZiWI2cCaYmCikaNcSP3.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Dominic Cooper",
+            "Gemma Chan",
+            "Connie Nielsen",
+            "Austin Stowell",
+            "Tyler Hoechlin"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt3567666"
+    },
+    {
+        "id": 448444,
+        "title": "Marsha P. Johnson'ın Ölümü ve Yaşamı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/omEz3bNE8mHyQGOWQHcmAgLFXZM.jpg",
+        "year": "2017",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Marsha P. Johnson",
+            "Victoria Cruz",
+            "Sylvia Rivera",
+            "Taylor Mead",
+            "Pat Bumgardner"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5233558"
+    },
+    {
+        "id": 378236,
+        "title": "Emoji Filmi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5YSESQ2qApL9rzGQXjZdYF8AEiO.jpg",
+        "year": "2017",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "T.J. Miller",
+            "James Corden",
+            "Anna Faris",
+            "Maya Rudolph",
+            "Steven Wright"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4877122"
+    },
+    {
+        "id": 456048,
+        "title": "İnsanlık İşleri (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3Fxq1023rLnWqdnaSTEItqSSrvg.jpg",
+        "year": "2017",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nicolas Cage",
+            "Sarah Lind",
+            "Jakob Davies",
+            "Hugh Dillon",
+            "Vicellous Shannon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6143568"
+    },
+    {
+        "id": 415401,
+        "title": "The Party (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/uzUtapICZn8DCp2p3JjhUYdT6aB.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Patricia Clarkson",
+            "Cherry Jones",
+            "Kristin Scott Thomas",
+            "Bruno Ganz",
+            "Timothy Spall"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5814592"
+    },
+    {
+        "id": 413644,
+        "title": "Kocaayak ve Oğlu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg",
+        "year": "2017",
+        "genres": [
+            "Aile",
+            "Animasyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Pappy Faulkner",
+            "Christopher Lee Parson",
+            "Terrence Stone",
+            "Marieve Herington",
+            "Cinda Adams"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5715410"
+    },
+    {
+        "id": 463906,
+        "title": "Aziz (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/n8tsrPLem70exhXHfSausV7FlPx.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Suç"
+        ],
+        "cast": [
+            "Adam Rayner",
+            "Eliza Dushku",
+            "Ian Ogilvy",
+            "James Remar",
+            "Roger Moore"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2569088"
+    },
+    {
+        "id": 257785,
+        "title": "Aşk ve Laleler (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/aGBRTDMuYDKCA9g7NTGwtMZBWd.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Alicia Vikander",
+            "Dane DeHaan",
+            "Christoph Waltz",
+            "Judi Dench",
+            "Jack O'Connell"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt0491203"
+    },
+    {
+        "id": 464331,
+        "title": "Gizemli Büyükbaba (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yxAFzoJTUG2KPe4n8WnHYkugq20.jpg",
+        "year": "2017",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "James Caan",
+            "Jessica Walter",
+            "Louis Gossett Jr.",
+            "Kenneth Welsh",
+            "Paul Sorvino"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3891538"
+    },
+    {
+        "id": 339964,
+        "title": "Valerian ve Bin Gezegen İmparatorluğu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/8Ma8RxiI7alyjKEPvHjZsCjGkKa.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Bilim-Kurgu",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Dane DeHaan",
+            "Cara Delevingne",
+            "Clive Owen",
+            "Rihanna",
+            "Ethan Hawke"
+        ],
+        "country": [
+            "FR",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2239822"
+    },
+    {
+        "id": 281338,
+        "title": "Maymunlar Cehennemi: Savaş (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/CX5H9KDaukasw8We246N0c40yi.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Bilim-Kurgu",
+            "Savaş"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Woody Harrelson",
+            "Karin Konoval",
+            "Terry Notary",
+            "Steve Zahn"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3450958"
+    },
+    {
+        "id": 440597,
+        "title": "7 Dilek (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/dBYCbkTgo9uoc7bae195hueEs64.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Fantastik"
+        ],
+        "cast": [
+            "Joey King",
+            "Ki Hong Lee",
+            "Sydney Park",
+            "Shannon Purser",
+            "Sherilyn Fenn"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5322012"
     }
 ]
