@@ -104213,5 +104213,27 @@
             "HU"
         ],
         "link": "https://vidmody.com/vs/tt9834506"
+    },
+    {
+        "id": 618245,
+        "title": "Atlantida (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/5MD38G3yTinSn8TqYXqQseKxgc2.jpg",
+        "year": "2020",
+        "genres": [
+            "Savaş",
+            "Dram",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Andrii Rymaruk",
+            "Liudmyla Bileka",
+            "Vasyl Antoniak",
+            "Kateryna Popravka",
+            "Oleksandr Sobko"
+        ],
+        "country": [
+            "UA"
+        ],
+        "link": "https://vidmody.com/vs/tt10749786"
     }
 ]
