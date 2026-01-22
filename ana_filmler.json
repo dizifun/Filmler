@@ -140548,5 +140548,174 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt6090044"
+    },
+    {
+        "id": 517320,
+        "title": "Karanlıktan Gelen (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2PpjBMUOQE7i2feQUqZkT249ZZL.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Belén Rueda",
+            "Darío Grandinetti",
+            "Mireia Oriol",
+            "Antonio 'Morris' Durán",
+            "Carlus Fábrega"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7690762"
+    },
+    {
+        "id": 507505,
+        "title": "El Angel (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/oX0CwV677gyZFApZxTkAWcBcyOE.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Lorenzo Ferro",
+            "Chino Darín",
+            "Mercedes Morán",
+            "Daniel Fanego",
+            "Luis Gnecco"
+        ],
+        "country": [
+            "AR",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7204348"
+    },
+    {
+        "id": 533983,
+        "title": "Up Among the Stars (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/bmgTms5K40z4xHQyx8Y6B3JiooP.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Luis Callejo",
+            "Jorge Andreu",
+            "Macarena Gómez",
+            "Ingrid García Jonsson",
+            "Kiti Mánver"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6984530"
+    },
+    {
+        "id": 482936,
+        "title": "Sükunet (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/gpg0U8cedWfwaAMjacXKOacFlrE.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Bérénice Bejo",
+            "Martina Gusmán",
+            "Edgar Ramírez",
+            "Graciela Borges",
+            "Joaquín Furriel"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt7658384"
+    },
+    {
+        "id": 477654,
+        "title": "Müze (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/fVVG4YqLuc2xzKLze4pV3jCkbpP.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Gael García Bernal",
+            "Leonardo Ortizgris",
+            "Alfredo Castro",
+            "Bernardo Velasco",
+            "Leticia Brédice"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt4958448"
+    },
+    {
+        "id": 438146,
+        "title": "Göç Mevsimi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/5612zH4r2LeVPaqWhkD148H0uUo.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "José Acosta",
+            "Carmiña Martínez",
+            "Natalia Reyes",
+            "Greider Meza",
+            "José Vicente"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt6386748"
+    },
+    {
+        "id": 518880,
+        "title": "Yalnız (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/ii3AyMpyoYRo62UVX1mCgxFvTPD.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Macera"
+        ],
+        "cast": [
+            "Alain Hernández",
+            "Aura Garrido",
+            "Ben Temple",
+            "Leticia Etala",
+            "Alvaro Vizcaino"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6699860"
+    },
+    {
+        "id": 517324,
+        "title": "Yucatán (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/6z3f3I2YLpaipyYGItOf7c7kqRK.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Luis Tosar",
+            "Rodrigo de la Serna",
+            "Stephanie Cayo",
+            "Joan Pera",
+            "Gloria Muñoz"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6502956"
     }
 ]
