@@ -122441,5 +122441,46 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt8351646"
+    },
+    {
+        "id": 602545,
+        "title": "Into the Labyrinth (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kS8dPDTyDpaMC4ky340CtBFlf0w.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Toni Servillo",
+            "Dustin Hoffman",
+            "Valentina Bellè",
+            "Vinicio Marchioni",
+            "Riccardo Cicogna"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt8594376"
+    },
+    {
+        "id": 582907,
+        "title": "Güneş (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4hPvjDq03pGMgZwzfSlXupBGnC5.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Sandra Drzymalska",
+            "Claudio Segaluscio",
+            "Bruno Buzzi",
+            "Barbara Ronchi",
+            "Vitaliano Trevisan"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt9648994"
     }
 ]
