@@ -106191,5 +106191,124 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt11080304"
+    },
+    {
+        "id": 752795,
+        "title": "Araf 3: Cinler Kitabı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/hyABqqHQoaJg80ZR21ae59E5irT.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Mehmet Bastürk",
+            "Çağla Erdimen",
+            "Emre Özmen",
+            "Sevgi Akoğlu",
+            "Ufuk Başar Can"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10403390"
+    },
+    {
+        "id": 650360,
+        "title": "Cep Herkülü: Naim Süleymanoğlu (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/18s8t4iAGEo03QHm50rD5YoJRXJ.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Hayat Van Eck",
+            "Selen Öztürk",
+            "Yetkin Dikinciler",
+            "Gürkan Uygun",
+            "Renan Bilek"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9500372"
+    },
+    {
+        "id": 649951,
+        "title": "Dilsiz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/x28r3vwPiVVPfvGpTKr9RnQN62n.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ozan Çelik",
+            "Mim Kemal Öke",
+            "Vildan Atasever",
+            "Emin Gürsoy",
+            "Sedat Anar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10763914"
+    },
+    {
+        "id": 653805,
+        "title": "Hemen Döneriz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/9F1LlPQzDvVlAL10kHlkho9UO8q.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Burak Satıbol",
+            "Murat Genç",
+            "Gökhan Mumcu",
+            "Buse İskenderoğlu",
+            "Esin Civangil"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt11358930"
+    },
+    {
+        "id": 625489,
+        "title": "Recep İvedik 6 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/8WSQTBAs6sVBhAP2VsphYsrTY9E.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Şahan Gökbakar",
+            "Nurullah Çelebi",
+            "Somer Karvan",
+            "Furkan Bayraktar",
+            "Mustafa Dok"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7399138"
+    },
+    {
+        "id": 824933,
+        "title": "Yaralı Keklik (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6LqDFyIn019tYm3roxGxwpbbF1X.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "İbrahim Kalkan",
+            "Dilek Canbay",
+            "Hüseyin Erkanlı",
+            "Mustafa Develi"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8325424"
     }
 ]
