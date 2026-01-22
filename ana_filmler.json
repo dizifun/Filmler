@@ -120602,5 +120602,113 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt9063902"
+    },
+    {
+        "id": 378112,
+        "title": "Ölüler Günü (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/auuAjNOBr5vlgrWTQgYarExuplw.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Fernanda Castillo",
+            "Alan Estrada",
+            "Memo Aponte",
+            "Carlo Rota",
+            "Susana Ballesteros"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt4500214"
+    },
+    {
+        "id": 542917,
+        "title": "Beyaz Kentin Sessizliği (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/b0cGghCnvZwd0zV8sMIc7KQaOWX.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Belén Rueda",
+            "Javier Rey",
+            "Aura Garrido",
+            "Manolo Solo",
+            "Àlex Brendemühl"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt8393332"
+    },
+    {
+        "id": 542928,
+        "title": "Sonsuz Siper (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4l28g28lT2yv1eIX0XNqNP4osPw.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Gerilim"
+        ],
+        "cast": [
+            "Antonio de la Torre",
+            "Belén Cuesta",
+            "Vicente Vergara",
+            "José Manuel Poga",
+            "Emilio Palacios"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7937168"
+    },
+    {
+        "id": 633318,
+        "title": "Luz: Kötülük Çiçeği (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/nDpcuZKg6lahhqEkUrXUa3XkNeh.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Fantastik",
+            "Vahşi Batı",
+            "Korku"
+        ],
+        "cast": [
+            "Yuri Vargas",
+            "Conrado Osorio",
+            "Sharon Guzman",
+            "Andrea Esquivel",
+            "Jim Muñoz"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt4500678"
+    },
+    {
+        "id": 596873,
+        "title": "Annelerimiz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/9eoV8IQG2ZcnLr0jfiLnjjkT7z9.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Armando Espitia",
+            "Emma Dib",
+            "Aurelia Caal",
+            "Julio Serrano Echeverría",
+            "Victor Moreira"
+        ],
+        "country": [
+            "GT"
+        ],
+        "link": "https://vidmody.com/vs/tt9206516"
     }
 ]
