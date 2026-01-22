@@ -159948,5 +159948,71 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt5815944"
+    },
+    {
+        "id": 434775,
+        "title": "Son Cinayet (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/kGmM6wycAPgZTWXmI5EMsr4hKQR.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Suç"
+        ],
+        "cast": [
+            "福山雅治",
+            "役所広司",
+            "広瀬すず",
+            "満島真之介",
+            "市川実日子"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt6410564"
+    },
+    {
+        "id": 433128,
+        "title": "Ajin (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "佐藤健",
+            "綾野剛",
+            "浜辺美波",
+            "山田裕貴",
+            "Rina Kawaei"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt6215712"
+    },
+    {
+        "id": 446164,
+        "title": "Before We Vanish (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/9DDNvFbiqUbnotxQVqYGOPKjM3H.jpg",
+        "year": "2017",
+        "genres": [
+            "Bilim-Kurgu",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "長澤まさみ",
+            "松田龍平",
+            "高杉真宙",
+            "恒松祐里",
+            "長谷川博己"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt5999530"
     }
 ]
