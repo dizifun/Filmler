@@ -120386,5 +120386,46 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt8387852"
+    },
+    {
+        "id": 519010,
+        "title": "Acı ve Zafer (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/tQyXwU1bcTvgOnuTOtVgdpFnmnm.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Antonio Banderas",
+            "Asier Etxeandia",
+            "Leonardo Sbaraglia",
+            "Nora Navas",
+            "Julieta Serrano"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt8291806"
+    },
+    {
+        "id": 586333,
+        "title": "Issız Bir Adaya Düşsen Yanına Kimi Alırdın? (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/8hZE44NL6Tz9ZSxWivEtP429UKU.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Pol Monen",
+            "Jaime Lorente",
+            "Andrea Ros",
+            "María Pedraza",
+            "Beatriz Arjona"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt8976832"
     }
 ]
