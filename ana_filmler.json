@@ -120862,5 +120862,50 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt7304802"
+    },
+    {
+        "id": 505706,
+        "title": "Altın Eldiven (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/3JncFQnakN1JuKW88OIiQF9BTH9.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Jonas Dassler",
+            "Margarethe Tiesel",
+            "Katja Studt",
+            "Martina Eitner-Acheampong",
+            "Tristan Göbel"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt7670212"
+    },
+    {
+        "id": 550755,
+        "title": "Kasırga 4: Arinin Gelişi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wH4xdRBGXCAPz2QKS0KrdGBXBY8.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Luna Paiano",
+            "Hanna Binke",
+            "Marvin Linke",
+            "Amber Bongard",
+            "Tilo Prückner"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt9182284"
     }
 ]
