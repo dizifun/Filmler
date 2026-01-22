@@ -141642,5 +141642,51 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt8108230"
+    },
+    {
+        "id": 507569,
+        "title": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/r6pPUVUKU5eIpYj4oEzidk5ZibB.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Fantastik",
+            "Animasyon"
+        ],
+        "cast": [
+            "梶裕貴",
+            "雨宮天",
+            "久野美咲",
+            "鈴木達央",
+            "福山潤"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt9089294"
+    },
+    {
+        "id": 519176,
+        "title": "Gintama 2: Rules are Made to Be Broken (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/4yZEYuPDlFRXCSezchTh37yDRUP.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Aksiyon",
+            "Bilim-Kurgu",
+            "Fantastik"
+        ],
+        "cast": [
+            "小栗旬",
+            "菅田将暉",
+            "橋本環奈",
+            "長澤まさみ",
+            "岡田将生"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt7639528"
     }
 ]
