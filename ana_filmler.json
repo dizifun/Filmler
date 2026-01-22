@@ -123815,5 +123815,185 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt7748244"
+    },
+    {
+        "id": 509098,
+        "title": "Alem-i Cin (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/f9lXb8jmaPMtKZsSJXTBVMTG58J.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7717990"
+    },
+    {
+        "id": 499473,
+        "title": "Hadi Be Oğlum (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2LRp0QswUYtAFS6STMcSjxJMabn.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Kıvanç Tatlıtuğ",
+            "Büşra Develi",
+            "Alihan Türkdemir",
+            "Yücel Erten",
+            "Yıldız Kültür"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7628458"
+    },
+    {
+        "id": 654223,
+        "title": "Antep Fıstığı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/kKAGP8DGdDSO8OEt1KpERfwv2Pp.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Ivana Sert",
+            "Orhan Uslu",
+            "Sefa Zengin",
+            "Vural Buldu",
+            "Oğuz Haksever"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8262118"
+    },
+    {
+        "id": 610037,
+        "title": "Cin Çeşmesi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/kxShtfbKSBaeVbpDcYMXVD2lB5k.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Yasar Aydinlioglu",
+            "Ece Baykal",
+            "Tugba Bayrak",
+            "Umut Ekrem Danler",
+            "Mustafa Miraç Kaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7960918"
+    },
+    {
+        "id": 499639,
+        "title": "Kayhan (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/a3qRd14HpfIWxjm8KsjMIy8pARU.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Şahan Gökbakar",
+            "İrfan Kangı",
+            "Gökçe Eyüboğlu",
+            "Can Seçki",
+            "Bülent Tapıcı"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7546486"
+    },
+    {
+        "id": 497179,
+        "title": "Cebimdeki Yabancı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/1iWCVSE8nXpSZ3EnAGuPz3Bp6WH.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Belçim Bilgin",
+            "Buğra Gülsoy",
+            "Çağlar Çorumlu",
+            "Leyla Lydia Tuğutlu",
+            "Serkan Altunorak"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7862330"
+    },
+    {
+        "id": 507295,
+        "title": "Görevimiz Tatil (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/niKQ3ui24dGRt2PY46ro7cXmg2S.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Demet Akbağ",
+            "Zafer Algöz",
+            "Deniz Altan",
+            "Ali Keçeli",
+            "Hakan Bilgin"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7531990"
+    },
+    {
+        "id": 823811,
+        "title": "Mirasyedi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/pjQl6eDk6W8hjKpEzqIgC5Ye14x.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Ekin Mert Daymaz",
+            "Fulya Zenginer",
+            "Nail Kırmızıgül",
+            "Nevra Serezli",
+            "Yeliz Akkaya"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8343964"
+    },
+    {
+        "id": 476197,
+        "title": "Sofra Sırları (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/pcIU6TEl9DxAsKPPtJNOTEpQgo0.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Demet Evgar",
+            "Fatih Al",
+            "Alican Yücesoy",
+            "Elit Andaç Çam",
+            "Fırat Altunmeşe"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5845758"
     }
 ]
