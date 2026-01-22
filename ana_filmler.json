@@ -143196,5 +143196,49 @@
             "DK"
         ],
         "link": "https://vidmody.com/vs/tt8436026"
+    },
+    {
+        "id": 479226,
+        "title": "İntikamın Saflığı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/37WhfNs7HRlzbcRVh7fka5Qkefx.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Nikolaj Lie Kaas",
+            "Fares Fares",
+            "Johanne Louise Schmidt",
+            "Søren Pilmark",
+            "Fanny Leander Bornedal"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt6916362"
+    },
+    {
+        "id": 490033,
+        "title": "Holiday (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/5NU063sVE2Y3zNg8isOIG5RSrDL.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Vic Carmen Sonne",
+            "Lai Yde",
+            "Thijs Römer",
+            "Yuval Segal",
+            "Bo Brønnum 'Bo Lydmand'"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt7328154"
     }
 ]
