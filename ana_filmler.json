@@ -162143,5 +162143,109 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt5443474"
+    },
+    {
+        "id": 355066,
+        "title": "Kötü Kedi Şerafettin (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/kWlxe58BiopW4LwUqOhSddHh7Js.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi",
+            "Animasyon",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Uğur Yücel",
+            "Demet Evgar",
+            "Okan Yalabık",
+            "Güven Kıraç",
+            "Gökçe Özyol"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt4695548"
+    },
+    {
+        "id": 386376,
+        "title": "Osman Pazarlama (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/XLZWTD0jY7C4xSDMA80gvWdnxo.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Şahan Gökbakar",
+            "Mehmet Selim Akgül",
+            "Feriştah Senem Yıldırım",
+            "Yurtşen Fidan",
+            "Liberat Niyoyandika"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5427032"
+    },
+    {
+        "id": 397562,
+        "title": "Çağrılan (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/8vQUjLLu3jN2fUcUSf2TZALefZ8.jpg",
+        "year": "2016",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Akdora Akalin",
+            "Eray Ertüren",
+            "Yerkan Kahraman",
+            "Bahadir Karaca",
+            "Ceren Türk"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5352034"
+    },
+    {
+        "id": 389116,
+        "title": "Rauf (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/zlbvl0X605gBI3fTB49eAOJfFuf.jpg",
+        "year": "2016",
+        "genres": [
+            "Aile",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Alen Hüseyin Gürsoy",
+            "Yavuz Gürbüz",
+            "Şeyda Sözüer",
+            "Veli Ubic",
+            "Muhammed Ubic"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5280652"
+    },
+    {
+        "id": 411449,
+        "title": "Senarist (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/tpKV0gtmCxBvwMwNnFOtX2l3ZQI.jpg",
+        "year": "2016",
+        "genres": [
+            "Gizem"
+        ],
+        "cast": [
+            "Asim Tuncay Aynur",
+            "Mustafa Uzunyılmaz",
+            "Halis Bayraktaroglu",
+            "Dilara Büyükbayraktar",
+            "Ebru Sarıtaş"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt3504836"
     }
 ]
