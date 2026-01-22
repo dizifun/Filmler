@@ -142528,5 +142528,76 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt7844166"
+    },
+    {
+        "id": 519185,
+        "title": "Ayka (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/z9sHtNLFXghQ9kNRFtnLwsvQqHA.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Самал Еслямова",
+            "Dzhipargul Abdilova",
+            "Давид Алавердян",
+            "Cholponay Borubaeva",
+            "Nurzhan Kunnazarova"
+        ],
+        "country": [
+            "CN",
+            "FR",
+            "DE",
+            "KZ",
+            "PL",
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt8305116"
+    },
+    {
+        "id": 482342,
+        "title": "Zamanın Sınırında (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/7Rss29sqVcEtZOO2itJ5DVTxHLF.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Fantastik",
+            "Bilim-Kurgu",
+            "Macera",
+            "Savaş"
+        ],
+        "cast": [
+            "Павел Прилучный",
+            "Станислав Дужников",
+            "Дмитрий Куличков",
+            "Дарья Ярцева",
+            "Виктор Добронравов"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7776936"
+    },
+    {
+        "id": 440630,
+        "title": "Buz (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/88HAJqpl49NvP7L1p7hWhyybLgk.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Аглая Тарасова",
+            "Мария Аронова",
+            "Александр Петров",
+            "Милош Бикович",
+            "Ксения Раппопорт"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt5844488"
     }
 ]
