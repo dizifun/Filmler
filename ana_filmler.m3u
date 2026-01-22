@@ -6407,6 +6407,8 @@ https://vidmody.com/vs/tt2261287
 https://vidmody.com/vs/tt4731504
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aJA2Ln6fqEoxhQW7ENvHRDJ9sC2.jpg" group-title="Animasyon", Kırmızı Kaplumbağa (2016)
 https://vidmody.com/vs/tt3666024
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sBVmqaOjUCoxiCygAIwj1ncyrFM.jpg" group-title="Animasyon", Kabakçığın Hayatı (2016)
+https://vidmody.com/vs/tt2321405
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pTkdQ0jfXqUpoFvg0DmSAYGlc7K.jpg" group-title="Komedi", Tatilde Tanıştığımız İnsanlar (2026)
 https://vidmody.com/vs/tt22740896
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pdXCiSNwo8RFJemCsDXOYSw2zge.jpg" group-title="Komedi", Kardeş Takımı 2 (2025)
@@ -11487,6 +11489,8 @@ https://vidmody.com/vs/tt4699388
 https://vidmody.com/vs/tt4607228
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nAVRxYsTgr8bnsTFda8wPCgDE77.jpg" group-title="Komedi", Evim Tatlı Evim! (2016)
 https://vidmody.com/vs/tt5115024
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sBVmqaOjUCoxiCygAIwj1ncyrFM.jpg" group-title="Komedi", Kabakçığın Hayatı (2016)
+https://vidmody.com/vs/tt2321405
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wO7AbxLIYzCjIMe9OV4f3Q4e06N.jpg" group-title="Suç", Doctor Plague (2026)
 https://vidmody.com/vs/tt31511146
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Suç", Oscar Shaw (2026)
@@ -21037,6 +21041,18 @@ https://vidmody.com/vs/tt4730986
 https://vidmody.com/vs/tt4277264
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3jrjyPffLludqDtZE7li3JAQ0R.jpg" group-title="Dram", Nocturama: Paris Yanıyor (2016)
 https://vidmody.com/vs/tt4795546
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ErrcTPS1xf05ynSN9VmBOf9686.jpg" group-title="Dram", Cézanne ve Ben (2016)
+https://vidmody.com/vs/tt5078354
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/soakku6EGI1kj8eTPh9Rx7O2gJT.jpg" group-title="Dram", Frantz (2016)
+https://vidmody.com/vs/tt5029608
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yhRH3XTIyhPwG3iqNriwa2zq2ga.jpg" group-title="Dram", Muhteşem Loie (2016)
+https://vidmody.com/vs/tt4632440
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sBVmqaOjUCoxiCygAIwj1ncyrFM.jpg" group-title="Dram", Kabakçığın Hayatı (2016)
+https://vidmody.com/vs/tt2321405
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mQd4HKkAaQLzqCzbPsmQoQ9Wnah.jpg" group-title="Dram", The Stopover (2016)
+https://vidmody.com/vs/tt4699444
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x0ViFaQyaFtTVWYGMvu0xzGik44.jpg" group-title="Dram", Sonsuzluk (2016)
+https://vidmody.com/vs/tt3564574
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pdXCiSNwo8RFJemCsDXOYSw2zge.jpg" group-title="Aile", Kardeş Takımı 2 (2025)
 https://vidmody.com/vs/tt32777683
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Aile", Şampiyonlar (2025)
@@ -24819,6 +24835,12 @@ https://vidmody.com/vs/tt4572514
 https://vidmody.com/vs/tt0490215
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jtOsepRNhK7rWaXRaYz2jkBmit3.jpg" group-title="Tarih", Fanny's Journey (2016)
 https://vidmody.com/vs/tt5038372
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ErrcTPS1xf05ynSN9VmBOf9686.jpg" group-title="Tarih", Cézanne ve Ben (2016)
+https://vidmody.com/vs/tt5078354
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/soakku6EGI1kj8eTPh9Rx7O2gJT.jpg" group-title="Tarih", Frantz (2016)
+https://vidmody.com/vs/tt5029608
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yhRH3XTIyhPwG3iqNriwa2zq2ga.jpg" group-title="Tarih", Muhteşem Loie (2016)
+https://vidmody.com/vs/tt4632440
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wO7AbxLIYzCjIMe9OV4f3Q4e06N.jpg" group-title="Korku", Doctor Plague (2026)
 https://vidmody.com/vs/tt31511146
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vElU6SotbFhUjDkkE9d8rb1XmkY.jpg" group-title="Korku", Primat (2026)
@@ -31337,6 +31359,10 @@ https://vidmody.com/vs/tt4699388
 https://vidmody.com/vs/tt4607228
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVIIKrGjNg5GESI9T9GqpIGIg4z.jpg" group-title="Romantik", My Revolution (2016)
 https://vidmody.com/vs/tt4277264
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/soakku6EGI1kj8eTPh9Rx7O2gJT.jpg" group-title="Romantik", Frantz (2016)
+https://vidmody.com/vs/tt5029608
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x0ViFaQyaFtTVWYGMvu0xzGik44.jpg" group-title="Romantik", Sonsuzluk (2016)
+https://vidmody.com/vs/tt3564574
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wO7AbxLIYzCjIMe9OV4f3Q4e06N.jpg" group-title="Gerilim", Doctor Plague (2026)
 https://vidmody.com/vs/tt31511146
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOGNu9ombTan3rDSr1GdeBaXfsB.jpg" group-title="Gerilim", Greenland: Kıyamet (2026)
@@ -36097,6 +36123,8 @@ https://vidmody.com/vs/tt3640424
 https://vidmody.com/vs/tt2513074
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mkEuDcJH491IQ14EQ4gscomTxQ6.jpg" group-title="Savaş", Aşk Notları (2016)
 https://vidmody.com/vs/tt0443533
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mQd4HKkAaQLzqCzbPsmQoQ9Wnah.jpg" group-title="Savaş", The Stopover (2016)
+https://vidmody.com/vs/tt4699444
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/19MISRxGiaCKZHUuGL0dbWbJrab.jpg" group-title="Vahşi Batı", Kayıp Dünya (2025)
 https://vidmody.com/vs/tt4419684
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg" group-title="Vahşi Batı", Hesaplaşma Günü (2025)
