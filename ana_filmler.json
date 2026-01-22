@@ -143351,5 +143351,46 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt7533756"
+    },
+    {
+        "id": 480681,
+        "title": "An Affair (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/e3ezhvLB40WbjKCEzn2Sk71cUhR.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Andrea Bræin Hovig",
+            "Tarjei Sandvik Moe",
+            "Anneke von der Lippe",
+            "Carsten Bjørnlund",
+            "Lea Meyer"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt7248144"
+    },
+    {
+        "id": 557642,
+        "title": "Neşeli Çiftlik (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/8NwDRkGqpei774Ub6K7ndQDmdRk.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Henriette Faye-Schjøll",
+            "Fridtjov Såheim",
+            "Bjarte Tjøstheim",
+            "Jan Martin Johnsen",
+            "Mats Eldøen"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt8941316"
     }
 ]
