@@ -120448,5 +120448,96 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt6704898"
+    },
+    {
+        "id": 596054,
+        "title": "Kahramanca Kaybedenler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/t5oMn99BVp9IJruztEwpKgvqA2h.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ricardo Darín",
+            "Luis Brandoni",
+            "Chino Darín",
+            "Verónica Llinás",
+            "Daniel Aráoz"
+        ],
+        "country": [
+            "AR",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt10384744"
+    },
+    {
+        "id": 417466,
+        "title": "Monos (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/bkt5H7qH4zwMzBxnQLFR0PByU81.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Suç",
+            "Savaş"
+        ],
+        "cast": [
+            "Moisés Arias",
+            "Julianne Nicholson",
+            "Sofia Buenaventura",
+            "Karen Quintero",
+            "Julian Giraldo"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt6062774"
+    },
+    {
+        "id": 587272,
+        "title": "Sadece Bir Baba Var (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/eDLO2nr5xhjOfxDAj3gQao495kw.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Santiago Segura",
+            "Toni Acosta",
+            "Martina D’Antiochia",
+            "Calma Segura",
+            "Luna Fulgencio"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt9427166"
+    },
+    {
+        "id": 574376,
+        "title": "Göze Göz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6DORnWkVXQHI7ZUefV6c4Ox2B1m.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Luis Tosar",
+            "María Vázquez",
+            "Ismael Martínez",
+            "Pablo Guisa Koestinger",
+            "Daniel Currás"
+        ],
+        "country": [
+            "BE",
+            "FR",
+            "GB",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7967412"
     }
 ]
