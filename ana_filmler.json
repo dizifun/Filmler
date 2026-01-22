@@ -140294,5 +140294,110 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt6599742"
+    },
+    {
+        "id": 508018,
+        "title": "The Warning (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/h9vOlRwo0wTUyu6OzVfytENvivT.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Raúl Arévalo",
+            "Aura Garrido",
+            "Hugo Arbues",
+            "Belén Cuesta",
+            "Antonio Dechent"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt3711510"
+    },
+    {
+        "id": 504345,
+        "title": "Kabile (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/pASeM9pyZtqDqTkXD1mNvqqh9hK.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Paco León",
+            "Carmen Machi",
+            "Luis Bermejo",
+            "Julián López",
+            "Bárbara Santa-Cruz"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6708044"
+    },
+    {
+        "id": 499152,
+        "title": "Mirasçılar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/t6u9j7A80s5mGuVnFniePGaP5v5.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ana Brun",
+            "Margarita Irún",
+            "Ana Ivanova",
+            "Nilda Gonzalez",
+            "María Martins"
+        ],
+        "country": [
+            "PY"
+        ],
+        "link": "https://vidmody.com/vs/tt7875464"
+    },
+    {
+        "id": 491311,
+        "title": "Korkunun Kraliçesi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/bggab9uhxAmIyHIpw3YM25Xn5X8.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Valeria Bertuccelli",
+            "Diego Velázquez",
+            "Sary López",
+            "Anders Hvidegaard",
+            "Gabriel Goity"
+        ],
+        "country": [
+            "DK",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7689928"
+    },
+    {
+        "id": 517829,
+        "title": "Yankesiciler (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/7JYpjCTvWRRcBF5pRO5ZQONsGgg.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Carlos Bardem",
+            "Natalia Reyes",
+            "Emiliano Pernia",
+            "Duban Prado",
+            "Marcela Mar"
+        ],
+        "country": [
+            "CO"
+        ],
+        "link": "https://vidmody.com/vs/tt7527694"
     }
 ]
