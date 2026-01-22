@@ -160840,5 +160840,49 @@
             "IT"
         ],
         "link": "https://vidmody.com/vs/tt6802896"
+    },
+    {
+        "id": 453347,
+        "title": "Sicilian Ghost Story (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/q7Evy2dfDG4nSwGr5PfRjDkM6re.jpg",
+        "year": "2017",
+        "genres": [
+            "Gizem",
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Julia Jedlikowska",
+            "Gaetano Fernandez",
+            "Corinne Musallari",
+            "Andrea Falzone",
+            "Federico Finocchiaro"
+        ],
+        "country": [
+            "CH",
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt5375434"
+    },
+    {
+        "id": 474944,
+        "title": "Rainbow: A Private Affair (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/hZT7VUKvqThdC3E6LN07QxlSuHW.jpg",
+        "year": "2017",
+        "genres": [
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Luca Marinelli",
+            "Valentina Bellè",
+            "Francesca Agostini",
+            "Lorenzo Richelmy",
+            "Anna Ferruzzo"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt5952238"
     }
 ]
