@@ -158084,5 +158084,68 @@
             "AE"
         ],
         "link": "https://vidmody.com/vs/tt5590712"
+    },
+    {
+        "id": 398936,
+        "title": "Boule & Bill 2 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/2eLwflpPtoewq6HMTMwVLu6LmRF.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Franck Dubosc",
+            "Mathilde Seigner",
+            "Charlie Langendries",
+            "Manu Payet",
+            "Nora Hamzawi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5980746"
+    },
+    {
+        "id": 436334,
+        "title": "Django Sürgün Melodiler (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/snZ8Blip3oKY5V19tWded4eoYA0.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Müzik"
+        ],
+        "cast": [
+            "Reda Kateb",
+            "Cécile de France",
+            "Bea Palya",
+            "Bimbam Merstein",
+            "Gabriel Mireté"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6247936"
+    },
+    {
+        "id": 438347,
+        "title": "Beklenmedik Düğün (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/b9Xh6548vTyNhgTcWqFCE8MmdHv.jpg",
+        "year": "2017",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Reem Kherici",
+            "Nicolas Duvauchelle",
+            "Julia Piaton",
+            "Sylvie Testud",
+            "François-Xavier Demaison"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6009140"
     }
 ]
