@@ -104627,5 +104627,163 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt8721422"
+    },
+    {
+        "id": 584439,
+        "title": "Yalan Dolan (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/zY0t9VecvhpAHxWYuVDDB9XvapR.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Şafak Sezer",
+            "Çetin Altay",
+            "Burcu Binici",
+            "Yıldırım Öcek",
+            "Başak Aslı Koşucu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8822348"
+    },
+    {
+        "id": 587483,
+        "title": "Hüddam 2 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4JgokgX1ouFwfMlBRW8TXMVLuzL.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Şeyda İpek Baykal",
+            "Can Beslen",
+            "Hakan Erturan",
+            "Yavuz Çetin",
+            "Hüseyin Çelikoğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9442146"
+    },
+    {
+        "id": 604251,
+        "title": "Köpek Filmi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/lTxFotBNQgbD2nGKPsLJgitGLtF.jpg",
+        "year": "2019",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10016436"
+    },
+    {
+        "id": 477340,
+        "title": "Çat Kapı Aşk (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/lUkQsYUw6fzISWta7SOYD21kntk.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Jess Molho",
+            "Müge Boz",
+            "Nergis Kumbasar",
+            "İbrahim Selim",
+            "İpek Bağrıaçık"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7287656"
+    },
+    {
+        "id": 686008,
+        "title": "Şeytan Oyunu (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/mnJKLYGWDdxdIHHZo2W0BGJRYAg.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Burak Ergün",
+            "Neslişah Ertürk",
+            "Niyazi Ayaydin"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9175246"
+    },
+    {
+        "id": 588459,
+        "title": "Türk İşi Dondurma (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/lTDjSBzhg7ZsU4Ho7TIZKPgCD5u.jpg",
+        "year": "2019",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Erkan Kolçak Köstendil",
+            "Ali Atay",
+            "Şebnem Bozoklu",
+            "Will Thorp",
+            "James Farley"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9034290"
+    },
+    {
+        "id": 585969,
+        "title": "Öldür Beni Sevgilim (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/ot6rtOMO4ZlGo1STwUIWIwxewW5.jpg",
+        "year": "2019",
+        "genres": [
+            "Romantik",
+            "Komedi"
+        ],
+        "cast": [
+            "Murat Boz",
+            "Seda Bakan",
+            "Açelya Topaloğlu",
+            "Özgür Emre Yıldırım",
+            "Seda Güven"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9749604"
+    },
+    {
+        "id": 591495,
+        "title": "Özgür Dünya (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/i1MJkNc7BCQyVYoSZvCTUwTmJVu.jpg",
+        "year": "2019",
+        "genres": [
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Murat Serezli",
+            "Rabia Soytürk",
+            "Gürbey İleri",
+            "Sami Aksu",
+            "Hayal Köseoğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9308170"
     }
 ]
