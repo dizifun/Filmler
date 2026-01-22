@@ -121270,5 +121270,70 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt9038290"
+    },
+    {
+        "id": 491622,
+        "title": "Manikarnika Jhansi Kraliçesi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wChjzpy0xfOsncMixAubJW8aDEN.jpg",
+        "year": "2019",
+        "genres": [
+            "Tarih",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Kangana Ranaut",
+            "Danny Denzongpa",
+            "Suresh Oberoi",
+            "Atul Kulkarni",
+            "Kulbhushan Kharbanda"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt6903440"
+    },
+    {
+        "id": 556310,
+        "title": "Bombairiya (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cWXVQMhOZpMPFsR7Ea2dGO7aEwH.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Radhika Apte",
+            "Akshay Oberoi",
+            "रवि किशन",
+            "Adil Hussain",
+            "Shilpa Shukla"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt4971258"
+    },
+    {
+        "id": 570910,
+        "title": "Thackeray (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4qdM6cfJyBOpGshn5cirHOVw1au.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Nawazuddin Siddiqui",
+            "Amrita Rao",
+            "Sudhir Mishra",
+            "Rajesh Khera",
+            "Laxman Singh Rajput"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt7777196"
     }
 ]
