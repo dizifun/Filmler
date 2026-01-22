@@ -104042,5 +104042,48 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt8048384"
+    },
+    {
+        "id": 619954,
+        "title": "Kaptan Porsuk Kayıp Hazinenin Peşinde (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/fSVSMzib6ZUYtmjJ1F0Ge0eI7oH.jpg",
+        "year": "2020",
+        "genres": [
+            "Aile",
+            "Macera",
+            "Animasyon"
+        ],
+        "cast": [
+            "John Brungot",
+            "Hermann Sabado",
+            "Per Inge Torkelsen",
+            "Heidi Goldmann",
+            "Anne Grete Preus"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt11306746"
+    },
+    {
+        "id": 654170,
+        "title": "Ressam ve Hırsız (2020)",
+        "poster": "https://image.tmdb.org/t/p/w500/eDmJENrDEuLjC3fIJtz3nsFS0f.jpg",
+        "year": "2020",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Barbora Kysilkova",
+            "Karl-Bertil Nordland",
+            "Øystein Stene",
+            "Linda Ville Marie Ruud",
+            "Bjørn Inge Nordland"
+        ],
+        "country": [
+            "NO",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt11296058"
     }
 ]
