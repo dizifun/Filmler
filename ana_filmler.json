@@ -141793,5 +141793,49 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt8119752"
+    },
+    {
+        "id": 518963,
+        "title": "Believer (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/uKrVg8dQUiXCR6Wf1yx573ElFT1.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "조진웅",
+            "류준열",
+            "김주혁",
+            "차승원",
+            "김성령"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt7095654"
+    },
+    {
+        "id": 491584,
+        "title": "Şüphe (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/oKmHaFUS3YaSN0RzyBpxWgMqxz0.jpg",
+        "year": "2018",
+        "genres": [
+            "Gizem",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "유아인",
+            "Steven Yeun",
+            "전종서",
+            "김수경",
+            "최승호"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt7282468"
     }
 ]
