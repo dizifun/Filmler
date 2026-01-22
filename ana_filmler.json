@@ -120818,5 +120818,49 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt8406738"
+    },
+    {
+        "id": 652722,
+        "title": "In the Arms of an Assassin (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/vOF2dVniPoc2Y5yVG1F3GvbP4Y9.jpg",
+        "year": "2019",
+        "genres": [
+            "Romantik",
+            "Gerilim"
+        ],
+        "cast": [
+            "William Levy",
+            "Alicia Sanz",
+            "Roberto Sosa",
+            "Adrián Lastra",
+            "Thanya López"
+        ],
+        "country": [
+            "DM",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10080270"
+    },
+    {
+        "id": 613099,
+        "title": "Kemiklerin Mirası (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/r9t2himGKFSKWjjUdpRLFQkafj7.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Suç",
+            "Gizem"
+        ],
+        "cast": [
+            "Marta Etura",
+            "Leonardo Sbaraglia",
+            "Susi Sánchez",
+            "Imanol Arias",
+            "Elvira Mínguez"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7304802"
     }
 ]
