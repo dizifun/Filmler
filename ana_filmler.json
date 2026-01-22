@@ -142279,5 +142279,48 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt7946836"
+    },
+    {
+        "id": 463319,
+        "title": "Gölge Savaşçı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/jBYM2IWVgz5uNYtfxIWoRSDdkQb.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Savaş"
+        ],
+        "cast": [
+            "邓超",
+            "孫儷",
+            "鄭愷",
+            "王千源",
+            "王景春"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt6864046"
+    },
+    {
+        "id": 441393,
+        "title": "Kül En Saf Beyazdır (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/7BYymrJ41wK74E2rqoqBqQ58K6O.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Zhao Tao",
+            "廖凡",
+            "刁亦男",
+            "丁嘉丽",
+            "董子健"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt7298400"
     }
 ]
