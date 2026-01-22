@@ -162247,5 +162247,191 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt3504836"
+    },
+    {
+        "id": 417024,
+        "title": "Babaların Babası (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/csaKRF5NPtMeiXE1ANakUCCDLUb.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Menderes Samancılar",
+            "Ali Sürmeli",
+            "Ayhan Taş",
+            "Burak Satıbol",
+            "Burcu Binici"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5181736"
+    },
+    {
+        "id": 386591,
+        "title": "Annemin Yarası (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/jO6TBIcoLLdGXOaWA4kHkwyxgHz.jpg",
+        "year": "2016",
+        "genres": [
+            "Dram",
+            "Savaş",
+            "Gizem"
+        ],
+        "cast": [
+            "Ozan Güven",
+            "Meryem Uzerli",
+            "Belçim Bilgin",
+            "Okan Yalabık",
+            "Bora Akkaş"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt4994736"
+    },
+    {
+        "id": 459144,
+        "title": "Azazil 2: Büyü (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/eQIOOWl0JjBOPqaTLfukhh1GEyc.jpg",
+        "year": "2016",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Bedia Ener",
+            "Murat Ercanlı",
+            "Sertan Erkaçan",
+            "Ersoy Ilter",
+            "Mesut Kalali"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5522892"
+    },
+    {
+        "id": 403978,
+        "title": "Leblebi Tozu (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/kvv8l6B3KwCkCt7H3ilTHT6rBNy.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Metin Yıldız",
+            "Fulden Akyürek",
+            "Ferdi Kurtuldu",
+            "Cengiz Okuyucu",
+            "Erdal Cindoruk"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5522224"
+    },
+    {
+        "id": 400852,
+        "title": "Kolpaçino: 3. Devre (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/a8kWG7jAJjoAGlsSwX7CXrmXoAQ.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Şafak Sezer",
+            "Aydemir Akbaş",
+            "Erkan Petekkaya",
+            "Ali Çatalbaş",
+            "Kubilay Penbeklioğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5505316"
+    },
+    {
+        "id": 447234,
+        "title": "Ali Kundilli 2 (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/lvANwir9ZKkv0iZUW7KBbCAkzSu.jpg",
+        "year": "2016",
+        "genres": [
+            "Macera",
+            "Komedi"
+        ],
+        "cast": [
+            "Cem Gelinoğlu",
+            "Zeynep Aktuğ",
+            "Sami Aksu",
+            "Ezgi Tombul",
+            "Hakan Bilgin"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5505188"
+    },
+    {
+        "id": 500004,
+        "title": "Emicem Hospital (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/rxZd1AC3OAMWAxwouKO5P136GQ3.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Wilma Elles",
+            "Ali Erkazan",
+            "Merve Akaydın",
+            "Sinan Bengier",
+            "Adem Eraydın"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5522416"
+    },
+    {
+        "id": 400479,
+        "title": "Ceberrut (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/cfdigQNd1S4yBUHyAe0cIvMWYhl.jpg",
+        "year": "2016",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Merve Akaydın",
+            "Tolga Demircan",
+            "Özgür Yelence",
+            "Ayşegül Kaygusuz",
+            "Alp Navruz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5505264"
+    },
+    {
+        "id": 552405,
+        "title": "Şeytan Tüyü (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/8b6HCNWMgZR9X3afN40dNR24Sd7.jpg",
+        "year": "2016",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Mustafa Üstündağ",
+            "Güven Kıraç",
+            "Şükran Ovalı",
+            "Beyti Engin",
+            "Erdal Tosun"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5521970"
     }
 ]
