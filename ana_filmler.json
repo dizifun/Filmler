@@ -141511,5 +141511,91 @@
             "SG"
         ],
         "link": "https://vidmody.com/vs/tt6720618"
+    },
+    {
+        "id": 517380,
+        "title": "Over Drive (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/obub0Fpitvv6iQkA67dXNALPLhQ.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "新田真剣佑",
+            "東出昌大",
+            "森川葵",
+            "Takumi Kitamura",
+            "町田啓太"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt7155178"
+    },
+    {
+        "id": 485942,
+        "title": "Batman Ninja (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/zaw7PQ7GvTliBVmfg2o8OJfhWjU.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "山寺宏一",
+            "高木渉",
+            "釘宮理恵",
+            "加隈亜衣",
+            "大塚芳忠"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7451284"
+    },
+    {
+        "id": 482948,
+        "title": "Vision (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qcYuS7ACMvckxq8GwrSGircFqFt.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Juliette Binoche",
+            "永瀬正敏",
+            "岩田剛典",
+            "美波",
+            "森山未來"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt7566518"
+    },
+    {
+        "id": 475215,
+        "title": "Mirai (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/mxV4UoyrMQbthiBOoVdG6gdydlx.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Fantastik",
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "上白石萌歌",
+            "黒木華",
+            "星野源",
+            "麻生久美子",
+            "吉原光夫"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt6900448"
     }
 ]
