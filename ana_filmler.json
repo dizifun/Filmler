@@ -141731,5 +141731,46 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt6890582"
+    },
+    {
+        "id": 500699,
+        "title": "Altın Uyku (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2SIyjVUgP4VJlrFF19geiDhsnK7.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "강동원",
+            "김의성",
+            "유재명",
+            "한효주",
+            "김성균"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6485776"
+    },
+    {
+        "id": 448491,
+        "title": "Little Forest (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/adoiOpcuBUKeEqfzLqY47VBZN86.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "김태리",
+            "문소리",
+            "류준열",
+            "진기주",
+            "전국향"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt6083230"
     }
 ]
