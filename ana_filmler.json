@@ -116314,5 +116314,830 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt3852042"
+    },
+    {
+        "id": 453405,
+        "title": "İkizler Projesi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/nfPbopjP2KiZhISjrBByxOKorTi.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Will Smith",
+            "Mary Elizabeth Winstead",
+            "Clive Owen",
+            "Benedict Wong",
+            "Douglas Hodge"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1025100"
+    },
+    {
+        "id": 580630,
+        "title": "Girl on the Third Floor (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/gm5JXIMPxRMFNeEtzso3VUDXQSs.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Phil Brooks",
+            "Trieste Kelly Dunn",
+            "Sarah Brooks",
+            "Elissa Dowling",
+            "Karen Woditsch"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9026184"
+    },
+    {
+        "id": 515725,
+        "title": "Güzel Poz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/dwFmPePaKh5ZhgZQcFiwMsYvCkU.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Grace Van Patten",
+            "Emily Mortimer",
+            "Norbert Leo Butz",
+            "Ebon Moss-Bachrach",
+            "Timm Sharp"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7647840"
+    },
+    {
+        "id": 547009,
+        "title": "Yemyeşil Çimler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/eN56wiM2M84GBOQnp4TAQXcZucg.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Jocelyn DeBoer",
+            "Dawn Luebbe",
+            "Beck Bennett",
+            "Neil Casey",
+            "Mary Holland"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7422822"
+    },
+    {
+        "id": 636075,
+        "title": "Hareket Sekiz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/d9JNZ2zxDXdEAVXaZk6KB9twzot.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Ali Sunal",
+            "Onur Atilla",
+            "Sarp Bozkurt",
+            "Devrim Yakut",
+            "Bihter Dinçel"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10446930"
+    },
+    {
+        "id": 537140,
+        "title": "Umut Vadisi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6hXQeeK0Y7PG19PvT9ZeVjqlfGs.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Annette Bening",
+            "Bill Nighy",
+            "Josh O'Connor",
+            "Aiysha Hart",
+            "Ryan McKen"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt7587876"
+    },
+    {
+        "id": 635744,
+        "title": "Jarhead: Dönüş Kanunu (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg",
+        "year": "2019",
+        "genres": [
+            "Savaş"
+        ],
+        "cast": [
+            "Devon Sawa",
+            "Yael Eitan",
+            "Nicholas Aaron",
+            "Ben Cross",
+            "Amaury Nolasco"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10767720"
+    },
+    {
+        "id": 440762,
+        "title": "Sessiz ve Derinden 2 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/5uGl5lbcpGLTvtLwBMnfRC0Az5u.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "Jason Mewes",
+            "Kevin Smith",
+            "Harley Quinn Smith",
+            "Aparna Brielle",
+            "Shannon Elizabeth"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6521876"
+    },
+    {
+        "id": 620725,
+        "title": "Jexi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/pyxpEEMKlDcx8UfrNpew8SS7Uqv.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Adam Devine",
+            "Alexandra Shipp",
+            "Rose Byrne",
+            "Ron Funches",
+            "Charlyne Yi"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9354944"
+    },
+    {
+        "id": 475557,
+        "title": "Joker (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/oioWvyxqspVyZL9wulttXZ0IdHI.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz",
+            "Frances Conroy",
+            "Brett Cullen"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7286456"
+    },
+    {
+        "id": 515001,
+        "title": "Tavşan Jojo (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/3pDjOqD4yzbJ131IxBnVok0ArZR.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Roman Griffin Davis",
+            "Thomasin McKenzie",
+            "Scarlett Johansson",
+            "Taika Waititi",
+            "Sam Rockwell"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2584384"
+    },
+    {
+        "id": 493066,
+        "title": "Low Tide (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/iEZrBPoWu4QYgOh594uCxDCEQDx.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Jaeden Martell",
+            "Keean Johnson",
+            "Shea Whigham",
+            "Alex Neustaedter",
+            "Daniel Zolghadri"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7434324"
+    },
+    {
+        "id": 420809,
+        "title": "Malefiz: Kötülüğün Gücü (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2R4uitaA3uq98uIHJqzsPPWyeLC.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Fantastik",
+            "Macera"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Elle Fanning",
+            "Harris Dickinson",
+            "Michelle Pfeiffer",
+            "Sam Riley"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4777008"
+    },
+    {
+        "id": 504562,
+        "title": "Öksüz Brooklyn (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2wm20cbkH1L8nA54Gtwfgz2hTqo.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Edward Norton",
+            "Bruce Willis",
+            "Gugu Mbatha-Raw",
+            "Alec Baldwin",
+            "Willem Dafoe"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt0385887"
+    },
+    {
+        "id": 509598,
+        "title": "Bay Jones (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/vpCKOsAmKLD67mwugN6hrPvdPZl.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "James Norton",
+            "Vanessa Kirby",
+            "Peter Sarsgaard",
+            "Joseph Mawle",
+            "Kenneth Cranham"
+        ],
+        "country": [
+            "GB",
+            "UA",
+            "PL"
+        ],
+        "link": "https://vidmody.com/vs/tt6828390"
+    },
+    {
+        "id": 525697,
+        "title": "Nükleer (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/d90pK5FqSl85SeRIF0HRpN8GrgF.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Emilia Jones",
+            "Sienna Guillory",
+            "George MacKay",
+            "Oliver Coopersmith",
+            "Noriko Sakura"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt8325880"
+    },
+    {
+        "id": 626975,
+        "title": "Kutsal Kızlar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/uTZCv863gqnXvCj2Qnb7UOqNccT.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Eve Austin",
+            "Tallulah Greive",
+            "Abigail Lawrie",
+            "Sally Messham",
+            "Rona Morison"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt9489598"
+    },
+    {
+        "id": 626267,
+        "title": "Over the Moon in Love (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2JVwrut5sFraOrzHYVOzPblR13d.jpg",
+        "year": "2019",
+        "genres": [
+            "Romantik",
+            "TV film"
+        ],
+        "cast": [
+            "Jessica Lowndes",
+            "Wes Brown",
+            "Miranda Frigon",
+            "Naika Toussaint",
+            "Rachel Hayward"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10298896"
+    },
+    {
+        "id": 560362,
+        "title": "Çıngıraklı Yılan (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Gizem",
+            "Korku"
+        ],
+        "cast": [
+            "Carmen Ejogo",
+            "Theo Rossi",
+            "Emma Greenwell",
+            "Debrianna Mansini",
+            "Rio Alexander"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9257484"
+    },
+    {
+        "id": 627879,
+        "title": "Sahte Savaş (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg",
+        "year": "2019",
+        "genres": [
+            "Savaş",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Stephen Lang",
+            "Will Yun Lee",
+            "Chris Mulkey",
+            "Rory Markham",
+            "Roman Mitichyan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5266668"
+    },
+    {
+        "id": 591774,
+        "title": "Kayıp Gençlik (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/uS9qxeCuP1WTYytdyQy9bydTgIi.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ron Perlman",
+            "Michael Pitt",
+            "William Forsythe",
+            "Mark Boone Junior",
+            "Kylie Rogers"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6345894"
+    },
+    {
+        "id": 515724,
+        "title": "Her Zaman Sadık (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/7OEnUJemQZuKFyxXYlmRznoUemX.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Jai Courtney",
+            "Nat Wolff",
+            "Finn Wittrock",
+            "Arturo Castro",
+            "Beau Knapp"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7042838"
+    },
+    {
+        "id": 522369,
+        "title": "Üzgünüz, Size Ulaşamadık (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/rg5hadrPZbgGdxd8b5eQ696T25B.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Kris Hitchen",
+            "Debbie Honeywood",
+            "Rhys Mcgowan",
+            "Katie Proctor",
+            "Ross Brewster"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt8359816"
+    },
+    {
+        "id": 470897,
+        "title": "Tuhaf Ama Gerçek (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/uImgUgcjzczbDixvoDQ0Tqrg2lj.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Amy Ryan",
+            "Nick Robinson",
+            "Margaret Qualley",
+            "Blythe Danner",
+            "Brian Cox"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2866708"
+    },
+    {
+        "id": 537061,
+        "title": "Steven Universe: Film (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+        "year": "2019",
+        "genres": [
+            "TV film",
+            "Macera",
+            "Animasyon",
+            "Fantastik",
+            "Müzik",
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Zach Callison",
+            "Deedee Magno",
+            "Estelle",
+            "Michaela Dietz",
+            "Sarah Stiles"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10515852"
+    },
+    {
+        "id": 290859,
+        "title": "Terminatör: Kara Kader (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/iBIF1XeQqcN3FSmC0pJXIrJGoxV.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Linda Hamilton",
+            "Arnold Schwarzenegger",
+            "Mackenzie Davis",
+            "Natalia Reyes",
+            "Gabriel Luna"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6450804"
+    },
+    {
+        "id": 481084,
+        "title": "Addams Ailesi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/zBIcmSygQtuzpVvYuavlKMvbwXb.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Animasyon",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Oscar Isaac",
+            "Charlize Theron",
+            "Chloë Grace Moretz",
+            "Finn Wolfhard",
+            "Nick Kroll"
+        ],
+        "country": [
+            "US",
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt1620981"
+    },
+    {
+        "id": 608994,
+        "title": "The Cleansing Hour (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/c0daWffGoQpk5Y0LZuQ3gFwisdF.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Kyle Gallner",
+            "Ryan Guzman",
+            "Alix Angelis",
+            "Chris Lew Kum Hoi",
+            "Emma Holzer"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8009906"
+    },
+    {
+        "id": 549859,
+        "title": "The Dead Center (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cMvuo4DianPqhp6rvuvTkiICTCS.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Shane Carruth",
+            "Poorna Jagannathan",
+            "Jeremy Childs",
+            "Bill Feehely",
+            "J. Thomas Bailey"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8806104"
+    },
+    {
+        "id": 429416,
+        "title": "The Jesus Rolls (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wxXZXYNn1H5eVRbpTZVFvWBvjlY.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "John Turturro",
+            "Audrey Tautou",
+            "Bobby Cannavale",
+            "Sônia Braga",
+            "Jon Hamm"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5974030"
+    },
+    {
+        "id": 489245,
+        "title": "Ölüm Takımı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg",
+        "year": "2019",
+        "genres": [
+            "Savaş",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Nat Wolff",
+            "Alexander Skarsgård",
+            "Adam Long",
+            "Jonathan Whitesell",
+            "Brian Marc"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6196936"
+    },
+    {
+        "id": 504949,
+        "title": "Kral (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Timothee Chalamet",
+            "Joel Edgerton",
+            "Sean Harris",
+            "Tom Glynn-Carney",
+            "Lily-Rose Depp"
+        ],
+        "country": [
+            "AU",
+            "US",
+            "HU",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt7984766"
+    },
+    {
+        "id": 468816,
+        "title": "The Rising Hawk (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/qmLNbyXKpuEKXjmaEWIEAoiS0OB.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Alex MacNicoll",
+            "Poppy Drayton",
+            "Rocky Myers",
+            "Аліна Коваленко",
+            "Robert Patrick"
+        ],
+        "country": [
+            "UA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7439064"
+    },
+    {
+        "id": 517831,
+        "title": "İnsan Yiyenler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kdPyWVCuKN4ZfN9WYPwMFmZLyBC.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Megan Purvis",
+            "Samuel Freeman",
+            "Hannah Louise Howell",
+            "Benjamin Sarpong-Broni",
+            "Kim Spearman"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6112524"
+    },
+    {
+        "id": 308551,
+        "title": "Toplu Taşıma 17 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/nd6MbF94wsPKOlpPaejAen2CaFD.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Guy Bleyaert",
+            "Zara Phythian",
+            "Lee Charles",
+            "Silvio Simac",
+            "Kimberly Stahl"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3709718"
+    },
+    {
+        "id": 628707,
+        "title": "Trick (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/vxo4qqrhz61SnAUtlHIbYPzZoBU.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Omar Epps",
+            "Tom Atkins",
+            "Jamie Kennedy",
+            "Ellen Adair",
+            "Kristina Reyes"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9177040"
+    },
+    {
+        "id": 537055,
+        "title": "Wonder Woman: Bloodlines (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/w1SBqj0fn1j72ST5i1jauWo3swT.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu",
+            "Animasyon"
+        ],
+        "cast": [
+            "Rosario Dawson",
+            "Jeffrey Donovan",
+            "Marie Avgeropoulos",
+            "Kimberly Brooks",
+            "Ray Chase"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8752498"
+    },
+    {
+        "id": 338967,
+        "title": "Zombieland: Çift Vuruş (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/r4T9mVgTCbmd5criQGzfhizx62j.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Woody Harrelson",
+            "Jesse Eisenberg",
+            "Emma Stone",
+            "Abigail Breslin",
+            "Zoey Deutch"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1560220"
     }
 ]
