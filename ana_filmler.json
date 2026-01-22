@@ -119253,5 +119253,152 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt8058904"
+    },
+    {
+        "id": 544404,
+        "title": "Hangi Kadın (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/gfDBgmtZsyZeiq56ixskUMhN7eB.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Juliette Binoche",
+            "Nicole Garcia",
+            "François Civil",
+            "Marie-Ange Casta",
+            "Guillaume Gouix"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7552686"
+    },
+    {
+        "id": 509364,
+        "title": "Yüzleşme (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/iI6YdN2mhlqwa4NsVLdBJPg7jS2.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Melvil Poupaud",
+            "Denis Ménochet",
+            "Swann Arlaud",
+            "Éric Caravaca",
+            "François Marthouret"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8095860"
+    },
+    {
+        "id": 482710,
+        "title": "Claire Darling'in Son Çılgınlığı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/htVovYJE966Rk2TGiBrbG9g20Ne.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Catherine Deneuve",
+            "Chiara Mastroianni",
+            "Alice Taglioni",
+            "Olivier Rabourdin",
+            "Samir Guesmi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6961808"
+    },
+    {
+        "id": 484468,
+        "title": "The Wolf's Call (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/hy2rqt5TezQUnca8k1HZalQzqHs.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Aksiyon",
+            "Macera"
+        ],
+        "cast": [
+            "François Civil",
+            "Omar Sy",
+            "Mathieu Kassovitz",
+            "Reda Kateb",
+            "Paula Beer"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7458762"
+    },
+    {
+        "id": 571650,
+        "title": "Paradise Beach (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/h0q0ATqmFWmh5MpIOvE2ZBc321n.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Sami Bouajila",
+            "Tewfik Jallab",
+            "Mélanie Doutey",
+            "Hugo Becker",
+            "Kool Shen"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7511008"
+    },
+    {
+        "id": 504321,
+        "title": "Paris Biziz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wMwTOVbqOYxqf49lMrHRrd4v8pA.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Noémie Schmidt",
+            "Grégoire Isvarine",
+            "Marie Mottet",
+            "Lou Castel",
+            "Mathias Minne"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7920024"
+    },
+    {
+        "id": 501590,
+        "title": "Eş Anlamlılar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/rfULPcedUQoqEabscgXuMp2c77w.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Tom Mercier",
+            "Quentin Dolmaire",
+            "Louise Chevillotte",
+            "Uria Hayik",
+            "Olivier Loustau"
+        ],
+        "country": [
+            "FR",
+            "IL"
+        ],
+        "link": "https://vidmody.com/vs/tt7016254"
     }
 ]
