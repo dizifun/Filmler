@@ -120710,5 +120710,113 @@
             "GT"
         ],
         "link": "https://vidmody.com/vs/tt9206516"
+    },
+    {
+        "id": 619441,
+        "title": "Goodbye (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/tzr7XZNEq6zwgBVQzrrEHieOUI2.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mario Casas",
+            "Natalia de Molina",
+            "Ruth Díaz",
+            "Carlos Bardem",
+            "Vicente Romero Sánchez"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt9786512"
+    },
+    {
+        "id": 619264,
+        "title": "The Platform (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Ivan Massagué",
+            "Antonia San Juan",
+            "Zorion Eguileor",
+            "Emilio Buale",
+            "Alexandra Masangkay"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt8228288"
+    },
+    {
+        "id": 632931,
+        "title": "Bataklığın Sessizliği (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/qcVhyrsESOFwyNCEuwQXCwQ8eZI.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Pedro Alonso",
+            "Nacho Fresneda",
+            "Carmina Barrios",
+            "Àlex Monner",
+            "Zaira Romero"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt8743032"
+    },
+    {
+        "id": 648337,
+        "title": "GO! Unutulmaz Bir Parti (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/5PnL2fXmDCmwJ0lVTluLn5qoulo.jpg",
+        "year": "2019",
+        "genres": [
+            "Müzik",
+            "Aile",
+            "Dram",
+            "TV film"
+        ],
+        "cast": [
+            "Pilar Pascual",
+            "José Giménez-Zapiola",
+            "Santiago Saez",
+            "Renata Toscano Bruzón",
+            "Gastón Ricaud"
+        ],
+        "country": [
+            "AR"
+        ],
+        "link": "https://vidmody.com/vs/tt11162974"
+    },
+    {
+        "id": 587986,
+        "title": "Advantages of Travelling by Train (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6C8uJnxoBZVYY7iueExVL423RLI.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Luis Tosar",
+            "Pilar Castro",
+            "Ernesto Alterio",
+            "Quim Gutiérrez",
+            "Belén Cuesta"
+        ],
+        "country": [
+            "FR",
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt8406738"
     }
 ]
