@@ -140107,5 +140107,152 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt6948326"
+    },
+    {
+        "id": 478503,
+        "title": "Ailo: Laponya'da Bir Macera (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2fkIIQpwSdVocbVmcadytkDdoIO.jpg",
+        "year": "2018",
+        "genres": [
+            "Belgesel",
+            "Aile",
+            "Macera"
+        ],
+        "cast": [
+            "Aldebert"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8242340"
+    },
+    {
+        "id": 478820,
+        "title": "İmparator: Yeraltı Dünyasının Hükümdarı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2OR9KlV806yoAfCdW6Njc7Txawl.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Vincent Cassel",
+            "Patrick Chesnais",
+            "August Diehl",
+            "Ольга Куриленко",
+            "Denis Lavant"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7025976"
+    },
+    {
+        "id": 529784,
+        "title": "Sadık Bir Adam (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/iP9BHZg4m3C23SaMP94osXcukRE.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Louis Garrel",
+            "Laetitia Casta",
+            "Lily-Rose Depp",
+            "Joseph Engel",
+            "Dali Benssalah"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8075202"
+    },
+    {
+        "id": 547386,
+        "title": "Breath of Life (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/zj5zdXUniK0iq2nddZt1R1k4xzX.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jérémie Renier",
+            "Marthe Keller",
+            "Zita Hanrot",
+            "Maud Wyler",
+            "Alain Libolt"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8886110"
+    },
+    {
+        "id": 478508,
+        "title": "Dünyanın Sınırında (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/mSSqhNxfSSAfQq1kZpRtQtHe6LO.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Macera",
+            "Savaş"
+        ],
+        "cast": [
+            "Gaspard Ulliel",
+            "Guillaume Gouix",
+            "Lang Khê Tran",
+            "Gérard Depardieu",
+            "Jonathan Couzinié"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6704974"
+    },
+    {
+        "id": 489418,
+        "title": "Gözbebeğim (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/mkpazBUErMpNIpTUVRhbZ4MbJrv.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Sandrine Kiberlain",
+            "Gilles Lellouche",
+            "Élodie Bouchez",
+            "Olivia Côte",
+            "Clotilde Mollet"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7543930"
+    },
+    {
+        "id": 458302,
+        "title": "Kimsesiz Çocuk Remi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/g5aUsWHhTMK8yEcIJ3p3ju8cuY3.jpg",
+        "year": "2018",
+        "genres": [
+            "Macera",
+            "Aile",
+            "Dram"
+        ],
+        "cast": [
+            "Maleaume Paquin",
+            "Daniel Auteuil",
+            "Virginie Ledoyen",
+            "Ludivine Sagnier",
+            "Jonathan Zaccaï"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6741368"
     }
 ]
