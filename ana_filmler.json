@@ -139785,5 +139785,89 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt4844148"
+    },
+    {
+        "id": 507076,
+        "title": "Climax (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/j594woyeGeEGvlSZ95sZuA5uCot.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Dram"
+        ],
+        "cast": [
+            "Sofia Boutella",
+            "Romain Guillermic",
+            "Souheila Yacoub",
+            "Kiddy Smile",
+            "Claude-Emmanuelle Gajan-Maull"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8359848"
+    },
+    {
+        "id": 506421,
+        "title": "Albert'i Kaybettim (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/5I4MiZxaNI6Patml3rgofspB6wV.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Stéphane Plaza",
+            "Julie Ferrier",
+            "Josiane Balasko",
+            "Bernard Le Coq",
+            "Étienne Draber"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7517232"
+    },
+    {
+        "id": 511404,
+        "title": "The Summer House (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/srneCbN2ymaYo6DYEcFLBkrb9ev.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Valeria Bruni Tedeschi",
+            "Pierre Arditi",
+            "Valeria Golino",
+            "Noémie Lvovsky",
+            "Oumy Bruni Garrel"
+        ],
+        "country": [
+            "FR",
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt7216918"
+    },
+    {
+        "id": 515911,
+        "title": "Lady J (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/5DI0EWEpzUfeMSQKtEh24maP9iB.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Cécile de France",
+            "Édouard Baer",
+            "Laure Calamy",
+            "Alice Isaaz",
+            "Natalia Dontcheva"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7530986"
     }
 ]
