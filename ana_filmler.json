@@ -157602,5 +157602,195 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt5825380"
+    },
+    {
+        "id": 382595,
+        "title": "Dalida (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/fZx4PGZBXePgMmo0HyBcHPbidZU.jpg",
+        "year": "2017",
+        "genres": [
+            "Müzik",
+            "Dram"
+        ],
+        "cast": [
+            "Sveva Alviti",
+            "Riccardo Scamarcio",
+            "Jean-Paul Rouve",
+            "Niels Schneider",
+            "Alessandro Borghi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5039860"
+    },
+    {
+        "id": 415034,
+        "title": "Don't Tell Her (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/hKsQRJrEBdNWpHklNnm0uiKjz1Y.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Jenifer",
+            "Camille Chamoux",
+            "Stéphanie Crayencour",
+            "Tania Garbarski",
+            "Laurent Capelluto"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt4428714"
+    },
+    {
+        "id": 428226,
+        "title": "The Poisoning Angel (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/6r73eyl3LY7SeQ9juENQK7IDmJT.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Déborah François",
+            "Benjamin Biolay",
+            "Jonathan Zaccaï",
+            "Catherine Mouchet",
+            "Blanche François"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5286250"
+    },
+    {
+        "id": 398920,
+        "title": "Hık Demiş Burnundan Düşmüş (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3BaBN3ofPR39OVP7AZmSZFVXx6D.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Lucien Jean-Baptiste",
+            "Aïssa Maïga",
+            "Zabou Breitman",
+            "Vincent Elbaz",
+            "Michel Jonasz"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5256722"
+    },
+    {
+        "id": 415036,
+        "title": "Gece Seansı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/fEH20nWuzDJqS34OU9mf1ZjO2rV.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Édouard Baer",
+            "Audrey Tautou",
+            "Sabrina Ouazani",
+            "Grégory Gadebois",
+            "Michel Galabru"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5252396"
+    },
+    {
+        "id": 413778,
+        "title": "Lost in Paris (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/fPkE2c1dT5r9jI2vjdpDqgL8v0m.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Fiona Gordon",
+            "Dominique Abel",
+            "Emmanuelle Riva",
+            "Pierre Richard",
+            "Emmy Boissard Paumelle"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt2936884"
+    },
+    {
+        "id": 395769,
+        "title": "Elementary (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/oAL1ZMXHhpRAmkXv0uclFtcYqrz.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Aile"
+        ],
+        "cast": [
+            "Sara Forestier",
+            "Vincent Elbaz",
+            "Albert Cousi",
+            "Ghillas Bendjoudi",
+            "Guilaine Londez"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5180240"
+    },
+    {
+        "id": 434355,
+        "title": "Taksi 5 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/cRY6NShGF0FFDnRHEDTj0spUGHU.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Franck Gastambide",
+            "Malik Bentalha",
+            "Bernard Farcy",
+            "Salvatore Esposito",
+            "Édouard Montoute"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7238392"
+    },
+    {
+        "id": 398924,
+        "title": "Bir Torba Bilye (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7ihcd5LHu99w0Z4qsDf0nrRT0Oa.jpg",
+        "year": "2017",
+        "genres": [
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Dorian Le Clech",
+            "Batyste Fleurial",
+            "Patrick Bruel",
+            "Elsa Zylberstein",
+            "Bernard Campan"
+        ],
+        "country": [
+            "CZ",
+            "FR",
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt5091612"
     }
 ]
