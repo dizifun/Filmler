@@ -118619,5 +118619,549 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt11112140"
+    },
+    {
+        "id": 512200,
+        "title": "Jumanji: Yeni Seviye (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/uslyV3FkKdQHMxpdnvq1bL4YfYV.jpg",
+        "year": "2019",
+        "genres": [
+            "Macera",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Dwayne Johnson",
+            "Kevin Hart",
+            "Jack Black",
+            "Karen Gillan",
+            "Awkwafina"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7975244"
+    },
+    {
+        "id": 522212,
+        "title": "Just Mercy (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Tarih"
+        ],
+        "cast": [
+            "Michael B. Jordan",
+            "Brie Larson",
+            "Jamie Foxx",
+            "O'Shea Jackson Jr.",
+            "Rafe Spall"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4916630"
+    },
+    {
+        "id": 331482,
+        "title": "Küçük Kadınlar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/wsbWKfQKUOAzFNpsQTE9BOQJTUl.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Tarih"
+        ],
+        "cast": [
+            "Saoirse Ronan",
+            "Emma Watson",
+            "Florence Pugh",
+            "Eliza Scanlen",
+            "Laura Dern"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3281548"
+    },
+    {
+        "id": 346709,
+        "title": "Line of Duty (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/h3mrc6JunZYFTmFas2gKilmw77q.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Suç",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Aaron Eckhart",
+            "Courtney Eaton",
+            "Ben McKenzie",
+            "Giancarlo Esposito",
+            "Jessica Lu"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt3541524"
+    },
+    {
+        "id": 588787,
+        "title": "Ordinary Love (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/aZcZKvqZFRxu3TgCiJzFu5Vb1GP.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Liam Neeson",
+            "Lesley Manville",
+            "David Wilmot",
+            "Amit Shah",
+            "Lalor Roddy"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6012380"
+    },
+    {
+        "id": 500916,
+        "title": "Primal (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/v0Air5GTsfgtjsnZyji2lH6r2b8.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nicolas Cage",
+            "Famke Janssen",
+            "Kevin Durand",
+            "Jeremy Jay Nazario",
+            "LaMonica Garrett"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7394816"
+    },
+    {
+        "id": 384756,
+        "title": "Rabid (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/qwhu63aaXjuR9PzSf1nk92rpD9T.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu",
+            "Korku"
+        ],
+        "cast": [
+            "Laura Vandervoort",
+            "Benjamin Hollingsworth",
+            "Ted Atherton",
+            "Hanneke Talbot",
+            "Stephen Huszar"
+        ],
+        "country": [
+            "US",
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt5628902"
+    },
+    {
+        "id": 292011,
+        "title": "Richard Jewell (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Paul Walter Hauser",
+            "Jon Hamm",
+            "Kathy Bates",
+            "Sam Rockwell",
+            "Olivia Wilde"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3513548"
+    },
+    {
+        "id": 635776,
+        "title": "Sahte Savaş 2 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kwpOjd5mZLDtgn3HO5JT9wDVAVI.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Will Yun Lee",
+            "Stephen Lang",
+            "Chris Mulkey",
+            "Fernando Chien",
+            "Essam Ferris"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7983712"
+    },
+    {
+        "id": 616257,
+        "title": "Rule of 3 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/x54yHNeQObfr9zvINgVu9kmWZgh.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "TV film"
+        ],
+        "cast": [
+            "Kelly Rutherford",
+            "Erin Karpluk",
+            "Kate Corbett",
+            "Joris Jarsky",
+            "Brett Donahue"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt10395136"
+    },
+    {
+        "id": 617807,
+        "title": "Santa in Training (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/lJhjqb7tZUcb9lm54k28UfCN0ww.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile"
+        ],
+        "cast": [
+            "Antonio Sabàto, Jr.",
+            "Julio Iglesias, Jr.",
+            "Carson Rowland",
+            "Kate Katzman",
+            "Tito Puente Jr."
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9809230"
+    },
+    {
+        "id": 639422,
+        "title": "Gelecek Noel, Bu Vakitler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/rxnyJpZpL6nAQKhs13hX0MvztmO.jpg",
+        "year": "2019",
+        "genres": [
+            "Romantik",
+            "TV film"
+        ],
+        "cast": [
+            "Lea Michele",
+            "Bryan Greenberg",
+            "Charles Michael Davis",
+            "Candace Smith",
+            "George Newbern"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10650924"
+    },
+    {
+        "id": 510298,
+        "title": "Seberg (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kv78WJ2YvWyk3c32sbOGFh64xcs.jpg",
+        "year": "2019",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Kristen Stewart",
+            "Jack O'Connell",
+            "Anthony Mackie",
+            "Margaret Qualley",
+            "Zazie Beetz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1780967"
+    },
+    {
+        "id": 627491,
+        "title": "Aşk, Gurur ve Kardan Adam (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/57WPZHvKzcPvzJn5Ar5DrYuH3QS.jpg",
+        "year": "2019",
+        "genres": [
+            "Romantik",
+            "TV film"
+        ],
+        "cast": [
+            "Erin Krakow",
+            "Luke Macfarlane",
+            "Kimberley Sustad",
+            "Jason McKinnon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10650610"
+    },
+    {
+        "id": 431693,
+        "title": "Ajanlar İş Başında (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/ezV66USUWZVNCqPJtxaM2WZjPcE.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Macera",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Will Smith",
+            "Tom Holland",
+            "Ben Mendelsohn",
+            "Rashida Jones",
+            "Karen Gillan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5814534"
+    },
+    {
+        "id": 515789,
+        "title": "Süper Köpek ve Turbo Kedi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/uyRCOcG4og5aQ5jZgAU3quHhGgU.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Luke Evans",
+            "Nick Frost",
+            "Gemma Arterton",
+            "Bill Nighy",
+            "Ben Bailey Smith"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt7531096"
+    },
+    {
+        "id": 181812,
+        "title": "Star Wars: Skywalker'ın Yükselişi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/e1YcZy8HMEn4fNGf18losEWblCl.jpg",
+        "year": "2019",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Carrie Fisher",
+            "Mark Hamill",
+            "Daisy Ridley",
+            "Adam Driver",
+            "John Boyega"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2527338"
+    },
+    {
+        "id": 520390,
+        "title": "Yabancıların Nezaketi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/8FTd5earQCWzNd1NQDQ2uyc3sHT.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Zoe Kazan",
+            "Andrea Riseborough",
+            "Tahar Rahim",
+            "Caleb Landry Jones",
+            "Jay Baruchel"
+        ],
+        "country": [
+            "DK",
+            "CA",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6515910"
+    },
+    {
+        "id": 465086,
+        "title": "Garez (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/sF0SmtAFZCcTBkndFz4vOTV5QvB.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Andrea Riseborough",
+            "Demián Bichir",
+            "John Cho",
+            "Lin Shaye",
+            "Jacki Weaver"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3612126"
+    },
+    {
+        "id": 617768,
+        "title": "The Song of Names (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6zxqUH68CglUN4biBMZLZC9Ipft.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Tim Roth",
+            "Clive Owen",
+            "Catherine McCormack",
+            "Eddie Izzard",
+            "Saul Rubinek"
+        ],
+        "country": [
+            "CA",
+            "HU",
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1657517"
+    },
+    {
+        "id": 509932,
+        "title": "Kurt Çocuğun Gerçek Hikayesi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/mF2ZYPwhMwRp1rJSCI7KKIkw4fc.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jaeden Martell",
+            "Sophie Giannamore",
+            "John Turturro",
+            "Eve Hewson",
+            "Chris Messina"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7262384"
+    },
+    {
+        "id": 605804,
+        "title": "Davetsiz (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/qKqlKOnm8CxcwVvoMTc26HhHN38.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "John-Paul Howard",
+            "Piper Curda",
+            "Jamison Jones",
+            "Azie Tesfai",
+            "Kevin Bigley"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8305806"
+    },
+    {
+        "id": 606856,
+        "title": "Togo (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg",
+        "year": "2019",
+        "genres": [
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Willem Dafoe",
+            "Julianne Nicholson",
+            "Christopher Heyerdahl",
+            "Richard Dormer",
+            "Adrien Dorval"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5116302"
+    },
+    {
+        "id": 641790,
+        "title": "Travma Merkezi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/8K73wvCTBA3XKgZTtOZWgENUnis.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Nicky Whelan",
+            "Bruce Willis",
+            "Steve Guttenberg",
+            "Tito Ortiz",
+            "Texas Battle"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt9625664"
+    },
+    {
+        "id": 648572,
+        "title": "Vikingler: Büyük Macera (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cMEGNIullHopn7WWKPCzNyTpxUQ.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Macera"
+        ],
+        "cast": [
+            "Declan Miele-Howell",
+            "David Schaal",
+            "Owen Frost",
+            "Violet Tucker Steel",
+            "Dan Russell"
+        ],
+        "country": [
+            "BE",
+            "FR",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt8065768"
     }
 ]
