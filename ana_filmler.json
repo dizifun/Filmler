@@ -143811,5 +143811,213 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt6439558"
+    },
+    {
+        "id": 451791,
+        "title": "Damat Koğuşu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/266SONlqMh4vdKEv5GPSHfPagcA.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Musa Can Pekcan",
+            "Diyar Karatas",
+            "Barış Atay",
+            "Caner Erdem",
+            "Halit Karaata"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6101458"
+    },
+    {
+        "id": 443486,
+        "title": "İstanbul Kırmızısı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5zHSWOoSyLSqhcVNMD6FHOlE8ZF.jpg",
+        "year": "2017",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Halit Ergenç",
+            "Tuba Büyüküstün",
+            "Nejat İşler",
+            "Mehmet Günsür",
+            "Çiğdem Selışık Onat"
+        ],
+        "country": [
+            "IT",
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5927352"
+    },
+    {
+        "id": 502127,
+        "title": "Aşk Uykusu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3W4nECPPSuJ1bnTzFIheDQplwiL.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Gökçe Bahadır",
+            "Alican Yücesoy",
+            "Hande Subaşı",
+            "Hasan Küçükçetin",
+            "Lale Başar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6677500"
+    },
+    {
+        "id": 447447,
+        "title": "Tatlım Tatlım (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/9Q7oRuLgHhi3XMbIB9sOmDlw52Y.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Aylin Kontente",
+            "Bülent Emrah Parlak",
+            "Büşra Pekin",
+            "Çağlar Çorumlu",
+            "Fatih Artman"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6555772"
+    },
+    {
+        "id": 450456,
+        "title": "Biz Size Döneriz (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/xXtco41oFrZy0cuREcbnakrD9iw.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Hande Soral",
+            "Çağlar Ertuğrul",
+            "Fırat Albayram",
+            "Bestemsu Özdemir",
+            "Tarık Ündüz"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6559642"
+    },
+    {
+        "id": 468275,
+        "title": "Mahalle (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/rBF2a72w2Vp7N8813yKmtU6QxgC.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Dram"
+        ],
+        "cast": [
+            "Serhat Teoman",
+            "Buğra Gülsoy",
+            "Emre Erkan",
+            "Selahattin Töz",
+            "Hazar Ergüçlü"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6679058"
+    },
+    {
+        "id": 504318,
+        "title": "Kar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/ja1QKM3m9LRT5GqCqxQFjCFskPg.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Hazar Ergüçlü",
+            "Ozan Uygun",
+            "Halil Babür",
+            "Doğaç Yıldız",
+            "Nazlı Bulum"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6396050"
+    },
+    {
+        "id": 558024,
+        "title": "Sarıkamış Çocukları (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/po0fJiyltbNVYdb31e71p7D6znO.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Burç Kümbetlioğlu",
+            "Sılay Ünal",
+            "Altan Erkekli",
+            "Kayhan Yıldızoğlu",
+            "Sema Çeyrekbaşı"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7921282"
+    },
+    {
+        "id": 445944,
+        "title": "Deli Aşk (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/gBNdUyrahMqQQI07ToBB1iybdW1.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Emrah Kaman",
+            "Pelin Akil",
+            "Zafer Algöz",
+            "Cem Yılmaz",
+            "Hakan Altun"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6229852"
+    },
+    {
+        "id": 468261,
+        "title": "Sonsuz Aşk (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/kPC1HlVTq00Cle5cVvkoQ8958Iz.jpg",
+        "year": "2017",
+        "genres": [
+            "Romantik"
+        ],
+        "cast": [
+            "Murat Yıldırım",
+            "Fahriye Evcen",
+            "Fatih Al",
+            "Filiz Ahmet",
+            "Zeynep Özder"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6690234"
     }
 ]
