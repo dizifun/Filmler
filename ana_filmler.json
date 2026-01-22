@@ -110197,5 +110197,49 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt3663680"
+    },
+    {
+        "id": 482981,
+        "title": "Vahşi Rose (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+        "year": "2019",
+        "genres": [
+            "Müzik",
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Jessie Buckley",
+            "Julie Walters",
+            "Sophie Okonedo",
+            "Jamie Sives",
+            "Craig Parkinson"
+        ],
+        "country": [
+            "CA",
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5117428"
+    },
+    {
+        "id": 461218,
+        "title": "William (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/yEHCfZHVstvFExr067N22AWjfQk.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Maria Dizzia",
+            "Will Brittain",
+            "Waleed Zuaiter",
+            "Susan Park",
+            "Beth Grant"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6316816"
     }
 ]
