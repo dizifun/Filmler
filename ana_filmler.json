@@ -138096,5 +138096,182 @@
             "GB"
         ],
         "link": "https://vidmody.com/vs/tt7668724"
+    },
+    {
+        "id": 434555,
+        "title": "Kadavra (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/gQfMMbgIdvZYHoi6n5IdApohNMg.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Dram"
+        ],
+        "cast": [
+            "Shay Mitchell",
+            "Kirby Johnson",
+            "Grey Damon",
+            "Stana Katic",
+            "Louis Herthum"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5734576"
+    },
+    {
+        "id": 477036,
+        "title": "The Sonata (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/iiL3AWKPx6GIZN6AmmSq7pbtyc.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Freya Tingley",
+            "Simon Abkarian",
+            "James Faulkner",
+            "Rutger Hauer",
+            "Catherine Schaub-Abkarian"
+        ],
+        "country": [
+            "GB",
+            "FR",
+            "LV",
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7149066"
+    },
+    {
+        "id": 463022,
+        "title": "Tamirci (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/1No4DWiCA7QiVwz3CghUQ6X8PMJ.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Val Kilmer",
+            "Patrick John Flueger",
+            "Louisa Krause",
+            "Mattea Conforti",
+            "Taylor Richardson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5884784"
+    },
+    {
+        "id": 543580,
+        "title": "They Shall Not Grow Old (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/yMGfJeTXUdIjOqjS0jJfjgYEuYC.jpg",
+        "year": "2018",
+        "genres": [
+            "Belgesel",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Thomas Adlam",
+            "William Argent",
+            "John Ashby",
+            "Attwood",
+            "Walter Aust"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt7905466"
+    },
+    {
+        "id": 451925,
+        "title": "Zaman Yolcuları (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/kmL7OFMxXuMVSd9TYNkcNVLFhOS.jpg",
+        "year": "2018",
+        "genres": [
+            "Bilim-Kurgu",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Asa Butterfield",
+            "Sophie Turner",
+            "Skyler Gisondo",
+            "Will Peltz",
+            "Aubrey Reynolds"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6769280"
+    },
+    {
+        "id": 502145,
+        "title": "Unlovable (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/8W54YNDAq3AWHhpVzyN9nkBUlTq.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Charlene deGuzman",
+            "John Hawkes",
+            "Melissa Leo",
+            "Paul James",
+            "Ellen Geer"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5926990"
+    },
+    {
+        "id": 525460,
+        "title": "Eve Hoşgeldin (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/fMhJQoMitAh0pN0fLlD7iUGcBp0.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Aaron Paul",
+            "Emily Ratajkowski",
+            "Riccardo Scamarcio",
+            "Katy Louise Saunders",
+            "Alice Bellagamba"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6829180"
+    },
+    {
+        "id": 401469,
+        "title": "Dul Kadınlar (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2JBZDXsewwvNoKPkd7Orxdd5LUn.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Viola Davis",
+            "Michelle Rodriguez",
+            "Elizabeth Debicki",
+            "Cynthia Erivo",
+            "Colin Farrell"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt4218572"
     }
 ]
