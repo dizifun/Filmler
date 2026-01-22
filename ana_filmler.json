@@ -130890,5 +130890,536 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt6077540"
+    },
+    {
+        "id": 448916,
+        "title": "2036 Kökeni Bilinmeyen (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg",
+        "year": "2018",
+        "genres": [
+            "Bilim-Kurgu",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Katee Sackhoff",
+            "Ray Fearon",
+            "Julie Cox",
+            "Steven Cree",
+            "Noush Skaugen"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt4575328"
+    },
+    {
+        "id": 416673,
+        "title": "Yelkenli Adında Bir Çocuk (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/31C9f9C2Xgil5ivD0FkONcalKT8.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Julian Atocani Sanchez",
+            "J.K. Simmons",
+            "Jake Busey",
+            "Lew Temple",
+            "Noel Gugliemi"
+        ],
+        "country": [
+            "US",
+            "AU"
+        ],
+        "link": "https://vidmody.com/vs/tt2201211"
+    },
+    {
+        "id": 467917,
+        "title": "Jake (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/xb0lsEUyytspi7fo1ggDybRvZVK.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Claire Danes",
+            "Jim Parsons",
+            "Octavia Spencer",
+            "Priyanka Chopra Jonas",
+            "Ann Dowd"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6884200"
+    },
+    {
+        "id": 454283,
+        "title": "Aksiyon Parkı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Johnny Knoxville",
+            "Chris Pontius",
+            "Clover Nee",
+            "Eleanor Worthington-Cox",
+            "Susan Yeagley"
+        ],
+        "country": [
+            "ZA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6495770"
+    },
+    {
+        "id": 412061,
+        "title": "Age Out (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/ld29B0n18Pn9tVXZNxXkwxnA1fo.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Tye Sheridan",
+            "Imogen Poots",
+            "Caleb Landry Jones",
+            "Jeffrey Wright",
+            "Brett Butler"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5342090"
+    },
+    {
+        "id": 339976,
+        "title": "Amerikalı Kadın (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/orERZyOZnm7TNNav6l2vtnV8x4Y.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Sienna Miller",
+            "Christina Hendricks",
+            "Aaron Paul",
+            "Will Sasso",
+            "Sky Ferreira"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4465572"
+    },
+    {
+        "id": 489931,
+        "title": "Amerikan Soygunu (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/xArsCKud3bQHlF6ctJ8t5LCLeLP.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Belgesel"
+        ],
+        "cast": [
+            "Evan Peters",
+            "Barry Keoghan",
+            "Blake Jenner",
+            "Jared Abrahamson",
+            "Ann Dowd"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6212478"
+    },
+    {
+        "id": 474051,
+        "title": "Kalibre (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Jack Lowden",
+            "Martin McCann",
+            "Tony Curran",
+            "Ian Pirie",
+            "Kitty Lovett"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6218358"
+    },
+    {
+        "id": 414018,
+        "title": "Küçük Hanım (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/dNZxjsJwmKorpPvd0kquJffYROr.jpg",
+        "year": "2018",
+        "genres": [
+            "Vahşi Batı",
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Robert Pattinson",
+            "Mia Wasikowska",
+            "David Zellner",
+            "Nathan Zellner",
+            "Joseph Billingiere"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5881528"
+    },
+    {
+        "id": 459258,
+        "title": "Zihin Kontrolü (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/e26QQxiD9glX34qU9Lfj98nMCTA.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Christina Ricci",
+            "John Cusack",
+            "Brendan Fletcher",
+            "Nicole Anthony",
+            "Maja Milkovich"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6143850"
+    },
+    {
+        "id": 524786,
+        "title": "Empathy, Inc. (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/8WWLoVzYRyBdF0g6ASDQu43qEqE.jpg",
+        "year": "2018",
+        "genres": [
+            "Bilim-Kurgu",
+            "Dram"
+        ],
+        "cast": [
+            "Zack Robidas",
+            "Kathy Searle",
+            "Jay Klaitz",
+            "Eric Berryman",
+            "AJ Sedeno"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6317236"
+    },
+    {
+        "id": 440471,
+        "title": "Kaçış Planı 2: Hades (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/mbT7AvKATm9vFsY01L5tyK2ZHwl.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç",
+            "Gizem",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Sylvester Stallone",
+            "Dave Bautista",
+            "Jesse Metcalfe",
+            "50 Cent",
+            "黄晓明"
+        ],
+        "country": [
+            "CN",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6513656"
+    },
+    {
+        "id": 339103,
+        "title": "Gotti (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/cUCX6B0FGTsHC5D8L2CF0gJrQCm.jpg",
+        "year": "2018",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Tarih",
+            "Gerilim"
+        ],
+        "cast": [
+            "John Travolta",
+            "Spencer Rocco Lofranco",
+            "Kelly Preston",
+            "Pruitt Taylor Vince",
+            "William DeMeo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1801552"
+    },
+    {
+        "id": 525864,
+        "title": "Groomzilla (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/dS7U3qArQvbgpqP0hSQ3k0jF2hY.jpg",
+        "year": "2018",
+        "genres": [
+            "Romantik",
+            "TV film"
+        ],
+        "cast": [
+            "Darin Brooks",
+            "Elizabeth Rice",
+            "Kimberly Kevon Williams",
+            "DeVaughn Nixon",
+            "Mark Derwin"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5670836"
+    },
+    {
+        "id": 528094,
+        "title": "Hailey Dean Gizemi: 2+2 Cinayet (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qnwPuRXso7luijYqhEBOKFs2Brp.jpg",
+        "year": "2018",
+        "genres": [
+            "Gizem",
+            "TV film"
+        ],
+        "cast": [
+            "Kellie Martin",
+            "Giacomo Baessato",
+            "Samantha Cole",
+            "Ellen Ewusie",
+            "Chad Lowe"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7946586"
+    },
+    {
+        "id": 470333,
+        "title": "Hearts Beat Loud (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg",
+        "year": "2018",
+        "genres": [
+            "Müzik",
+            "Dram",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Nick Offerman",
+            "Kiersey Clemons",
+            "Blythe Danner",
+            "Toni Collette",
+            "Sasha Lane"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7158430"
+    },
+    {
+        "id": 493922,
+        "title": "Ayin (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/tMIKsS1nbaJSVRfVqt4JN9A3eEI.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Toni Collette",
+            "Alex Wolff",
+            "Gabriel Byrne",
+            "Milly Shapiro",
+            "Ann Dowd"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7784604"
+    },
+    {
+        "id": 406761,
+        "title": "Hotel Artemis (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/vaZMpZOhhkKOYz0MHCx4vDABwgP.jpg",
+        "year": "2018",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jodie Foster",
+            "Sterling K. Brown",
+            "Sofia Boutella",
+            "Jeff Goldblum",
+            "Brian Tyree Henry"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5834262"
+    },
+    {
+        "id": 522882,
+        "title": "Hover (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/rSszYwFRIpsJ1qSYnRt8nLjKTDl.jpg",
+        "year": "2018",
+        "genres": [
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Cleopatra Coleman",
+            "Shane Coffey",
+            "Craig muMs Grant",
+            "Fabianne Therese",
+            "Rhoda Griffis"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8210516"
+    },
+    {
+        "id": 400155,
+        "title": "Otel Transilvanya 3: Yaz Tatili (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/3xTAQ7gsEx1wYB7j6NGMFzShheO.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Andy Samberg",
+            "Selena Gomez",
+            "Kathryn Hahn",
+            "Jim Gaffigan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5220122"
+    },
+    {
+        "id": 399725,
+        "title": "Ideal Home (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/bmXBT2uL4HQGimyfy5iu4ESnEaJ.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Paul Rudd",
+            "Steve Coogan",
+            "Jack Gore",
+            "Alison Pill",
+            "Jake McDorman"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5460880"
+    },
+    {
+        "id": 260513,
+        "title": "İnanılmaz Aile 2 (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/9Hxx811Z56FtBX2HW7FTQZzFxl2.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Craig T. Nelson",
+            "Holly Hunter",
+            "Sarah Vowell",
+            "Huck Milner",
+            "Catherine Keener"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3606756"
+    },
+    {
+        "id": 627199,
+        "title": "Justice Dot Net (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/loFDVTVnTS4M1EqfQjHPPqBSlAg.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Martin McCann",
+            "Pascale Bussières",
+            "Astrid Roos",
+            "Désirée Nosbusch",
+            "Mai Duong Kieu"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7128822"
+    },
+    {
+        "id": 351286,
+        "title": "Jurassic World: Yıkılmış Krallık (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/jyzpYINa5p2YTZ1M8aE5T3IUexR.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Chris Pratt",
+            "Bryce Dallas Howard",
+            "Rafe Spall",
+            "Justice Smith",
+            "Daniella Pineda"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4881806"
     }
 ]
