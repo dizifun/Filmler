@@ -104297,5 +104297,195 @@
             "AZ"
         ],
         "link": "https://vidmody.com/vs/tt13660930"
+    },
+    {
+        "id": 603566,
+        "title": "Can Dostlar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/jvBLFEGy7dFvUdOBT4hk9Ht9TiJ.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Berat Efe Parlar",
+            "Selim Bayraktar",
+            "Dora Dalgıç",
+            "Zeynep Ilgın Çelik",
+            "Duru Hoşver"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9533342"
+    },
+    {
+        "id": 685805,
+        "title": "Dalavere (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/ihQnytzkH6f4ddRckR2QniX8APW.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Ali Çatalbaş",
+            "Erdağ Yenel",
+            "Mehmet Ali Kaptanlar",
+            "Abidin Yerebakan",
+            "Hüseyin Elmalıpınar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9603432"
+    },
+    {
+        "id": 608165,
+        "title": "Borç Harç (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/7c2AHwVme4xbNb5lPrvMVbIwtVP.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Oğuzhan Uğur",
+            "Burak Topaloğlu",
+            "Gökçe Özyol",
+            "Hasan Karakuş",
+            "Esma Soysal"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9364684"
+    },
+    {
+        "id": 531618,
+        "title": "Araf 2 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/zecgRjwCdzGplZHxgTcTdztZOiM.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Emre Kızılırmak",
+            "Cevahir Turan",
+            "Recep Aktuğ",
+            "Sahin Sekman",
+            "Reyhan İlhan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8569126"
+    },
+    {
+        "id": 584556,
+        "title": "Aslı Gibidir (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/11rXKsHUs917KKng8FbY2V3iHob.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Aslı İnandık",
+            "Toygan Avanoğlu",
+            "Ahmet Olgun Sünear",
+            "Tuna Orhan",
+            "Nazlı Tosunoğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9056824"
+    },
+    {
+        "id": 511468,
+        "title": "Lady Winsley'i Kim Öldürdü? (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/1vuYcOmvYjTM3wAU57xza45Gv8o.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Komedi"
+        ],
+        "cast": [
+            "Mehmet Kurtuluş",
+            "Ezgi Mola",
+            "Şenay Gürler",
+            "Ergun Kuyucu",
+            "Turgay Aydın"
+        ],
+        "country": [
+            "TR",
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7035302"
+    },
+    {
+        "id": 577114,
+        "title": "Çiçero (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kRKL8tCx6pUyE8ae04eWyTa2c5G.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Erdal Beşikçioğlu",
+            "Burcu Biricik",
+            "Ertan Saban",
+            "Murat Garipağaoğlu",
+            "Tamer Levent"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8385420"
+    },
+    {
+        "id": 579451,
+        "title": "Sir-Ayet (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/24T7YSp7KtiFATq0bm568m0tafO.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Demet Oran",
+            "Aydan Akboğa",
+            "Sinan Taşkan",
+            "Gizem Terzi",
+            "Burak Küçük"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9668564"
+    },
+    {
+        "id": 537651,
+        "title": "Sibel (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/axhRXdMeRUn1ZwHqfS1pAuMhFNE.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Damla Sönmez",
+            "Erkan Kolçak Köstendil",
+            "Emin Gürsoy",
+            "Elit İşcan",
+            "Gülçin Kültür Şahin"
+        ],
+        "country": [
+            "TR",
+            "DE",
+            "FR",
+            "LU"
+        ],
+        "link": "https://vidmody.com/vs/tt8696440"
     }
 ]
