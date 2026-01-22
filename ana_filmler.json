@@ -112091,5 +112091,115 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt4353250"
+    },
+    {
+        "id": 605347,
+        "title": "The Outsider (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/36HLSziHVip4umkEjspf4IW9TKU.jpg",
+        "year": "2019",
+        "genres": [
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Jonathan Patrick Foo",
+            "Trace Adkins",
+            "Sean Patrick Flanery",
+            "Kaiwi Lyman",
+            "Danny Trejo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt10303892"
+    },
+    {
+        "id": 460276,
+        "title": "The Song of Sway Lake (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/yPIAQcDVajhU4KVrUVH3jn5D3hs.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Rory Culkin",
+            "Robert Sheehan",
+            "Mary Beth Peil",
+            "Isabelle McNally",
+            "Elizabeth Peña"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6371588"
+    },
+    {
+        "id": 565743,
+        "title": "The Vast of Night (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/q2P9lYkctl5Ory71HEBMaFxbVlD.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Sierra McCormick",
+            "Jake Horowitz",
+            "Bruce Davis",
+            "Gail Cronauer",
+            "Cheyenne Barton"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6803046"
+    },
+    {
+        "id": 301528,
+        "title": "Oyuncak Hikayesi 4 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/zNjnFuKoltaqo1FYxkcVvEFHbME.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Komedi",
+            "Animasyon",
+            "Macera"
+        ],
+        "cast": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Annie Potts",
+            "Tony Hale",
+            "Keegan-Michael Key"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1979376"
+    },
+    {
+        "id": 515195,
+        "title": "Yesterday (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Fantastik",
+            "Müzik",
+            "Romantik"
+        ],
+        "cast": [
+            "Himesh Patel",
+            "Lily James",
+            "Sophia Di Martino",
+            "Ellise Chappell",
+            "Meera Syal"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8079248"
     }
 ]
