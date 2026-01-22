@@ -143306,5 +143306,50 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt6523720"
+    },
+    {
+        "id": 513574,
+        "title": "Battle (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/rg3W0dY80XL9zHZvCpYrBlYrSyh.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Romantik",
+            "Müzik"
+        ],
+        "cast": [
+            "Lisa Teige",
+            "Fabian Svegaard Tapia",
+            "Vebjørn Enger",
+            "Charlott Madeleine Utzig",
+            "Achmed Akkabi"
+        ],
+        "country": [
+            "DK",
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt6854672"
+    },
+    {
+        "id": 444101,
+        "title": "Louis & Luca: Uzay Macerası (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/9Zv9bMtOm1xImn043KYdySu4RCj.jpg",
+        "year": "2018",
+        "genres": [
+            "Macera",
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Kari Ann Grønsund",
+            "Trond Høvik",
+            "Per Skjølsvik",
+            "Hege Schøyen",
+            "Ingar Helge Gimle"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt7533756"
     }
 ]
