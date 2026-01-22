@@ -119163,5 +119163,95 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt8065768"
+    },
+    {
+        "id": 484638,
+        "title": "15 Dakika Savaş (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/ap3oLAqT8nple9P4RA7oEFDz9cf.jpg",
+        "year": "2019",
+        "genres": [
+            "Savaş",
+            "Aksiyon",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Ольга Куриленко",
+            "Alban Lenoir",
+            "Sébastien Lalanne",
+            "Michaël Abiteboul",
+            "Vincent Perez"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8060774"
+    },
+    {
+        "id": 513302,
+        "title": "Kayıp Karıncalar Vadisi 2 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/xYOD9vaXc6vx0ZkWsX2lKV73j8l.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Bruno Salomone",
+            "Thierry Frémont",
+            "Stéphane Coulon",
+            "Jean Nanga",
+            "Sarah Cohen-Hadria"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7296782"
+    },
+    {
+        "id": 570131,
+        "title": "İkinci Görüşte Aşk (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/6SltsxgH5feW5cJTxjmJupEGgme.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Romantik",
+            "Fantastik"
+        ],
+        "cast": [
+            "François Civil",
+            "Joséphine Japy",
+            "Benjamin Lavernhe",
+            "Camille Lellouche",
+            "Amaury de Crayencour"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8265928"
+    },
+    {
+        "id": 515818,
+        "title": "Yao (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/tJDCu7m3dFyOVxBbs2pAiFlVx8o.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Macera"
+        ],
+        "cast": [
+            "Omar Sy",
+            "Fatoumata Diawara",
+            "Lionel Louis Basse",
+            "Germaine Acogny",
+            "Alibeta"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8058904"
     }
 ]
