@@ -142683,5 +142683,48 @@
             "RU"
         ],
         "link": "https://vidmody.com/vs/tt6324614"
+    },
+    {
+        "id": 502897,
+        "title": "Yaz (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/38ECixJqajnPDYkOoH5cqaV9oRn.jpg",
+        "year": "2018",
+        "genres": [
+            "Müzik",
+            "Dram"
+        ],
+        "cast": [
+            "유태오",
+            "Рома Зверь",
+            "Ирина Старшенбаум",
+            "Филипп Авдеев",
+            "Александр Горчилин"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt7342838"
+    },
+    {
+        "id": 527266,
+        "title": "Decision: Liquidation (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/lHpWMV2pCDWKijwToLJLosK1Q2p.jpg",
+        "year": "2018",
+        "genres": [
+            "Aksiyon",
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Игорь Петренко",
+            "Алексей Вертков",
+            "Аюб Цингиев",
+            "Алексей Шевченков",
+            "Иван Шахназаров"
+        ],
+        "country": [
+            "RU"
+        ],
+        "link": "https://vidmody.com/vs/tt8816130"
     }
 ]
