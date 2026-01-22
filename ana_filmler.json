@@ -143413,5 +143413,48 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt5847768"
+    },
+    {
+        "id": 460048,
+        "title": "Ağır Gezi (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2gBEpsvDr19mt4hei4YQh854JiR.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Müzik"
+        ],
+        "cast": [
+            "Johannes Holopainen",
+            "Samuli Jaskio",
+            "Antti Tuomas Heikkinen",
+            "Max Ovaska",
+            "Minka Kuustonen"
+        ],
+        "country": [
+            "FI"
+        ],
+        "link": "https://vidmody.com/vs/tt7220754"
+    },
+    {
+        "id": 487635,
+        "title": "Gül Ya Da Öl (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/7L0QhTjs5dmOxbPUt5GCsrn0OF1.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Savaş"
+        ],
+        "cast": [
+            "Martti Suosalo",
+            "Jani Volanen",
+            "Leena Pöysti",
+            "Paavo Kinnunen",
+            "Vesa Vierikko"
+        ],
+        "country": [
+            "FI"
+        ],
+        "link": "https://vidmody.com/vs/tt7220696"
     }
 ]
