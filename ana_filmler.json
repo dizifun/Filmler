@@ -105377,5 +105377,189 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt8983474"
+    },
+    {
+        "id": 740538,
+        "title": "Konuşan Hayvanlar (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/kfwnarRhfayfV66uPoze87bWLaz.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Emir Özyakışır",
+            "Ferit Aktuğ",
+            "Ayça Erturan",
+            "Cahit Kaşıkçılar",
+            "Hülya Duyar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10420250"
+    },
+    {
+        "id": 656917,
+        "title": "Geniş Aile: Komşu Kızı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cy3XPESP6eosutP1s13Gpq9OkGT.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Ufuk Özkan",
+            "Bülent Çolak",
+            "Emre Altuğ",
+            "Rojda Demirer",
+            "Tolga Canbeyli"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10428246"
+    },
+    {
+        "id": 622225,
+        "title": "Kraliçe Lear (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/7ExW7j3zJevqRybQZ5X7L2wlHHa.jpg",
+        "year": "2019",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Behiye Yanık",
+            "Cennet Güneş",
+            "Ümmü Kurt"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10739982"
+    },
+    {
+        "id": 659508,
+        "title": "Sesinde Aşk Var (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/4xh8jb4DcW2qyrQlJCAIzFLpEBT.jpg",
+        "year": "2019",
+        "genres": [
+            "Müzik",
+            "Romantik"
+        ],
+        "cast": [
+            "Burak Tozkoparan",
+            "Hayal Köseoğlu",
+            "Deniz Barut",
+            "Feride Çetin",
+            "Mine Çayıroğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10757976"
+    },
+    {
+        "id": 625462,
+        "title": "Masal Şatosu: Sihirli Davet (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/yBY88PCMcbWqvkXeucFEj6thO7t.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Ecrin Su Çoban",
+            "Berk Coskun",
+            "Ayça Tilki",
+            "Ayşegül Çınar",
+            "Nila Fırat"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10416616"
+    },
+    {
+        "id": 539186,
+        "title": "Kız Kardeşler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/iYekdKkq9l8j7qVCEJIYxtpVnml.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Cemre Ebüzziya",
+            "Ece Yüksel",
+            "Helin Kandemir",
+            "Kayhan Açıkgöz",
+            "Müfit Kayacan"
+        ],
+        "country": [
+            "DE",
+            "GR",
+            "NL",
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9418878"
+    },
+    {
+        "id": 615982,
+        "title": "Siccîn 6 (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2sQWnbH1sFvA1Ug9Jtm8HBDnL16.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Merve Ateş",
+            "Adnan Koç",
+            "Dilara Büyükbayraktar",
+            "Fatih Murat Teke",
+            "Sibel Aytan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10425640"
+    },
+    {
+        "id": 1216163,
+        "title": "Ölü Yatırım (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/y0nuTWuQVMcJ4OkFC5BDw2oWPn2.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Anıl Çelik",
+            "Serkan Dağlı",
+            "Öykü Çelik",
+            "Nursel Köse",
+            "Ceren Kaplakarslan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8671642"
+    },
+    {
+        "id": 591388,
+        "title": "Üç Harfliler: Adak (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/tv2sLlSEX1KKoGvAVxyO3inuiMR.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Mert Ramazan Demir",
+            "Ceren Yılmaz",
+            "Ejder Özkarsligil",
+            "Simge Uluer",
+            "Sebahat Adalar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt9598594"
     }
 ]
