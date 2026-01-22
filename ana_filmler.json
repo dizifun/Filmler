@@ -161568,5 +161568,49 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt4264064"
+    },
+    {
+        "id": 444090,
+        "title": "Kül Delikanlısı : Dağ Kralının Salonunda (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7XLvVXOmEXe0ecdD7xnAYuvhM1W.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Vebjørn Enger",
+            "Mads Sjøgård Pettersen",
+            "Elias Holmen Sørensen",
+            "Eili Harboe",
+            "Allan Hyde"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt5628418"
+    },
+    {
+        "id": 401898,
+        "title": "Thelma (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/l3ciaQdEBQdlOP2Bkc7BV7VkPdK.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Eili Harboe",
+            "Kaya Wilkins",
+            "Henrik Rafaelsen",
+            "Ellen Dorrit Petersen",
+            "Grethe Eltervåg"
+        ],
+        "country": [
+            "DK",
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt6304046"
     }
 ]
