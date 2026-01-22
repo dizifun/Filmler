@@ -159602,5 +159602,69 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt5157326"
+    },
+    {
+        "id": 474745,
+        "title": "Çirkin Kral Efsanesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/w25HkRoFSLkW7yp9nOfJoG50iNR.jpg",
+        "year": "2017",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Yılmaz Güney",
+            "Tarık Akan",
+            "Patrick Blossier",
+            "Costa-Gavras",
+            "Halil Ergün"
+        ],
+        "country": [
+            "DE",
+            "AT"
+        ],
+        "link": "https://vidmody.com/vs/tt4240910"
+    },
+    {
+        "id": 432870,
+        "title": "Rock My Heart (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/mFl6xsdaDNzM4KxhJOIJkq9wXBp.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Dram",
+            "Aile"
+        ],
+        "cast": [
+            "Lena Klenke",
+            "Dieter Hallervorden",
+            "Emilio Sakraya",
+            "Michael Lott",
+            "Annette Frier"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt5870322"
+    },
+    {
+        "id": 440136,
+        "title": "Hayvanlar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/fT2ZjlNiErNLimm226fZjP72Zj3.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Birgit Minichmayr",
+            "Philipp Hochmair",
+            "Mona Petri",
+            "Mehdi Nebbou",
+            "Michael Ostrowski"
+        ],
+        "country": [
+            "AT",
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt6510634"
     }
 ]
