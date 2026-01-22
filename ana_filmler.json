@@ -159666,5 +159666,49 @@
             "CH"
         ],
         "link": "https://vidmody.com/vs/tt6510634"
+    },
+    {
+        "id": 423646,
+        "title": "Paramparça (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5lT3Ea8SOSoIDJQxJFs9k7ZYp2c.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Diane Kruger",
+            "Denis Moschitto",
+            "Numan Acar",
+            "Johannes Krisch",
+            "Ulrich Brandhoff"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt5723272"
+    },
+    {
+        "id": 467546,
+        "title": "Iceman (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/fJw0TKNItpJ977H9lYPFqzHTwU0.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Jürgen Vogel",
+            "Susanne Wuest",
+            "André Hennicke",
+            "Sabin Tambrea",
+            "Franco Nero"
+        ],
+        "country": [
+            "DE",
+            "AT",
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt5907748"
     }
 ]
