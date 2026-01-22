@@ -160300,5 +160300,49 @@
             "KR"
         ],
         "link": "https://vidmody.com/vs/tt5729348"
+    },
+    {
+        "id": 479718,
+        "title": "Haydutlar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/ayk6y2D5v5VACFqrPfF05MARZ9n.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "마동석",
+            "윤계상",
+            "조재윤",
+            "최귀화",
+            "임형준"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt7468056"
+    },
+    {
+        "id": 478160,
+        "title": "Geri Gelenler (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yfPY1qkwP8soA3E0zETdBecZgSO.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Aksiyon"
+        ],
+        "cast": [
+            "김래원",
+            "김해숙",
+            "성동일",
+            "전혜진",
+            "장영남"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt7243750"
     }
 ]
