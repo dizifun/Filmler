@@ -163197,5 +163197,46 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt6048706"
+    },
+    {
+        "id": 749494,
+        "title": "Lanetli Anahtar: Cinlerin Gazabı (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/kKezPHA5A3sqhEqErbc9Av5vUmt.jpg",
+        "year": "2016",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Zeynep Buse Kale",
+            "Hasan Gökalp",
+            "Ayça Büsküvütçü",
+            "Mehmet Sabri Arafatoğlu",
+            "Muhammed Oguz Basar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5956284"
+    },
+    {
+        "id": 436379,
+        "title": "Emanet (2016)",
+        "poster": "https://image.tmdb.org/t/p/w500/ysQBaB5YV6njMmRlka0DaRu8v4r.jpg",
+        "year": "2016",
+        "genres": [
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Tayanç Ayaydın",
+            "Turgay Aydın",
+            "Elena Viunova",
+            "Koray Şahinbaş",
+            "Çağla Naz Kargı"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5777808"
     }
 ]
