@@ -161443,5 +161443,49 @@
             "SE"
         ],
         "link": "https://vidmody.com/vs/tt5727282"
+    },
+    {
+        "id": 425716,
+        "title": "Ufak Tefek Cinayetler (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/akJWjJhFCZ3U0r9gwG4Au2T9Q4k.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Nicolas Bro",
+            "Ulrich Thomsen",
+            "Mia Lyhne",
+            "Lene Maria Christensen",
+            "Søren Malling"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt5458566"
+    },
+    {
+        "id": 425298,
+        "title": "Yeraltı Dünyası (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/jRxMgYS6Hk0C5IQi009kNBpuSII.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Dar Salim",
+            "Stine Fischer Christensen",
+            "Dulfi Al-Jabouri",
+            "Ali Sivandi",
+            "Jacob Lohmann"
+        ],
+        "country": [
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt5431082"
     }
 ]
