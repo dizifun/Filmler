@@ -142343,5 +142343,47 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt8185182"
+    },
+    {
+        "id": 486072,
+        "title": "Leo Da Vinci: Mona Lisa Macerası (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/eGJJP32A9jcxYQBI3AHki98mF1I.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "Alex Polidori",
+            "Emanuela Gabriela Ionică",
+            "Gabriele Patriarca",
+            "Arianna Vignoli",
+            "Giulio Bartolomei"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt7139246"
+    },
+    {
+        "id": 433150,
+        "title": "Görünmez Çocuk: İkinci Nesil (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/oi6CgVTaDQAuCRbQqXjevlpa8kk.jpg",
+        "year": "2018",
+        "genres": [
+            "Fantastik"
+        ],
+        "cast": [
+            "Ludovico Girardello",
+            "Ксения Раппопорт",
+            "Galatéa Bellugi",
+            "Ivan Franěk",
+            "Dario Cantarelli"
+        ],
+        "country": [
+            "IT"
+        ],
+        "link": "https://vidmody.com/vs/tt5981944"
     }
 ]
