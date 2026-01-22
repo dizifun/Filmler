@@ -121095,5 +121095,114 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt8535968"
+    },
+    {
+        "id": 587065,
+        "title": "Periler Ülkesi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/uAlXoH3G90aHUrA1dgUo9rgck1m.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Madison Mullahey",
+            "Jessica Webb",
+            "Olivia Manning",
+            "Gregory Max",
+            "Rebecca Becker"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt7063304"
+    },
+    {
+        "id": 500245,
+        "title": "The German Lesson (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/lcPrDckp1NMADdLtCtxsSoYsRz3.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ulrich Noethen",
+            "Tobias Moretti",
+            "Levi Eisenblätter",
+            "Tom Gronau",
+            "Johanna Wokalek"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt7785866"
+    },
+    {
+        "id": 638220,
+        "title": "Pişiriciler (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/qZBhWyZghIU9dRiONPykoSnDVje.jpg",
+        "year": "2019",
+        "genres": [
+            "Aile",
+            "Animasyon",
+            "Komedi",
+            "Fantastik"
+        ],
+        "cast": [
+            "Jella Haase",
+            "Louis Hofmann",
+            "Elke Heidenreich",
+            "Leon Seidel",
+            "Detlef Bierstedt"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt9037650"
+    },
+    {
+        "id": 581599,
+        "title": "Invisible Sue (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/8CdXmU4MIVys6p8VfDrxC0Ev7bA.jpg",
+        "year": "2019",
+        "genres": [
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Ruby M. Lichtenberg",
+            "Anna Shirin Habedank",
+            "Lui Eckhardt",
+            "Victoria Mayer",
+            "Luc Schiltz"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt7689532"
+    },
+    {
+        "id": 525424,
+        "title": "New York'a Hiç Gitmedim (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/nNmIkKRoOCK2w1Dnsx4svKEZSmo.jpg",
+        "year": "2019",
+        "genres": [
+            "Müzik",
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Heike Makatsch",
+            "Moritz Bleibtreu",
+            "Katharina Thalbach",
+            "Uwe Ochsenknecht",
+            "Michael Ostrowski"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt8437226"
     }
 ]
