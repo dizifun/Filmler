@@ -105137,5 +105137,103 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt10263320"
+    },
+    {
+        "id": 615282,
+        "title": "Güller (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/1QABcK0ooLZY0Yu91658nOqcsLI.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Emirhan Can Ala",
+            "İbrahim Kalkan",
+            "Nail Demir",
+            "Deniz Oral",
+            "Zeynep Aytek"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10278276"
+    },
+    {
+        "id": 828914,
+        "title": "Bahtsız Bedri (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/rBevnIBoDy5GD0MGaTm0XsQO0yU.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Baran",
+            "Ateş Fatih Uçan",
+            "Ali Tutal",
+            "Mustafa Kaya",
+            "Sedat Berke Özkök"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10426736"
+    },
+    {
+        "id": 704919,
+        "title": "Cinnet (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/gLkVKpwnlu3r8P58L1brNfTmzKf.jpg",
+        "year": "2019",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Yeliz Akkaya",
+            "Emre Başer",
+            "Nicholas Facey",
+            "Ufuk Kaplan"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10270114"
+    },
+    {
+        "id": 518579,
+        "title": "Bağcık (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/cqlSs3NRFKYz1wPgFgalkElrTv4.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Kaan Çakır",
+            "Pınar Tuncegil",
+            "Okan Yalabık",
+            "Yeşim Koçak"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8357334"
+    },
+    {
+        "id": 717748,
+        "title": "Kızım Gibi Kokuyorsun (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/z5zJ4ZBe6xdpWKjG1advWPHKKe1.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Clémence Verniau",
+            "Çağlar Ertuğrul",
+            "Yılşen Özdemir",
+            "Şerif Sezer",
+            "Tolga Güleç"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt10086502"
     }
 ]
