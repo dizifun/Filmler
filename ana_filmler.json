@@ -160671,5 +160671,71 @@
             "HK"
         ],
         "link": "https://vidmody.com/vs/tt4537986"
+    },
+    {
+        "id": 468208,
+        "title": "Melekler Beyaz Giyer (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/8YIJfIXSbo9uYOsCBze4WiV0Tye.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "文淇",
+            "Meijun Zhou",
+            "Shi Ke",
+            "耿乐",
+            "刘威葳"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt7205208"
+    },
+    {
+        "id": 434221,
+        "title": "Şeytan Kedi Efsanesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3tAnnqs1GNB7jFkMln4ovxyStSI.jpg",
+        "year": "2017",
+        "genres": [
+            "Fantastik",
+            "Macera",
+            "Aile"
+        ],
+        "cast": [
+            "黄轩",
+            "染谷将太",
+            "阿部寛",
+            "张雨绮",
+            "秦昊"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt6157626"
+    },
+    {
+        "id": 460648,
+        "title": "Kanayan Çelik (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/cmCtZp2FTvQBJPsqoGQSD20ZHpb.jpg",
+        "year": "2017",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Macera",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jackie Chan",
+            "Show Lo",
+            "歐陽娜娜",
+            "Erica Xia-Hou",
+            "Callan Mulvey"
+        ],
+        "country": [
+            "CN",
+            "HK"
+        ],
+        "link": "https://vidmody.com/vs/tt5813366"
     }
 ]
