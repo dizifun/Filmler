@@ -124791,5 +124791,146 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt8451180"
+    },
+    {
+        "id": 418472,
+        "title": "Ahlat Ağacı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/1uh8GqvjDYPs545zKToqjR0Pni4.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Doğu Demirkol",
+            "Murat Cemcir",
+            "Bennu Yıldırımlar",
+            "Hazar Ergüçlü",
+            "Serkan Keskin"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6628102"
+    },
+    {
+        "id": 587245,
+        "title": "Cumali Ceber 2 (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/cdR5ya9nONK6K35ZuclK81GMeJN.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Halil Söyletmez",
+            "Serkan Şengül",
+            "Doğa Konakoğlu",
+            "Emre Keskin",
+            "Esra İşgüzar"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8402090"
+    },
+    {
+        "id": 527757,
+        "title": "Dümdüzz Adam (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/tGdLTs6uLISqZhr6bx2aVzANL3J.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Ferdi Sancar",
+            "Cezmi Baskın",
+            "Efsane Odağ",
+            "Ersin Korkut",
+            "Hamdi Kahraman"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8474338"
+    },
+    {
+        "id": 527786,
+        "title": "Deniz ve Güneş (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/lBzC0M4M4Ko1ZuTifv9p5994KAp.jpg",
+        "year": "2018",
+        "genres": [
+            "Romantik"
+        ],
+        "cast": [
+            "Şafak Pekdemir",
+            "Burak Serdar Şanal",
+            "Melissa Giz Cengiz",
+            "Levent Özdilek",
+            "Selahattin Taşdöğen"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8482074"
+    },
+    {
+        "id": 527975,
+        "title": "Zohak (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2rfeqAZacozdbqT7EDe8OOV2Xf2.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Seyhan Arman",
+            "Gamze Bayraktaroglu",
+            "Erdoğan Kapısız",
+            "Seda Kement",
+            "Abdullah Şekeroğlu"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8495546"
+    },
+    {
+        "id": 580797,
+        "title": "T.i.M (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/t6dIWr1KliWBlyMNjt7zIv8DJCg.jpg",
+        "year": "2018",
+        "genres": [
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Esra Erden Atacan",
+            "Serdar Atacan",
+            "Fercan Bay",
+            "Selahattin Bel",
+            "Hatice Kalit"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt8181336"
+    },
+    {
+        "id": 527754,
+        "title": "Üç Harfliler: Beddua (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/tgRdZs1opr45cQ0jRjQ4LYMsfw7.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Beyzanur Mete",
+            "Gizem Takma",
+            "Esma Soysal",
+            "Şerife Ünsal",
+            "Nevin Efe"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt7738930"
     }
 ]
