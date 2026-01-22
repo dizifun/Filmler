@@ -143263,5 +143263,26 @@
             "DK"
         ],
         "link": "https://vidmody.com/vs/tt7367960"
+    },
+    {
+        "id": 500006,
+        "title": "Utoya (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/vRTNX2KhxwSXynzxWQrJMW5kLFi.jpg",
+        "year": "2018",
+        "genres": [
+            "Tarih",
+            "Dram"
+        ],
+        "cast": [
+            "Andrea Berntzen",
+            "Aleksander Holmen",
+            "Brede Fristad",
+            "Elli Rhiannon Müller Osborne",
+            "Jenny Svennevig"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt7959216"
     }
 ]
