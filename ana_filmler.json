@@ -158147,5 +158147,69 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt6009140"
+    },
+    {
+        "id": 440102,
+        "title": "Strange Birds (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/6yD9ZzvQkC8P0nis2XiPEVYgDO8.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Lolita Chammah",
+            "Jean Sorel",
+            "Virginie Ledoyen",
+            "Pascal Cervo",
+            "Ronald Chammah"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5895782"
+    },
+    {
+        "id": 451955,
+        "title": "Tutku Oyunu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/6WG4jdz1EbMGxzi9eG3947XUdIg.jpg",
+        "year": "2017",
+        "genres": [
+            "Romantik",
+            "Gerilim",
+            "Dram"
+        ],
+        "cast": [
+            "Marine Vacth",
+            "Jérémie Renier",
+            "Jacqueline Bisset",
+            "Myriam Boyer",
+            "Dominique Reymond"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6367558"
+    },
+    {
+        "id": 428756,
+        "title": "Aile Evi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/zfcoM69h0EKLXP8Qb0msvbi5rVB.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Valérie Lemercier",
+            "Denis Podalydès",
+            "Patrick Timsit",
+            "Xavier Lemaître",
+            "Hélène Vincent"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6081632"
     }
 ]
