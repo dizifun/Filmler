@@ -139252,5 +139252,152 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt6738136"
+    },
+    {
+        "id": 456154,
+        "title": "Beyaz Diş (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/oCBp1457TrTXkKVZSRzsD5uBHGX.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Raphaël Personnaz",
+            "Virginie Efira",
+            "Dominique Pinon",
+            "Frantz Confiac",
+            "Gilles Morvan"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt5222768"
+    },
+    {
+        "id": 431135,
+        "title": "Eva (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/6tqFCOl32npQ5O6cC6OOvUHhmdy.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Isabelle Huppert",
+            "Gaspard Ulliel",
+            "Julia Roy",
+            "Marc Barbé",
+            "Richard Berry"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6414890"
+    },
+    {
+        "id": 457955,
+        "title": "Gece Dünyayı Yuttuğunda (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/nsYUKZ1d3DDGHpMx6Vqk12ntopS.jpg",
+        "year": "2018",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Anders Danielsen Lie",
+            "Golshifteh Farahani",
+            "Denis Lavant",
+            "Sigrid Bouaziz",
+            "David Kammenos"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt4266076"
+    },
+    {
+        "id": 432507,
+        "title": "Claire'in Kamerası (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/de8g8R1itfLx46EE3FHolY1cIQh.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Isabelle Huppert",
+            "김민희",
+            "장미희",
+            "정진영",
+            "Shahira Fahmy"
+        ],
+        "country": [
+            "KR"
+        ],
+        "link": "https://vidmody.com/vs/tt5989220"
+    },
+    {
+        "id": 499151,
+        "title": "Kırmızı Yaka (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/eJAgfVFuzXVvZRTeiPqBmwQBRuq.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "François Cluzet",
+            "Nicolas Duvauchelle",
+            "Sophie Verbeeck",
+            "Jean-Quentin Châtelain",
+            "Patrick Descamps"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7106814"
+    },
+    {
+        "id": 337676,
+        "title": "Kısmet, Sevgilim: İlk Şarkı (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/t1CARzSU95GJV7P4eQgb4NRhfrd.jpg",
+        "year": "2018",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "Shaïn Boumedine",
+            "Ophélie Bau",
+            "Salim Kéchiouche",
+            "Lou Luttiau",
+            "Alexia Chardard"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6121444"
+    },
+    {
+        "id": 458534,
+        "title": "Aşk İçin (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/h065db1br7f9VW0x0LkOVfdtZqG.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi",
+            "Romantik"
+        ],
+        "cast": [
+            "Franck Dubosc",
+            "Alexandra Lamy",
+            "Elsa Zylberstein",
+            "Gérard Darmon",
+            "Caroline Anglade"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt6838702"
     }
 ]
