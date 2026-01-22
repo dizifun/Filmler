@@ -122036,5 +122036,86 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt9288776"
+    },
+    {
+        "id": 580461,
+        "title": "Süper Ayı (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/3RD6Lb3xflPl2CktZDp7jKESinF.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt9074406"
+    },
+    {
+        "id": 537526,
+        "title": "A Land Imagined (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/9SDdIlpQ3dkhBFy6se2STiWvujZ.jpg",
+        "year": "2019",
+        "genres": [
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Peter Yu",
+            "Liu Xiaoyi",
+            "郭月",
+            "Jack Tan",
+            "Ishtiaque Zico"
+        ],
+        "country": [
+            "SG"
+        ],
+        "link": "https://vidmody.com/vs/tt8726116"
+    },
+    {
+        "id": 535167,
+        "title": "Dolaşan Dünya (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/xFMScAZdxUdNYav0vdhV54v6ppT.jpg",
+        "year": "2019",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "吴京",
+            "屈楚萧",
+            "李光洁",
+            "Richard Ng Man-Tat",
+            "赵今麦"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt7605074"
+    },
+    {
+        "id": 581218,
+        "title": "Ayı Kardeşler: Zamanda Yolculuk (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/uXnJldudByJ47KA0ujbj8TGRfEh.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Zhang Wei",
+            "宋祖儿",
+            "Yingying Miu",
+            "Tan Xiao",
+            "Zhang Bingjun"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt10250750"
     }
 ]
