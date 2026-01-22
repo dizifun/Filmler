@@ -140717,5 +140717,88 @@
             "ES"
         ],
         "link": "https://vidmody.com/vs/tt6502956"
+    },
+    {
+        "id": 543769,
+        "title": "Helmet Heads (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/rseXELYZ52qY9CGChPDpTTl3UNg.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Daniela Mora",
+            "Arturo Pardo",
+            "Gabriel Rojas",
+            "Charly Mora",
+            "William Quirós"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt6108486"
+    },
+    {
+        "id": 533992,
+        "title": "When the Angels Sleep (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/fCaXAEUY7gnp1Cz0A2O3BJcIRsY.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Julián Villagrán",
+            "Ester Expósito",
+            "Marian Álvarez",
+            "Asia Ortega",
+            "Marisol Membrillo"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt3732280"
+    },
+    {
+        "id": 517331,
+        "title": "The Realm (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/hPYRQYycflQbUcb6H0XRGwZkGLz.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Antonio de la Torre",
+            "Josep Maria Pou",
+            "Mónica López",
+            "Bárbara Lennie",
+            "Nacho Fresneda"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7095482"
+    },
+    {
+        "id": 389218,
+        "title": "Bizim Zamanımız (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/bHsR7KWl2gJEl1AaRmqx3jx4hYh.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Carlos Reygadas",
+            "Natalia López",
+            "Phil Burgers",
+            "Maria Hagerman",
+            "Yago Martínez"
+        ],
+        "country": [
+            "MX"
+        ],
+        "link": "https://vidmody.com/vs/tt5265964"
     }
 ]
