@@ -159410,5 +159410,27 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt4299300"
+    },
+    {
+        "id": 424634,
+        "title": "Vahşi Fare (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/lWI8TMdCzx9ztuvWkbAWozk07xM.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Josef Hader",
+            "Pia Hierzegger",
+            "Georg Friedrich",
+            "Jörg Hartmann",
+            "Denis Moschitto"
+        ],
+        "country": [
+            "AT",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt5376196"
     }
 ]
