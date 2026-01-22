@@ -121528,5 +121528,27 @@
             "IN"
         ],
         "link": "https://vidmody.com/vs/tt7721800"
+    },
+    {
+        "id": 585268,
+        "title": "War (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg",
+        "year": "2019",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Macera"
+        ],
+        "cast": [
+            "Hrithik Roshan",
+            "Tiger Shroff",
+            "Vaani Kapoor",
+            "Ashutosh Rana",
+            "Anupriya Goenka"
+        ],
+        "country": [
+            "IN"
+        ],
+        "link": "https://vidmody.com/vs/tt7430722"
     }
 ]
