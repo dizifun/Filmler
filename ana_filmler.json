@@ -140800,5 +140800,101 @@
             "MX"
         ],
         "link": "https://vidmody.com/vs/tt5265964"
+    },
+    {
+        "id": 537869,
+        "title": "A Family Submerged (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qKrpynyBiP9NKLywKLltchoIpT5.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Mercedes Morán",
+            "Laura López Moyano",
+            "Federico Sack",
+            "Ia Arteta",
+            "Marcelo Subiotto"
+        ],
+        "country": [
+            "AR",
+            "BR",
+            "DE",
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt8890690"
+    },
+    {
+        "id": 529210,
+        "title": "Silah Şehri (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/1oC6UwQQm79VxHJUoSi8vcE6Jsm.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Luis Tosar",
+            "Michelle Jenner",
+            "Vicente Romero Sánchez",
+            "Manolo Solo",
+            "Paco Tous"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt7104984"
+    },
+    {
+        "id": 539685,
+        "title": "Rojo (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/nl2EEP3DsIyZLDklOgO6cNyx4Tl.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Darío Grandinetti",
+            "Andrea Frigerio",
+            "Alfredo Castro",
+            "Diego Cremonesi",
+            "Laura Grandinetti"
+        ],
+        "country": [
+            "AR",
+            "BE",
+            "BR",
+            "FR",
+            "DE",
+            "NL",
+            "ES",
+            "CH"
+        ],
+        "link": "https://vidmody.com/vs/tt8956390"
+    },
+    {
+        "id": 484436,
+        "title": "Animas (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/2pOIMOAsi2zPAWzf0sy2Zk9BSTp.jpg",
+        "year": "2018",
+        "genres": [
+            "Gerilim",
+            "Dram",
+            "Korku"
+        ],
+        "cast": [
+            "Clare Durant",
+            "Iván Pellicer",
+            "Luis Bermejo",
+            "Liz Lobato",
+            "Chacha Huang"
+        ],
+        "country": [
+            "ES"
+        ],
+        "link": "https://vidmody.com/vs/tt3954646"
     }
 ]
