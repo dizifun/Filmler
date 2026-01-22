@@ -131828,5 +131828,115 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt8128866"
+    },
+    {
+        "id": 474335,
+        "title": "Drew Amca (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/yO2qw2cX0oU1ZrPBKc0PPj1C1NL.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Kyrie Irving",
+            "Lil Rel Howery",
+            "Shaquille O'Neal",
+            "Chris Webber",
+            "Reggie Miller"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7334528"
+    },
+    {
+        "id": 598708,
+        "title": "O Kadar Çok Şey Biliyoruz Ki (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/1s2u69SyIZ2GuEpOBCQDT9MDoR4.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jeanne Tripplehorn",
+            "Damian Young",
+            "Loudon Wainwright III",
+            "Virginia Robinson",
+            "Dave Ahdoot"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4194054"
+    },
+    {
+        "id": 529377,
+        "title": "4 Mart Düğün: Eski Bir Şey, Yeni Bir Şey (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/nqxrUJN6O3kh9Vq1f7RuhKw5Mdv.jpg",
+        "year": "2018",
+        "genres": [
+            "Romantik",
+            "TV film",
+            "Komedi"
+        ],
+        "cast": [
+            "Jack Wagner",
+            "Josie Bissett",
+            "Merritt Patterson",
+            "Emily Tennant",
+            "Andrew W. Walker"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt8456396"
+    },
+    {
+        "id": 396373,
+        "title": "Kadın Önden Yürür (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/qI5NcQHR0nsykPqlG2qnfFyMgW6.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Jessica Chastain",
+            "Michael Greyeyes",
+            "Sam Rockwell",
+            "Ciarán Hinds",
+            "Chaske Spencer"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5436228"
+    },
+    {
+        "id": 472553,
+        "title": "Zoo (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/tUlO39EcZzPlKS4JOhlUansgKFJ.jpg",
+        "year": "2018",
+        "genres": [
+            "Aile",
+            "Savaş",
+            "Tarih"
+        ],
+        "cast": [
+            "Art Parkinson",
+            "Emily Flain",
+            "Toby Jones",
+            "Ian O'Reilly",
+            "Ian McElhinney"
+        ],
+        "country": [
+            "GB",
+            "IE",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3688342"
     }
 ]
