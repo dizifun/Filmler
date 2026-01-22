@@ -119484,5 +119484,107 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt8599746"
+    },
+    {
+        "id": 487437,
+        "title": "Masumiyetin Dayanılmaz Çekiciliği (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/iEU7yeCRNVlodphuIeqrTfKUIF0.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Isabelle Huppert",
+            "Lou de Laâge",
+            "Vincent Macaigne",
+            "Charles Berling",
+            "Pablo Pauly"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8054066"
+    },
+    {
+        "id": 574861,
+        "title": "No Filter (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/fzXjaN6CpJ9qD4nBcGYrfSlOIoH.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Alexandra Lamy",
+            "José Garcia",
+            "Michaël Youn",
+            "Anne Marivin",
+            "Medi Sadoun"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8538552"
+    },
+    {
+        "id": 487616,
+        "title": "Curiosa (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/aHzjzkdSiY2yrkBU3C6hNTyOdaR.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Noémie Merlant",
+            "Niels Schneider",
+            "Benjamin Lavernhe",
+            "Camélia Jordana",
+            "Amira Casar"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7598076"
+    },
+    {
+        "id": 575458,
+        "title": "Geceye Veda (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/p21M93EHlFc5oYidlDY8Kz9G0k6.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Catherine Deneuve",
+            "Kacey Mottet Klein",
+            "Oulaya Amamra",
+            "Stéphane Bak",
+            "Kamel Labroudi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8569390"
+    },
+    {
+        "id": 515816,
+        "title": "Raoul Taburin (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/7fZCy3Fy6vIKdqIjLMmwvLgtApS.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Benoît Poelvoorde",
+            "Édouard Baer",
+            "Suzanne Clément",
+            "Victor Assié",
+            "Grégory Gadebois"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7831674"
     }
 ]
