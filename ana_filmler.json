@@ -149126,5 +149126,774 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt3731580"
+    },
+    {
+        "id": 403119,
+        "title": "Denizde Dehşet (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/b4TjpdFQaZiAUtkPIV4p6nNmXnX.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Gerilim"
+        ],
+        "cast": [
+            "Mandy Moore",
+            "Claire Holt",
+            "Matthew Modine",
+            "Chris Johnson",
+            "Yani Gellman"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt2932536"
+    },
+    {
+        "id": 487047,
+        "title": "Cadılar Balosu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/q7Bsubh0n3PqjgCCj5UgXKN0fuJ.jpg",
+        "year": "2017",
+        "genres": [
+            "Aile",
+            "Fantastik",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Morgan Neundorf",
+            "Joey Fatone",
+            "Karen Slater",
+            "Loukia Ioannou",
+            "Madeline Leon"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5814408"
+    },
+    {
+        "id": 126889,
+        "title": "Yaratık: Covenant (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/nhSaEaAbh8JEZjmocpnTSSZL7or.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Bilim-Kurgu",
+            "Gerilim"
+        ],
+        "cast": [
+            "Michael Fassbender",
+            "Katherine Waterston",
+            "Billy Crudup",
+            "Danny McBride",
+            "Demián Bichir"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2316204"
+    },
+    {
+        "id": 431261,
+        "title": "Amerikan Güreşçisi: Büyücü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yxK8NVydY0p4ZymT5HB2JXJ8xPW.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "George Kosturos",
+            "Jon Voight",
+            "William Fichtner",
+            "Lia Marie Johnson",
+            "Kevin G. Schmidt"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4303202"
+    },
+    {
+        "id": 339846,
+        "title": "Sahil Güvenlik (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/1Er845rF0yz427D9zMkLEARr59V.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Aksiyon",
+            "Suç"
+        ],
+        "cast": [
+            "Dwayne Johnson",
+            "Zac Efron",
+            "Priyanka Chopra Jonas",
+            "Alexandra Daddario",
+            "Kelly Rohrbach"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1469304"
+    },
+    {
+        "id": 76812,
+        "title": "Black Butterfly (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/toB9yjJssyJZSworX0KePbjSexP.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Antonio Banderas",
+            "Jonathan Rhys Meyers",
+            "Piper Perabo",
+            "Abel Ferrara",
+            "Nicholas Aaron"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2090465"
+    },
+    {
+        "id": 399790,
+        "title": "Churchill (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/zdDthGLJxzEYOCb9IHHjLmSqoRx.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Brian Cox",
+            "Miranda Richardson",
+            "John Slattery",
+            "Julian Wadham",
+            "Richard Durden"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt2674454"
+    },
+    {
+        "id": 373546,
+        "title": "The Bleeder (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/xRowWuf8Q5bazuPRIqYLaKRxxs.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Liev Schreiber",
+            "Naomi Watts",
+            "Elisabeth Moss",
+            "Ron Perlman",
+            "Jim Gaffigan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1610525"
+    },
+    {
+        "id": 452931,
+        "title": "DC Super Hero Girls: Galaksiler Arası Oyun (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/cWV9OO8hm1hVEN16L5MqPRRsgpb.jpg",
+        "year": "2017",
+        "genres": [
+            "Animasyon",
+            "Aile"
+        ],
+        "cast": [
+            "Mae Whitman",
+            "Anais Fairweather",
+            "Grey DeLisle",
+            "Teala Dunn",
+            "Tara Strong"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6869644"
+    },
+    {
+        "id": 452068,
+        "title": "Drone (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/ANqvBpeZ0YuMTDdOKWoJYQWngb.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim"
+        ],
+        "cast": [
+            "Sean Bean",
+            "Mary McCormack",
+            "Joel David Moore",
+            "Patrick Sabongui",
+            "Sharon Taylor"
+        ],
+        "country": [
+            "CA"
+        ],
+        "link": "https://vidmody.com/vs/tt5352846"
+    },
+    {
+        "id": 417678,
+        "title": "Her Şey (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/8l5BVMvnHelJ6pX9uj1pm5KfZII.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Amandla Stenberg",
+            "Nick Robinson",
+            "Anika Noni Rose",
+            "Ana de la Reguera",
+            "Taylor Hickson"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5001718"
+    },
+    {
+        "id": 402582,
+        "title": "Handsome: Netflix Gizem Filmi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yc1GQhNw5MvznrtPmPY52dKsdrm.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Jeff Garlin",
+            "Natasha Lyonne",
+            "Christine Woods",
+            "Steven Weber",
+            "Amy Sedaris"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5809020"
+    },
+    {
+        "id": 375343,
+        "title": "Instant Death (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/sVm3AUJhZb6lPjkhTVLtSTZQIV4.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Suç"
+        ],
+        "cast": [
+            "Lou Ferrigno",
+            "Jerry Anderson",
+            "Tania Staite",
+            "Jade Fearon",
+            "Levi James"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt4447090"
+    },
+    {
+        "id": 436932,
+        "title": "Jawbone (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/kvL3CZRILLJ9STxRadGXI0MOeac.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Dram"
+        ],
+        "cast": [
+            "Johnny Harris",
+            "Ian McShane",
+            "Ray Winstone",
+            "Michael Smiley",
+            "Luke J.I. Smith"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt3582020"
+    },
+    {
+        "id": 242606,
+        "title": "Aramaya Devam (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/wHsHaYUbLJNSt8T8QcFgZqy7Om.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Korku",
+            "Dram"
+        ],
+        "cast": [
+            "Bella Thorne",
+            "Chandler Riggs",
+            "Natalie Martinez",
+            "Ioan Gruffudd",
+            "Maya Eshet"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2531334"
+    },
+    {
+        "id": 274857,
+        "title": "Kral Arthur: Kılıç Efsanesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/gB9yom8oS4YsJ6YZe1lkeFcsDgs.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Fantastik"
+        ],
+        "cast": [
+            "Charlie Hunnam",
+            "Jude Law",
+            "Astrid Bergès-Frisbey",
+            "Eric Bana",
+            "Djimon Hounsou"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1972591"
+    },
+    {
+        "id": 456187,
+        "title": "Prens Charles (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/tQ6aFuWBrQSqJcgoqXnlozBGyam.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Tim Pigott-Smith",
+            "Charlotte Riley",
+            "Oliver Chris",
+            "Adam James",
+            "Richard Goulding"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt6253522"
+    },
+    {
+        "id": 446829,
+        "title": "Max 2: Beyaz Saray Kahramanı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg",
+        "year": "2017",
+        "genres": [
+            "Aile"
+        ],
+        "cast": [
+            "Zane Austin",
+            "Francesca Capaldi",
+            "Lochlyn Munro",
+            "Andrew Kavadas",
+            "Reese Alexander"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5843838"
+    },
+    {
+        "id": 301355,
+        "title": "Message from the King (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/btEH0gxtMPg1B3cr3xTZ2eF1Z3Y.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Gizem",
+            "Gerilim"
+        ],
+        "cast": [
+            "Chadwick Boseman",
+            "Luke Evans",
+            "Alfred Molina",
+            "Teresa Palmer",
+            "Natalie Martinez"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1712192"
+    },
+    {
+        "id": 464757,
+        "title": "Gecenin Gizemi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/a35L3GnAVEXr8fozEbWcYUcvYEm.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Jason London",
+            "Robert Englund",
+            "Gianni Capaldi",
+            "Lorina Kamburova",
+            "Diana Lyubenova"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5157052"
+    },
+    {
+        "id": 166426,
+        "title": "Karayip Korsanları: Salazar'ın İntikamı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/49dEadPwXooCcGx0lc1i4pnMuoD.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Fantastik"
+        ],
+        "cast": [
+            "Johnny Depp",
+            "Javier Bardem",
+            "Geoffrey Rush",
+            "Brenton Thwaites",
+            "Kaya Scodelario"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1790809"
+    },
+    {
+        "id": 447429,
+        "title": "Robo-Dog: Airborne (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7pCgAH3nOCwnht7BChGiJK5Ucob.jpg",
+        "year": "2017",
+        "genres": [
+            "Aile"
+        ],
+        "cast": [
+            "Michael Campion",
+            "Patrick Muldoon",
+            "Kenny Beaumont",
+            "Jonathan Silverman",
+            "James Arnold Taylor"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5198868"
+    },
+    {
+        "id": 382883,
+        "title": "Shepherds and Butchers (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7FXWOKxJmVRUO5oP7qXQXaJmvHg.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Steve Coogan",
+            "Andrea Riseborough",
+            "Garion Dowds",
+            "Marcel Van Heerden",
+            "Deon Lotz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4627352"
+    },
+    {
+        "id": 373569,
+        "title": "Cennette Sorun Var (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/tjrQYEeB2OJPd0hTZJGTNexCErn.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Komedi"
+        ],
+        "cast": [
+            "Amy Schumer",
+            "Goldie Hawn",
+            "Tom Bateman",
+            "Christopher Meloni",
+            "Wanda Sykes"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2334871"
+    },
+    {
+        "id": 426272,
+        "title": "Al Beni (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7fd3hbfrx2lUzQr5uOTI9Ej4lcx.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Taylor Schilling",
+            "Pat Healy",
+            "Alycia Delmore",
+            "Brooke Dillman",
+            "Jim O'Heir"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6598626"
+    },
+    {
+        "id": 401546,
+        "title": "Akşam Yemeği (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/8rhlkQo3fqPlC9MH8wOHCu4XQjN.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Richard Gere",
+            "Laura Linney",
+            "Steve Coogan",
+            "Rebecca Hall",
+            "Chloë Sevigny"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3203620"
+    },
+    {
+        "id": 426253,
+        "title": "Aşıklar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/tRWza39fHyef12FvScIBduaHMi6.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Debra Winger",
+            "Tracy Letts",
+            "Aidan Gillen",
+            "Melora Walters",
+            "Tyler Ross"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5770620"
+    },
+    {
+        "id": 339259,
+        "title": "The Man with the Iron Heart (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/ZVQfCY2DgCjrm8w2saXvT8Ao3B.jpg",
+        "year": "2017",
+        "genres": [
+            "Savaş",
+            "Aksiyon",
+            "Tarih",
+            "Gerilim"
+        ],
+        "cast": [
+            "Jason Clarke",
+            "Rosamund Pike",
+            "Jack O'Connell",
+            "Jack Reynor",
+            "Mia Wasikowska"
+        ],
+        "country": [
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt3296908"
+    },
+    {
+        "id": 383538,
+        "title": "Gölge Efekti (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/in6p8c9ceTs1wDDkaVwXBXIsjQi.jpg",
+        "year": "2017",
+        "genres": [
+            "Bilim-Kurgu",
+            "Aksiyon",
+            "Gerilim"
+        ],
+        "cast": [
+            "Cam Gigandet",
+            "Brit Shaw",
+            "Michael Biehn",
+            "Jonathan Rhys Meyers",
+            "Michael Aaron Milligan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5044656"
+    },
+    {
+        "id": 405775,
+        "title": "Sniper: Duvar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/sbHRmkTNzIB9ovoN5TSuGHFgW0t.jpg",
+        "year": "2017",
+        "genres": [
+            "Savaş",
+            "Gerilim",
+            "Dram",
+            "Aksiyon"
+        ],
+        "cast": [
+            "Aaron Taylor-Johnson",
+            "John Cena",
+            "Laith Nakli"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4218696"
+    },
+    {
+        "id": 363992,
+        "title": "Yalanlar Büyücüsü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Tarih",
+            "Gerilim",
+            "TV film"
+        ],
+        "cast": [
+            "Robert De Niro",
+            "Michelle Pfeiffer",
+            "Hank Azaria",
+            "Kristen Connolly",
+            "Lily Rabe"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1933667"
+    },
+    {
+        "id": 401164,
+        "title": "Tracktown (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/o5ym6La6Czr9vUGS28rJV8aXoPE.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alexi Pappas",
+            "Chase Offerle",
+            "Rebecca Friday",
+            "Sasha Spencer Atwood",
+            "Rachel Dratch"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5750534"
+    },
+    {
+        "id": 369894,
+        "title": "Çalkantı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/1SOw7s1g429ZnbJyKxGIXalSywR.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Bryan Cranston",
+            "Jennifer Garner",
+            "Jason O'Mara",
+            "Beverly D'Angelo",
+            "Ian Anthony Dale"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5195412"
+    },
+    {
+        "id": 457249,
+        "title": "Vixen (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5A52QYVaZFGWZnXeNfvMOrnd49E.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Animasyon"
+        ],
+        "cast": [
+            "Megalyn Echikunwoke",
+            "Stephen Amell",
+            "Grant Gustin",
+            "Emily Bett Rickards",
+            "Carlos Valdes"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6945882"
+    },
+    {
+        "id": 354287,
+        "title": "Savaş Makinesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/jFeRKHswzbxBrKhko0y2W7JIFwu.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Brad Pitt",
+            "Anthony Michael Hall",
+            "Emory Cohen",
+            "John Magaro",
+            "Topher Grace"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4758646"
+    },
+    {
+        "id": 297762,
+        "title": "Wonder Woman (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/cMZBmwjxAaLiE3mgNxv76Ryev9O.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Fantastik"
+        ],
+        "cast": [
+            "Gal Gadot",
+            "Chris Pine",
+            "Connie Nielsen",
+            "Robin Wright",
+            "Danny Huston"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt0451279"
     }
 ]
