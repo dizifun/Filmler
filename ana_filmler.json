@@ -146729,5 +146729,518 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt3687316"
+    },
+    {
+        "id": 340837,
+        "title": "Yaşam Kürü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/1CfdBZGJwuK4N8gZ5NSdtXCLw2w.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Gizem",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Dane DeHaan",
+            "Jason Isaacs",
+            "Mia Goth",
+            "Harry Groener",
+            "Celia Imrie"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4731136"
+    },
+    {
+        "id": 390051,
+        "title": "İntikam (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/nnLK5uORCTo8As7jWIrh3p1qXw3.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Scoot McNairy",
+            "Maggie Grace",
+            "Judah Nelson",
+            "Larry Sullivan"
+        ],
+        "country": [
+            "GB",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4581576"
+    },
+    {
+        "id": 435473,
+        "title": "Amerikan Şiddeti (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/c70L9jY4yWXT8JaaPgwWB7wlgHX.jpg",
+        "year": "2017",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Kaiwi Lyman",
+            "Bruce Dern",
+            "Denise Richards",
+            "Columbus Short",
+            "Rob Gronkowski"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5848714"
+    },
+    {
+        "id": 340027,
+        "title": "Zihinde Yangın (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/kEwI53HNDO0ajSUWh4HSsGrlF6l.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Chloë Grace Moretz",
+            "Thomas Mann",
+            "Richard Armitage",
+            "Carrie-Anne Moss",
+            "Jenny Slate"
+        ],
+        "country": [
+            "CA",
+            "IE",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3704700"
+    },
+    {
+        "id": 412452,
+        "title": "Çapraz Savaş (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/ubvOS7Ire1Wp6TrtwHH9Sw8vpbw.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Brian Austin Green",
+            "Danny Trejo",
+            "Vinnie Jones",
+            "Tom Sizemore",
+            "Lori Heuring"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3592904"
+    },
+    {
+        "id": 413765,
+        "title": "David Lynch: Yaşam Sanatı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/d0Oh2xUgaELrLgL9D3yMXEDQCgv.jpg",
+        "year": "2017",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "David Lynch",
+            "Lula Lynch"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1691152"
+    },
+    {
+        "id": 482750,
+        "title": "Doomsday Device (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/sevqw45bR8fiCM7bMO7KJJGOhOl.jpg",
+        "year": "2017",
+        "genres": [
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Corin Nemec",
+            "Mike Hatton",
+            "Mary Christina Brown",
+            "Jon Mack",
+            "Nick Vallelonga"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6258232"
+    },
+    {
+        "id": 341174,
+        "title": "Karanlığın Elli Tonu (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/fKhesHqb7p64ShdnAXDAAcyz2Qu.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "Dakota Johnson",
+            "Jamie Dornan",
+            "Eric Johnson",
+            "Eloise Mumford",
+            "Bella Heathcote"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4465564"
+    },
+    {
+        "id": 433247,
+        "title": "Önce Babamı Öldürdüler (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/6y5URH3dS15HyXQzJKmwDapRrRJ.jpg",
+        "year": "2017",
+        "genres": [
+            "Savaş",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Sareum Srey Moch",
+            "Phoeung Kompheak",
+            "Sveng Socheata",
+            "Mun Kimhak",
+            "Heng Dara"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4882376"
+    },
+    {
+        "id": 345922,
+        "title": "Yumruk Dövüşü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/jJdskGMrWGbfUDl7uTYRQEgUXdy.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Charlie Day",
+            "Ice Cube",
+            "Tracy Morgan",
+            "Jillian Bell",
+            "Christina Hendricks"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3401882"
+    },
+    {
+        "id": 419430,
+        "title": "Kapan (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/2Uo7WiwHKb27i8Qskqy4arxaoLz.jpg",
+        "year": "2017",
+        "genres": [
+            "Gizem",
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Catherine Keener",
+            "Bradley Whitford",
+            "Caleb Landry Jones"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5052448"
+    },
+    {
+        "id": 412202,
+        "title": "Şeytan Tüyü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/xlHOWQFgcGV4KcZKLzYBZ21gjGT.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Fionn O'Shea",
+            "Nicholas Galitzine",
+            "Andrew Scott",
+            "Ardal O'Hanlon",
+            "Amy Huberman"
+        ],
+        "country": [
+            "IE"
+        ],
+        "link": "https://vidmody.com/vs/tt5016946"
+    },
+    {
+        "id": 324552,
+        "title": "John Wick: Chapter 2 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/1jUrsSAFwYTmsrKHAz9bgpdEVv.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Gerilim",
+            "Suç"
+        ],
+        "cast": [
+            "Keanu Reeves",
+            "Common",
+            "Laurence Fishburne",
+            "Riccardo Scamarcio",
+            "Ruby Rose"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4425200"
+    },
+    {
+        "id": 568428,
+        "title": "Yasak Vadi'ye Yolculuk (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/dySlfj9YdsUuLFIIgt03unzI0g7.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Fantastik",
+            "Aile"
+        ],
+        "cast": [
+            "Sasha Jackson",
+            "Douglas Tait",
+            "Erroll Shand",
+            "Jiahang Su",
+            "Alexi Xiaowu Woo"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2387710"
+    },
+    {
+        "id": 263115,
+        "title": "Logan: Wolverine (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3U06IOlGpzIX1b6RsqXqqjv9EpU.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Dram",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Hugh Jackman",
+            "Dafne Keen",
+            "Patrick Stewart",
+            "Elizabeth Rodriguez",
+            "Boyd Holbrook"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3315342"
+    },
+    {
+        "id": 406240,
+        "title": "Magellan (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Brandon Ray Olive",
+            "K. Danor Gerald",
+            "D.L. Walker",
+            "Matthew Mercer",
+            "Nicola Posener"
+        ],
+        "country": [
+            "AU",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5361488"
+    },
+    {
+        "id": 395982,
+        "title": "Yalvarış (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Komedi",
+            "Dram",
+            "Gerilim",
+            "Fantastik"
+        ],
+        "cast": [
+            "Alice Lowe",
+            "Jo Hartley",
+            "Kayvan Novak",
+            "Tom Davis",
+            "Kate Dickie"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5154288"
+    },
+    {
+        "id": 14564,
+        "title": "Halka 3 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yQKrNwW1XfKJMZSGZNJ3RezXeyu.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Matilda Lutz",
+            "Alex Roe",
+            "Johnny Galecki",
+            "Vincent D'Onofrio",
+            "Zach Roerig"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt0498381"
+    },
+    {
+        "id": 430406,
+        "title": "Umut Çiftliği (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/v5K2odrXNvbZLYl7gFB9WCimN8S.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Dorian Brown Pham",
+            "Jason Lewis",
+            "Sharon Stone",
+            "Christina Moore",
+            "Tommy Flanagan"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4435082"
+    },
+    {
+        "id": 324849,
+        "title": "Lego Batman Filmi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/mpTAgw8m9b3Ay7UBsKLDoe3xyQK.jpg",
+        "year": "2017",
+        "genres": [
+            "Animasyon",
+            "Aksiyon",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Will Arnett",
+            "Michael Cera",
+            "Rosario Dawson",
+            "Ralph Fiennes",
+            "Zach Galifianakis"
+        ],
+        "country": [
+            "DK",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4116284"
+    },
+    {
+        "id": 340101,
+        "title": "Aşkın Çekimi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yClsd9bjWIf7l4XQwP37hIstSRC.jpg",
+        "year": "2017",
+        "genres": [
+            "Romantik",
+            "Savaş",
+            "Dram"
+        ],
+        "cast": [
+            "Gemma Arterton",
+            "Sam Claflin",
+            "Bill Nighy",
+            "Jack Huston",
+            "Helen McCrory"
+        ],
+        "country": [
+            "FR",
+            "SE",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt1661275"
+    },
+    {
+        "id": 435350,
+        "title": "Twenty Twenty-Four (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/iPOlcmpZiZfiKBUY1owJe5B9nFX.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Gizem",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "Andrew Kinsler",
+            "Peter McCrohon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5106390"
+    },
+    {
+        "id": 430165,
+        "title": "Wheeler 2017 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/sdGZYOX60kX9Qi19UkjfVCfU39Y.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Müzik"
+        ],
+        "cast": [
+            "Stephen Dorff",
+            "Kris Kristofferson",
+            "Audrey Spillman",
+            "Bobby Tomberlin",
+            "Bart Herbison"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6290736"
+    },
+    {
+        "id": 297160,
+        "title": "Korku Tüneli (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/9UoVK1ut0HqRVh7PGDzqRLhyMW6.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Natalie Brown",
+            "Jonathan Watton",
+            "Peter DaCunha",
+            "Peyton Kennedy",
+            "Ron Lea"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3322892"
     }
 ]
