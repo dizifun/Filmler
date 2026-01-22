@@ -121226,5 +121226,49 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt7275830"
+    },
+    {
+        "id": 500247,
+        "title": "Çingene Kraliçe (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/42sMDFQxsHra3OZT55J78jjOWuw.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Alina Serban",
+            "Tobias Moretti",
+            "Aleksandar Jovanović",
+            "Catrin Striebeck",
+            "Özgür Karadeniz"
+        ],
+        "country": [
+            "AT",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt6593706"
+    },
+    {
+        "id": 586954,
+        "title": "Kirpi Latte ve Büyülü Taş (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/2gJitafr8Z5wRFSq2UClIyDNuNP.jpg",
+        "year": "2019",
+        "genres": [
+            "Animasyon",
+            "Macera",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Luisa Wietzorek",
+            "Henning Baum",
+            "Timur Bartels",
+            "Tim Schwarzmaier",
+            "Maud Ackermann"
+        ],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt9038290"
     }
 ]
