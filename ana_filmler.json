@@ -159881,5 +159881,50 @@
             "JP"
         ],
         "link": "https://vidmody.com/vs/tt5084170"
+    },
+    {
+        "id": 444428,
+        "title": "Aşkın Gözü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/j2lrkyaP3ieOyXXcQZ4BUCYkQtm.jpg",
+        "year": "2017",
+        "genres": [
+            "Romantik",
+            "Dram"
+        ],
+        "cast": [
+            "永瀬正敏",
+            "水崎綾女",
+            "藤竜也",
+            "白川和子",
+            "神野三鈴"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt6165792"
+    },
+    {
+        "id": 400136,
+        "title": "Resident Evil: Vendetta (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/iXa4VPoT5G1tZG3L4QdOMIvJ9PF.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Animasyon",
+            "Macera",
+            "Bilim-Kurgu",
+            "Korku"
+        ],
+        "cast": [
+            "Kevin Dorman",
+            "Matthew Mercer",
+            "Erin Cahill",
+            "John DeMita",
+            "Fred Tatasciore"
+        ],
+        "country": [
+            "JP"
+        ],
+        "link": "https://vidmody.com/vs/tt5776208"
     }
 ]
