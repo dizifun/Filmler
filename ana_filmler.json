@@ -119586,5 +119586,49 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt7831674"
+    },
+    {
+        "id": 542830,
+        "title": "Küçük Beyaz Yalanlar Devam Ediyor (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/960HSNPZYUv37K9GQZDC4YUoND4.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Aile",
+            "Romantik"
+        ],
+        "cast": [
+            "François Cluzet",
+            "Marion Cotillard",
+            "Gilles Lellouche",
+            "Laurent Lafitte",
+            "Benoît Magimel"
+        ],
+        "country": [
+            "BE",
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt8201404"
+    },
+    {
+        "id": 559401,
+        "title": "Sibyl (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/eliw2t5CKkTSAFLuupXxT5cTOte.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Virginie Efira",
+            "Adèle Exarchopoulos",
+            "Gaspard Ulliel",
+            "Sandra Hüller",
+            "Laure Calamy"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9173264"
     }
 ]
