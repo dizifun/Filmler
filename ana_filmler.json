@@ -142193,5 +142193,48 @@
             "CN"
         ],
         "link": "https://vidmody.com/vs/tt8925102"
+    },
+    {
+        "id": 508747,
+        "title": "Us and Them (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/rRXpwfwwqYxjHvzo0B32MpXbNyj.jpg",
+        "year": "2018",
+        "genres": [
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "井柏然",
+            "周冬雨",
+            "Tian Zhuangzhuang",
+            "曲哲明",
+            "张子贤"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt8033592"
+    },
+    {
+        "id": 513386,
+        "title": "Kediler (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/wCTNGjWHQg2jvDvCUzX2JtYzqZi.jpg",
+        "year": "2018",
+        "genres": [
+            "Animasyon",
+            "Aile",
+            "Macera"
+        ],
+        "cast": [
+            "Yang Yanduo",
+            "Chen Linsheng",
+            "周華健",
+            "Dermot Mulroney",
+            "Vladimir Caamaño"
+        ],
+        "country": [
+            "CN"
+        ],
+        "link": "https://vidmody.com/vs/tt7886614"
     }
 ]
