@@ -141198,5 +141198,40 @@
             "DE"
         ],
         "link": "https://vidmody.com/vs/tt5311542"
+    },
+    {
+        "id": 564140,
+        "title": "Cold Feet (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/hHBdqhZuqRqfpx2FL2ngLeeJDGf.jpg",
+        "year": "2018",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Heiner Lauterbach",
+            "Emilio Sakraya",
+            "Sonja Gerhardt",
+            "Roman Schomburg",
+            "Jeanne Goursaud"
+        ],
+        "country": [
+            "AT",
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt7883774"
+    },
+    {
+        "id": 721685,
+        "title": "ultrAslan - AVRUPA (2018)",
+        "poster": "https://image.tmdb.org/t/p/w500/e0S5fpQXXGOCdaD0fxpziJSmUMl.jpg",
+        "year": "2018",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [],
+        "country": [
+            "DE"
+        ],
+        "link": "https://vidmody.com/vs/tt6966318"
     }
 ]
