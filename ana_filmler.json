@@ -155170,5 +155170,594 @@
             "US"
         ],
         "link": "https://vidmody.com/vs/tt6349302"
+    },
+    {
+        "id": 467062,
+        "title": "Spielberg (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+        "year": "2017",
+        "genres": [
+            "Belgesel"
+        ],
+        "cast": [
+            "Steven Spielberg",
+            "Martin Scorsese",
+            "Richard Dreyfuss",
+            "Francis Ford Coppola",
+            "Tom Hanks"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7133092"
+    },
+    {
+        "id": 480403,
+        "title": "Stickman (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/brlxFn8t5ez5KAGDjQuC1bGp1Fk.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Korku"
+        ],
+        "cast": [
+            "Hayley Law",
+            "Sara Alicia Garcia",
+            "Zoé De Grand Maison",
+            "Erik Knudsen",
+            "Alanna Bale"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7427404"
+    },
+    {
+        "id": 395458,
+        "title": "Suburbicon (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/6Srh1FWOdDaoajBqCM7yWlObOWL.jpg",
+        "year": "2017",
+        "genres": [
+            "Gerilim",
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Matt Damon",
+            "Julianne Moore",
+            "Noah Jupe",
+            "Oscar Isaac",
+            "Landon Gordon"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt0491175"
+    },
+    {
+        "id": 347629,
+        "title": "Hizmetleriniz İçin Teşekkürler (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/z8OKWw6DAZAOyz8F421euawr3Hs.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Savaş"
+        ],
+        "cast": [
+            "Miles Teller",
+            "Haley Bennett",
+            "Joe Cole",
+            "Amy Schumer",
+            "Beulah Koale"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2776878"
+    },
+    {
+        "id": 419479,
+        "title": "Bebek Bakıcısı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/irZbU3uK6Zl0h0kVqsR08aTZ0Ah.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Korku"
+        ],
+        "cast": [
+            "Judah Lewis",
+            "Samara Weaving",
+            "Robbie Amell",
+            "Hana Mae Lee",
+            "Bella Thorne"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4225622"
+    },
+    {
+        "id": 397601,
+        "title": "Bekârlar (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yAwoDmcLFuZxg5bHzYgRexYhykm.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Romantik"
+        ],
+        "cast": [
+            "J.K. Simmons",
+            "Josh Wiggins",
+            "Julie Delpy",
+            "Odeya Rush",
+            "Kevin Dunn"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5253282"
+    },
+    {
+        "id": 402897,
+        "title": "Stalin'in Ölümü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/AnGi9CnTeEqH8A1VQDQCXOmJTqB.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Tarih"
+        ],
+        "cast": [
+            "Steve Buscemi",
+            "Simon Russell Beale",
+            "Jeffrey Tambor",
+            "Jason Isaacs",
+            "Michael Palin"
+        ],
+        "country": [
+            "CA",
+            "BE",
+            "FR",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt4686844"
+    },
+    {
+        "id": 394117,
+        "title": "Florida Projesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Brooklynn Prince",
+            "Bria Vinaite",
+            "Willem Dafoe",
+            "Christopher Rivera",
+            "Valeria Cotto"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5649144"
+    },
+    {
+        "id": 399057,
+        "title": "Kutsal Geyiğin Ölümü (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/e2Lgo3vrH6gIXhUq8nRPc7dHiDi.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Colin Farrell",
+            "Nicole Kidman",
+            "Barry Keoghan",
+            "Raffey Cassidy",
+            "Sunny Suljic"
+        ],
+        "country": [
+            "IE",
+            "US",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5715874"
+    },
+    {
+        "id": 429467,
+        "title": "Lanetli Konak (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/frKmWDbZ3qz8gwzv9kfy890TyAs.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Gerilim",
+            "Gizem"
+        ],
+        "cast": [
+            "Charlotte Vega",
+            "Bill Milner",
+            "Eugene Simon",
+            "David Bradley",
+            "Moe Dunford"
+        ],
+        "country": [],
+        "link": "https://vidmody.com/vs/tt4399952"
+    },
+    {
+        "id": 442056,
+        "title": "Küçük Vampir (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/i9z2rBO4i5MhbvpEIxXZUoXSYUo.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Animasyon",
+            "Aile",
+            "Fantastik"
+        ],
+        "cast": [
+            "Rasmus Hardiker",
+            "Amy Saville",
+            "Jim Carter",
+            "Joseph Kloska",
+            "Phoebe Givron-Taylor"
+        ],
+        "country": [
+            "US",
+            "GB",
+            "DK"
+        ],
+        "link": "https://vidmody.com/vs/tt4729560"
+    },
+    {
+        "id": 450322,
+        "title": "Noel'i İcat Eden Adam (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/qRkzRue5rTzB6PESXBJCKqROOXC.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Tarih",
+            "Komedi",
+            "Aile"
+        ],
+        "cast": [
+            "Dan Stevens",
+            "Christopher Plummer",
+            "Jonathan Pryce",
+            "Justin Edwards",
+            "Morfydd Clark"
+        ],
+        "country": [
+            "CA",
+            "IE"
+        ],
+        "link": "https://vidmody.com/vs/tt6225520"
+    },
+    {
+        "id": 396398,
+        "title": "Meyerowitz Hikâyeleri (Yeni ve Seçilmiş) (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/oNkGzP9A8fy3xR0wz8GeV4qlFER.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Ben Stiller",
+            "Dustin Hoffman",
+            "Emma Thompson",
+            "Elizabeth Marvel"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5536736"
+    },
+    {
+        "id": 415312,
+        "title": "Dünyalı 2 (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/krOWstmTUdfafRbXH9YAjVj2zE5.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Bilim-Kurgu"
+        ],
+        "cast": [
+            "David Lee Smith",
+            "Vanessa Williams",
+            "Michael Dorn",
+            "William Katt",
+            "Sterling Knight"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5770864"
+    },
+    {
+        "id": 290512,
+        "title": "Aramızdaki Sözler (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/sT63yRl55wwI9VkUhstnxGhxjj7.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram",
+            "Macera",
+            "Romantik"
+        ],
+        "cast": [
+            "Idris Elba",
+            "Kate Winslet",
+            "Dermot Mulroney",
+            "Beau Bridges",
+            "Linda Sorensen"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2226597"
+    },
+    {
+        "id": 433808,
+        "title": "Ritüel (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Gizem"
+        ],
+        "cast": [
+            "Rafe Spall",
+            "Arsher Ali",
+            "Robert James-Collier",
+            "Sam Troughton",
+            "Paul Reid"
+        ],
+        "country": [
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt5638642"
+    },
+    {
+        "id": 480410,
+        "title": "Kumadam (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/iak7mWZNIoYYS6KI4bzcIKONX2w.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Haylie Duff",
+            "Tobin Bell",
+            "Shaun Sipos",
+            "Shae Smolik",
+            "Amanda Wyss"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt7369722"
+    },
+    {
+        "id": 484238,
+        "title": "Çalınan (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/lOdfW2FXC6Em4b9IL4TXkzhpSsK.jpg",
+        "year": "2017",
+        "genres": [
+            "Vahşi Batı",
+            "Aksiyon",
+            "Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Alice Eve",
+            "Jack Davenport",
+            "Graham McTavish",
+            "Richard O'Brien",
+            "Cohen Holloway"
+        ],
+        "country": [
+            "US",
+            "NZ",
+            "GB"
+        ],
+        "link": "https://vidmody.com/vs/tt1680140"
+    },
+    {
+        "id": 284053,
+        "title": "Thor: Ragnarok (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/vznEpyt2LNr3P14s7n70sR2iWgA.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Macera",
+            "Bilim-Kurgu",
+            "Komedi"
+        ],
+        "cast": [
+            "Chris Hemsworth",
+            "Mark Ruffalo",
+            "Tom Hiddleston",
+            "Cate Blanchett",
+            "Idris Elba"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3501632"
+    },
+    {
+        "id": 483737,
+        "title": "Totem (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/2eMZjYxEGXS6xj4hRtxBmaPPi3z.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku"
+        ],
+        "cast": [
+            "Kerris Dorsey",
+            "Ahna O'Reilly",
+            "James Tupper",
+            "Lia McHugh",
+            "Braeden Lemasters"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt6791238"
+    },
+    {
+        "id": 464733,
+        "title": "Trafficked (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/h81GBzvMw5dlbIljJjVIYYLXOp1.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Elisabeth Röhm",
+            "Ashley Judd",
+            "Sean Patrick Flanery",
+            "Kelly Washington",
+            "Amiah Miller"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt1720621"
+    },
+    {
+        "id": 413857,
+        "title": "Trajedi Kızları (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/3UgRc3vpOiW9HOAD7oBa16xQ21E.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Komedi"
+        ],
+        "cast": [
+            "Brianna Hildebrand",
+            "Alexandra Shipp",
+            "Jack Quaid",
+            "Kevin Durand",
+            "Timothy V. Murphy"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt3859272"
+    },
+    {
+        "id": 493416,
+        "title": "Truva: Odise Efsanesi (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/Nqatj16QV8j2kglLUrDUX9r5GL.jpg",
+        "year": "2017",
+        "genres": [
+            "Macera",
+            "Aksiyon",
+            "Fantastik"
+        ],
+        "cast": [
+            "Dylan Vox",
+            "Lara Heller",
+            "David Blazejko",
+            "Hachem Hicham",
+            "Eoin O'Brien"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5734548"
+    },
+    {
+        "id": 479924,
+        "title": "Ultimate Justice (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/xZ9rLbCawWvm06OuLnr9hJqg5hD.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon"
+        ],
+        "cast": [
+            "Mark Dacascos",
+            "Brandon Rhea",
+            "Matthias Hues",
+            "Mike Möller",
+            "Mike Leeder"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt4041476"
+    },
+    {
+        "id": 471014,
+        "title": "Direksiyondaki Adam (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/qitUsN1Ea8Bsg8R0QtBB35H2xgB.jpg",
+        "year": "2017",
+        "genres": [
+            "Aksiyon",
+            "Suç",
+            "Gerilim"
+        ],
+        "cast": [
+            "Frank Grillo",
+            "Caitlin Carmichael",
+            "Garret Dillahunt",
+            "Shea Whigham",
+            "Wendy Moniz"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5723286"
+    },
+    {
+        "id": 383709,
+        "title": "Kutup Yıldızı (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/7hPnW1yWlIJcKCEQ5Kbr5dMtrDp.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Oakes Fegley",
+            "Millicent Simmonds",
+            "Julianne Moore",
+            "Michelle Williams",
+            "Cory Michael Smith"
+        ],
+        "country": [
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt5208216"
+    },
+    {
+        "id": 462883,
+        "title": "Ağaçkakan Woody (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/uSGxcOCJQz8vH2dKbO4Tf5mPnJM.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi",
+            "Aile",
+            "Animasyon"
+        ],
+        "cast": [
+            "Eric Bauza",
+            "Timothy Omundson",
+            "Thaila Ayala",
+            "Graham Verchere",
+            "Jordana Largy"
+        ],
+        "country": [
+            "CA",
+            "US"
+        ],
+        "link": "https://vidmody.com/vs/tt2114504"
     }
 ]
