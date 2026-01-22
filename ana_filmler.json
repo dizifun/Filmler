@@ -144019,5 +144019,126 @@
             "TR"
         ],
         "link": "https://vidmody.com/vs/tt6690234"
+    },
+    {
+        "id": 453596,
+        "title": "Kolonya Cumhuriyeti (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/yVQAN2mWVdwsvKFbvF3zS39bS7K.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Çağlar Çorumlu",
+            "Büşra Pekin",
+            "Mahir İpek",
+            "Uğur Bilgin",
+            "Ersin Korkut"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6721848"
+    },
+    {
+        "id": 468274,
+        "title": "İşe Yarar Bir Şey (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/lEYmi0e3ZLtb7VMav5XEF1BC8fc.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Başak Köklükaya",
+            "Öykü Karayel",
+            "Yiğit Özşener",
+            "Ayşenil Şamlıoğlu",
+            "Berfu Öngören"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6214084"
+    },
+    {
+        "id": 468270,
+        "title": "Bütün Saadetler Mümkündür (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/4mLfbOr50ZjtIRZPBQeo9AtOPjv.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Kemal Uçar",
+            "Arif Erkin",
+            "Nilay Erdönmez",
+            "Ruhi Sarı",
+            "Ataberk Ural"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6493472"
+    },
+    {
+        "id": 451735,
+        "title": "Blue (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/wPuOAsqxpG4gHkdniEXvjWkTrbZ.jpg",
+        "year": "2017",
+        "genres": [
+            "Belgesel",
+            "Müzik"
+        ],
+        "cast": [
+            "Yavuz Hilmi Çetin",
+            "Kerim Çaplı",
+            "Nejat İşler",
+            "Teoman",
+            "Erkan Oğur"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt5331594"
+    },
+    {
+        "id": 481271,
+        "title": "Murtaza (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/98elHv6xgWmAwW99Y4HM9ej5kZc.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Cezmi Baskın",
+            "Meral Çetinkaya",
+            "Mine Teber",
+            "Yaşar Cemil Akın",
+            "İncinur Daşdemir"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6679468"
+    },
+    {
+        "id": 468955,
+        "title": "Sümela'nın Şifresi 3: Cünyor Temel (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/roCPVtEIoZGr5nQB8j4hwQz7QSD.jpg",
+        "year": "2017",
+        "genres": [
+            "Komedi"
+        ],
+        "cast": [
+            "Çetin Altay",
+            "Salih Kalyon",
+            "Eren Hacısalihoğlu",
+            "Ayşegül Günay",
+            "Eren Vurdem"
+        ],
+        "country": [
+            "TR"
+        ],
+        "link": "https://vidmody.com/vs/tt6758862"
     }
 ]
