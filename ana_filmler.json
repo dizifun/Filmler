@@ -120198,5 +120198,109 @@
             "FR"
         ],
         "link": "https://vidmody.com/vs/tt9522080"
+    },
+    {
+        "id": 572521,
+        "title": "Gloria Mundi (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/oa7xgXwykmLGCXmJUrmaJQ0dDBS.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Ariane Ascaride",
+            "Jean-Pierre Darroussin",
+            "Gérard Meylan",
+            "Anaïs Demoustier",
+            "Robinson Stévenin"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9584814"
+    },
+    {
+        "id": 595975,
+        "title": "Yeni Baştan (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/eDjwbrkqZ6uqs9jiB91SHGv9u2M.jpg",
+        "year": "2019",
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "cast": [
+            "Daniel Auteuil",
+            "Guillaume Canet",
+            "Doria Tillier",
+            "Fanny Ardant",
+            "Pierre Arditi"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9172422"
+    },
+    {
+        "id": 586863,
+        "title": "Sefiller (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/r9getjxG3zilLT88Ypk44qbTiv6.jpg",
+        "year": "2019",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gerilim"
+        ],
+        "cast": [
+            "Damien Bonnard",
+            "Alexis Manenti",
+            "Djebril Zonga",
+            "Steve Tientcheu",
+            "Jeanne Balibar"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt10199590"
+    },
+    {
+        "id": 478860,
+        "title": "Proxima (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/41YWD0M32uo6ekBEvVrQgidyemB.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Eva Green",
+            "Matt Dillon",
+            "Zélie Boulant-Lemesle",
+            "Lars Eidinger",
+            "Sandra Hüller"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt7374926"
+    },
+    {
+        "id": 544398,
+        "title": "Man Up! (2019)",
+        "poster": "https://image.tmdb.org/t/p/w500/t37i63GN6ja3piv3BhOrbEFZmfy.jpg",
+        "year": "2019",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Thomas Guy",
+            "Benjamin Voisin",
+            "Isabelle Carré",
+            "Laurent Lucas",
+            "Anaëlle Othenin-Girard"
+        ],
+        "country": [
+            "FR"
+        ],
+        "link": "https://vidmody.com/vs/tt9172490"
     }
 ]
