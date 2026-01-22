@@ -161612,5 +161612,47 @@
             "NO"
         ],
         "link": "https://vidmody.com/vs/tt6304046"
+    },
+    {
+        "id": 469651,
+        "title": "Elalem Ne Der? (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/6iRTQQwnCzFhafPD28ZR5uY9vsB.jpg",
+        "year": "2017",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Maria Mozhdah",
+            "Adil Hussain",
+            "Ekavali Khanna",
+            "Rohit Saraf",
+            "Ali Arfan"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt7213936"
+    },
+    {
+        "id": 472388,
+        "title": "Valley of Shadows (2017)",
+        "poster": "https://image.tmdb.org/t/p/w500/4IG2F4r525rSnKVcOhWvcPckKxa.jpg",
+        "year": "2017",
+        "genres": [
+            "Korku",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Adam Ekeli",
+            "Kathrine Fagerland",
+            "Jørgen Langhelle",
+            "Lennard Salamon",
+            "Jone Hope Larsen"
+        ],
+        "country": [
+            "NO"
+        ],
+        "link": "https://vidmody.com/vs/tt6796742"
     }
 ]
